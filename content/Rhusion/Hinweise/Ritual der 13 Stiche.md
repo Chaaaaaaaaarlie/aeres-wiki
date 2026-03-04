@@ -1,0 +1,49 @@
+---
+tags: [hinweis, ritual, teufel-daemon, ungeklärt]
+status: ungeklärt – aktiv in Bearbeitung
+---
+
+# Ritual der 13 Stiche
+
+## Bekannte Fakten
+
+Der [[Fanatischer Attentäter|fanatische Attentäter]] sagte:
+> *„13 Stiche vollenden das Werk."*
+
+In der Basilika gefunden: **eingeritzte Zeichen**, mit altem Tierblut nachgezogen. Schlecht ausgeführt, magisch angehaucht, **unvollständig**.
+
+Rugirs erste Einschätzung: **Teufel oder Dämon** als Hintermann oder Empfänger des Rituals.
+
+## Theoretischer Rahmen (Rugirs Bibliotheks-Forschung)
+
+Aus **Vom Schnitt im Kreis** (anonym):
+- Der rituelle Stich ist keine Gewalt um ihrer selbst willen, sondern ein **Signal**
+- „Dreieck der Übertragung": Wille des Täters, Leid des Opfers, Manifestation des Gerufenen
+- Jede Wunde ist eine Botschaft – an das Opfer, den Täter, **und das, was jenseits lauscht**
+- Zeichen können in Fleisch geschrieben sein und länger halten als Pergament
+
+Aus **Siegeln des Abgrunds** (anonym):
+- Jedes Zeichen ist ein Vertrag; selbst wenn kein Wort gesprochen wird, ist das gezeichnete bindend
+- Wer ein Siegel zeichnet, tritt bereits in Beziehung mit dem, was es repräsentiert
+
+## Hypothesen
+
+- Ist „das Werk" der Mord an Sokar – oder ist sein Tod nur ein Stich von dreizehn?
+- Wer hat die Zeichen in die Basilika geritzt – der Attentäter selbst, oder jemand vorab?
+- Zusammenhang mit dem **Sieben-Kerzen-Symbol**?
+- Die Abpaus-Zeichnung aus dem Verhör bei Harkas liegt vor – noch nicht mit Büchern abgeglichen
+
+## Offene Fragen
+
+- [ ] Was ist das vollständige Ritual?
+- [ ] Teufel oder Dämon – welcher, und was will er?
+- [ ] Wer hat die Zeichen geritzt?
+- [ ] Sind noch weitere Stiche geplant?
+- [ ] Abpaus-Zeichnung mit Daskirion-Büchern vergleichen
+
+## Verknüpfungen
+
+- [[Fanatischer Attentäter]]
+- [[Rugir]]
+- [[Daskirion]]
+- [[Magische Mordwaffe]]

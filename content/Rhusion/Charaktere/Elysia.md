@@ -1,0 +1,69 @@
+---
+tags: [charakter, spielercharakter]
+klasse: Gestaltwandlerin / Druidin
+herkunft: Wüste / Kiosk
+status: aktiv
+---
+
+# Elysia
+
+## Kurzprofil
+
+| | |
+|---|---|
+| **Herkunft** | Wüste (Kiosk / südliche Länder) |
+| **Besonderheit** | Gestaltwandlerin · Wüstenführerin · Tarot · Navigiert nach Sternen |
+
+## Charakter
+
+Elysia kommt aus der **Wüste** – sie ist Wüstenführerin und navigiert nach den Sternen.
+
+> *„In der Wüste liegen viele Geheimnisse, aber der Gedanke daran, dass jede Düne eventuell gleich aussehen könnte, ist unheimlich. Und das ist der Moment, wo der Blick nach oben gehen sollte."*
+
+Sie kennt die Orks **Yago und Samta** bereits von früher – hat sie durch die Wüste geführt. Auch einen Vorfall mit einem Kamel (*„Pferd mit Brüsten"* laut Samta). Kurzer Name im Alltag: **Lysa**.
+
+Legt Tarot für alle Gruppenmitglieder – aus Neugier und Methode. Schläft traumlos und erholt sich schnell. Trägt eine Glaskugel mit Sternen im Inneren.
+
+**Tarot-Ziehungen:**
+- Session 1: Umgekehrter Kelch für Sokar → emotionale Eskalation prophezeit ✓
+- Session 5: Sechs Karten für sich selbst (durch Halbling-Wahrsagerin) → siehe unten
+
+## Wahrsagerin-Prophezeiung (Session 5)
+
+Sechs Karten, gelegt von der [[Halbling-Wahrsagerin]] vor dem Fink-Tempel:
+
+| Karte | Kern |
+|---|---|
+| **Der Mond** | Verwirrung; nicht alles ist wie es scheint; Klarheit aus eigener Quelle finden |
+| **Der Gehängte** | Was du willst, kostet Preis; vertraue dem Weg |
+| **Calamor / Der Tod** | Wandel annehmen; Verlust als Erfahrung |
+| **Die Sonne** | Erfolg; *„Die Sonnenstrahlen werden die Schmauchspuren der Buchstaben an der Wand verdeutlichen"* → direkte Bezugnahme auf Hjoldas/Elysias Vision |
+| **Die Sterne** | Phase nicht ohne Konflikt; möglicher Verlust von jemandem, der nahsteht |
+| **Der Einsiedler** | Zeit alleine bringt Klarheit; nutze sie für Antworten |
+
+## Die Kalazar-Statue
+
+Beim Passieren der Statue vor dem Hypodrom: Groll, innere Aufgewühltheit – steigert sich, je länger sie steht. Niemand sonst um sie herum zeigt dieselbe Reaktion. **Mentale Notiz: Zion nicht an dieser Statue vorbeigehen lassen.**
+
+## Gestalten (bisher)
+
+- **Kamel** – Verfolgungsjagd (Session 2)
+- **Weiße Spinne** – in Viris Ärmel beim Halbling-Händler (Session 4)
+- **Weiße Spinne** – Mauerüberquerung (Session 5)
+- **Schakal** (silber-weiß) – Torpassage (Session 5)
+
+## Bisherige Sessions
+
+- **[[Session 1 – Die Hochzeit]]**: Zieht umgekehrten Kelch. Legt Tarot für Sokar und die Gruppe.
+- **[[Session 2 – Unmittelbar nach dem Mord]]**: Kamel bei Verfolgung.
+- **[[Session 3 – Die Nacht danach]]**: Nächtliches Gespräch mit [[Zion]] an der Bar.
+- **[[Session 4 – Rhusion, zweiter Tag]]**: Weiße Spinne in Viris Ärmel. Telepathische Verbindung zu Viri im Laden.
+- **[[Session 5 – Papiere, Pässe und Päckchen]]**: Überklettert Stadtmauer als Spinne. Erkundet Kasareiviertel. Spricht mit Tiefling über Kalazar. Lässt Wahrsagerin Tarot legen. Passiert Tor als Schakal an Patrizier-Familie.
+
+## Verknüpfungen
+
+- [[Zion]] – Nächtliches Gespräch, kennt seinen Hunger; soll Statue meiden
+- [[Viri]]
+- [[Zions Hunger]]
+- [[Halbling-Wahrsagerin]]
+- [[Kalazar-Statue]]
