@@ -49,7 +49,7 @@ Während der Zeremonie (Priester von Gruumsh und Lathander):
 ## Verknüpfungen
 
 - [[Tabaxi-Assassine]] – erschien kurz, entkam
-- [[Hinweise/Ritual der 13 Stiche|Ritual der 13 Stiche]] – was bedeutet das Ritual vollständig?
+- [[Rhusion/Hinweise/Ritual der 13 Stiche|Ritual der 13 Stiche]] – was bedeutet das Ritual vollständig?
 - [[Magische Mordwaffe]] – kauterisierte Wunde, schwarze Adern
 - [[Harkas]] – will sofortige Selbstjustiz
 

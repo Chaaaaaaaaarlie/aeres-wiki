@@ -70,6 +70,6 @@ Kein direkter Treffer auf die **7 Kerzen** oder die **13 Stiche**. Spezialist f�
 
 - [[Alabaster Kuratorium]]
 - [[Daskirion]]
-- [[Hinweise/Ritual der 13 Stiche|Ritual der 13 Stiche]] – beschäftigt ihn; nächster Schritt: Abpaus-Zeichnung mit Büchern abgleichen
+- [[Rhusion/Hinweise/Ritual der 13 Stiche|Ritual der 13 Stiche]] – beschäftigt ihn; nächster Schritt: Abpaus-Zeichnung mit Büchern abgleichen
 - [[Magische Mordwaffe]] – forensisches Interesse
 - [[Rugirs wahrer Name]]

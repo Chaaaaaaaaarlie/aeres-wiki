@@ -28,5 +28,5 @@ Misstrauisch gegenüber Müßiggang. Hat Rubik-Cube-artiges Wissensspeichersyste
 ## Verknüpfungen
 
 - [[Rugir]]
-- [[Hinweise/Ritual der 13 Stiche|Ritual der 13 Stiche]]
+- [[Rhusion/Hinweise/Ritual der 13 Stiche|Ritual der 13 Stiche]]
 - [[Mystra]]

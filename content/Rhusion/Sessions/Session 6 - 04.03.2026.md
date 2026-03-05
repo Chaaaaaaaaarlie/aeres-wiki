@@ -71,5 +71,5 @@ Doruk bietet Gegengeschäft an: Die Gruppe soll einen **ausgestopften Betrachter
 - [[Doruk Val]]
 - [[Chloro Verde]]
 - [[Bernsteinauge]]
-- [[Hinweise/Ritual der 13 Stiche|Ritual der 13 Stiche]]
+- [[Rhusion/Hinweise/Ritual der 13 Stiche|Ritual der 13 Stiche]]
 - [[Zions Hunger]]

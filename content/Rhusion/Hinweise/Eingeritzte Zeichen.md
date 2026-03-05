@@ -15,11 +15,11 @@ In der [[Basilika des Morgengrauens]] wurden eingeritzte, magisch angehauchte Ze
 
 ## Mögliche Bedeutung
 
-- Verbindung zu [[Hinweise/Ritual der 13 Stiche|Ritual der 13 Stiche]] wahrscheinlich
+- Verbindung zu [[Rhusion/Hinweise/Ritual der 13 Stiche|Ritual der 13 Stiche]] wahrscheinlich
 - Mögliche Sabotagemarkierung im Vorfeld der Zeremonie
 
 ## Verknüpfungen
 
 - [[Basilika des Morgengrauens]]
-- [[Hinweise/Ritual der 13 Stiche|Ritual der 13 Stiche]]
+- [[Rhusion/Hinweise/Ritual der 13 Stiche|Ritual der 13 Stiche]]
 - [[Session 1 – Die Hochzeit]]
