@@ -29,7 +29,7 @@ Hjoldas Vision: **feuchter Sumpfwald**, morsche Holzbalken, ausgretretener Waldw
 
 - [ ] Wer hat ihn beauftragt?
 - [ ] Verbindung zur [[Unbekannte Frau]]?
-- [ ] Verbindung zum [[Ritual der 13 Stiche]]?
+- [ ] Verbindung zum [[Hinweise/Ritual der 13 Stiche|Ritual der 13 Stiche]]?
 
 ## Verknüpfungen
 

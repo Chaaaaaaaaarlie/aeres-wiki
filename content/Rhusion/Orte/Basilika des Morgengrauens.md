@@ -12,7 +12,7 @@ Die Hochzeit fand hier statt – bewusst im Herzen der Stadt, nicht im privaten 
 
 ## Gefundene Hinweise
 
-- [[Eingeritzte Zeichen]] mit Tierblut (Nebengang) → [[Ritual der 13 Stiche]]
+- [[Eingeritzte Zeichen]] mit Tierblut (Nebengang) → [[Hinweise/Ritual der 13 Stiche|Ritual der 13 Stiche]]
 - Eisenhut-Geruch in einem Nebengang
 - Dolch + ganze und zerbrochene Ampulle in einer Nische
 

@@ -7,7 +7,7 @@ status: aktiv
 
 Priorisierte offene Handlungsstränge:
 
-- [[Ritual der 13 Stiche]]
+- [[Hinweise/Ritual der 13 Stiche|Ritual der 13 Stiche]]
 - [[Wo versteckt sich der Assassine]]
 - [[Blutpakt des Tigerauge]]
 - [[Tabulei]]

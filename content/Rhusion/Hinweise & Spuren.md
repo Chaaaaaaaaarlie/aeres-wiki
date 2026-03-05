@@ -9,7 +9,7 @@ Zentrale Hinweis-Seiten:
 
 - [[Hafensabotage]]
 - [[Magische Mordwaffe]]
-- [[Ritual der 13 Stiche]]
+- [[Hinweise/Ritual der 13 Stiche|Ritual der 13 Stiche]]
 - [[Geruchsspuren]]
 - [[Schwarzer Seidenstoff]]
 - [[Infernale Bibliotheks-Forschung]]

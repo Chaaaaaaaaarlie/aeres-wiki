@@ -38,7 +38,7 @@ tags: [kampagne, übersicht]
 
 - [ ] Wo versteckt sich der [[Tabaxi-Assassine]]? → Sumpfwald-Vision ([[Hjolda]])
 - [ ] Wer ist die [[Unbekannte Frau]] (Glatze, Cobaltaugen, Tattoos)?
-- [ ] Was bedeutet das [[Ritual der 13 Stiche]]? → Rugirs Bibliotheksforschung läuft
+- [ ] Was bedeutet das [[Hinweise/Ritual der 13 Stiche|Ritual der 13 Stiche]]? → Rugirs Bibliotheksforschung läuft
 - [ ] Was steckt hinter der [[Hafensabotage]]? → Dock-Netzwerk aktiv, neue Spur [[Zestus]]
 - [ ] Was ist [[Zion]]s Hunger? → Schatten reagiert inzwischen auch außerhalb des Tigerauges
 - [ ] Was steckt hinter dem [[Blutpakt des Tigerauge]]? → Zion hat unterzeichnet
