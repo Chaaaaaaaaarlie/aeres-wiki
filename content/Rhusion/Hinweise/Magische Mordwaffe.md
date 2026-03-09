@@ -22,10 +22,10 @@ tags: [hinweis, forensisch, illusionsmagie]
 ## Offene Fragen
 
 - [ ] Wer hat diese Waffe geschmiedet / beschafft?
-- [ ] Zusammenhang mit dem [[Rhusion/Hinweise/Ritual der 13 Stiche|Ritual der 13 Stiche]]?
+- [ ] Zusammenhang mit dem [[Ritual der 13 Stiche]]?
 
 ## Verknüpfungen
 
 - [[Tabaxi-Assassine]]
 - [[Sokar Karioka]]
-- [[Rhusion/Hinweise/Ritual der 13 Stiche|Ritual der 13 Stiche]]
+- [[Ritual der 13 Stiche]]

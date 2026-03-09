@@ -22,6 +22,6 @@ Gutachter, nicht Richter. Schreibt Berichte – die manchmal verschwinden. Wisse
 - [[Rugirs wahrer Name]]
 ## Herkunft und Struktur
 
-Benannt nach den reichhaltigen Vorkommen des Alabaster Gebirges. In diesen Vorkommen ragen zahlreiche Magiertürme wie Reißzähne in den Himmel und dienen als Hort des Wissens.【turn2file8†Aeres - Die Welt der schadhaften Mythen [1-22].pdf†L1-L6】
+Benannt nach den reichhaltigen Vorkommen des Alabaster Gebirges. In diesen Vorkommen ragen zahlreiche Magiertürme wie Reißzähne in den Himmel und dienen als Hort des Wissens.
 
-Geleitet wird das Kuratorium von einem Rat der Kuratoren der zwölf magischen Disziplinen. Zusätzlich wird ein Erzmagier ernannt, der als primus inter pares in Abstimmungen das Zünglein an der Waage bildet und Mehrheitsentscheidungen ermöglicht.【turn2file5†Aeres - Die Welt der schadhaften Mythen [1-22].pdf†L26-L33】
+Geleitet wird das Kuratorium von einem Rat der Kuratoren der zwölf magischen Disziplinen. Zusätzlich wird ein Erzmagier ernannt, der als primus inter pares in Abstimmungen das Zünglein an der Waage bildet und Mehrheitsentscheidungen ermöglicht.

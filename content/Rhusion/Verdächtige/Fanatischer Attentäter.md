@@ -23,10 +23,10 @@ Dolch mit **Eisenhut** vergiftet. Dazu: eine ganze und eine zerbrochene Ampulle 
 ## Offene Fragen
 
 - [ ] Wer hat ihn beauftragt?
-- [ ] Was bedeuten die 13 Stiche? → [[Rhusion/Hinweise/Ritual der 13 Stiche|Ritual der 13 Stiche]]
+- [ ] Was bedeuten die 13 Stiche? → [[Ritual der 13 Stiche]]
 - [ ] War er Teil desselben Netzwerks wie der [[Tabaxi-Assassine]]?
 
 ## Verknüpfungen
 
-- [[Rhusion/Hinweise/Ritual der 13 Stiche|Ritual der 13 Stiche]]
+- [[Ritual der 13 Stiche]]
 - [[Tabaxi-Assassine]]

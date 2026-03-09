@@ -26,3 +26,8 @@ Breitschuldriger Mann, alte Brandnarbe am Hals. **Hört alles. Vergisst nichts.*
 
 - Gemeinschaftsschlafsaal: niedrig Kupfer
 - Einzelzimmer: Silberbereich
+
+## Verknüpfungen
+
+- [[Orte]]
+- [[Session 3 – Die Nacht danach]]

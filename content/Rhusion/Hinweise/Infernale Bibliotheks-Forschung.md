@@ -53,5 +53,5 @@ Nächster Schritt: Abpaus-Zeichnung der 7 Kerzen (aus dem Verhör bei Harkas) mi
 
 - [[Rugir]]
 - [[Daskirion]]
-- [[Rhusion/Hinweise/Ritual der 13 Stiche|Ritual der 13 Stiche]]
+- [[Ritual der 13 Stiche]]
 - [[Zions Hunger]] – Thiel: Schatten ziehen sich zurück

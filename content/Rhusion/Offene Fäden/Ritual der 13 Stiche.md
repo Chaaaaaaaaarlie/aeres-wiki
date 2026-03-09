@@ -5,7 +5,7 @@ priorität: hoch
 
 # Ritual der 13 Stiche
 
-Verweis auf vollständige Notiz: [[Rhusion/Hinweise/Ritual der 13 Stiche|Ritual der 13 Stiche]]
+Verweis auf vollständige Notiz: [[Ritual der 13 Stiche]]
 
 ## Kurzfassung
 
@@ -28,6 +28,6 @@ Drei Werke aus der [[Daskirion]] gelesen. Kein direkter Treffer auf 7 Kerzen ode
 
 ## Verknüpfungen
 
-- [[Rhusion/Hinweise/Ritual der 13 Stiche|Ritual der 13 Stiche]]
+- [[Ritual der 13 Stiche]]
 - [[Rugir]]
 - [[Daskirion]]

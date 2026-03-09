@@ -7,9 +7,10 @@ status: aktiv
 
 Priorisierte offene Handlungsstränge:
 
-- [[Rhusion/Hinweise/Ritual der 13 Stiche|Ritual der 13 Stiche]]
-- [[Wo versteckt sich der Assassine]]
 - [[Blutpakt des Tigerauge]]
-- [[Tabulei]]
-- [[Zions Hunger]]
 - [[Die Lagerhäuser]]
+- [[Ritual der 13 Stiche]]
+- [[Rugirs wahrer Name]]
+- [[Tabulei]]
+- [[Wo versteckt sich der Assassine]]
+- [[Zions Hunger]]

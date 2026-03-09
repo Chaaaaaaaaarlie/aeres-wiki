@@ -44,3 +44,7 @@ Er unterhält einen Hof von fünf Thanen, je einem pro Edelsteindrachentyp, und 
 ## Eid
 
 Der Eid der Rubinschuppen betont Wahrheit, Wissen und gegenseitigen Schutz als oberste Prinzipien.
+
+## Verknüpfungen
+
+- [[Politik & Fraktionen]]

@@ -5,13 +5,18 @@ status: aktiv
 
 # Orte
 
-Relevante Orte in Rhusion:
+Relevante Orte und Schauplätze in Rhusion:
 
 - [[Basilika des Morgengrauens]]
+- [[Bernsteinauge]]
+- [[Daskirion]]
+- [[Dreiankerkrone]]
+- [[Fink-Tempel (Narasimha)]]
+- [[Gähnender Schacht]]
+- [[Hospiz St. Haramador]]
+- [[Kalazar-Statue]]
 - [[Salzhund]]
 - [[Tigerauge]]
-- [[Bernsteinauge]]
-- [[Hospiz St. Haramador]]
-- [[Daskirion]]
+- [[Tuchmacherviertel]]
 - [[Zestus]]
-- [[Gähnender Schacht]]
+- [[Zum gesplitterten Zahn]]

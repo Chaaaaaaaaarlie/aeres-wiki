@@ -63,7 +63,7 @@ Beim erneuten Sammeln der Gruppe werden Tarnnamen offen genutzt:
 - [[Hjolda]] nennt sich **Crescenzia**
 - [[Elysia]] tritt mit ihrer neuen Tigerauge-Identität auf
 
-Rugir verschickt mehrere Schreiben; die Überlieferung nennt Empfänger wie einen Stadthalter, einen „Org" und möglicherweise eine „Prinzessin" oder ein ähnlich klingendes Amt. Die Details bleiben unsicher.
+Rugir verschickt mehrere Schreiben; die Überlieferung nennt Empfänger wie [[Harkas]], [[Aspasia Cortiso]] und [[Princeps Orpheon von Lutaxa]]. Die Details bleiben unsicher.
 
 ### Szene 5 – Schatten auf dem Weg
 **Ort:** Weg Richtung [[Bernsteinauge]]

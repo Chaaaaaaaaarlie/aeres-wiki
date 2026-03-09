@@ -1,5 +1,6 @@
 ---
 tags: [kampagne, übersicht]
+status: aktiv
 ---
 
 # 🗺️ Rhusion – Kampagnen-Übersicht
@@ -24,6 +25,7 @@ tags: [kampagne, übersicht]
 - [[Session 4 – Rhusion, zweiter Tag]]
 - [[Session 5 – Papiere, Pässe und Päckchen]]
 - [[Session 6 - 04.03.2026]]
+- [[Session 7 - 08.03.2026]]
 
 ## Bereiche
 
@@ -38,7 +40,7 @@ tags: [kampagne, übersicht]
 
 - [ ] Wo versteckt sich der [[Tabaxi-Assassine]]? → Sumpfwald-Vision ([[Hjolda]])
 - [ ] Wer ist die [[Unbekannte Frau]] (Glatze, Cobaltaugen, Tattoos)?
-- [ ] Was bedeutet das [[Rhusion/Hinweise/Ritual der 13 Stiche|Ritual der 13 Stiche]]? → Rugirs Bibliotheksforschung läuft
+- [ ] Was bedeutet das [[Ritual der 13 Stiche]]? → Rugirs Bibliotheksforschung läuft
 - [ ] Was steckt hinter der [[Hafensabotage]]? → Dock-Netzwerk aktiv, neue Spur [[Zestus]]
 - [ ] Was ist [[Zion]]s Hunger? → Schatten reagiert inzwischen auch außerhalb des Tigerauges
 - [ ] Was steckt hinter dem [[Blutpakt des Tigerauge]]? → Zion hat unterzeichnet
