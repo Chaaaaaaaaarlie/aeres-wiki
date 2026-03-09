@@ -21,7 +21,7 @@ Ein Bettlerkontakt führt Elysia erneut zum Tigerauge. Dort verhandelt sie eine 
 Gelieferte Rolle:
 - Name vermutlich **Ganyme / Ganime**
 - Herkunft **Chios**
-- Adeptin eines **Degasterions / Didaskaleons** (Schreibung unsicher)
+- Adeptin in **Mystras Didaskaleons**
 - Schwerpunkt auf Divination und Kartenkunst
 
 Elysia bemerkt, dass die Hände des Händlers verdreht oder falsch herum wirken. Nach der vollständigen Zahlung wird der Vertrag verbrannt.
@@ -51,7 +51,7 @@ Gesicherte Beute:
 - ein **Säbel**
 - **Rationen**
 - **Aufzeichnungen** unbekannten Inhalts
-- ![[Pasted image 20260309081407.png]]
+ ![[Pasted image 20260309081407.png]]
 
 ### Szene 4 – Wiederzusammentreffen und Aliasnamen
 **Ort:** Straßen Rhusions
