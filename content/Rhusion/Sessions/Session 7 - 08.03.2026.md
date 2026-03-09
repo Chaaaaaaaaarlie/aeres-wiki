@@ -51,6 +51,7 @@ Gesicherte Beute:
 - ein **Säbel**
 - **Rationen**
 - **Aufzeichnungen** unbekannten Inhalts
+
  ![[Pasted image 20260309081407.png]]
 
 ### Szene 4 – Wiederzusammentreffen und Aliasnamen
