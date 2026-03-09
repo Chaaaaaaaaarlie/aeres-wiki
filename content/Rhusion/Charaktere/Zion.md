@@ -19,6 +19,8 @@ Zion ist weit herumgekommen. Er kennt das kriegerische Element, die Stadt von in
 
 Getarnte Identität (Tigerauge): **Eden** – Schmiedemeister, angeblich mit Obsidia-Auftrag für einen Patrizier unterwegs.
 
+Für die aktuelle Bewegung in Rhusion nutzt er zusätzlich den Namen **Audoma** als gesprochene Tarnidentität.
+
 ## Der Hunger
 
 Ein unstillbarer, tief liegender Hunger. Keine körperliche Sache.
@@ -34,9 +36,13 @@ Ein Abgrund, ein Schlund. Er fällt. Erwacht schweißgebadet.
 Reaktion auf Hjoldas Beschreibung des uralten Waldes: ungewöhnlich aufgewühlt, atmet tief durch.
 > *„Ich hatte schon Sorgen."*
 
-## Der Schatten
+## Der Schatten / Hunger
 
 Im [[Tigerauge]] (Session 5): Der Händler warf eine Stichflamme in die Feuerschale. Die Schatten breiteten sich kurz aus. **Zions Schatten ging mehrere Schritte weiter als Zion selbst** – dann band er sich wieder an ihn. Erste physisch sichtbare Manifestation des inneren Hungers. Kein Charakter der Gruppe hat es bewusst wahrgenommen. In Session 6 bemerkt Zion selbst zumindest eine leichte Verzögerung beim Nachziehen seines Schattens.
+
+In Session 7 wird das Verhalten deutlicher: Auf dem Weg zum [[Bernsteinauge]] nimmt Zion wahr, wie sein Schatten sich an Tauwerk oder Höhen entlangzubewegen scheint, bevor er wieder normal fällt. Von den anderen wird das nicht bestätigt.
+
+Im [[Bernsteinauge]] reagiert Zion zudem stark auf einen präparierten Vogel. Die Berührung löst eine vertraute Melodie und tiefes Deja-vu aus. Ob das mit dem Hunger, alter Erinnerung oder der Magie des Ortes zusammenhängt, ist offen.
 
 - [ ] [[Zions Hunger]] – Was ist die Natur dieses Hungers?
 - [ ] [[Blutpakt des Tigerauge]] – Was hat Zion unterschrieben?
@@ -48,6 +54,7 @@ Im [[Tigerauge]] (Session 5): Der Händler warf eine Stichflamme in die Feuersch
 - **[[Session 4 – Rhusion, zweiter Tag]]**: Löst Goliath-Situation mit Silber. Findet Augier → Weg zum [[Tigerauge]].
 - **[[Session 5 – Papiere, Pässe und Päckchen]]**: Blutpakt mit Tigerauge (Name Eden, 15 Gold). Wartet mit [[Hjolda]] im Zum gesplitterten Zahn. Erhält Schmied-Identität + Lederschürze + billiges Werkzeug. Schatten löst sich kurz.
 - **[[Session 6 - 04.03.2026]]**: Unterwegs im Docknetz, Tarnung als Hafenarbeiter. Übergibt Kuvert an Bord der [[Zestus]], Gespräch mit [[Doruk Val]]. Bemerkt eigenes Schatten-Nachziehen mit leichter Verzögerung.
+- **[[Session 7 - 08.03.2026]]**: Nutzt den Alias **Audoma** beim erneuten Sammeln der Gruppe. Beobachtet ein stärkeres Eigenleben seines Schattens auf dem Weg zum [[Bernsteinauge]]. Erfährt dort, dass seine Klinge vermutlich von **Zestar** aus Rhusion stammt, und reagiert auffällig auf einen präparierten Vogel.
 
 ## Verknüpfungen
 
@@ -55,5 +62,6 @@ Im [[Tigerauge]] (Session 5): Der Händler warf eine Stichflamme in die Feuersch
 - [[Blutpakt des Tigerauge]]
 - [[Elysia]]
 - [[Hjolda]] – Gespräch über den Wald; emotionale Reaktion
+- [[Bernsteinauge]]
 - [[Tigerauge]]
 - [[Gähnender Schacht]] – Codewort bekannt

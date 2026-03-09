@@ -24,6 +24,8 @@ Sie kennt die Orks **Yago und Samta** bereits von früher – hat sie durch die 
 
 Legt Tarot für alle Gruppenmitglieder – aus Neugier und Methode. Schläft traumlos und erholt sich schnell. Trägt eine Glaskugel mit Sternen im Inneren.
 
+In Rhusion baut sie sich zusätzlich über Kartenlegen und soziale Rollen Zugang zu Orten auf, die für den Rest der Gruppe verschlossen sind.
+
 **Tarot-Ziehungen:**
 - Session 1: Umgekehrter Kelch für Sokar → emotionale Eskalation prophezeit ✓
 - Session 5: Sechs Karten für sich selbst (durch Halbling-Wahrsagerin) → siehe unten
@@ -45,6 +47,17 @@ Sechs Karten, gelegt von der [[Halbling-Wahrsagerin]] vor dem Fink-Tempel:
 
 Beim Passieren der Statue vor dem Hypodrom: Groll, innere Aufgewühltheit – steigert sich, je länger sie steht. Niemand sonst um sie herum zeigt dieselbe Reaktion. **Mentale Notiz: Zion nicht an dieser Statue vorbeigehen lassen.**
 
+## Falsche Identität in Rhusion
+
+Über das [[Tigerauge]] erhielt Elysia in Session 7 eine zweite, gezielt auf sie zugeschnittene Deckidentität:
+
+- **Name:** vermutlich **Ganyme / Ganime** (Schreibung unsicher)
+- **Herkunft:** **Chios**
+- **Deckrolle:** Adeptin eines **Degasterions / Didaskaleons** (unsichere Bezeichnung)
+- **Profil:** Divination, Sternenkunde, Kartenlesen
+
+Die Konstruktion passt so gut zu ihr, dass sie die Rolle unmittelbar in der [[Dreiankerkrone]] ausspielen konnte.
+
 ## Gestalten (bisher)
 
 - **Kamel** – Verfolgungsjagd (Session 2)
@@ -59,11 +72,14 @@ Beim Passieren der Statue vor dem Hypodrom: Groll, innere Aufgewühltheit – st
 - **[[Session 3 – Die Nacht danach]]**: Nächtliches Gespräch mit [[Zion]] an der Bar.
 - **[[Session 4 – Rhusion, zweiter Tag]]**: Weiße Spinne in Viris Ärmel. Telepathische Verbindung zu Viri im Laden.
 - **[[Session 5 – Papiere, Pässe und Päckchen]]**: Überklettert Stadtmauer als Spinne. Erkundet Kasareiviertel. Spricht mit Tiefling über Kalazar. Lässt Wahrsagerin Tarot legen. Passiert Tor als Schakal an Patrizier-Familie.
+- **[[Session 7 - 08.03.2026]]**: Kauft im [[Tigerauge]] eine falsche Identität auf Raten. Verdient in der [[Dreiankerkrone]] mit Tarot über mehrere Stunden **5 Gold**. Wird später nahe dem Tigerauge von Angreifern mit Bezug auf das [[Ritual der 13 Stiche]] überfallen und schlägt den Hinterhalt zurück.
 
 ## Verknüpfungen
 
 - [[Zion]] – Nächtliches Gespräch, kennt seinen Hunger; soll Statue meiden
 - [[Viri]]
+- [[Dreiankerkrone]]
+- [[Falsche Identitäten]]
 - [[Zions Hunger]]
 - [[Halbling-Wahrsagerin]]
 - [[Kalazar-Statue]]

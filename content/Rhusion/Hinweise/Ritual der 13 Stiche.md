@@ -10,6 +10,8 @@ status: ungeklärt – aktiv in Bearbeitung
 Der [[Fanatischer Attentäter|fanatische Attentäter]] sagte:
 > *„13 Stiche vollenden das Werk."*
 
+In Session 7 taucht die Formel erneut bei einem Hinterhalt nahe [[Tigerauge]] / [[Zum gesplitterten Zahn]] auf. Die Drohung gegen [[Elysia]] lautet sinngemäß, man werde sehen, wer zuletzt lache, wenn sie blutend am Boden liege und die **13 Stiche** an ihr vollendet seien.
+
 In der Basilika gefunden: **eingeritzte Zeichen**, mit altem Tierblut nachgezogen. Schlecht ausgeführt, magisch angehaucht, **unvollständig**.
 
 Rugirs erste Einschätzung: **Teufel oder Dämon** als Hintermann oder Empfänger des Rituals.
@@ -31,6 +33,7 @@ Aus **Siegeln des Abgrunds** (anonym):
 - Ist „das Werk" der Mord an Sokar – oder ist sein Tod nur ein Stich von dreizehn?
 - Wer hat die Zeichen in die Basilika geritzt – der Attentäter selbst, oder jemand vorab?
 - Zusammenhang mit dem **Sieben-Kerzen-Symbol**?
+- Nutzen auch gewöhnliche Banditen oder Auftragsleute bereits dieselbe Formel?
 - Die Abpaus-Zeichnung aus dem Verhör bei Harkas liegt vor – noch nicht mit Büchern abgeglichen
 
 ## Offene Fragen
@@ -46,4 +49,6 @@ Aus **Siegeln des Abgrunds** (anonym):
 - [[Fanatischer Attentäter]]
 - [[Rugir]]
 - [[Daskirion]]
+- [[Elysia]]
+- [[Tigerauge]]
 - [[Magische Mordwaffe]]

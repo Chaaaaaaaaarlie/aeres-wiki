@@ -73,3 +73,6 @@ Doruk bietet Gegengeschäft an: Die Gruppe soll einen **ausgestopften Betrachter
 - [[Bernsteinauge]]
 - [[Rhusion/Hinweise/Ritual der 13 Stiche|Ritual der 13 Stiche]]
 - [[Zions Hunger]]
+
+---
+*Nächste Session: [[Session 7 - 08.03.2026]]*

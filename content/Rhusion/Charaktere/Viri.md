@@ -49,6 +49,7 @@ Viri ist **wegen Aspasia** zur Hochzeit gekommen. Details unklar, aber Aspasia h
 - **[[Session 3 – Die Nacht danach]]**: Ringt nachts mit dem Leid des Tages.
 - **[[Session 4 – Rhusion, zweiter Tag]]**: Führt Verhör beim Halbling-Händler. Erhält weißen Trauerschleier.
 - **[[Session 5 – Papiere, Pässe und Päckchen]]**: Alleine ins Hospiz. Zwei Heilwunder. Überzeugungswurf (16, DC 12) → Tabulei erhalten. Elysia als Spinne in ihrem Ärmel dabei.
+- **[[Session 7 - 08.03.2026]]**: Liest im [[Fall der Offenbarung]] im [[Bernsteinauge]] eine neue, noch ungeordnete Prophezeiungs-Passage.
 
 ## Verknüpfungen
 
@@ -58,3 +59,4 @@ Viri ist **wegen Aspasia** zur Hochzeit gekommen. Details unklar, aber Aspasia h
 - [[Schwester Elva]] – direkte Ansprechpartnerin; ehem. Söldnerin
 - [[Unbekannte Frau]] – Beschreibung erhalten
 - [[Elysia]]
+- [[Fall der Offenbarung]]

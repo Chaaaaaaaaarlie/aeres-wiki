@@ -34,6 +34,18 @@ Preis: **15 Gold** für zwei Identitäten, Lieferzeit vier Stunden.
 
 Auf Nachfrage zur Herkunft der Dokumente: *„Ihr wisst es nicht."*
 
+## Weitere Transaktion (Session 7)
+
+[[Elysia]] erhielt hier eine weitere falsche Identität. Diesmal lief der Handel offen über einen **Vertrag in Gemeinsprache** und eine gestaffelte Bezahlung: **10 Gold sofort**, **5 Gold binnen einer Woche**. Nach Rückkehr beglich Elysia den Restbetrag und verbrannte den Vertrag.
+
+Gelieferte Identität für Elysia:
+- **Name:** vermutlich **Ganyme / Ganime** (Schreibung unsicher)
+- **Herkunft:** **Chios**
+- **Deckrolle:** Adeptin einer gelehrten oder kultischen Institution; überliefert als **Degasterion / Didaskaleon** (unsichere ASR-Schreibung)
+- **Profil:** auffällig auf **Divination** und Sternen-/Kartenkunde zugeschnitten
+
+Während der Verhandlung fiel [[Elysia]] auf, dass die **Hände des Händlers verdreht oder falsch herum wirkten**. Ob das Täuschung, Körperanomalie oder Magie war, ist offen.
+
 ## Der Schatten-Moment
 
 Als der Händler eine Stichflamme in die Feuerschale warf, breiteten sich die Schatten kurz aus. Zions Schatten ging mehrere Schritte weiter als Zion selbst.
@@ -42,7 +54,9 @@ Als der Händler eine Stichflamme in die Feuerschale warf, breiteten sich die Sc
 
 - [[Zion]] – Blutpakt, Identität „Eden"
 - [[Hjolda]] – Identität erhalten
+- [[Elysia]] – falsche Identität für Session 7
 - [[Blutpakt des Tigerauge]]
 - [[Augier]]
 - [[Halbling-Wahrsagerin]] – hat unabhängig auf Tigerauge hingewiesen
+- [[Falsche Identitäten]]
 - [[Hafensabotage]]
