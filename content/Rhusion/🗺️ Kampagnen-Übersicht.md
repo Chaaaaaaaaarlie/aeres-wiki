@@ -26,6 +26,7 @@ status: aktiv
 - [[Session 5 – Papiere, Pässe und Päckchen]]
 - [[Session 6 - 04.03.2026]]
 - [[Session 7 - 08.03.2026]]
+- [[Session 8 - 18.03.2026]]
 
 ## Bereiche
 
@@ -43,12 +44,12 @@ status: aktiv
 - [ ] Was bedeutet das [[Ritual der 13 Stiche]]? → Rugirs Bibliotheksforschung läuft
 - [ ] Was steckt hinter der [[Hafensabotage]]? → Dock-Netzwerk aktiv, neue Spur [[Zestus]]
 - [ ] Was ist [[Zion]]s Hunger? → Schatten reagiert inzwischen auch außerhalb des Tigerauges
-- [ ] Was steckt hinter dem [[Blutpakt des Tigerauge]]? → Zion hat unterzeichnet
+- [ ] Was steckt hinter dem [[Blutpakt des Tigerauge]]? → Schatten-Klausel für 15 Monate bestätigt
 - [ ] Codewort für den [[Gähnender Schacht]] noch ungenutzt
 - [ ] Was ist mit dem seltenen **Samen**, den [[Hjolda]] sucht?
 - [ ] Was löst die [[Kalazar-Statue]] am Hypodrom aus? → Hjolda, Elysia betroffen
 - [ ] [[Tabulei]] läuft zeitnah ab → [[Viri]] braucht Folgelösung
-- [ ] Welche Rolle spielen [[Bernsteinauge]], [[Doruk Val]] und [[Chloro Verde]]?
+- [ ] Welche Rolle spielen [[Bernsteinauge]], [[Doruk Val]] und [[Chloro Verde]]? → Imitations-Betrachter / Köder-Plan läuft
 
 ## Wichtige NSCs
 

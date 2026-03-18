@@ -12,6 +12,8 @@ Der [[Fanatischer Attentäter|fanatische Attentäter]] sagte:
 
 In Session 7 taucht die Formel erneut bei einem Hinterhalt nahe [[Tigerauge]] / [[Zum gesplitterten Zahn]] auf. Die Drohung gegen [[Elysia]] lautet sinngemäß, man werde sehen, wer zuletzt lache, wenn sie blutend am Boden liege und die **13 Stiche** an ihr vollendet seien.
 
+In Session 8 reagiert der Händler des [[Tigerauge]]s auf die Umschreibung „7 Kerzen", „13 Stiche" und das eingebrannte Mal sichtbar angespannt, obwohl er die Kenntnis anschließend abstreitet. Er warnt die Gruppe ausdrücklich davor, sich mit den dahinterstehenden Mächten anzulegen.
+
 In der Basilika gefunden: **eingeritzte Zeichen**, mit altem Tierblut nachgezogen. Schlecht ausgeführt, magisch angehaucht, **unvollständig**.
 
 Rugirs erste Einschätzung: **Teufel oder Dämon** als Hintermann oder Empfänger des Rituals.
@@ -35,6 +37,7 @@ Aus **Siegeln des Abgrunds** (anonym):
 - Zusammenhang mit dem **Sieben-Kerzen-Symbol**?
 - Nutzen auch gewöhnliche Banditen oder Auftragsleute bereits dieselbe Formel?
 - Die Abpaus-Zeichnung aus dem Verhör bei Harkas liegt vor – noch nicht mit Büchern abgeglichen
+- Selbst infernalisch wirkende Unterweltakteure scheinen vor dem Thema zurückzuschrecken
 
 ## Offene Fragen
 
@@ -43,9 +46,11 @@ Aus **Siegeln des Abgrunds** (anonym):
 - [ ] Wer hat die Zeichen geritzt?
 - [ ] Sind noch weitere Stiche geplant?
 - [ ] Abpaus-Zeichnung mit Daskirion-Büchern vergleichen
+- [ ] Was genau wusste der Händler des [[Tigerauge]]s und warum wich er zurück?
 
 ## Verknüpfungen
 
+- [[Session 8 - 18.03.2026]]
 - [[Fanatischer Attentäter]]
 - [[Rugir]]
 - [[Daskirion]]

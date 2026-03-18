@@ -9,11 +9,17 @@ status: aktiv
 
 ## Atmosphäre
 
-Von außen unauffälliges Kontor. Regale mit Krimskrams, Söldner-Broschüren, Wandbeobachtungsauge. Der Händler wirft nach jedem Besuch eine Gewürzmischung in die Feuerschale – intensiver Patchouli-artiger Rauch erfüllt den Raum.
+Von außen unauffälliges Kontor. Regale mit Krimskrams, Söldner-Broschüren, Wandbeobachtungsauge. Der Händler wirft nach jedem Besuch eine Gewürzmischung in die Feuerschale.
+
+Die in Session 8 identifizierte Mischung: **Aloe, Weihrauch, Olibanum, Muskatpulver und Drachenwurzel**. Die Kombination ist zugleich **Rauschmittel** und eine Art **Reinigungs-/Initiationsparfüm**.
 
 ## Der Händler
 
 Verhülltes Gesicht, Schleier. Hinter dem Schleier eine eigenartige Karkophonie an Geräuschen – Zermalmen, Schmecken. Arbeitet mit einer irisierenden Faunfeder. Zeigt keine Emotionen. Bürgt mit seinem Namen.
+
+Sein Name ist laut nachträglicher Prüfung sehr wahrscheinlich **Jai**.
+
+In Session 8 reagiert er spürbar auf Anspielungen zu **7 Kerzen** und **13 Stichen**, weist die Gruppe aber von dem Thema weg und warnt vor Mächten „zwischen Himmel und den neun Höllen". Außerdem wird klar, dass seine Verträge **infernalisch formuliert** sind und er mit juristischen Spitzfindigkeiten arbeitet. Nach aktuellem Gruppenstand wirkt es wahrscheinlich, dass Jai selbst **dämonischer oder teuflischer Natur** ist, auch wenn das im Spiel noch nicht hart bewiesen wurde.
 
 ## Angebot (bestätigt)
 
@@ -39,9 +45,9 @@ Auf Nachfrage zur Herkunft der Dokumente: *„Ihr wisst es nicht."*
 [[Elysia]] erhielt hier eine weitere falsche Identität. Diesmal lief der Handel offen über einen **Vertrag in Gemeinsprache** und eine gestaffelte Bezahlung: **10 Gold sofort**, **5 Gold binnen einer Woche**. Nach Rückkehr beglich Elysia den Restbetrag und verbrannte den Vertrag.
 
 Gelieferte Identität für Elysia:
-- **Name:** vermutlich **Ganyme / Ganime** (Schreibung unsicher)
+- **Name:** **Ganyme**
 - **Herkunft:** **Chios**
-- **Deckrolle:** Adeptin einer gelehrten oder kultischen Institution; überliefert als **Degasterion / Didaskaleon** (unsichere ASR-Schreibung)
+- **Deckrolle:** Adeptin einer gelehrten oder kultischen Institution; überliefert als **Mystras Didaskaleion**
 - **Profil:** auffällig auf **Divination** und Sternen-/Kartenkunde zugeschnitten
 
 Während der Verhandlung fiel [[Elysia]] auf, dass die **Hände des Händlers verdreht oder falsch herum wirkten**. Ob das Täuschung, Körperanomalie oder Magie war, ist offen.
@@ -50,8 +56,16 @@ Während der Verhandlung fiel [[Elysia]] auf, dass die **Hände des Händlers ve
 
 Als der Händler eine Stichflamme in die Feuerschale warf, breiteten sich die Schatten kurz aus. Zions Schatten ging mehrere Schritte weiter als Zion selbst.
 
+## Fortschreibung aus Session 8
+
+- Rugir übersetzte Zions Vertragsklauseln teilweise: Trotz bezahlter **15 Gold** bleibt eine **15-monatige Schatten-Abgabe** bestehen
+- Der Händler bot an, über ein **Schutzabkommen mit dem Bernsteinauge** eine Zusammenarbeit zu ermöglichen
+- Im Gegenzug soll im [[Tigerauge]] ein **hochwertiges physisches Imitat** des Betrachters hergestellt werden
+- Der Händler stellte dafür ein Schreiben an den Betreiber des [[Bernsteinauge]]s aus
+
 ## Verknüpfungen
 
+- [[Session 8 - 18.03.2026]]
 - [[Zion]] – Blutpakt, Identität „Eden"
 - [[Hjolda]] – Identität erhalten
 - [[Elysia]] – falsche Identität für Session 7

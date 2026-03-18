@@ -20,6 +20,8 @@ Zielte explizit auf [[Sokar Karioka]]. Wirkte fanatisch, fast wahnsinnig – ver
 
 Dolch mit **Eisenhut** vergiftet. Dazu: eine ganze und eine zerbrochene Ampulle in einer Nische der Basilika.
 
+In [[Session 8 - 18.03.2026]] ordnete der Betreiber des [[Bernsteinauge]]s die beiden zugehörigen Klingen dem **Jüngling aus dem Hause Zarkasa** zu. Das spricht dafür, dass der verhaftete Attentäter einer benennbaren Haus- oder Familienlinie zugeordnet werden kann.
+
 ## Offene Fragen
 
 - [ ] Wer hat ihn beauftragt?
@@ -28,5 +30,6 @@ Dolch mit **Eisenhut** vergiftet. Dazu: eine ganze und eine zerbrochene Ampulle 
 
 ## Verknüpfungen
 
+- [[Session 8 - 18.03.2026]]
 - [[Ritual der 13 Stiche]]
 - [[Tabaxi-Assassine]]

@@ -35,6 +35,12 @@ Im [[Tigerauge]], nach Abschluss des Blutpakts: Stichflamme in der Feuerschale, 
 
 In [[Session 6 - 04.03.2026]] bemerkt Zion zusätzlich selbst ein leicht verzögertes Nachziehen seines Schattens im normalen Straßenbild.
 
+In [[Session 8 - 18.03.2026]] wird die Manifestation aggressiver:
+- Rugir hat während eines Ritualzaubers im [[Tigerauge]] den Eindruck, dass **Zions Schatten eigenständig reagiert** und Magie im Raum stört oder zersetzt
+- Später im Schlaf erlebt Zion einen deutlich intensiveren Traum / Anfall: eine **junge weibliche Stimme** spricht vom Hunger und davon, heute „nichts bekommen" zu haben
+- Danach erscheint eine **kahlrasierte, rauchende Katze mit glühenden Augen** und einem unnatürlich breiten Maul, die beansprucht, Zions Seele gehöre **ihr**
+- Gleichzeitig stabilisiert in der Vision ausgerechnet **sein eigener Schatten** kurz den Sturz in die Iris
+
 ## Fragen
 
 - [ ] Was ist die Natur dieses Hungers? Fluch? Pakt? Herkunft?
@@ -42,9 +48,13 @@ In [[Session 6 - 04.03.2026]] bemerkt Zion zusätzlich selbst ein leicht verzög
 - [ ] Was passiert, wenn er nachgibt?
 - [ ] Hat der [[Blutpakt des Tigerauge]] den Schatten aktiviert?
 - [ ] Warum zeigt sich die Verzögerung inzwischen auch außerhalb des Tigerauges?
+- [ ] Wer oder was ist die katzenhafte Gestalt im Traum?
+- [ ] Warum behauptet sie, Zions Seele gehöre bereits ihr?
+- [ ] Stehen Hunger, Schatten und Blutpakt in Konkurrenz zueinander oder sind sie dieselbe Macht?
 
 ## Verknüpfungen
 
+- [[Session 8 - 18.03.2026]]
 - [[Zion]]
 - [[Elysia]]
 - [[Blutpakt des Tigerauge]]

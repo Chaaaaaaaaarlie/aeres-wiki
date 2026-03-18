@@ -7,6 +7,8 @@ status: ungeklärt
 
 Buch aus dem [[Bernsteinauge]], das laut Ladenbetreiber in die Haut **Dolorions** gebunden wurde. In [[Session 7 - 08.03.2026]] durfte [[Viri]] es mit bezahlten Handschuhen lesen.
 
+Dolorion war einst ein Engel [[Ilmater]]s. Er fiel, weil er anfing, Leid berechnen und verhindern zu wollen, anstatt es nur zu ertragen, und dabei begann, Sterbliche vorzeitig zu richten, um größeres Leid abzuwenden.
+
 ## Überlieferte Passage
 
 > Von Geburt an durch das Leben gehetzt  
@@ -44,7 +46,6 @@ Buch aus dem [[Bernsteinauge]], das laut Ladenbetreiber in die Haut **Dolorions*
 
 ## Offene Fragen
 
-- [ ] Wer oder was ist **Dolorion**?
 - [ ] Ist die Passage echte Prophetie, Kulttext oder spätere Dichtung?
 - [ ] Welche Zeilen sind für [[Viri]] oder [[Zion]] konkret relevant?
 - [ ] Gibt es Verbindung zu infernalen oder ilmaterschen Motiven?

@@ -17,12 +17,21 @@ Im Laden selbst hängt eine spürbare **magische Aufladung** in der Luft. Gegens
 
 Der Laden wird von einem **wohlhabenden Tiefling** geführt, dessen Gesicht mit **Augen-Tattoos oder aufgemalten Augen** versehen ist. Viel Schmuck, selbstsicheres Auftreten, klare Preislogik. Seine Haltung: **Ansehen kostet nichts, Anfassen kostet Geld.**
 
+In Session 8 zeigt sich deutlicher, dass er nicht nur Händler, sondern ein **eigenständiger Machtfaktor** im Unterweltgefüge Rhusions ist. Er betrachtet [[Chloro Verde]] als Rivalin, hält den Laden für verteidigungsfähig und verfügt offenbar über Kontakte zu Wachen und orkischen Machtträgern.
+
 ## Bekannte Waren / Vorgänge
 
 - **Ausgestopfter Betrachter** im Schaufenster; von [[Doruk Val]] als relevanter Köder für [[Chloro Verde]] benannt
 - **Schwarze Seidenhandschuhe** für **2 Kupfer**, um empfindliche Ware berühren oder lesen zu dürfen
 - [[Fall der Offenbarung]]: ein Buch, das laut Händler in die Haut **Dolorions** gebunden wurde
-- Seltene, moralisch zweifelhafte oder gefährliche magische Kuriositäten
+- **Taxidermischer Paradiesvogel** (von Zion für 2 Gold gekauft; spielt eine bekannte Melodie)
+- **Gin-Lampe** (Feuer-Gin-Prinzessin aus Zazorbia)
+- **Kreiszeichen der verehrten Zwergenmutter** (Ein Zahnrad aus einem unbekannten Mechanismus)
+- **Sarkophag aus Eurum Tynes** (versiegelt, erfüllt von leisem Brummen/Skarabäen)
+- **Zinnkrone** (stärkt Selbstvertrauen und Selbstbild)
+- **Sphäre der großen Weissagung**
+- **Vampirjagd-Set**
+- Weitere Artefakte: Sichel von Menes, Masken des Luwion-Karnevals, Statue von Svarmbald III., Löwenstatue aus Lauwa, Larin Streitwagen, Redjewels Schwarzdorn Shillelagh, Statue von Nyssara Tioleth (Heldin von Votrueta), Urne des fünften Samens.
 
 ## Relevanz für die Gruppe
 
@@ -31,16 +40,21 @@ Der Laden wird von einem **wohlhabenden Tiefling** geführt, dessen Gesicht mit 
 - [[Viri]] las hier im [[Fall der Offenbarung]] eine Prophezeiung
 - Der Händler identifizierte [[Zions Hunger|Zions]] Klinge als Arbeit von **Zestar** aus **Rhusion**; die Klinge selbst sei nicht magisch, das Gift jedoch potent
 - [[Zion]] kaufte hier einen präparierten Vogel für **2 Gold**; die Berührung löste eine bekannte Melodie und starkes Deja-vu aus
+- In Session 8 willigt der Betreiber ein, den **echten Betrachter** im Morgengrauen unsichtbar zu machen und den Diebstahl inszeniert zu melden, sofern die Gruppe bis dahin ein **hochwertiges physisches Imitat** beschafft
+- Als Teil derselben Abmachung erhalten die SCs einen **Beutel der tiefen Taschen**; als Anzahlung übergibt [[Zion]] die beiden Klingen aus dem Mordkomplott gegen [[Sokar Karioka]]
+- Zusätzliche Bedingung: Falls die Gruppe das Versteck der Verschwörer aushebt, soll der Betreiber des Bernsteinauges bei interessanten Funden das **erste Angebot** machen dürfen
+- Der Deal mit dem [[Tigerauge]] gilt nach nachträglicher Klärung als **belastbarer Schutzpakt**, nicht nur als lose Absichtserklärung
 
 ## Offene Fragen
 
 - [ ] Wer kontrolliert den Ort tatsächlich?
-- [ ] Was genau weiß der Betreiber über [[Chloro Verde]]?
+- [ ] Was genau weiß der Betreiber über [[Chloro Verde]] und den Verschwörungszirkel?
 - [ ] Verbindung zur [[Hafensabotage]]?
 - [ ] Verbindung oder Konkurrenz zum [[Tigerauge]]?
 
 ## Verknüpfungen
 
+- [[Session 8 - 18.03.2026]]
 - [[Session 7 - 08.03.2026]]
 - [[Session 6 - 04.03.2026]]
 - [[Doruk Val]]

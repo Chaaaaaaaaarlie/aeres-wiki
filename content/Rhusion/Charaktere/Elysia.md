@@ -51,9 +51,9 @@ Beim Passieren der Statue vor dem Hypodrom: Groll, innere Aufgewühltheit – st
 
 Über das [[Tigerauge]] erhielt Elysia in Session 7 eine zweite, gezielt auf sie zugeschnittene Deckidentität:
 
-- **Name:** vermutlich **Ganyme / Ganime** (Schreibung unsicher)
+- **Name:** **Ganyme**
 - **Herkunft:** **Chios**
-- **Deckrolle:** Adeptin eines **Degasterions / Didaskaleons** (unsichere Bezeichnung)
+- **Deckrolle:** Adeptin des **Mystras Didaskaleions**
 - **Profil:** Divination, Sternenkunde, Kartenlesen
 
 Die Konstruktion passt so gut zu ihr, dass sie die Rolle unmittelbar in der [[Dreiankerkrone]] ausspielen konnte.

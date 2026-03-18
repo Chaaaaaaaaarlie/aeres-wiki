@@ -18,10 +18,12 @@ tags: [hinweis, forensisch, illusionsmagie]
 - Gezielte, geplante Tat – **kein Zufall**
 - Die Waffe selbst war magisch und einzigartig
 - Illusionsmagie könnte die Waffe verborgen gehalten haben bis zum Einsatz
+- Der Besitzer des [[Bernsteinauge]]s identifizierte eine der Giftklingen als Werk des Schmieds **Zestar** aus **Rhusion**. Er erklärte jedoch, dass die Klinge selbst nicht magisch sei, auch wenn das Gift extrem potent ist.
 
 ## Offene Fragen
 
-- [ ] Wer hat diese Waffe geschmiedet / beschafft?
+- [ ] Wer hat diese Waffe in Auftrag gegeben?
+- [ ] Warum war bei der Tat Illusionsmagie im Spiel, wenn die Waffe selbst nicht magisch war?
 - [ ] Zusammenhang mit dem [[Ritual der 13 Stiche]]?
 
 ## Verknüpfungen

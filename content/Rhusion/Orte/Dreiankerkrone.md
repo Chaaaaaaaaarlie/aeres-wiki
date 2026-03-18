@@ -15,7 +15,7 @@ Taverne in Rhusion, in der [[Elysia]] in Session 7 über Stunden Tarot legte. Vo
 
 ## Betreiberin
 
-Menschliche Wirtin mit einer **silbernen Strähne** in sonst dunklem Haar. Der überlieferte Name ist unsicher; möglicherweise **Frau Malad**.
+Menschliche Wirtin mit einer **silbernen Strähne** in sonst dunklem Haar, vermutlich **Frau Malad** (ein Gast nannte sie so).
 
 Anfangs missversteht sie Elysias Kartenlegen als mögliches Signal für Prostitution. Nachdem klar wird, dass die Gäste wegen der Karten bleiben und zahlen, duldet oder begrüßt sie das Geschäft.
 

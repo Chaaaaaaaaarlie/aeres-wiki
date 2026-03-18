@@ -19,9 +19,9 @@ Die Gruppe zieht ihre Rhusion-Tarnungen enger: [[Elysia]] beschafft sich im [[Ti
 Ein Bettlerkontakt führt Elysia erneut zum Tigerauge. Dort verhandelt sie eine falsche Identität für **15 Gold**, diesmal nicht als Blutpakt, sondern als normaler Vertrag in Gemeinsprache: **10 Gold sofort**, **5 Gold später**.
 
 Gelieferte Rolle:
-- Name vermutlich **Ganyme / Ganime**
+- Name: **Ganyme**
 - Herkunft **Chios**
-- Adeptin in **Mystras Didaskaleons**
+- Adeptin in **Mystras Didaskaleion**
 - Schwerpunkt auf Divination und Kartenkunst
 
 Elysia bemerkt, dass die Hände des Händlers verdreht oder falsch herum wirken. Nach der vollständigen Zahlung wird der Vertrag verbrannt.

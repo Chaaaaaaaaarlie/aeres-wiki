@@ -13,7 +13,7 @@ Mehrere Mitglieder der Gruppe bewegen sich in Rhusion unter künstlich aufgebaut
 - **[[Hjolda]]** -> Handwerksidentität aus dem [[Tigerauge]]; Details im Vault noch lückenhaft
 - **[[Zion]]** -> **Audoma**, gesprochener Alias beim erneuten Sammeln der Gruppe in Session 7
 - **[[Hjolda]]** -> **Crescenzia**, gesprochener Alias in Session 7
-- **[[Elysia]]** -> vermutlich **Ganyme / Ganime**, aus **Chios**, Adeptin eines **Degasterions / Didaskaleons** (Schreibung unsicher)
+- **[[Elysia]]** -> **Ganyme**, aus **Chios**, Adeptin des **Mystras Didaskaleions**
 
 ## Einordnung
 
