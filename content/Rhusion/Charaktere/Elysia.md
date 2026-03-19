@@ -1,7 +1,9 @@
 ---
-tags: [charakter, spielercharakter]
+tags:
+  - charakter
+  - spielercharakter
 klasse: Gestaltwandlerin / Druidin
-herkunft: Wüste / Kiosk
+herkunft: Wüste / Khios
 status: aktiv
 ---
 
