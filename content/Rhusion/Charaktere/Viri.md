@@ -40,7 +40,7 @@ Als Viri das Wort „wachsen" sprach, resonierte es wie ein Echo.
 
 ## Aspasia-Verbindung
 
-Viri ist **wegen Aspasia** zur Hochzeit gekommen. Details unklar, aber Aspasia hat ihr geholfen – oder sollte helfen.
+Viri ist nicht als Gast zur Hochzeit gekommen, sondern weil sie Sokars Männer heilen sollte, die im Tempel lagen.
 
 ## Bisherige Sessions
 
