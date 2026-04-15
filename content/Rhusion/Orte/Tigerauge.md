@@ -63,8 +63,19 @@ Als der Händler eine Stichflamme in die Feuerschale warf, breiteten sich die Sc
 - Im Gegenzug soll im [[Tigerauge]] ein **hochwertiges physisches Imitat** des Betrachters hergestellt werden
 - Der Händler stellte dafür ein Schreiben an den Betreiber des [[Bernsteinauge]]s aus
 
+## Session 9: Beholder-Abholung
+
+In [[Session 9 - 15.04.2026]] wird das fertige Beholder-Imitat abgeholt:
+- Jai präsentiert ein taxidermisches Imitat – optisch überzeugend, aber zu groß für den Beutel der tiefen Taschen
+- Rugir spricht Jai mit „du" an → Jai setzt einen **psychischen Stich** (Con-ST DC 14; Rugir besteht; *„Du bist hier in meinem Haus"*)
+- Gegen **5 Gold** schrumpft Jai das Objekt temporär (~1 Minute); die Gruppe packt es gerade noch in den Beutel
+- Das Imitat enthält offenbar eine eingebettete **Botschaft Jais** – bei Chloro Verdes Identify „erwacht das Ding zum Leben" (Cliffhanger)
+
+Bestätigt: Jai verfügt über **Telepathie** (Sion im Bernsteinauge) und **Psychic Damage**. Verdacht auf teuflisch-infernale Natur bleibt bestehen.
+
 ## Verknüpfungen
 
+- [[Session 9 - 15.04.2026]]
 - [[Session 8 - 18.03.2026]]
 - [[Zion]] – Blutpakt, Identität „Eden"
 - [[Hjolda]] – Identität erhalten

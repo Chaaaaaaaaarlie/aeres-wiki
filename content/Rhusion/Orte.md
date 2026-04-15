@@ -15,6 +15,7 @@ Relevante Orte und Schauplätze in Rhusion:
 - [[Gähnender Schacht]]
 - [[Hospiz St. Haramador]]
 - [[Kalazar-Statue]]
+- [[Pontor-Viertel]]
 - [[Salzhund]]
 - [[Tigerauge]]
 - [[Tuchmacherviertel]]

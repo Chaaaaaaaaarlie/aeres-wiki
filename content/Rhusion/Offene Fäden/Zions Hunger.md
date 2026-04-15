@@ -41,6 +41,17 @@ In [[Session 8 - 18.03.2026]] wird die Manifestation aggressiver:
 - Danach erscheint eine **kahlrasierte, rauchende Katze mit glühenden Augen** und einem unnatürlich breiten Maul, die beansprucht, Zions Seele gehöre **ihr**
 - Gleichzeitig stabilisiert in der Vision ausgerechnet **sein eigener Schatten** kurz den Sturz in die Iris
 
+In [[Session 9 - 15.04.2026]] neue Erkenntnisse:
+- Die Katze beansprucht sowohl **Zion als auch seine Schwester**: *„Du gehörst mir. Deine Schwester gehört mir."*
+- Zion schlägt zurück: Der Vertrag sei einseitig, er habe nie die Seele verkauft
+- Die Katze verweist auf den erfüllten **Wunsch im Wald** (Archfey-Pakt) als Grundlage ihres Anspruchs
+- Die Katze **erschrickt** mitten in der Konfrontation und verschwindet – was sie aufgeschreckt hat, ist unbekannt
+- Vor [[Chloro Verde]]: **Zions Schatten kauert sich hinter ihm zusammen**, anstatt sich zu vergrößern – erste bekannte Manifestation von „Angst" des Schattens gegenüber einem anderen Machtträger
+
+## Zusammenhang: Schwester im Schwert
+
+Die **junge weibliche Stimme** aus früheren Träumen ist vermutlich die Schwester, die in der Klinge gebunden ist. Die Katzengestalt behauptet, auch die Schwester zu „besitzen". → Hunger, Schwester und Katzengestalt könnten alle auf denselben Archfey-Ursprung zurückgehen.
+
 ## Fragen
 
 - [ ] Was ist die Natur dieses Hungers? Fluch? Pakt? Herkunft?
@@ -49,13 +60,17 @@ In [[Session 8 - 18.03.2026]] wird die Manifestation aggressiver:
 - [ ] Hat der [[Blutpakt des Tigerauge]] den Schatten aktiviert?
 - [ ] Warum zeigt sich die Verzögerung inzwischen auch außerhalb des Tigerauges?
 - [ ] Wer oder was ist die katzenhafte Gestalt im Traum?
-- [ ] Warum behauptet sie, Zions Seele gehöre bereits ihr?
+- [ ] Was hat sie aufgeschreckt und verschwinden lassen?
+- [ ] Warum behauptet sie, Zions Seele gehöre bereits ihr – und dass die Schwester ihr ebenfalls gehöre?
+- [ ] Warum kauert Zions Schatten vor [[Chloro Verde]]? Erkennt er eine überlegene Macht?
 - [ ] Stehen Hunger, Schatten und Blutpakt in Konkurrenz zueinander oder sind sie dieselbe Macht?
 
 ## Verknüpfungen
 
+- [[Session 9 - 15.04.2026]]
 - [[Session 8 - 18.03.2026]]
 - [[Zion]]
 - [[Elysia]]
 - [[Blutpakt des Tigerauge]]
+- [[Chloro Verde]] – Schatten kauert vor ihr
 - [[Kalazar-Statue]] – Elysia will Zion fernhalten

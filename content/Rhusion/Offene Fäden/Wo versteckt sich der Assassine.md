@@ -18,12 +18,27 @@ Blinder alter Händler **Fenderra**:
 
 Ein **Sumpfgebiet oder Feuchtwald** in der Nähe von Rhusion.
 
+## Update Session 9
+
+[[Chloro Verde]] bestätigt in [[Session 9 - 15.04.2026]]:
+- Der Tabaxi-Assassin hat sich **bereits entfernt**
+- Sie weiß, wo er **gehaust hat** und **mit wem**
+- Diese Information ist ihr Teil des Tauschgeschäfts (Beholder-Imitat gegen Informationen)
+- Die **Unbekannte Frau** (Glatze, Cobaltaugen, Unterarm-Tattoos) steht in Verbindung mit dem Assassinen; zuletzt gesehen im **Gerberviertel**
+
+→ Cliffhanger: Übergabe des Imitats lief noch nicht abgeschlossen
+
 ## Offene Fragen
 
-- [ ] Wo genau liegt dieses Gebiet?
-- [ ] Ist er noch dort oder bereits weitergezogen?
+- [ ] Wo genau hat der Assassine gehaust?
+- [ ] Mit wem war er zusammen?
+- [ ] Was beinhaltet Chloro Verdes vollständige Information?
+- [ ] Wo ist die Unbekannte Frau jetzt (nach dem Gerberviertel)?
 
 ## Verknüpfungen
 
-- [[Tabaxi-Assassine]]
+- [[Verdächtige/Tabaxi-Assassine]]
+- [[Verdächtige/Unbekannte Frau]]
+- [[Chloro Verde]]
 - [[Hjolda]]
+- [[Session 9 - 15.04.2026]]

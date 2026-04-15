@@ -27,6 +27,7 @@ status: aktiv
 - [[Session 6 - 04.03.2026]]
 - [[Session 7 - 08.03.2026]]
 - [[Session 8 - 18.03.2026]]
+- [[Session 9 - 15.04.2026]]
 
 ## Bereiche
 
@@ -43,13 +44,17 @@ status: aktiv
 - [ ] Wer ist die [[Unbekannte Frau]] (Glatze, Cobaltaugen, Tattoos)?
 - [ ] Was bedeutet das [[Ritual der 13 Stiche]]? → Rugirs Bibliotheksforschung läuft
 - [ ] Was steckt hinter der [[Hafensabotage]]? → Dock-Netzwerk aktiv, neue Spur [[Zestus]]
-- [ ] Was ist [[Zion]]s Hunger? → Schatten reagiert inzwischen auch außerhalb des Tigerauges
-- [ ] Was steckt hinter dem [[Blutpakt des Tigerauge]]? → Schatten-Klausel für 15 Monate bestätigt
+- [ ] Was ist [[Zion]]s Hunger? → Katze beansprucht Zion UND die Schwester; Zions Schatten kauert vor Chloro Verde
+- [ ] Was ist mit Zions **Schwester im Schwert**? → Archfey-Fluch; mögliche Lösung: eigener Körper (Rugir?)
+- [ ] Was steckt hinter dem [[Offene Fäden/Blutpakt des Tigerauge]]? → Schatten-Klausel für 15 Monate bestätigt
 - [ ] Codewort für den [[Gähnender Schacht]] noch ungenutzt
 - [ ] Was ist mit dem seltenen **Samen**, den [[Hjolda]] sucht?
-- [ ] Was löst die [[Kalazar-Statue]] am Hypodrom aus? → Hjolda, Elysia betroffen
+- [ ] Was löst die [[Kalazar-Statue]] am Hypodrom aus? → Hjolda, Elysia betroffen; auch Apokrator-Statue löst Reaktion bei Elysia aus
 - [ ] [[Tabulei]] läuft zeitnah ab → [[Viri]] braucht Folgelösung
-- [ ] Welche Rolle spielen [[Bernsteinauge]], [[Doruk Val]] und [[Chloro Verde]]? → Imitations-Betrachter / Köder-Plan läuft
+- [ ] Welche Rolle spielen [[Bernsteinauge]], [[Doruk Val]] und [[Chloro Verde]]? → Imitat übergeben, Cliffhanger: Identify-Zauber, Beholder „erwacht"
+- [ ] Was trägt [[Elysia]] „in sich"? → erwähnte einen Freund / geteilte Existenz
+- [ ] Amphitheater des Polemos im Pontor-Viertel → Gladiatorenkämpfe angekündigt
+- [ ] Wer ist die **Capitanin** der [[Zestus]]? (Erdgenasi, bisher unbekannte Figur)
 
 ## Wichtige NSCs
 
@@ -59,4 +64,5 @@ status: aktiv
 - [[Princeps Orpheon von Lutaxa]] – Stadtoberhaupt
 - [[Bruder Kalvet]] – Tempelvorsteher Hospiz, hat Tabulei ausgestellt
 - [[Schwester Elva]] – Ordensschwester, ehem. Söldnerin, Viris direkte Ansprechpartnerin
-- [[Doruk Val]] – Kapitän/Leitfigur auf der [[Zestus]]
+- [[Doruk Val]] – Tortel auf der [[Zestus]]; vermittelt zu Chloro Verde
+- [[Schwester Elva]] – Ordensfrau im [[Hospiz St. Haramador]], koordiniert Viri

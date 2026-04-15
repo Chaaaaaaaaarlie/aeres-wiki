@@ -45,15 +45,29 @@ In Session 8 zeigt sich deutlicher, dass er nicht nur Händler, sondern ein **ei
 - Zusätzliche Bedingung: Falls die Gruppe das Versteck der Verschwörer aushebt, soll der Betreiber des Bernsteinauges bei interessanten Funden das **erste Angebot** machen dürfen
 - Der Deal mit dem [[Tigerauge]] gilt nach nachträglicher Klärung als **belastbarer Schutzpakt**, nicht nur als lose Absichtserklärung
 
+## Session 9: Inszenierter Einbruch
+
+Der Plan wird in [[Session 9 - 15.04.2026]] ausgeführt:
+- Elysia wirkt **Fog Cloud** um den Eingang
+- [[Viri]] öffnet das Schloss mit improvisierten Dietrichen (Haarnadeln), zweiter Versuch mit Nachteil nach Hjoldas Mending
+- [[Zion]] tritt als schwarze Tabaxi ein
+- Alarm (rotes Licht) löst aus; drei **Gazer**-ähnliche Kreaturen erscheinen – sofort vom Tiefling-Betreiber telepathisch in Schach gehalten
+- Tiefling kommuniziert telepathisch mit Sion: *„Werf sie rum"*; setzt Keramikschalen und Statuetten um
+- Der echte Beholder wird **unsichtbar gemacht**; Tiefling: *„Lauft nicht, rennt"*
+- Gruppe flieht mit Pass Without Trace (Elysia); Wachen reagieren auf den Nebel
+
+Das Imitat enthält offenbar eine eingebettete Botschaft von Jai ([[Tigerauge]]) – bei Chloro Verdes Identify-Zauber „erwacht das Ding zum Leben" (Cliffhanger Session 9).
+
 ## Offene Fragen
 
 - [ ] Wer kontrolliert den Ort tatsächlich?
 - [ ] Was genau weiß der Betreiber über [[Chloro Verde]] und den Verschwörungszirkel?
 - [ ] Verbindung zur [[Hafensabotage]]?
-- [ ] Verbindung oder Konkurrenz zum [[Tigerauge]]?
+- [ ] Welche Botschaft ist im Imitat versteckt – und warum hat Jai sie eingebettet?
 
 ## Verknüpfungen
 
+- [[Session 9 - 15.04.2026]]
 - [[Session 8 - 18.03.2026]]
 - [[Session 7 - 08.03.2026]]
 - [[Session 6 - 04.03.2026]]

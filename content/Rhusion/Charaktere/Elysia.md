@@ -75,6 +75,7 @@ Die Konstruktion passt so gut zu ihr, dass sie die Rolle unmittelbar in der [[Dr
 - **[[Session 4 – Rhusion, zweiter Tag]]**: Weiße Spinne in Viris Ärmel. Telepathische Verbindung zu Viri im Laden.
 - **[[Session 5 – Papiere, Pässe und Päckchen]]**: Überklettert Stadtmauer als Spinne. Erkundet Kasareiviertel. Spricht mit Tiefling über Kalazar. Lässt Wahrsagerin Tarot legen. Passiert Tor als Schakal an Patrizier-Familie.
 - **[[Session 7 - 08.03.2026]]**: Kauft im [[Tigerauge]] eine falsche Identität auf Raten. Verdient in der [[Dreiankerkrone]] mit Tarot über mehrere Stunden **5 Gold**. Wird später nahe dem Tigerauge von Angreifern mit Bezug auf das [[Ritual der 13 Stiche]] überfallen und schlägt den Hinterhalt zurück.
+- **[[Session 9 - 15.04.2026]]**: Führt die Tarnung beim Bernsteinauge-Einbruch aus (Fog Cloud, Pass Without Trace). Reaktion auf Apokrator-Statue wie bei [[Kalazar-Statue]] (Kopfschmerz). Offenbart: trägt „das Schicksal von noch jemandem" in sich. Zieht **Glücksrad verkehrt** vor der Chloro-Verde-Begegnung. Verdient tagsüber 2 Gold mit Tarot-Legen.
 
 ## Verknüpfungen
 
@@ -85,3 +86,4 @@ Die Konstruktion passt so gut zu ihr, dass sie die Rolle unmittelbar in der [[Dr
 - [[Zions Hunger]]
 - [[Halbling-Wahrsagerin]]
 - [[Kalazar-Statue]]
+- [[Chloro Verde]] – Glücksrad-Warnung vor der Begegnung

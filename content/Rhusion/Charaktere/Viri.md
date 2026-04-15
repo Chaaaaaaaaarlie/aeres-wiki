@@ -50,6 +50,7 @@ Viri ist nicht als Gast zur Hochzeit gekommen, sondern weil sie Sokars Männer h
 - **[[Session 4 – Rhusion, zweiter Tag]]**: Führt Verhör beim Halbling-Händler. Erhält weißen Trauerschleier.
 - **[[Session 5 – Papiere, Pässe und Päckchen]]**: Alleine ins Hospiz. Zwei Heilwunder. Überzeugungswurf (16, DC 12) → Tabulei erhalten. Elysia als Spinne in ihrem Ärmel dabei.
 - **[[Session 7 - 08.03.2026]]**: Liest im [[Fall der Offenbarung]] im [[Bernsteinauge]] eine neue, noch ungeordnete Prophezeiungs-Passage.
+- **[[Session 9 - 15.04.2026]]**: Mitternachtsgespräch mit [[Zion]] – er enthüllt das Schwert-Geheimnis seiner Schwester. Viri schlägt einen eigenen Körper für die Schwester vor. Behandelt Elmar Kassar (Sperkulose, Nat-20-Diagnose, Symptomlinderung). Philosophisches Gespräch über Selbstopfer. Begleitet die Gruppe zu [[Chloro Verde]].
 
 ## Verknüpfungen
 
@@ -60,3 +61,4 @@ Viri ist nicht als Gast zur Hochzeit gekommen, sondern weil sie Sokars Männer h
 - [[Unbekannte Frau]] – Beschreibung erhalten
 - [[Elysia]]
 - [[Fall der Offenbarung]]
+- [[Zion]] – kennt das Schwert-Geheimnis
