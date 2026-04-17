@@ -5,11 +5,11 @@ status: behandelt (Sperkulose)
 
 # Elmar Kassar
 
-Schreiberling und Historiker im **Pontor-Viertel** (berginnere Kavernenstadt Rhusions). Hausbedienstete vorhanden.
+Schreiberling und Historiker im **Pont-Viertel** (berginnere Kavernenstadt Rhusions). Hausbedienstete vorhanden.
 
 ## Auftrag
 
-Vom [[Hospiz St. Haramador]] an [[Viri]] vermittelt (Zuweisung durch [[Schwester Elva]] in [[Session 9 - 15.04.2026]]). Adresse: hinter dem Pontor, am **Brunnen des Apokrators**.
+Vom [[Hospiz St. Haramador]] an [[Viri]] vermittelt (Zuweisung durch [[Schwester Elva]] in [[Session 9 - 15.04.2026]]). Adresse: hinter dem Ponttor, am **Brunnen des Apokrators**.
 
 ## Gesundheitszustand
 

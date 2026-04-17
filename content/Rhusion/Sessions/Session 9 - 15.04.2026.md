@@ -1,14 +1,14 @@
 ---
 tags: [session, session-9]
 datum: 2026-04-15
-ort: Rhusion – Salzhund, Bernsteinauge, Tigerauge, Hospiz St. Haramador, Pontor-Viertel, Haus Kassar, Zestus, Kanalisation
+ort: Rhusion – Salzhund, Bernsteinauge, Tigerauge, Hospiz St. Haramador, Pont-Viertel, Haus Kassar, Zestus, Kanalisation
 ---
 
 # Session 9 – 15.04.2026
 
 ## Zusammenfassung
 
-Die Gruppe vollzieht die inszenierte Finte: Sion bricht verkleidet ins [[Bernsteinauge]] ein, der Tiefling-Betreiber hält seine Gazers in Schach und lässt den echten Beholder unsichtbar verschwinden. Das Imitat wird bei [[Tigerauge]]-Händler Jai abgeholt – für 5 Gold schrumpft Jai es kurz genug für den **Beutel der tiefen Taschen**. Tagsüber: [[Viri]] behandelt einen an Sperkulose erkrankten Schreiberling im Pontor-Viertel. [[Rugir]] besucht das Amphitheater des Polemos. [[Elysia]] zieht beim Kontakt mit Chloro Verde das Glücksrad – verkehrt herum.
+Die Gruppe vollzieht die inszenierte Finte: Sion bricht verkleidet ins [[Bernsteinauge]] ein, der Tiefling-Betreiber hält seine Gazers in Schach und lässt den echten Beholder unsichtbar verschwinden. Das Imitat wird bei [[Tigerauge]]-Händler Jai abgeholt – für 5 Gold schrumpft Jai es kurz genug für den **Beutel der tiefen Taschen**. Tagsüber: [[Viri]] behandelt einen an Sperkulose erkrankten Schreiberling im Pont-Viertel. [[Rugir]] besucht das Amphitheater des Polemos. [[Elysia]] zieht beim Kontakt mit Chloro Verde das Glücksrad – verkehrt herum.
 
 Am Abend erscheinen Chloro Verdes Leute in einer Gasse und führen die Gruppe durch die Kanalisation zu ihrer Chefin. Cliffhanger: Chloro Verde wirkt Silence und Identify auf das Imitat – etwas erwacht darin. Session-Ende.
 
@@ -111,7 +111,7 @@ Elysia schlägt vor, die Übergabe auf den Abend zu verschieben – glaubwürdig
 
 Die Gruppe kauft unterwegs 25 warme Backwaren (50 Kupfer) und betritt das Hospiz.
 
-[[Viri]] nimmt am stillen Morgengebet der Ordensgeschwister teil (halbe Stunde). Bruder Kalvet ist krank (verdorbener Magen). [[Schwester Elva]] übergibt Viri die Tagesaufgabe: Hausbesuch bei **Elmar Kassar** im Pontor-Viertel – Adresse am **Brunnen des Apokrators**.
+[[Viri]] nimmt am stillen Morgengebet der Ordensgeschwister teil (halbe Stunde). Bruder Kalvet ist krank (verdorbener Magen). [[Schwester Elva]] übergibt Viri die Tagesaufgabe: Hausbesuch bei **Elmar Kassar** im Pont-Viertel – Adresse am **Brunnen des Apokrators**.
 
 Viri überredet Elva erfolgreich (Überzeugungswurf mit Vorteil), Rugir ihr Zimmer für ~1 Stunde zur Verfügung zu stellen.
 
@@ -126,10 +126,10 @@ Während dessen verteilen Sion, Viri und Elysia die 25 Backwaren an Hospiz-Patie
 
 ---
 
-### Szene 8 – Pontor: Das Bergviertel
-**Ort:** Pontor-Viertel (in den Berg gehöhlte Kavernenstadt)
+### Szene 8 – Ponttor & Pont-Viertel: Das Bergviertel
+**Ort:** Pont-Viertel (in den Berg gehöhlte Kavernenstadt)
 
-Das Pontor ist ein massiv befestigter, in den Berg gehauener Stadtteil (Minas-Tirith-artig) mit Ballisten und schwachem bläulichen Leuchten an den Schanzen. Besseres Viertel, ordentliche Steinhäuser.
+Das **Ponttor** ist massiv befestigt, mit Ballisten und schwachem bläulichen Leuchten an den Schanzen. Dahinter liegt das **Pont-Viertel**: in den Berg gehauener Stadtteil (Minas-Tirith-artig), Besseres Viertel, ordentliche Steinhäuser.
 
 **Torpassage mit schwierigem Wächter:**
 - Wächter zweifelt an Zions Geschichte (Schmied im falschen Viertel) → Viri rettet es mit dem Wachstafel-Auftrag
@@ -137,7 +137,7 @@ Das Pontor ist ein massiv befestigter, in den Berg gehauener Stadtteil (Minas-Ti
 
 **Der Apokrator-Brunnen:**
 Rugir und Zion bestehen History-Würfe und erfahren:
-- Der **Apokrator** = Kataklysmus-Champion, auch bekannt als **Tristoromemnon** (Dreifachbeschenkte), **Trismyrios** (Dreifachgesalbte), **Aias** oder **Predateon**
+- Der **Apokrator** = Kataklysmus-Champion, auch bekannt als **Trisdoromemnon** (Dreifachbeschenkte), **Trismyrios** (Dreifachgesalbte), **Aias** oder **Predatheon**
 - Von mehr als einem Gott gesegnet – sehr selten
 - Besaß **unstillbare Gier nach Beute** und die Fähigkeit, die Gestalt zu verändern
 - Was mit ihm geschah, ist Quelle zahlreicher widersprüchlicher Legenden
@@ -147,7 +147,7 @@ Rugir und Zion bestehen History-Würfe und erfahren:
 
 ---
 
-### Szene 9 – Elmar Kassar: Schreiberling im Pontor-Viertel
+### Szene 9 – Elmar Kassar: Schreiberling im Pont-Viertel
 **Ort:** Haus Kassar
 
 Ein wohlhabender Schreiberling: ausgemergelt, blutiges Spucktuch, Fieber, Nachtschweiß, wochenlanger Husten, kaum Appetit.
@@ -164,7 +164,7 @@ Kassars Antwort:
 ---
 
 ### Szene 10 – Rugirs Abstecher: Amphitheater des Polemos
-**Ort:** Pontor-Viertel, Amphitheater
+**Ort:** Pont-Viertel, Amphitheater
 
 Rugir besucht das **Amphitheater des Polemos** (Kriegsgott). Fünf Statuen von fünf Kataklysmus-Champions. Ankündigungen bevorstehender Gladiatorenkämpfe. Rugir nimmt es zur Kenntnis und schließt sich wieder der Gruppe an.
 
@@ -225,8 +225,6 @@ Elysia vergrößert das Imitat aus dem Beutel. Chloro wirkt sofort **Silence** u
 
 Zions Schatten – im Angesicht von Chloros wachsendem Eigenschatten – **versteckt sich hinter ihm** (kauert sich zusammen).
 
-> *„Und plötzlich erwacht das Ding zum Leben…"*
-
 Session-Ende. Cliffhanger.
 
 ---
@@ -236,8 +234,8 @@ Session-Ende. Cliffhanger.
 - **Zions Schwester** lebt als Seele im Schwert; Ursache: Archfey-Fluch nach einem unbedachten Wunsch. Eine mögliche Lösung: ein eigener Körper (Golem-/Konstruktmagie?)
 - **Die Katzengestalt** beansprucht beide – Zion und die Schwester. Sie ist geschreckt von etwas, das die Gruppe nicht sieht.
 - **Jai (Tigerauge)** hat psychische Angriffsfähigkeiten; kommuniziert telepathisch. Sein Shrink-Effekt ist temporär (~1 Minute), kostete 5 Gold.
-- **Apokrator/Tristoromemnon**: Kataklysmus-Champion mit unstillbarer Gier nach Beute und Gestaltwandel. [[Elysia]] reagiert wie bei der Kalazar-Statue.
-- **Elmar Kassar**: Schreiberling im Pontor-Viertel, hat Sperkulose. Weiß: Tyrannenmutter und Obsidian-Drachen im Kataklysmus.
+- **Apokrator/Trisdoromemnon**: Kataklysmus-Champion mit unstillbarer Gier nach Beute und Gestaltwandel. [[Elysia]] reagiert wie bei der Kalazar-Statue.
+- **Elmar Kassar**: Schreiberling im Pont-Viertel, hat Sperkulose. Weiß: Tyrannenmutter und Obsidian-Drachen im Kataklysmus.
 - **Elysia trägt einen Freund in sich**: Geistbegleiter oder geteilte Existenz, Natur noch unbekannt.
 - **Chloro Verde** ist eine Informationshändlerin mit eigenem unterirdischen Territorium, bewachtem Kanalisationsnetz, eigenem Schatten-Phänomen und Zugang zu Informationen über Assassin und Unbekannte Frau.
 - **Capitanin der Zestus** ist eine Erdgenasi – bisher noch unbekannte Spielerin.

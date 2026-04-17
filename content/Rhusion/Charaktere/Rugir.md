@@ -65,7 +65,7 @@ Kein direkter Treffer auf die **7 Kerzen** oder die **13 Stiche**. Spezialist f�
 - **[[Session 3 – Die Nacht danach]]**: Erster zum Sterbenden vor. Legt Alarmzauber. Katalogisiert die Rätsel der Nacht.
 - **[[Session 4 – Rhusion, zweiter Tag]]**: Passiert Kontrollposten mit Akademieabzeichen. Streichelt Straßenkatze.
 - **[[Session 5 – Papiere, Pässe und Päckchen]]**: Drei Stunden in der Daskirion. Findet Rahmen für infernale Rituale. Verlässt pünktlich zum Mittagsläuten. Schlägt vor, Toten-Papiere zu stehlen → von Viri abgelehnt.
-- **[[Session 9 - 15.04.2026]]**: Beschwört Eule (Familiaris) erfolgreich im Hospiz-Zimmer; sendet Nachricht an den Tortel. Bekommt psychischen Stich von Jai ([[Tigerauge]]) für informelle Ansprache (DC 14, bestanden). Besucht **Amphitheater des Polemos** im Pontor-Viertel (5 Champions-Statuen, Gladiatorenkämpfe angekündigt). Führt die Gruppe zu [[Chloro Verde]].
+- **[[Session 9 - 15.04.2026]]**: Beschwört Eule (Familiaris) erfolgreich im Hospiz-Zimmer; sendet Nachricht an den Tortel. Bekommt psychischen Stich von Jai ([[Tigerauge]]) für informelle Ansprache (DC 14, bestanden). Besucht **Amphitheater des Polemos** im Pont-Viertel (5 Champions-Statuen, Gladiatorenkämpfe angekündigt). Führt die Gruppe zu [[Chloro Verde]].
 
 ## Verknüpfungen
 

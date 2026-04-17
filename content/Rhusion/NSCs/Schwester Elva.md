@@ -26,7 +26,7 @@ Beim Heilwunder am Erd-Genasi: beißt sich in den Daumen. Bezeichnet Viri danach
 ## Session 9
 
 In [[Session 9 - 15.04.2026]] übernimmt Elva die Koordination, da Bruder Kalvet krank ist (verdorbener Magen):
-- Übergibt [[Viri]] eine neue Tagesaufgabe: Besuch bei **Elmar Kassar** im Pontor-Viertel
+- Übergibt [[Viri]] eine neue Tagesaufgabe: Besuch bei **Elmar Kassar** im Pont-Viertel
 - Erlaubt [[Rugir]] die Nutzung ihres Zimmers für eine Stunde (Ritualbeschwörung)
 - Humorvolle Bemerkung über Rugir: *„Ihr habt mir nicht gesagt, dass ihr mit so wohlaussehenden Wesen umherreist."*
 - Zu ihrer ruhenden Zimmergenossin: *„Wer leiden will, muss lieben."* (nach Rugirs Schnarchen-Kommentar)

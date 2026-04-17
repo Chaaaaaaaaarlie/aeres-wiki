@@ -53,7 +53,7 @@ status: aktiv
 - [ ] [[Tabulei]] läuft zeitnah ab → [[Viri]] braucht Folgelösung
 - [ ] Welche Rolle spielen [[Bernsteinauge]], [[Doruk Val]] und [[Chloro Verde]]? → Imitat übergeben, Cliffhanger: Identify-Zauber, Beholder „erwacht"
 - [ ] Was trägt [[Elysia]] „in sich"? → erwähnte einen Freund / geteilte Existenz
-- [ ] Amphitheater des Polemos im Pontor-Viertel → Gladiatorenkämpfe angekündigt
+- [ ] Amphitheater des Polemos im Pont-Viertel → Gladiatorenkämpfe angekündigt
 - [ ] Wer ist die **Capitanin** der [[Zestus]]? (Erdgenasi, bisher unbekannte Figur)
 
 ## Wichtige NSCs

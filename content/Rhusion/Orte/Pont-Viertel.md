@@ -3,7 +3,7 @@ tags: [ort, rhusion, bergviertel, aktiv]
 status: erkundet (Session 9)
 ---
 
-# Pontor-Viertel
+# Pont-Viertel
 
 In den **Berg gemauerter Stadtteil** von Rhusion – eine gewaltige Kaverne mit monumentalen Stützsäulen, darin gepflegte Steinhäuser. Besseres Viertel, nicht Adel, aber weit über dem Hafenmilieu.
 
@@ -16,7 +16,7 @@ In den **Berg gemauerter Stadtteil** von Rhusion – eine gewaltige Kaverne mit 
 
 ## Zugang
 
-Das **Pontor-Tor**: stark befestigt, mit Ballisten und schwachem bläulichen Leuchten an den Schanzen. Nadelöhr-Passage; Wachen kontrollieren Papiere und sind auf Regelverstöße fixiert.
+Das **Ponttor**: stark befestigt, mit Ballisten und schwachem bläulichen Leuchten an den Schanzen. Nadelöhr-Passage; Wachen kontrollieren Papiere und sind auf Regelverstöße fixiert.
 
 ## Bekannte Orte
 
@@ -27,7 +27,7 @@ Das **Pontor-Tor**: stark befestigt, mit Ballisten und schwachem bläulichen Leu
 
 ## Der Apokrator
 
-Statue am Brunnen zeigt einen Heros mit Speer, Sichel und Symbolik mehrerer Götter. Rugir und Zion identifizieren ihn als **Tristoromemnon** / **Trismyrios** / **Aias** / **Predateon**:
+Statue am Brunnen zeigt einen Heros mit Speer, Sichel und Symbolik mehrerer Götter. Rugir und Zion identifizieren ihn als **Trisdoromemnon** / **Trismyrios** / **Aias** / **Predatheon**:
 - Kataklysmus-Champion, von mehr als einem Gott gesegnet
 - Unstillbare Gier nach Beute, Gestaltwandler
 - Was mit ihm geschah: Quelle vieler widersprüchlicher Legenden; Verehrung nicht unumstritten
