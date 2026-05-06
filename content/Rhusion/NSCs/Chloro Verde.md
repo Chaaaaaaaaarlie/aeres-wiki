@@ -48,12 +48,20 @@ Die Kanalisation unter Rhusion zeigt deutlich magische Prägung:
 - Ihr Informationsnetz ist so gut, dass die Straßen von Rhusion bereits am selben Tag von dem inszenierten Einbruch im Bernsteinauge tuscheln
 - Gilt laut Dritten als jemand, der **Lügen schwer durchgehen lässt**
 
-## Cliffhanger (Ende Session 9)
+## Auflösung des Cliffhangers (Session 10)
 
-Chloro Verde wirkt Identify auf das Beholder-Imitat. Etwas in ihm „erwacht". Sie beugt sich auf die Gruppe zu – ihr mentale Aura drückt gegen die Köpfe der Charaktere.
+Identify ergibt: das Imitat hat keine echte Beholder-Signatur, aber die dämonisch-infernale Aura eines Verbündeten oder ehemaligen Schützlings ist klar lesbar. Chloro toleriert die „Fälschung" – sie hatte primär Interesse an dem **Träger-Signal**, nicht am Beholder selbst. Ihre Augen werden kurz rauchig-grün; etwas anderes in ihrer Kanalisation grölt auf, was sie mit einem Zischen abkanzelt.
 
-- [ ] Was hat Identify ergeben? Erkennt sie die Fälschung?
-- [ ] Warum wird Jais Stimme/Botschaft im Imitat aktiv?
+Sie verlangt einen Bericht zur Methode (Viri besteht Persuasion DC 15) und nutzt **Mund-stilllege**-Magie passiv gegen Zion.
+
+Sie liefert dafür:
+- Aufenthaltsort der Helfer: [[Krokodil-Versteck]] in der [[Talglichtgasse]]
+- Identifikation des Gegners als **[[Rakshasa]]** (umgedrehte Hände, Macht statt Verträge)
+- Reaktion auf das Sieben-Kerzen-Tattoo: grüner Schleier, Glyphen-Vibration → bestätigt infernale Signatur
+
+Geschäftsschluss: Ein Informationshandel im Tausch (sie bekommt mehr über das Tattoo, falls die Gruppe etwas herausfindet).
+
+Geschwächt: Ihre Goliaths ließen sich von ihr im Vergleich zur Gruppe **schief stehen**; sie hat klar Respekt für das, was die Gruppe geschafft hat.
 
 ## Offene Fragen
 

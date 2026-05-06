@@ -11,7 +11,7 @@ priorität: hoch
 
 Der Vertrag wurde in einer Flasche mit Wachssiegel verwahrt – im Regal am Tresen, zugänglich für beide Seiten.
 
-In [[Session 8 - 18.03.2026]] übersetzte [[Rugir]] den infernalisch formulierten Vertrag teilweise.
+In [[Session 8 - 18.03.2026]] übersetzte [[Rugir]] den infernalischen Vertrag teilweise.
 
 **Belastbare Inhalte:**
 - Ausgangsleistung: Identität / Dokumente im Gegenwert von **15 Gold**
@@ -36,6 +36,14 @@ Am Ende der Session warf der Händler eine Stichflamme in die Feuerschale. Die S
 - [ ] Hat der Pakt den Schatten beeinflusst?
 - [ ] Was passiert, wenn der Vertrag gebrochen wird?
 - [ ] Was bedeutet die Klausel zur „freien Seele" praktisch?
+
+## Session 10 – Neue Information
+
+Jai ist mit hoher Wahrscheinlichkeit **selbst Rakshasa** (umgedrehte Hände, gesehen von [[Elysia]]). Damit ist der „Blutpakt" möglicherweise nicht klassisch infernal, sondern eine **Macht-Übertragung im Stil eines Rakshasa** – nicht durch Vertrag und Blut, sondern durch reine Macht-Akkumulation. Das passt zu Chloro Verdes Aussage:
+
+> *„Andere Teufel zehren von Verträgen und Blut. Für diese Kreaturen zählt Macht. Viel Macht."*
+
+Implikation für Zions Schwester / das Schwert: Wenn Jai ein Rakshasa ist und der Tigerauge-Mechanismus „Tribut über psychischen Stich + Schrumpfen" ein Macht-Transfer war, ist die Bindung möglicherweise **nicht aufhebbar durch klassische Vertragsbruch-Magie**.
 
 ## Verknüpfungen
 

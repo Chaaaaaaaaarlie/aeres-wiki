@@ -19,7 +19,7 @@ Verhülltes Gesicht, Schleier. Hinter dem Schleier eine eigenartige Karkophonie 
 
 Sein Name ist laut nachträglicher Prüfung sehr wahrscheinlich **Jai**.
 
-In Session 8 reagiert er spürbar auf Anspielungen zu **7 Kerzen** und **13 Stichen**, weist die Gruppe aber von dem Thema weg und warnt vor Mächten „zwischen Himmel und den neun Höllen". Außerdem wird klar, dass seine Verträge **infernalisch formuliert** sind und er mit juristischen Spitzfindigkeiten arbeitet. Nach aktuellem Gruppenstand wirkt es wahrscheinlich, dass Jai selbst **dämonischer oder teuflischer Natur** ist, auch wenn das im Spiel noch nicht hart bewiesen wurde.
+In Session 8 reagiert er spürbar auf Anspielungen zu **7 Kerzen** und **13 Stichen**, weist die Gruppe aber von dem Thema weg und warnt vor Mächten „zwischen Himmel und den neun Höllen". Außerdem wird klar, dass seine Verträge **infernalisch formuliert** sind und er mit juristischen Spitzfindigkeiten arbeitet. Nach aktuellem Gruppenstand wirkt es wahrscheinlich, dass Jai selbst **dämonischer Natur** ist, auch wenn das im Spiel noch nicht hart bewiesen wurde.
 
 ## Angebot (bestätigt)
 
@@ -71,7 +71,21 @@ In [[Session 9 - 15.04.2026]] wird das fertige Beholder-Imitat abgeholt:
 - Gegen **5 Gold** schrumpft Jai das Objekt temporär (~1 Minute); die Gruppe packt es gerade noch in den Beutel
 - Das Imitat enthält offenbar eine eingebettete **Botschaft Jais** – bei Chloro Verdes Identify „erwacht das Ding zum Leben" (Cliffhanger)
 
-Bestätigt: Jai verfügt über **Telepathie** (Sion im Bernsteinauge) und **Psychic Damage**. Verdacht auf teuflisch-infernale Natur bleibt bestehen.
+Bestätigt: Jai verfügt über **Telepathie** (Sion im Bernsteinauge) und **Psychic Damage**. Verdacht auf dämonisch-infernale Natur bleibt bestehen.
+
+## Session 10 – Schwerwiegender Verdacht
+
+[[Elysia]] hat als einzige bestätigt: **Jai hat umgedrehte Hände**. In Verbindung mit Chloro Verdes Aufklärung, dass der gesuchte Assassine ein **[[Rakshasa]]** ist, dessen natürliche Form genau dieses Merkmal trägt, ist Jai mit hoher Wahrscheinlichkeit:
+
+- Selbst der gesuchte Rakshasa, oder
+- Ein anderer Rakshasa
+
+Die Gruppe hat in Session 10 bewusst entschieden, diesen Verdacht **nicht** in den Briefen an [[Aspasia Cortiso]] und den Orc-Auftraggeber zu erwähnen, weil:
+- Jai unter dem **Schutz des [[Bernsteinauge]]s** steht
+- ein offener Konflikt das Bernsteinauge gegen die Gruppe wenden würde
+- die Beweislage allein über Elysias Beobachtung dünn ist
+
+Konsequenz: Jai bleibt vorerst unangetastet, aber unter scharfer Beobachtung.
 
 ## Verknüpfungen
 

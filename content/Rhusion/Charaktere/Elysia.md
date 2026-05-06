@@ -77,6 +77,16 @@ Die Konstruktion passt so gut zu ihr, dass sie die Rolle unmittelbar in der [[Dr
 - **[[Session 7 - 08.03.2026]]**: Kauft im [[Tigerauge]] eine falsche Identität auf Raten. Verdient in der [[Dreiankerkrone]] mit Tarot über mehrere Stunden **5 Gold**. Wird später nahe dem Tigerauge von Angreifern mit Bezug auf das [[Ritual der 13 Stiche]] überfallen und schlägt den Hinterhalt zurück.
 - **[[Session 9 - 15.04.2026]]**: Führt die Tarnung beim Bernsteinauge-Einbruch aus (Fog Cloud, Pass Without Trace). Reaktion auf Apokrator-Statue wie bei [[Kalazar-Statue]] (Kopfschmerz). Offenbart: trägt „das Schicksal von noch jemandem" in sich. Zieht **Glücksrad verkehrt** vor der Chloro-Verde-Begegnung. Verdient tagsüber 2 Gold mit Tarot-Legen.
 
+## Der Freund in mir – Name bekannt: Ventus
+
+In [[Session 10 - 06.05.2026]] ruft Elysia ihren inneren Freund unter dem Namen **[[Ventus]]** an, nachdem sie als Spinne im Schlüsselloch einer Innentür im [[Krokodil-Versteck]] feststeckt. Ventus antwortet nicht in Worten, sondern manifestiert sich als spürbare Anwesenheit, ähnlich einem inneren Selbstgespräch, und bewegt Elysias Körper aktiv (dreht sie auf den Rücken), wodurch sie sich befreien kann.
+
+## Session 10 – Spielmechanisch neu / sichtbar
+- Wildshape: Spinne (1,5 h)
+- Sterneform: **Kelch** (Chalice) – Heilung beim Cantrip-Cast
+- Keule mit wüstensand-ockerbeigem Wirkungsmuster (kosmetische Manifestation, evtl. mit Ventus oder Sandgott verknüpft)
+- Erfolgreiche Persuasion/Intimidation DC 14 gegen Söldner trotz Plus 0
+
 ## Verknüpfungen
 
 - [[Zion]] – Nächtliches Gespräch, kennt seinen Hunger; soll Statue meiden

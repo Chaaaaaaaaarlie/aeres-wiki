@@ -55,6 +55,12 @@ Die Fink-Statue **vor dem Hypodrom** verursacht bei Hjolda jedes Mal ein unangen
 - **[[Session 4 – Rhusion, zweiter Tag]]**: Erkundet Kasareiviertel. Vision im Fink-Tempel. Kauft grünen Stoff beim Tabaxi-Händler. Passiert Kontrollposten.
 - **[[Session 5 – Papiere, Pässe und Päckchen]]**: Wartet mit [[Zion]] im Zum gesplitterten Zahn. Erzählt von ihrem Wald und dem Samen. Erhält gefälschte Handwerker-Identität vom Tigerauge.
 
+## Session 10 – als NPC mitgeführt
+- War nicht von der Spielerin geführt; vom DM mitgewürfelt
+- **Cure Wounds** (1d8+3) auf [[Zion]] in der Down-Phase
+- Backup mit **Longbow** und **Hunter's Mark** im Kampf
+- Erinnert während der Diskussion über die Briefe an das übergebene **Schutzdokument** des [[Bernsteinauge]]s für [[Tigerauge]] – Argument, das die Gruppe dazu bewegt, Jais Namen aus den Briefen zu lassen
+
 ## Verknüpfungen
 
 - [[Aspasia Cortiso]] – hilft bei der Samen-Suche

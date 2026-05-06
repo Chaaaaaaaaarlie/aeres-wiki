@@ -52,6 +52,13 @@ Viri ist nicht als Gast zur Hochzeit gekommen, sondern weil sie Sokars Männer h
 - **[[Session 7 - 08.03.2026]]**: Liest im [[Fall der Offenbarung]] im [[Bernsteinauge]] eine neue, noch ungeordnete Prophezeiungs-Passage.
 - **[[Session 9 - 15.04.2026]]**: Mitternachtsgespräch mit [[Zion]] – er enthüllt das Schwert-Geheimnis seiner Schwester. Viri schlägt einen eigenen Körper für die Schwester vor. Behandelt Elmar Kassar (Sperkulose, Nat-20-Diagnose, Symptomlinderung). Philosophisches Gespräch über Selbstopfer. Begleitet die Gruppe zu [[Chloro Verde]].
 
+## Session 10
+- **Persuasion DC 15** gegen [[Chloro Verde]] erfolgreich (Plus 5) – rettet die Gruppe aus stiller Drohlage
+- **Healing Word** auf [[Zion]] (rettet ihn aus 0 HP zusammen mit Hjoldas Cure Wounds)
+- **Magic Missile (Lvl 1)**, 3 Geschosse auf einen einzelnen Söldner – schwerer Treffer
+- Dolch-Versuch in Robe – peinlich (7 zum Treffen, beschämtes Wegstecken)
+- Initiierte das **Zurückhalten** des Jai-Verdachts in den Briefen an die Auftraggeber
+
 ## Verknüpfungen
 
 - [[Aspasia Cortiso]]

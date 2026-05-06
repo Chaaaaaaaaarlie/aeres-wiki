@@ -72,6 +72,16 @@ In [[Session 9 - 15.04.2026]]: Als [[Chloro Verde]]s Schatten länger wird, **ve
 - **[[Session 7 - 08.03.2026]]**: Nutzt den Alias **Audoma** beim erneuten Sammeln der Gruppe. Beobachtet ein stärkeres Eigenleben seines Schattens auf dem Weg zum [[Bernsteinauge]]. Erfährt dort, dass seine Klinge vermutlich von **Zestar** aus Rhusion stammt, und reagiert auffällig auf einen präparierten Vogel.
 - **[[Session 9 - 15.04.2026]]**: Führt den inszenierten Einbruch im [[Bernsteinauge]] als schwarze Tabaxi durch. Enthüllt [[Viri]] das Geheimnis seiner Schwester im Schwert. Bemerkt, dass sein Schatten vor [[Chloro Verde]] kauert. Gespräch mit Viri über Selbstschutz und Wert des eigenen Lebens.
 
+## Alte Bekannte – Wiederkehr
+
+- **[[Harkas]]**: alter Mitstreiter Zions, taucht in [[Session 10 - 06.05.2026]] als Verstärkung am [[Krokodil-Versteck]] auf. Schwarze, magisch vibrierende Klinge, Großschwert einhändig, sehr direkter Kampfstil. Sion erkennt ihn an der Silhouette auf der Hofmauer.
+
+## Session 10 – Status
+- HP-Kritisch in S10 (Sion ging an 0 HP zu Boden, geheilt durch Hjolda Cure Wounds + Viris Healing Word)
+- Mehrere Net-20 Crits im Verlauf
+- AOE-Cantrip mit Force Damage erfolgreich gewirkt (Dex-Save DC 13)
+- Schatten weiterhin maximal komprimiert versteckt – siehe [[Offene Fäden/Zions Hunger]]
+
 ## Verknüpfungen
 
 - [[Zions Hunger]]

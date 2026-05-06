@@ -67,6 +67,17 @@ Kein direkter Treffer auf die **7 Kerzen** oder die **13 Stiche**. Spezialist f�
 - **[[Session 5 – Papiere, Pässe und Päckchen]]**: Drei Stunden in der Daskirion. Findet Rahmen für infernale Rituale. Verlässt pünktlich zum Mittagsläuten. Schlägt vor, Toten-Papiere zu stehlen → von Viri abgelehnt.
 - **[[Session 9 - 15.04.2026]]**: Beschwört Eule (Familiaris) erfolgreich im Hospiz-Zimmer; sendet Nachricht an den Tortel. Bekommt psychischen Stich von Jai ([[Tigerauge]]) für informelle Ansprache (DC 14, bestanden). Besucht **Amphitheater des Polemos** im Pont-Viertel (5 Champions-Statuen, Gladiatorenkämpfe angekündigt). Führt die Gruppe zu [[Chloro Verde]].
 
+- **Dragon's Breath** (auf Familiar wirkbar) – erstmals eingesetzt in [[Session 10 - 06.05.2026]] gegen die Söldner im [[Krokodil-Versteck]]
+- Erinnerung: Evocation Wizard – **Sculpt Spells**: Verbündete erleiden bei Cantrips/Cone-Sprüchen halben Schaden
+
+## Session 10 – Aktionen
+- Versendet zwei Briefe per **Eulen-Familiar**:
+  1. an **Aspasia Cortiso**
+  2. an den **Orc-Auftraggeber (Hauptmann)**
+  Inhalt: Talglichtgasse / Krokodil-Versteck als vermuteter Aufenthaltsort der Helfer; Bitte um Verstärkung. Bewusst **ohne** Tigerauge/Jai-Verdacht, auf Druck der Gruppe.
+- **Sleep**-Spell readied auf Wachhabenden, erfolgreich
+- Antwort darauf: Erscheint [[Harkas]] als Hilfe
+
 ## Verknüpfungen
 
 - [[Alabaster Kuratorium]]
