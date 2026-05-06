@@ -78,7 +78,7 @@ In [[Session 9 - 15.04.2026]]: Als [[Chloro Verde]]s Schatten länger wird, **ve
 
 ## Session 10 – Status
 - HP-Kritisch in S10 (Zion ging an 0 HP zu Boden, geheilt durch Hjolda Cure Wounds + Viris Healing Word)
-- Mehrere Net-20 Crits im Verlauf
+- Mehrere Nat-20 Crits im Verlauf
 - AOE-Cantrip mit Force Damage erfolgreich gewirkt (Dex-Save DC 13)
 - Schatten weiterhin maximal komprimiert versteckt – siehe [[Lore/Offene Fäden/Zions Hunger]]
 
