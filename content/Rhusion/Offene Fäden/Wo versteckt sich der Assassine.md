@@ -35,6 +35,14 @@ Ein **Sumpfgebiet oder Feuchtwald** in der Nähe von Rhusion.
 - [ ] Was beinhaltet Chloro Verdes vollständige Information?
 - [ ] Wo ist die Unbekannte Frau jetzt (nach dem Gerberviertel)?
 
+## Session 10 – Aufenthaltsort der Helfer aufgedeckt
+
+- Helfer hausen im [[Krokodil-Versteck]], [[Talglichtgasse]], nahe [[Alauntor]]
+- Mindestens 8–10 Bewaffnete (4 primitive Helmträger + 4 Söldner + ≥1 hinter gesicherter Innentür)
+- Anti-Nekromantie-Vorkehrungen durch eine weibliche **„Boss"** – siehe [[Offene Fäden/Die Boss hinter den Helfern]]
+- Der Assassin selbst ist **bereits weg** (Chloro Verde) – aber der Verdacht richtet sich nun konkret auf **Jai vom [[Tigerauge]]** als möglichen Rakshasa
+- Stand Session-Ende: Erdgeschoss gesichert, ein Söldner gefangen, Schritte aus dem OG nähern sich (Cliffhanger)
+
 ## Verknüpfungen
 
 - [[Verdächtige/Tabaxi-Assassine]]

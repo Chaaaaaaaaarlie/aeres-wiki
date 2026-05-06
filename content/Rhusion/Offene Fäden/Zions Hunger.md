@@ -65,6 +65,12 @@ Die **junge weibliche Stimme** aus früheren Träumen ist vermutlich die Schwest
 - [ ] Warum kauert Zions Schatten vor [[Chloro Verde]]? Erkennt er eine überlegene Macht?
 - [ ] Stehen Hunger, Schatten und Blutpakt in Konkurrenz zueinander oder sind sie dieselbe Macht?
 
+## Session 10
+
+- Zions Schatten ist **noch immer auf Achillessehnen-Größe** komprimiert versteckt; vermeidet jede zusätzliche Schattenoberfläche
+- Chloro Verde bemerkt Zion: *„Riecht an dir … Es ist nicht einer deiner Sorte. Aber wie ich sehe, bist du schon mehrfach besetzt."* – damit ist sowohl die Schwester im Schwert als auch der Rakshasa-Pakt sichtbar für sie
+- Keine direkte Konfrontation mit der Katzengestalt in dieser Session
+
 ## Verknüpfungen
 
 - [[Session 9 - 15.04.2026]]
