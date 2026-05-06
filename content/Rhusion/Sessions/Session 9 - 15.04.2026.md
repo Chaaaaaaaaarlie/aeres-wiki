@@ -1,4 +1,4 @@
----
+﻿---
 tags: [session, session-9]
 datum: 2026-04-15
 ort: Rhusion – Salzhund, Bernsteinauge, Tigerauge, Hospiz St. Haramador, Pont-Viertel, Haus Kassar, Zestus, Kanalisation
@@ -8,7 +8,7 @@ ort: Rhusion – Salzhund, Bernsteinauge, Tigerauge, Hospiz St. Haramador, Pont-
 
 ## Zusammenfassung
 
-Die Gruppe vollzieht die inszenierte Finte: Sion bricht verkleidet ins [[Bernsteinauge]] ein, der Tiefling-Betreiber hält seine Gazers in Schach und lässt den echten Beholder unsichtbar verschwinden. Das Imitat wird bei [[Tigerauge]]-Händler Jai abgeholt – für 5 Gold schrumpft Jai es kurz genug für den **Beutel der tiefen Taschen**. Tagsüber: [[Viri]] behandelt einen an Sperkulose erkrankten Schreiberling im Pont-Viertel. [[Rugir]] besucht das Amphitheater des Polemos. [[Elysia]] zieht beim Kontakt mit Chloro Verde das Glücksrad – verkehrt herum.
+Die Gruppe vollzieht die inszenierte Finte: Zion bricht verkleidet ins [[Bernsteinauge]] ein, der Tiefling-Betreiber hält seine Gazers in Schach und lässt den echten Beholder unsichtbar verschwinden. Das Imitat wird bei [[Tigerauge]]-Händler Jai abgeholt – für 5 Gold schrumpft Jai es kurz genug für den **Beutel der tiefen Taschen**. Tagsüber: [[Viri]] behandelt einen an Sperkulose erkrankten Schreiberling im Pont-Viertel. [[Rugir]] besucht das Amphitheater des Polemos. [[Elysia]] zieht beim Kontakt mit Chloro Verde das Glücksrad – verkehrt herum.
 
 Am Abend erscheinen Chloro Verdes Leute in einer Gasse und führen die Gruppe durch die Kanalisation zu ihrer Chefin. Cliffhanger: Chloro Verde wirkt Silence und Identify auf das Imitat – etwas erwacht darin. Session-Ende.
 
@@ -73,16 +73,16 @@ Viri versucht die Tür mit improvisierten Dietrichen (Haarnadeln) zu öffnen:
 ### Szene 4 – Der Einbruch im Bernsteinauge
 **Ort:** [[Bernsteinauge]]
 
-Als Sion (als schwarze Tabaxi) die Tür betritt, leuchtet der Laden in Rot auf – Alarmzauber. Drei kleine **Gazer**-ähnliche Wesen erscheinen, werden sofort vom Tiefling-Betreiber mental in Schach gehalten.
+Als Zion (als schwarze Tabaxi) die Tür betritt, leuchtet der Laden in Rot auf – Alarmzauber. Drei kleine **Gazer**-ähnliche Wesen erscheinen, werden sofort vom Tiefling-Betreiber mental in Schach gehalten.
 
 **Telepathisch** aus dem Hintergrund:
 > *„Nun los. Ich habe da ein paar Sachen hingelegt. Werf sie rum."*
 
-Sion wirft Keramikschalen um, hinterlässt Kratzspuren nahe dem Beholder-Sockel. Der Tiefling macht den echten Beholder **unsichtbar**. Letzte Telepathie: *„Lauft nicht, rennt."*
+Zion wirft Keramikschalen um, hinterlässt Kratzspuren nahe dem Beholder-Sockel. Der Tiefling macht den echten Beholder **unsichtbar**. Letzte Telepathie: *„Lauft nicht, rennt."*
 
-Sion flieht raus in den Nebel. Elysia wirkt sofort **Pass Without Trace**. Wachen bemerken den Nebel, rufen „Zu Hilfe!" – die Gruppe entwischt lautlos.
+Zion flieht raus in den Nebel. Elysia wirkt sofort **Pass Without Trace**. Wachen bemerken den Nebel, rufen „Zu Hilfe!" – die Gruppe entwischt lautlos.
 
-Auf der Straße: Sion nimmt wieder seine eigene Gestalt an.
+Auf der Straße: Zion nimmt wieder seine eigene Gestalt an.
 
 ---
 
@@ -117,11 +117,11 @@ Viri überredet Elva erfolgreich (Überzeugungswurf mit Vorteil), Rugir ihr Zimm
 
 Rugir beginnt die Ritualbeschwörung seiner **Eule** (Familiaris). Die alte Zimmergenossin von Elva platzt nach genau einer Stunde herein: „Einbrecher!" → Rugir muss neu ansetzen, schafft es aber letztendlich.
 
-Während dessen verteilen Sion, Viri und Elysia die 25 Backwaren an Hospiz-Patienten → große Dankbarkeit.
+Während dessen verteilen Zion, Viri und Elysia die 25 Backwaren an Hospiz-Patienten → große Dankbarkeit.
 
-**Gespräch zwischen Sion, Viri und Elysia (Hospiz-Flur):**
-- Sion stellt Viri ein Wolfsrudel-Dilemma: würde sie sich opfern? Viri: „Für andere Menschen – ja, wenn ich die Wahl hätte."
-- Sion warnt sie zärtlich: „Pass auf dich auf. Wie willst du jemanden schützen, wenn du tot bist?"
+**Gespräch zwischen Zion, Viri und Elysia (Hospiz-Flur):**
+- Zion stellt Viri ein Wolfsrudel-Dilemma: würde sie sich opfern? Viri: „Für andere Menschen – ja, wenn ich die Wahl hätte."
+- Zion warnt sie zärtlich: „Pass auf dich auf. Wie willst du jemanden schützen, wenn du tot bist?"
 - Elysia offenbart beiläufig: *„Ich trage das Schicksal von noch jemandem in mir"* – sie spricht von einem **Freund**, der „immer und überall, aber auch in mir" ist. Welcher Natur dieser Freund ist, bleibt vorerst offen.
 
 ---
@@ -254,16 +254,17 @@ Session-Ende. Cliffhanger.
 - [[Bernsteinauge]]
 - [[Tigerauge]]
 - [[Chloro Verde]]
-- [[Zions Hunger]]
-- [[Offene Fäden/Blutpakt des Tigerauge]]
+-[[Lore/Offene Fäden/Zions Hunger]]]
+- [[Lore/Offene Fäden/Blutpakt des Tigerauge]]
 - [[Hospiz St. Haramador]]
 - [[Schwester Elva]]
 - [[Zestus]]
-- [[Offene Fäden/Wo versteckt sich der Assassine]]
-- [[Hinweise/Infernale Bibliotheks-Forschung]]
+- [[Lore/Offene Fäden/Wo versteckt sich der Assassine]]
+- [[Lore/Hinweise/Infernale Bibliotheks-Forschung]]
 - [[Kalazar-Statue]]
-- [[Hintergrund/Der Große Kataklysmus]]
+- [[Lore/Hintergrund/Der Große Kataklysmus]]
 - [[Session 8 - 18.03.2026]]
 
 ---
 *Vorherige Session: [[Session 8 - 18.03.2026]]*
+

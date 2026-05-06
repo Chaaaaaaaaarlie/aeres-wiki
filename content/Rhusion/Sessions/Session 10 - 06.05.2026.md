@@ -12,9 +12,9 @@ Im Anschluss an den Cliffhanger aus [[Session 9 - 15.04.2026]] zieht [[Chloro Ve
 
 Auf dem Rückweg erkennt [[Elysia]] still: Jai vom [[Tigerauge]] hat dieselben **umgedrehten Hände**. Damit ist hochwahrscheinlich, dass Jai entweder der gesuchte Rakshasa selbst oder eines seiner Wesen ist. Die Gruppe wählt aus taktischen Gründen, diese Information **vor den Auftraggebern zurückzuhalten**, geht aber trotzdem zum Versteck weiter.
 
-Nach langer Comedy-of-Errors am Toreingang (Schloss, Mauer, Räuberleiter, Seil) gelangen alle in den Innenhof. Elysia kundschaftet als Spinne, bleibt im Schlüsselloch einer Innentür stecken, befreit sich nur über einen mentalen Hilferuf an ihren *„Freund in sich"*. Ein Versuch, einen Söldner telepathisch nach draußen zu locken, fliegt auf. Sion tritt die Tür ein – Initiative.
+Nach langer Comedy-of-Errors am Toreingang (Schloss, Mauer, Räuberleiter, Seil) gelangen alle in den Innenhof. Elysia kundschaftet als Spinne, bleibt im Schlüsselloch einer Innentür stecken, befreit sich nur über einen mentalen Hilferuf an ihren *„Freund in sich"*. Ein Versuch, einen Söldner telepathisch nach draußen zu locken, fliegt auf. Zion tritt die Tür ein – Initiative.
 
-Im Kampf gerät Sion einmal an 0 HP (Cure Wounds von [[Hjolda]] / Healing Word von [[Viri]] retten ihn), bevor **[[Harkas]]**, ein alter Mitstreiter Sions, mit schwarzer, magischer Klinge von der Mauer abspringt und sich in die Gegnergruppe wirft. [[Rugir]] aktiviert auf seinem Familiar **Dragon's Breath**. Elysia wechselt in die **Sterneform – Kelch** und heilt im Vorbeischlagen. Der erste Söldner-Berserker fällt, Harkas enthauptet einen weiteren animehaft. Auf Elysias Aufforderung lässt der letzte verwundete Söldner die Waffe sinken (Persuasion/Intimidation gegen DC 14 geschafft).
+Im Kampf gerät Zion einmal an 0 HP (Cure Wounds von [[Hjolda]] / Healing Word von [[Viri]] retten ihn), bevor **[[Harkas]]**, ein alter Mitstreiter Zions, mit schwarzer, magischer Klinge von der Mauer abspringt und sich in die Gegnergruppe wirft. [[Rugir]] aktiviert auf Harkas **Dragon's Breath**. Elysia wechselt in die **Sterneform – Kelch** und heilt im Vorbeischlagen. Der erste Söldner-Berserker fällt, Harkas enthauptet einen weiteren animehaft. Auf Elysias Aufforderung lässt der letzte verwundete Söldner die Waffe sinken (Persuasion/Intimidation gegen DC 14 geschafft).
 
 Cliffhanger: In dem Moment, in dem die Gruppe einen Gefangenen für die Befragung sichert, hört man **Schritte**, die von oben die Treppe herunterkommen.
 
@@ -128,7 +128,7 @@ Im Inneren (untere Etage hat keine Decke / offen zum Obergeschoss):
 - Laut DM-Klärung: oben Söldner, unten primitivere Gemüter
 - Eine weitere Tür im Obergeschoss in besserem Zustand → klar getarnter Bereich; hinter dieser Tür Stimmen → mindestens eine weitere Person
 
-Elysia versucht, durch das Schlüsselloch dieser Tür zu schlüpfen, **bleibt aber stecken** (Geschicklichkeit knapp verfehlt; Stärke −4 sowieso aussichtslos). Mehrere Versuche scheitern, das Schloss aufzubeißen (DC 15) oder sich freizuwinden.
+Elysia versucht, durch das Schlüsselloch dieser Tür zu schlüpfen, **bleibt aber stecken** (Geschicklichkeit knapp verfehlt; Stärke âˆ’4 sowieso aussichtslos). Mehrere Versuche scheitern, das Schloss aufzubeißen (DC 15) oder sich freizuwinden.
 
 In ihrer Not greift sie **mental** ins Innere:
 
@@ -146,10 +146,10 @@ Sie verlässt das Haus, wechselt im Schutz einer Kiste zurück in Eladrin-Gestal
 
 Die folgende Sequenz ist eine kollektive Würfelpleite mit Slapstick-Charakter:
 - Viri scheitert am Vorhängeschloss (DC 15) zweimal mit Haarspange
-- Viri scheitert dann an **Athletik DC 13** (Klettern auf Sions Schultern) und an einer Akrobatik-Probe
+- Viri scheitert dann an **Athletik DC 13** (Klettern auf Zions Schultern) und an einer Akrobatik-Probe
 - Elysia scheitert ebenfalls mehrfach an Akrobatik – „vielleicht sind es die Gase aus dem Unterschlupf"
-- Sion scheitert am **Sleight of Hand**, will fast die Tür eintreten
-- Schließlich: **Athletik mit Vorteil** (Rugir hängt sich auf der anderen Seite an ein Seil als Gegengewicht). Sion 19, Viri 15. Anschließend Group-Stealth (Sion 20) – noch immer unbemerkt
+- Zion scheitert am **Sleight of Hand**, will fast die Tür eintreten
+- Schließlich: **Athletik mit Vorteil** (Rugir hängt sich auf der anderen Seite an ein Seil als Gegengewicht). Zion 19, Viri 15. Anschließend Group-Stealth (Zion 20) – noch immer unbemerkt
 - Zion macht von innen das Tor auf
 
 > Zion: *„Ich schwöre, diese Scheißmauer. Ich habe davon jetzt ein Trauma."*
@@ -193,9 +193,9 @@ Wichtige Phasen:
 - [[Zion]] tritt die Tür auf, sticht ins Getümmel; ein **Berserker** mit Großaxt readied gegen ihn
 - [[Elysia]] **Guiding Bolt / Sacred Flame**-Klasse Effekte (Sterne aus den Augen)
 
-**Sions Down-Moment**
-- Der Berserker schlägt Zion die Axt **tief in den Rücken** – Sion geht **bewusstlos zu Boden** (HP 0)
-- [[Hjolda]] (NPC) wirkt **Cure Wounds** (1d8+3) auf Sion → wieder bei Bewusstsein
+**Zions Down-Moment**
+- Der Berserker schlägt Zion die Axt **tief in den Rücken** – Zion geht **bewusstlos zu Boden** (HP 0)
+- [[Hjolda]] (NPC) wirkt **Cure Wounds** (1d8+3) auf Zion → wieder bei Bewusstsein
 - [[Viri]] nutzt Bonus-Action **Healing Word** (statt Bless, das Konflikt mit dem Slot-Limit hatte)
 - Bonusrunde: Zion castet **Shield** als Reaction (AC 21), pariert den nachsetzenden Hieb
 
@@ -218,8 +218,8 @@ Wichtige Phasen:
 - Ihre **Keule** zeigt **wüstensand-ockerbeige** Adern, schält bei Treffern „Haut von den Knochen" – thematischer Wüstenschlag
 - Persuasion/Intimidation am Schluss gegen den letzten überlebenden Söldner: DC 14, mit Glück geschafft (Plus 0)
 
-**Sion**
-- Mehrere **Net-20 Crits** im Verlauf
+**Zion**
+- Mehrere **Nat-20 Crits** im Verlauf
 - AOE-Cantrip mit Force Damage (vermutlich Sword Burst, 6 Force Damage in 5 ft, Dex-Save DC 13) – nur ein Gegner schafft den Save nicht
 - Großschwert mit Power Attacks; reißt einem Gegner die Maske vom Gesicht – darunter ein **blutüberströmtes Gesicht mit furiosen Augen**
 
@@ -273,15 +273,16 @@ Session-Ende.
 - [[Bernsteinauge]]
 - [[Talglichtgasse]]
 - [[Krokodil-Versteck]]
-- [[Alauntor]]
-- [[Tuchmacher-Tor]]
+- [[Orte/Alauntor|Alauntor]]
+- [[Orte/Tuchmacher-Tor|Tuchmacher-Tor]]
 - [[Rakshasa]]
-- [[Offene Fäden/Wo versteckt sich der Assassine]]
-- [[Offene Fäden/Blutpakt des Tigerauge]]
-- [[Offene Fäden/Zions Hunger]]
-- [[Die Boss hinter den Helfern]]
+- [[Lore/Offene Fäden/Wo versteckt sich der Assassine]]
+- [[Lore/Offene Fäden/Blutpakt des Tigerauge]]
+- [[Lore/Offene Fäden/Zions Hunger]]
+-[[Lore/Offene Fäden/Die Boss hinter den Helfern]]]
 - [[Aspasia Cortiso]]
 - [[Session 9 - 15.04.2026]]
 
 ---
 *Vorherige Session: [[Session 9 - 15.04.2026]]*
+

@@ -71,7 +71,7 @@ In [[Session 9 - 15.04.2026]] wird das fertige Beholder-Imitat abgeholt:
 - Gegen **5 Gold** schrumpft Jai das Objekt temporär (~1 Minute); die Gruppe packt es gerade noch in den Beutel
 - Das Imitat enthält offenbar eine eingebettete **Botschaft Jais** – bei Chloro Verdes Identify „erwacht das Ding zum Leben" (Cliffhanger)
 
-Bestätigt: Jai verfügt über **Telepathie** (Sion im Bernsteinauge) und **Psychic Damage**. Verdacht auf dämonisch-infernale Natur bleibt bestehen.
+Bestätigt: Jai verfügt über **Telepathie** (Zion im Bernsteinauge) und **Psychic Damage**. Verdacht auf dämonisch-infernale Natur bleibt bestehen.
 
 ## Session 10 – Schwerwiegender Verdacht
 
@@ -94,7 +94,7 @@ Konsequenz: Jai bleibt vorerst unangetastet, aber unter scharfer Beobachtung.
 - [[Zion]] – Blutpakt, Identität „Eden"
 - [[Hjolda]] – Identität erhalten
 - [[Elysia]] – falsche Identität für Session 7
-- [[Blutpakt des Tigerauge]]
+- [[Lore/Offene Fäden/Blutpakt des Tigerauge]]
 - [[Augier]]
 - [[Halbling-Wahrsagerin]] – hat unabhängig auf Tigerauge hingewiesen
 - [[Falsche Identitäten]]

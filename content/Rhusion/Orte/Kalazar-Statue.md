@@ -33,4 +33,4 @@ Andere Personen auf dem Platz zeigen keine sichtbare Reaktion.
 - [[Hjolda]]
 - [[Elysia]]
 - [[Zion]]
-- [[Zions Hunger]]
+- [[Lore/Offene Fäden/Zions Hunger]]

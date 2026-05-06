@@ -38,7 +38,7 @@ In Session 8 zeigt sich deutlicher, dass er nicht nur Händler, sondern ein **ei
 - Von mehreren Kontakten als gefährlicher Knotenpunkt genannt
 - [[Doruk Val]] setzt den nächsten Fortschritt dort an: ausgestopfter Betrachter als Köder für [[Chloro Verde]]
 - [[Viri]] las hier im [[Fall der Offenbarung]] eine Prophezeiung
-- Der Händler identifizierte [[Zions Hunger|Zions]] Klinge als Arbeit von **Zestar** aus **Rhusion**; die Klinge selbst sei nicht magisch, das Gift jedoch potent
+- Der Händler identifizierte [[Lore/Offene Fäden/Zions Hunger|Zions]] Klinge als Arbeit von **Zestar** aus **Rhusion**; die Klinge selbst sei nicht magisch, das Gift jedoch potent
 - [[Zion]] kaufte hier einen präparierten Vogel für **2 Gold**; die Berührung löste eine bekannte Melodie und starkes Deja-vu aus
 - In Session 8 willigt der Betreiber ein, den **echten Betrachter** im Morgengrauen unsichtbar zu machen und den Diebstahl inszeniert zu melden, sofern die Gruppe bis dahin ein **hochwertiges physisches Imitat** beschafft
 - Als Teil derselben Abmachung erhalten die SCs einen **Beutel der tiefen Taschen**; als Anzahlung übergibt [[Zion]] die beiden Klingen aus dem Mordkomplott gegen [[Sokar Karioka]]
@@ -52,7 +52,7 @@ Der Plan wird in [[Session 9 - 15.04.2026]] ausgeführt:
 - [[Viri]] öffnet das Schloss mit improvisierten Dietrichen (Haarnadeln), zweiter Versuch mit Nachteil nach Hjoldas Mending
 - [[Zion]] tritt als schwarze Tabaxi ein
 - Alarm (rotes Licht) löst aus; drei **Gazer**-ähnliche Kreaturen erscheinen – sofort vom Tiefling-Betreiber telepathisch in Schach gehalten
-- Tiefling kommuniziert telepathisch mit Sion: *„Werf sie rum"*; setzt Keramikschalen und Statuetten um
+- Tiefling kommuniziert telepathisch mit Zion: *„Werf sie rum"*; setzt Keramikschalen und Statuetten um
 - Der echte Beholder wird **unsichtbar gemacht**; Tiefling: *„Lauft nicht, rennt"*
 - Gruppe flieht mit Pass Without Trace (Elysia); Wachen reagieren auf den Nebel
 

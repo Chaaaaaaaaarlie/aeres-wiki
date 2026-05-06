@@ -1,4 +1,4 @@
----
+﻿---
 tags: [ort, rhusion, versteck, talglichtgasse, ehemals-diebesgilde]
 status: aktiv – Kampfschauplatz, noch nicht abgeschlossen (Cliffhanger Session 10)
 ---
@@ -46,5 +46,6 @@ Baufälliges zweistöckiges Haus in der [[Talglichtgasse]]. Tür mit teilweise a
 - [[Talglichtgasse]]
 - [[Session 10 - 06.05.2026]]
 - [[Kreaturen/Rakshasa]]
-- [[Offene Fäden/Wo versteckt sich der Assassine]]
-- [[Offene Fäden/Die Boss hinter den Helfern]]
+- [[Lore/Offene Fäden/Wo versteckt sich der Assassine]]
+- [[Lore/Offene Fäden/Die Boss hinter den Helfern]]
+

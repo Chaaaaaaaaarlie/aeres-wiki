@@ -1,68 +1,62 @@
----
-tags: [kampagne, übersicht]
-status: aktiv
----
+# Willkommen
 
-# 🗺️ Rhusion – Kampagnen-Übersicht
+## Einstieg
 
-> *Eine Hochzeit. Ein Mord. Eine Stadt, die schweigt.*
+- [[Sessions/Session 10 - 06.05.2026|Aktuelle Session: Session 10]]
+- [[Lore/Hintergrund/Rhusion|Rhusion]]
+- [[Orte/Tigerauge|Tigerauge]]
+- [[Orte/Bernsteinauge|Bernsteinauge]]
+- [[Orte/Zestus|Zestus]]
+- [[Lore/Welt & Hintergrund|Welt & Hintergrund]]
 
-## Die Gruppe
+## Spieler
 
-| Charakter | Besonderheit |
-|---|---|
-| [[Rugir]] | Evocation Wizard · Alabaster Kuratorium · Name unsicher |
-| [[Zion]] | Kämpfer · Innerer Hunger · Schatten löst sich |
-| [[Viri]] | Aasimar · Ilmater-Jüngerin · Flügel · Tabulei |
-| [[Hjolda]] | Waldläuferin aus Irmetala · Sucht seltenen Samen |
-| [[Elysia]] | Gestaltwandlerin · Wüstenführerin · Tarot · Wahrsagerin befragt |
+- [[Spieler/Rugir|Rugir]]
+- [[Spieler/Zion|Zion]]
+- [[Spieler/Viri|Viri]]
+- [[Spieler/Hjolda|Hjolda]]
+- [[Spieler/Elysia|Elysia]]
 
-## Sessions
+## Wichtige NPC
 
-- [[Session 1 – Die Hochzeit]]
-- [[Session 2 – Unmittelbar nach dem Mord]]
-- [[Session 3 – Die Nacht danach]]
-- [[Session 4 – Rhusion, zweiter Tag]]
-- [[Session 5 – Papiere, Pässe und Päckchen]]
-- [[Session 6 - 04.03.2026]]
-- [[Session 7 - 08.03.2026]]
-- [[Session 8 - 18.03.2026]]
-- [[Session 9 - 15.04.2026]]
+- [[Lore/Politik/Sokar Karioka|Sokar Karioka]]
+- [[Lore/Politik/Aspasia Cortiso|Aspasia Cortiso]]
+- [[NPC/Harkas|Harkas]]
+- [[Lore/Politik/Princeps Orpheon von Lutaxa|Princeps Orpheon von Lutaxa]]
+- [[NPC/Bruder Kalvet|Bruder Kalvet]]
+- [[NPC/Schwester Elva|Schwester Elva]]
+- [[NPC/Doruk Val|Doruk Val]]
+- [[NPC/Chloro Verde|Chloro Verde]]
+
+## Aktuelle Fäden
+
+- [ ] Was steckt hinter dem [[Lore/Offene Fäden/Blutpakt des Tigerauge|Blutpakt des Tigerauge]]?
+- [ ] Wo versteckt sich der [[Lore/Verdächtige/Tabaxi-Assassine|Tabaxi-Assassine]]?
+- [ ] Wer ist die [[Lore/Verdächtige/Unbekannte Frau|Unbekannte Frau]]?
+- [ ] Was bedeutet das [[Lore/Hinweise/Ritual der 13 Stiche|Ritual der 13 Stiche]]?
+- [ ] Was steckt hinter der [[Lore/Hinweise/Hafensabotage|Hafensabotage]]?
+- [ ] Was ist mit [[Zion]]s Hunger?
+- [ ] Wie läuft die [[Lore/Offene Fäden/Tabulei|Tabulei]] für [[Viri]] weiter?
+- [ ] Welche Rolle spielen [[Orte/Bernsteinauge|Bernsteinauge]], [[NPC/Doruk Val|Doruk Val]], [[NPC/Chloro Verde|Chloro Verde]] und die [[Orte/Zestus|Zestus]]?
+
+## Letzte Sessions
+
+- [[Sessions/Session 10 - 06.05.2026|Session 10]]
+- [[Sessions/Session 9 - 15.04.2026|Session 9]]
+- [[Sessions/Session 8 - 18.03.2026|Session 8]]
+- [[Sessions/Session 7 - 08.03.2026|Session 7]]
+- [[Sessions/Session 6 - 04.03.2026|Session 6]]
+- [[Sessions/Session 5 – Papiere, Pässe und Päckchen|Session 5]]
+- [[Sessions/Session 4 – Rhusion, zweiter Tag|Session 4]]
+- [[Sessions/Session 3 – Die Nacht danach|Session 3]]
+- [[Sessions/Session 2 – Unmittelbar nach dem Mord|Session 2]]
+- [[Sessions/Session 1 – Die Hochzeit|Session 1]]
 
 ## Bereiche
 
-- [[Verdächtige]]
-- [[Hinweise & Spuren]]
+- [[Lore/Offene Fäden|Offene Fäden]]
+- [[Lore/Hinweise & Spuren|Hinweise & Spuren]]
+- [[Lore/Politik & Fraktionen|Politik & Fraktionen]]
+- [[Lore/Verdächtige|Verdächtige]]
+- [[Lore/Welt & Hintergrund|Welt & Hintergrund]]
 - [[Orte]]
-- [[Politik & Fraktionen]]
-- [[Offene Fäden]]
-- [[Welt & Hintergrund]]
-
-## Offene Fäden (Kurzübersicht)
-
-- [ ] Wo versteckt sich der [[Tabaxi-Assassine]]? → Sumpfwald-Vision ([[Hjolda]])
-- [ ] Wer ist die [[Unbekannte Frau]] (Glatze, Cobaltaugen, Tattoos)?
-- [ ] Was bedeutet das [[Ritual der 13 Stiche]]? → Rugirs Bibliotheksforschung läuft
-- [ ] Was steckt hinter der [[Hafensabotage]]? → Dock-Netzwerk aktiv, neue Spur [[Zestus]]
-- [ ] Was ist [[Zion]]s Hunger? → Katze beansprucht Zion UND die Schwester; Zions Schatten kauert vor Chloro Verde
-- [ ] Was ist mit Zions **Schwester im Schwert**? → Archfey-Fluch; mögliche Lösung: eigener Körper (Rugir?)
-- [ ] Was steckt hinter dem [[Offene Fäden/Blutpakt des Tigerauge]]? → Schatten-Klausel für 15 Monate bestätigt
-- [ ] Codewort für den [[Gähnender Schacht]] noch ungenutzt
-- [ ] Was ist mit dem seltenen **Samen**, den [[Hjolda]] sucht?
-- [ ] Was löst die [[Kalazar-Statue]] am Hypodrom aus? → Hjolda, Elysia betroffen; auch Apokrator-Statue löst Reaktion bei Elysia aus
-- [ ] [[Tabulei]] läuft zeitnah ab → [[Viri]] braucht Folgelösung
-- [ ] Welche Rolle spielen [[Bernsteinauge]], [[Doruk Val]] und [[Chloro Verde]]? → Imitat übergeben, Cliffhanger: Identify-Zauber, Beholder „erwacht"
-- [ ] Was trägt [[Elysia]] „in sich"? → erwähnte einen Freund / geteilte Existenz
-- [ ] Amphitheater des Polemos im Pont-Viertel → Gladiatorenkämpfe angekündigt
-- [ ] Wer ist die **Capitanin** der [[Zestus]]? (Erdgenasi, bisher unbekannte Figur)
-
-## Wichtige NSCs
-
-- [[Sokar Karioka]] † – Ork-Prinz, Opfer
-- [[Aspasia Cortiso]] – Braut, hilft Hjolda, Verbindung zu Viri
-- [[Harkas]] – Sokars Bruder, gefährlich
-- [[Princeps Orpheon von Lutaxa]] – Stadtoberhaupt
-- [[Bruder Kalvet]] – Tempelvorsteher Hospiz, hat Tabulei ausgestellt
-- [[Schwester Elva]] – Ordensschwester, ehem. Söldnerin, Viris direkte Ansprechpartnerin
-- [[Doruk Val]] – Tortel auf der [[Zestus]]; vermittelt zu Chloro Verde
-- [[Schwester Elva]] – Ordensfrau im [[Hospiz St. Haramador]], koordiniert Viri

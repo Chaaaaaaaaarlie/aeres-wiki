@@ -1,4 +1,4 @@
----
+﻿---
 tags: [ort, rhusion, bergviertel, aktiv]
 status: erkundet (Session 9)
 ---
@@ -11,7 +11,7 @@ In den **Berg gemauerter Stadtteil** von Rhusion – eine gewaltige Kaverne mit 
 
 - Minas-Tirith-artige Ästhetik: ausgehöhlter Berg, durch Säulen gestützt
 - Ordentliche, sauber gebaute Patrizierhäuser unter der Kaverne
-- Naviga­tion: Richtungspfeile nicht auf Pfählen, sondern an Hausecken – wirkt labyrinthisch für Fremde
+- Navigation: Richtungspfeile nicht auf Pfählen, sondern an Hausecken – wirkt labyrinthisch für Fremde
 - Tagsüber reger Betrieb; unterschiedliche Bevölkerungsschichten als Durchgangsverkehr
 
 ## Zugang
@@ -22,7 +22,7 @@ Das **Ponttor**: stark befestigt, mit Ballisten und schwachem bläulichen Leucht
 
 - **Brunnen des Apokrators**: Prominentes Wahrzeichen; eine Herosfigur, Speer, Sichel, heiliger Schein, Symbolik mehrerer Götter. Wird als Navigationspunkt genutzt.
   - [[Elysia]] bekommt in der Nähe Kopfschmerzen – wie bei der [[Kalazar-Statue]]
-- **Haus Kassar**: Gepflegter Schreiberling-Haushalt nahe dem Brunnen. Bewohner: [[NSCs/Elmar Kassar]] (Sperkulose, behandelt)
+- **Haus Kassar**: Gepflegter Schreiberling-Haushalt nahe dem Brunnen. Bewohner: [[NPC/Elmar Kassar]] (Sperkulose, behandelt)
 - **Amphitheater des Polemos**: Martialischer Kriegsgott-Tempel; fünf Champion-Statuen (Kataklysmus); Gladiatorenkämpfe angekündigt
 
 ## Der Apokrator
@@ -35,8 +35,9 @@ Statue am Brunnen zeigt einen Heros mit Speer, Sichel und Symbolik mehrerer Göt
 ## Verknüpfungen
 
 - [[Session 9 - 15.04.2026]]
-- [[NSCs/Elmar Kassar]]
+- [[NPC/Elmar Kassar]]
 - [[Elysia]] – Kopfschmerz-Reaktion
 - [[Kalazar-Statue]]
-- [[Hintergrund/Der Große Kataklysmus]]
-- [[Orte.md]]
+- [[Lore/Hintergrund/Der Große Kataklysmus]]
+- [[Orte]]
+

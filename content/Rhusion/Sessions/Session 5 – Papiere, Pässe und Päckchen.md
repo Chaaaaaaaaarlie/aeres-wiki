@@ -145,10 +145,10 @@ Pünktliche Rückkehr. Zwei Pakete, zwei Umschläge. Händler erklärt die Ident
 
 ## Verknüpfungen
 
-- [[Blutpakt des Tigerauge]]
+- [[Lore/Offene Fäden/Blutpakt des Tigerauge]]
 - [[Tabulei]]
 - [[Infernale Bibliotheks-Forschung]]
 - [[Halbling-Wahrsagerin]]
 - [[Kalazar-Statue]]
 - [[Der Große Kataklysmus]]
-- [[Zions Hunger]]
+- [[Lore/Offene Fäden/Zions Hunger]]

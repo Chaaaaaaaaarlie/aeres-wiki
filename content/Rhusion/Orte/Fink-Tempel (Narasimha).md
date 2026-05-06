@@ -18,7 +18,7 @@ Aus den Nüstern der Fink-Statue tritt Möhren-Weihrauch.
 
 Weisheitswurf 21. Vision empfangen. Blinder alter Händler **Fenderra** als unerwarteter Gesprächspartner.
 
-→ Details: [[Wo versteckt sich der Assassine]]
+→ Details: [[Lore/Offene Fäden/Wo versteckt sich der Assassine]]
 
 ## Die Fink-Statue am Hypodrom
 
@@ -27,5 +27,5 @@ Eine Fink-Statue **vor dem Hypodrom** (nicht im Tempel) erzeugt bei [[Hjolda]] j
 ## Verknüpfungen
 
 - [[Hjolda]]
-- [[Wo versteckt sich der Assassine]]
-- [[Tabaxi-Assassine]]
+- [[Lore/Offene Fäden/Wo versteckt sich der Assassine]]
+- [[Lore/Verdächtige/Tabaxi-Assassine]]

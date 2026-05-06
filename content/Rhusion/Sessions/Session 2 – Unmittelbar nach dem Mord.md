@@ -68,11 +68,11 @@ Zurück an Land. Der Bewusstlose lässt sich nicht wiederbeleben. [[Rugir]] übe
 
 **Kein Tabaxi-Assassine. Ein Mensch – unter Illusion verborgen. Eine Ablenkung.**
 
-Der wahre [[Tabaxi-Assassine]] ist entkommen.
+Der wahre [[Lore/Verdächtige/Tabaxi-Assassine]] ist entkommen.
 
 ## Verknüpfungen
 
-- [[Tabaxi-Assassine]] – entkommen, wahrer Täter
+- [[Lore/Verdächtige/Tabaxi-Assassine]] – entkommen, wahrer Täter
 - [[Falsche Fährte]] – Mensch unter Illusion
 - [[Magische Mordwaffe]] – forensischer Befund
 - [[Harkas]] – am Limit

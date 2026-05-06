@@ -12,7 +12,7 @@ Die Hochzeit fand hier statt – bewusst im Herzen der Stadt, nicht im privaten 
 
 ## Gefundene Hinweise
 
-- [[Eingeritzte Zeichen]] mit Tierblut (Nebengang) → [[Ritual der 13 Stiche]]
+- [[Eingeritzte Zeichen]] mit Tierblut (Nebengang) → [[Lore/Hinweise/Ritual der 13 Stiche]]
 - Eisenhut-Geruch in einem Nebengang
 - Dolch + ganze und zerbrochene Ampulle in einer Nische
 
@@ -26,5 +26,5 @@ Die Hochzeit fand hier statt – bewusst im Herzen der Stadt, nicht im privaten 
 ## Verknüpfungen
 
 - [[Sokar Karioka]]
-- [[Tabaxi-Assassine]]
+- [[Lore/Verdächtige/Tabaxi-Assassine]]
 - [[Fanatischer Attentäter]]

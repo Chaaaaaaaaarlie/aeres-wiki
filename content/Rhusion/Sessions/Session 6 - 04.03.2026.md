@@ -71,8 +71,8 @@ Doruk bietet Gegengeschäft an: Die Gruppe soll einen **ausgestopften Betrachter
 - [[Doruk Val]]
 - [[Chloro Verde]]
 - [[Bernsteinauge]]
-- [[Ritual der 13 Stiche]]
-- [[Zions Hunger]]
+- [[Lore/Hinweise/Ritual der 13 Stiche]]
+- [[Lore/Offene Fäden/Zions Hunger]]
 
 ---
 *Nächste Session: [[Session 7 - 08.03.2026]]*

@@ -52,7 +52,7 @@ Gesicherte Beute:
 - **Rationen**
 - **Aufzeichnungen** unbekannten Inhalts
 
- ![[Pasted image 20260309081407.png]]
+ ![[_Files/Pasted image 20260309081407.png]]
 
 ### Szene 4 – Wiederzusammentreffen und Aliasnamen
 **Ort:** Straßen Rhusions
@@ -102,8 +102,8 @@ Wichtige Beobachtungen:
 - [[Bernsteinauge]]
 - [[Fall der Offenbarung]]
 - [[Falsche Identitäten]]
-- [[Ritual der 13 Stiche]]
-- [[Zions Hunger]]
+- [[Lore/Hinweise/Ritual der 13 Stiche]]
+- [[Lore/Offene Fäden/Zions Hunger]]
 - [[Doruk Val]]
 
 ---

@@ -103,8 +103,8 @@ Die Gruppe betritt das Tigerauge.
 ## Verknüpfungen
 
 - [[Unbekannte Frau]] – Beschreibung nun bekannt
-- [[Tabaxi-Assassine]] – goldene Augen bestätigt durch Vision
-- [[Wo versteckt sich der Assassine]] – Sumpfwald-Hinweis
+- [[Lore/Verdächtige/Tabaxi-Assassine]] – goldene Augen bestätigt durch Vision
+- [[Lore/Offene Fäden/Wo versteckt sich der Assassine]] – Sumpfwald-Hinweis
 - [[Hafensabotage]] – Lagerhäuser noch unbesucht
 - [[Tigerauge]] – was bietet der Schwarzmarkt?
 

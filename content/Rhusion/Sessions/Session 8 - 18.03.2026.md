@@ -94,16 +94,16 @@ Session-Ende.
 - Das [[Bernsteinauge]] arbeitet über einen belastbaren **Schutzpakt** mit dem [[Tigerauge]] zusammen, wenn dabei [[Chloro Verde]] hereingelegt wird.
 - Die Gruppe erhält einen **Beutel der tiefen Taschen** gegen zwei Klingen aus dem Mordkomplott.
 - Plan für die nächste Etappe: Alarm-Inszenierung am [[Bernsteinauge]], Abholung des falschen Betrachters vor Sonnenaufgang, dann Kontaktversuch zu [[Chloro Verde]].
-- [[Zions Hunger]] eskaliert von Schattenphänomen zu aktiver, sprechender Traum-Entität.
+- [[Lore/Offene Fäden/Zions Hunger]] eskaliert von Schattenphänomen zu aktiver, sprechender Traum-Entität.
 
 ## Verknüpfungen
 
 - [[Bernsteinauge]]
 - [[Tigerauge]]
 - [[Chloro Verde]]
-- [[Zions Hunger]]
-- [[Blutpakt des Tigerauge]]
-- [[Ritual der 13 Stiche]]
+- [[Lore/Offene Fäden/Zions Hunger]]
+- [[Lore/Offene Fäden/Blutpakt des Tigerauge]]
+- [[Lore/Hinweise/Ritual der 13 Stiche]]
 - [[Doruk Val]]
 - [[Sokar Karioka]]
 - [[Session 7 - 08.03.2026]]

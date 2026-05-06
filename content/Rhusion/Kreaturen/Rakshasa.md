@@ -1,4 +1,4 @@
----
+﻿---
 tags: [kreatur, dämon, rakshasa, gestaltwandler]
 status: aktiv – aktuell verfolgt durch die Gruppe (Session 10)
 ---
@@ -18,7 +18,7 @@ Eine **Dämonenspezies**, die sich grundlegend von klassischen vertrags- oder bl
 
 - Das Sieben-Kerzen-/Dreizehn-Stiche-Tattoo zeigt eine klare dämonische/infernale Signatur (grüner Schleier bei Chloros Identify-Geste, leuchtende und vibrierende Glyphen)
 - Die Helfer des Rakshasa sind nicht auf Verträge eingespannt, sondern auf direkte Loyalität / Furcht
-- Reaktion in [[Zion]]s Schatten ([[Zions Hunger]]): kauert klein, möglichst kein Schatten werfend
+- Reaktion in [[Zion]]s Schatten [[Lore/Offene Fäden/Zions Hunger]]]): kauert klein, möglichst kein Schatten werfend
 
 ## Bekannte Verdachtsfälle
 
@@ -36,6 +36,7 @@ Eine **Dämonenspezies**, die sich grundlegend von klassischen vertrags- oder bl
 - [[Session 10 - 06.05.2026]]
 - [[Tigerauge]]
 - [[Chloro Verde]]
-- [[Offene Fäden/Wo versteckt sich der Assassine]]
-- [[Offene Fäden/Blutpakt des Tigerauge]]
-- [[Hinweise/Infernale Bibliotheks-Forschung]]
+- [[Lore/Offene Fäden/Wo versteckt sich der Assassine]]
+- [[Lore/Offene Fäden/Blutpakt des Tigerauge]]
+- [[Lore/Hinweise/Infernale Bibliotheks-Forschung]]
+

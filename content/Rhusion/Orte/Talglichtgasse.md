@@ -5,7 +5,7 @@ status: aktiv – Versteckort
 
 # Talglichtgasse
 
-Gassengewirr in Rhusion am anderen Ende der Stadt vom Hafen aus, **in der Nähe des [[Alauntor]]s**. Erkennbar an einem **Turm mit bronzener Kuppel**, an dem man vorbeigeht, um in das eigentliche Gewirr einzubiegen.
+Gassengewirr in Rhusion am anderen Ende der Stadt vom Hafen aus, **in der Nähe des [[Orte/Alauntor|Alauntor]]s**. Erkennbar an einem **Turm mit bronzener Kuppel**, an dem man vorbeigeht, um in das eigentliche Gewirr einzubiegen.
 
 ## Atmosphäre
 
@@ -22,6 +22,6 @@ Gassengewirr in Rhusion am anderen Ende der Stadt vom Hafen aus, **in der Nähe 
 
 ## Verknüpfungen
 
-- [[Alauntor]]
+- [[Orte/Alauntor|Alauntor]]
 - [[Krokodil-Versteck]]
 - [[Session 10 - 06.05.2026]]

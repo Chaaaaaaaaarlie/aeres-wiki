@@ -29,7 +29,7 @@ Der [[Princeps Orpheon von Lutaxa|Princeps]] gibt der Gruppe einen **Freifahrtsc
 - [[Viri]] wird vom Flüchtenden schwer getroffen → fällt bewusstlos
 - [[Zion]] springt dem Davonschwimmenden ins Wasser nach und stoppt ihn
 
-**Ergebnis:** Der Verfolgte war ein **Mensch** – illusionsverkleidete Ablenkung. Der wahre [[Tabaxi-Assassine]] ist entkommen.
+**Ergebnis:** Der Verfolgte war ein **Mensch** – illusionsverkleidete Ablenkung. Der wahre [[Lore/Verdächtige/Tabaxi-Assassine]] ist entkommen.
 
 > *Der, den die Gruppe quer durch die ganze Stadt gehetzt hatte, war der Falsche.*
 
@@ -66,9 +66,9 @@ Rugir legt **Alarmzauber** um die Hochbetten. Die Nacht bringt jedem etwas ander
 ## Verknüpfungen
 
 - [[Falsche Fährte]] – wer hat die Ablenkung organisiert?
-- [[Zions Hunger]] – was ist die Natur dieses Hungers?
+- [[Lore/Offene Fäden/Zions Hunger]] – was ist die Natur dieses Hungers?
 - [[Magische Mordwaffe]] – forensische Details
-- [[Tabaxi-Assassine]] – entkommen
+- [[Lore/Verdächtige/Tabaxi-Assassine]] – entkommen
 
 ---
 *Nächste Session: [[Session 4 – Rhusion, zweiter Tag]]
