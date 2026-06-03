@@ -62,8 +62,13 @@ Der Plan wird in [[Session 9 - 15.04.2026]] ausgeführt:
 
 Das Imitat enthält offenbar eine eingebettete Botschaft von Jai ([[Tigerauge]]) – bei Chloro Verdes Identify-Zauber „erwacht das Ding zum Leben" (Cliffhanger Session 9).
 
+## Session 11 – Buch-Reservierung & Warnung
+
+[[Viri]] huscht kurz herein und bittet, ein **Buch** für sie zu reservieren (sie komme mit einem Artefakt als Zahlung wieder). Als „Anzahlung" lässt sich der Händler erzählen, wie es mit seiner „liebsten Freundin" (**[[Chloro Verde]]**) lief – und erfährt, dass diese die übergebene Beholder-**Attrappe** durchschaut hat. Er rät der Gruppe, **unterzutauchen / die Stadt zu verlassen**, und gewährt **einen Monat Frist** für das Buch.
+
 ## Offene Fragen
 
+- [ ] Welches Buch will Viri erwerben, und welches Artefakt bietet sie an?
 - [ ] Wer kontrolliert den Ort tatsächlich?
 - [ ] Was genau weiß der Betreiber über [[Chloro Verde]] und den Verschwörungszirkel?
 - [ ] Verbindung zur [[Hafensabotage]]?
@@ -81,3 +86,4 @@ Das Imitat enthält offenbar eine eingebettete Botschaft von Jai ([[Tigerauge]])
 - [[Zion]]
 - [[Tigerauge]]
 - [[Hafensabotage]]
+- [[Session 11 - 03.06.2026]]

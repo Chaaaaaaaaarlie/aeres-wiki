@@ -4,7 +4,7 @@ title: "Krokodil-Versteck"
 created: 2026-05-12
 updated: 2026-05-12
 tags: [ort, rhusion, versteck, talglichtgasse, ehemals-diebesgilde]
-status: aktiv – Kampfschauplatz, noch nicht abgeschlossen (Cliffhanger Session 10)
+status: geräumt (Session 11)
 ---
 
 # Krokodil-Versteck
@@ -45,11 +45,26 @@ Baufälliges zweistöckiges Haus in der [[Talglichtgasse]]. Tür mit teilweise a
 - 1 Söldner: schwer verwundet, **hat sich ergeben** (Elysias DC 14 Persuasion/Intimidation)
 - Schritte vom Obergeschoss kommen an – frische Verstärkung im Anmarsch (Cliffhanger)
 
+## Session 11 – geräumt
+
+Das Versteck wird vollständig durchsucht:
+- Im OG-Arbeitsraum: zwei Kultistinnen (eine **gehörnte**, eine **kahlköpfige Anführerin**) – beide tot, die Kahle durch **Selbstvergiftung** (→ [[Unbekannte Frau]], [[Ritual der 13 Stiche]])
+- Auf den Leichen: **Pergamentstücke** (zusammengesetzt + dekodiert), nichtmagischer Ring, Zauberkomponenten, 5 Gold
+- **Tresor** (Zahlenschloss): ~**300 Gold**, ein **grüner Diamant**, Schriftrolle **Intellect Fortress**, eine **magische Lampe/Kristallkugel**
+- **Aktenschrank** voller aufgerollter Akten (von Rugir in den Bag of Holding gepackt)
+- Papiere: nur **legitime Lagerwirtschaft** (Talg, Kerzen, Stoffe, Nägel, Eisen) – Tarnung der Operation
+- Ein **Schlüssel** im Tisch öffnet die zweite Tür (die Zion zuvor mit dem Großschwert aufbrach); zwei Zugänge zum Haus (Hang)
+
+Damit ist das „Hornissennest" ausgemerzt – aber die Anführerin und alle Zeugen sind tot.
+
 ## Verknüpfungen
 
 - [[Talglichtgasse]]
 - [[Session 10 - 06.05.2026]]
+- [[Session 11 - 03.06.2026]]
 - [[Rakshasa]]
 - [[Wo versteckt sich der Assassine]]
 - [[Die Boss hinter den Helfern]]
+- [[Unbekannte Frau]]
+- [[Ritual der 13 Stiche]]
 

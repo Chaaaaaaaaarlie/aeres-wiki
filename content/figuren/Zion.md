@@ -86,6 +86,13 @@ In [[Session 9 - 15.04.2026]]: Als [[Chloro Verde]]s Schatten länger wird, **ve
 - AOE-Cantrip mit Force Damage erfolgreich gewirkt (Dex-Save DC 13)
 - Schatten weiterhin maximal komprimiert versteckt – siehe [[Zions Hunger]]
 
+## Session 11
+- Ab dieser Session vom Neuzugang **Markus** geführt (noch in VTT-Einarbeitung); zu Beginn teils „in Trance" mitgespielt
+- Im Kampf gegen die Kultistinnen durch **Thunderwave** fast bewusstlos gegen die Wand geschleudert
+- Bricht die zweite, eisenverstärkte Tür im [[Krokodil-Versteck]] mit dem **Großschwert** auf (Stärke DC 17; Klinge nimmt Schaden)
+- Begegnet **[[Sir Aschefall]]** – [[Elysia]] deutet an, beide seien sich „gar nicht unähnlich" (gemeinsame „Zustände") → mögliche Parallele zu [[Zions Hunger]]
+- Reist mit der [[Zestus]] nach [[Zarat]]
+
 ## Verknüpfungen
 
 - [[Zions Hunger]]
@@ -93,7 +100,9 @@ In [[Session 9 - 15.04.2026]]: Als [[Chloro Verde]]s Schatten länger wird, **ve
 - [[Elysia]]
 - [[Hjolda]] – Gespräch über den Wald; emotionale Reaktion
 - [[Chloro Verde]] – Schatten reagiert auf sie
+- [[Sir Aschefall]]
 - [[Bernsteinauge]]
 - [[Tigerauge]]
 - [[Gähnender Schacht]] – Codewort bekannt
+- [[Session 11 - 03.06.2026]]
 

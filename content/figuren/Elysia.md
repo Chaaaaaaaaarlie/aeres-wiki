@@ -91,6 +91,12 @@ In [[Session 10 - 06.05.2026]] ruft Elysia ihren inneren Freund unter dem Namen 
 - Keule mit wüstensand-ockerbeigem Wirkungsmuster (kosmetische Manifestation, evtl. mit Ventus oder Sandgott verknüpft)
 - Erfolgreiche Persuasion/Intimidation DC 14 gegen Söldner trotz Plus 0
 
+## Session 11
+- Heilt [[Zion]] im Kampf (Cure Wounds + **Sterneform Kelch**-Zusatz)
+- Gibt [[Viri]] den **Papierstreifen-Trick** für den Tresor weiter („von einem Familienmitglied gelernt")
+- Legt **[[Sir Aschefall]]** die Tarot-Karten (Kelch-Motiv), neckt ihn; deutet eine Parallele zwischen ihm und Zion an
+- Reist als „Lyssa" mit der [[Zestus]] nach [[Zarat]]
+
 ## Verknüpfungen
 
 - [[Zion]] – Nächtliches Gespräch, kennt seinen Hunger; soll Statue meiden
@@ -101,3 +107,5 @@ In [[Session 10 - 06.05.2026]] ruft Elysia ihren inneren Freund unter dem Namen 
 - [[Halbling-Wahrsagerin]]
 - [[Kalazar-Statue]]
 - [[Chloro Verde]] – Glücksrad-Warnung vor der Begegnung
+- [[Sir Aschefall]]
+- [[Session 11 - 03.06.2026]]

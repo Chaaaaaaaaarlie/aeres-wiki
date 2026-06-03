@@ -13,12 +13,16 @@ status: aktiv
 
 ## Aktiv gesucht
 
-- [[Rakshasa-Assassine]] — entkommen, bekannter Aufenthaltsbereich Sumpf/Versteck (Stand vor Session 10 möglicherweise überholt)
-- [[Unbekannte Frau]] — beschrieben, nicht gefunden; mögliche Verbindung zum Hafen
+- [[Rakshasa-Assassine]] — entkommen; Spur führt seit Session 11 zur Insel [[Zarat]] (Nordosten)
+
+## Tot / abgeschlossen
+
+- [[Unbekannte Frau]] — die kahlköpfige Anführerin (= [[Die Boss hinter den Helfern|„Boss"]]) im [[Krokodil-Versteck]]; **vergiftete sich** in Session 11 vor der Befragung. Name nie genannt.
 
 ## Verhaftet
 
 - [[Fanatischer Attentäter]] — in Wachen-Gewahrsam. Vermutlich Werkzeug, nicht Drahtzieher.
+- Bewusstloser **Berserker** aus dem Krokodil-Versteck — in der Zitadelle des Princeps, erwartet Befragung.
 
 ## Aufgeklärt
 

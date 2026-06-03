@@ -47,11 +47,29 @@ Ein **Sumpfgebiet oder Feuchtwald** in der Nähe von Rhusion.
 - Der Assassin selbst ist **bereits weg** (Chloro Verde) – aber der Verdacht richtet sich nun konkret auf **Jai vom [[Tigerauge]]** als möglichen Rakshasa
 - Stand Session-Ende: Erdgeschoss gesichert, ein Söldner gefangen, Schritte aus dem OG nähern sich (Cliffhanger)
 
+## Session 11 – Spur zur Insel Zarat
+
+Durchbruch im [[Krokodil-Versteck]]:
+- Aus zusammengesetzten **Pergamentstücken** wird eine **Substitutions-Chiffre** dekodiert. Inhalt deutet auf den Gesuchten, der auf einer **Insel** *„auf weitere Anweisungen"* wartet: *„Dort wird niemand nach mir suchen."*
+- [[Doruk Val]] nennt (Viri Persuasion DC 13, Nat 20) das Inselziel: **[[Zarat]]**, Nordosten, Region „Despotat Bukewa" (37+ Inseln)
+- Die Gruppe segelt mit der [[Zestus]] dorthin
+
+Damit verschiebt sich der Schauplatz **weg von Rhusion**: Der Assassine ist nicht mehr in der Stadt, sondern (vermutlich) auf Zarat.
+
+## Offene Fragen
+
+- [ ] Wo genau auf [[Zarat]] verbirgt sich der Assassine?
+- [ ] Worauf wartet er, und wer gibt ihm „weitere Anweisungen"?
+- [ ] Ist Jai vom [[Tigerauge]] dieselbe Person oder ein zweiter Rakshasa? (in Rhusion zurückgeblieben?)
+
 ## Verknüpfungen
 
 - [[Rakshasa-Assassine]]
 - [[Unbekannte Frau]]
 - [[Chloro Verde]]
+- [[Doruk Val]]
+- [[Zarat]]
 - [[Hjolda]]
 - [[Session 9 - 15.04.2026]]
+- [[Session 11 - 03.06.2026]]
 

@@ -22,6 +22,18 @@ In der Basilika gefunden: **eingeritzte Zeichen**, mit altem Tierblut nachgezoge
 
 Rugirs erste Einschätzung: **Teufel oder Dämon** als Hintermann oder Empfänger des Rituals.
 
+## Session 11 – Das Mal in Aktion
+
+Im [[Krokodil-Versteck]] beobachtet die Gruppe das Ritual erstmals direkt. Die kahlköpfige Anführerin (die [[Unbekannte Frau]]) **vergiftet sich** mit der Formel:
+
+> *„Sieben Kerzen zu seinen Ehren, 13 Stiche vollenden das Werk."*
+
+Unter einem **schwarzen Seidentuch** am Handgelenk (→ [[Schwarzer Seidenstoff]]) steigt **Rauch** auf, es riecht nach **Schwefel** (Tuch warm, nicht heiß). Abgewickelt zeigt sich im Fleisch ein **Kreis aus 13 Stichen** in **infernalischer Schrift**, dessen Zeichen **wie Würmer unter der Haut rotieren** und nacheinander einrasten (Bild: ein „wählendes Stargate"). Bei Vollendung **ätzt sich das Symbol weg**, und die – bereits klinisch tote – Frau „atmet ihre Seele aus". Das Mal **vollendet sich also posthum**: vermutlich ein Mechanismus, der Leiche und Wissen dem Zugriff entzieht (erklärt die Anti-Nekromantie-Furcht der [[Die Boss hinter den Helfern|„Boss"]]).
+
+Die **gehörnte** Kultistin trug ein **unvollständiges, weniger elaboriertes** Mal als die Kahle und der zuvor befragte Attentäter → es scheint Abstufungen/Ränge zu geben.
+
+[[Rugir]] hat das Mal **zweimal abgezeichnet** (kann es kopieren, aber nicht lesen – infernalisch). Nächster Schritt: Abgleich im Haus des Wissens / [[Daskirion]].
+
 ## Theoretischer Rahmen (Rugirs Bibliotheks-Forschung)
 
 Aus **Vom Schnitt im Kreis** (anonym):
@@ -61,3 +73,7 @@ Aus **Siegeln des Abgrunds** (anonym):
 - [[Elysia]]
 - [[Tigerauge]]
 - [[Magische Mordwaffe]]
+- [[Unbekannte Frau]]
+- [[Schwarzer Seidenstoff]]
+- [[Die Boss hinter den Helfern]]
+- [[Session 11 - 03.06.2026]]

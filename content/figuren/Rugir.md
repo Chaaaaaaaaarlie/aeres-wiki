@@ -82,10 +82,18 @@ Kein direkter Treffer auf die **7 Kerzen** oder die **13 Stiche**. Spezialist f�
 - **Sleep**-Spell readied auf Wachhabenden, erfolgreich
 - Antwort darauf: Erscheint [[Harkas]] als Hilfe
 
+## Session 11 – Aktionen
+- **Zeichnet das Mal der 13 Stiche zweimal ab** (infernalisch, kopierbar aber nicht lesbar) – nächster Schritt: Abgleich im Haus des Wissens / [[Daskirion]]
+- Treibt die **Dekodierung** der Substitutions-Chiffre voran (Gruppen-Action)
+- Packt den **Aktenschrank** voller Akten in den Bag of Holding; verwaltet die 300-Gold-Funde und den Erpresser-Brief des Princeps
+- Bietet der **[[Kapitänin der Zestus|Kapitänin]]** die 300 Gold für die Überfahrt nach [[Zarat]]
+
 ## Verknüpfungen
 
 - [[Alabaster Kuratorium]]
 - [[Daskirion]]
-- [[Ritual der 13 Stiche]] – beschäftigt ihn; nächster Schritt: Abpaus-Zeichnung mit Büchern abgleichen
+- [[Ritual der 13 Stiche]] – beschäftigt ihn; nächster Schritt: Mal-Abzeichnung mit Büchern abgleichen
 - [[Magische Mordwaffe]] – forensisches Interesse
 - [[Rugirs wahrer Name]]
+- [[Zarat]]
+- [[Session 11 - 03.06.2026]]

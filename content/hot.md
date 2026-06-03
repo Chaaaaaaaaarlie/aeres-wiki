@@ -2,37 +2,32 @@
 type: meta
 title: "Aktueller Kontext (Hot Cache)"
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-06-04
 tags:
   - meta/hot
 ---
 # Aktueller Kontext
 
 ## Letztes Update
-2026-05-12 — Initiale WIKI.md-Migration abgeschlossen, anschließend Widerspruchs-Sweep und Hauptsprache auf Deutsch umgestellt.
+2026-06-04 — [[Session 11 - 03.06.2026]] in den Vault eingepflegt (Recap + alle berührten Entitäten/Fäden aktualisiert). Transkript der Session am Vault-Kanon entlang von ASR-Eigennamenfehlern bereinigt.
 
 ## Wichtige aktuelle Fakten
-- Vault folgt jetzt dem WIKI.md-Schema: flache Struktur `wiki/{characters,locations,factions,creatures,deities,lore,threads,sessions,sources,concepts,comparisons,questions,meta}/` mit bare-Filename-Wikilinks.
-- Die 87 vorhandenen deutschen Kampagnen-Seiten wurden unverändert übernommen. Dateinamen erhalten.
-- Aktuellste In-Fiction-Session: [[Session 10 - 06.05.2026]].
-- Aktive Ermittlung: der Mord an [[Sokar Karioka]] und das [[Ritual der 13 Stiche]].
-- Der bisher als „Tabaxi-Assassine" geführte Täter ist tatsächlich ein [[Rakshasa-Assassine]] (Enthüllung Session 10).
-
-## Letzte Änderungen
-- Hauptsprache des Vaults von Englisch auf Deutsch umgestellt: alle Infrastruktur-Seiten übersetzt (`CLAUDE.md`, `index.md`, `overview.md`, `log.md`, `hot.md`, Dashboard, alle `_index.md`-Übersichten, Templates).
-- Widerspruchs-Auflösung: Tabaxi-Assassine → Rakshasa-Assassine umbenannt, [[Magische Mordwaffe]] neu eingeordnet, neue „Verlauf des Mordes"-Sektion in [[Sokar Karioka]], [[Verdächtige]]-Rollup neu gruppiert.
-- Migration: alle Seiten aus NPC/Spieler/Orte/Sessions/Kreaturen/Lore in `wiki/` überführt.
-- Gemerged: [[Ritual der 13 Stiche]] (vorher 3 Duplikat-Seiten — kanonische Hinweise-Version behalten).
-- Gelöscht: Root-`Orte.md` (durch [[orte/_index|Orte-Übersicht]] ersetzt).
-- Wikilink-Sweep: 166 + 27 Links neu geschrieben; alle bare-Filename-Form oder pfadbasiert mit Alias für `_index.md`.
+- Aktuellste In-Fiction-Session: [[Session 11 - 03.06.2026]].
+- Das [[Krokodil-Versteck]] ist **geräumt**. Die kahlköpfige Anführerin (= mit hoher Wahrscheinlichkeit die [[Unbekannte Frau]] und die [[Die Boss hinter den Helfern|„Boss"]]) hat sich **vergiftet** – kein lebender Zeuge.
+- Erstmals direkt beobachtet: das **Mal der 13 Stiche** (infernalisch, unter schwarzem Seidentuch) vollendet sich posthum und ätzt sich weg → [[Ritual der 13 Stiche]]. [[Rugir]] hat es zweimal abgezeichnet.
+- Dekodierte Chiffre + [[Doruk Val]] führen zur Insel **[[Zarat]]** (Nordosten) als Aufenthaltsort des [[Rakshasa-Assassine|Assassinen]].
+- Die Gruppe segelt mit der **[[Zestus]]** (neue [[Kapitänin der Zestus|Kapitänin]]) nach Zarat; **[[Sir Aschefall]]** (Drachengeborener, Aspasias Retter) reist als Aufpasser des Princeps mit.
+- **[[Hjolda]] hat die Gruppe verlassen** und ist Leibwache von [[Aspasia Cortiso]] (nach einem zweiten Anschlag durch Gargoyles).
+- **Cliffhanger:** Die Ork-Armee des **[[Kurkan Akrava|Hrem]]** ist eingetroffen → **Belagerung Rhusions** beginnt.
 
 ## Aktive Fäden
-- Im Fokus: [[Blutpakt des Tigerauge]], [[Ritual der 13 Stiche]], [[Hafensabotage]], [[Tabulei]], [[Zions Hunger]], [[Rugirs wahrer Name]], [[Wo versteckt sich der Assassine]].
-- [[Rakshasa-Assassine]] weiter flüchtig.
-- [[Unbekannte Frau]] Identität ungeklärt.
+- Im Fokus: [[Wo versteckt sich der Assassine]] (jetzt → [[Zarat]]), [[Ritual der 13 Stiche]], [[Rugirs wahrer Name]], [[Zions Hunger]], [[Blutpakt des Tigerauge]], [[Tabulei]], [[Hafensabotage]].
+- [[Rakshasa-Assassine]] weiter flüchtig (vermutlich auf Zarat). Jai vom [[Tigerauge]] in Rhusion zurückgeblieben?
+- [[Chloro Verde]] hat die Beholder-**Attrappe** durchschaut → Risiko bei Rückkehr nach Rhusion.
 
 ## Offen für die nächste Session
-- Abpaus-Zeichnung der 7 Kerzen mit Daskirion-Büchern abgleichen (Rugir, siehe [[Ritual der 13 Stiche]]).
-- [[Rakshasa-Assassine]] aufspüren — Chloros vollständige Information steht aus.
-- Hinweisen zur [[Hafensabotage]] weiter nachgehen.
-- Cliffhanger Session 10: Schritte aus dem Obergeschoss des [[Krokodil-Versteck]]s.
+- Überfahrt nach [[Zarat]] und Suche nach dem Assassinen.
+- Abgezeichnetes **13-Stiche-Mal** (infernalisch) übersetzen/abgleichen ([[Rugir]], [[Daskirion]] / Haus des Wissens).
+- Belagerung Rhusions im Rücken – Zeitdruck (Versagen droht Krieg auszulösen).
+- Verhältnis zur [[Kapitänin der Zestus|Kapitänin]] und zu [[Sir Aschefall]] ausloten.
+- Bewusstloser Gefangener (Berserker) wartet auf „peinliche Befragung" in der Zitadelle.

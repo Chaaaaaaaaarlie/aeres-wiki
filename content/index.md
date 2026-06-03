@@ -14,14 +14,14 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 
 ## Domänen
 
-- [[figuren/_index|Figuren-Übersicht]] — NSCs & SCs (22 Seiten)
-- [[orte/_index|Orte-Übersicht]] — Orte (18 Seiten)
+- [[figuren/_index|Figuren-Übersicht]] — NSCs & SCs (24 Seiten)
+- [[orte/_index|Orte-Übersicht]] — Orte (19 Seiten)
 - [[fraktionen/_index|Fraktionen-Übersicht]] — Häuser, Kabalen, politische Körper (8 Seiten)
 - [[kreaturen/_index|Kreaturen-Übersicht]] — Bestiarium (1 Seite)
 - [[gottheiten/_index|Gottheiten-Übersicht]] — Götter (3 Seiten)
 - [[lore/_index|Lore-Übersicht]] — Welt-Hintergrund (5 Seiten)
 - [[fäden/_index|Fäden-Übersicht]] — offene Handlungsfäden & Hinweise (20 Seiten inkl. Rollups)
-- [[sessions/_index|Sessions-Übersicht]] — Session-Recaps (10 Seiten)
+- [[sessions/_index|Sessions-Übersicht]] — Session-Recaps (11 Seiten)
 
 ## Figuren
 
@@ -31,7 +31,7 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 
 ### NSCs — Verbündete, Kontakte, Zeugen
 
-- [[Augier]] · [[Bruder Kalvet]] · [[Chloro Verde]] · [[Doruk Val]] · [[Elmar Kassar]] · [[Halbling-Wahrsagerin]] · [[Harkas]] · [[Schwester Elva]] · [[Ventus]]
+- [[Augier]] · [[Bruder Kalvet]] · [[Chloro Verde]] · [[Doruk Val]] · [[Elmar Kassar]] · [[Halbling-Wahrsagerin]] · [[Harkas]] · [[Kapitänin der Zestus]] · [[Schwester Elva]] · [[Sir Aschefall]] · [[Ventus]]
 
 ### NSCs — Politik & Adel
 
@@ -43,7 +43,7 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 
 ## Orte
 
-- [[Alauntor]] · [[Basilika des Morgengrauens]] · [[Bernsteinauge]] · [[Daskirion]] · [[Dreiankerkrone]] · [[Fink-Tempel (Narasimha)]] · [[Gähnender Schacht]] · [[Hospiz St. Haramador]] · [[Kalazar-Statue]] · [[Krokodil-Versteck]] · [[Pont-Viertel]] · [[Salzhund]] · [[Talglichtgasse]] · [[Tigerauge]] · [[Tuchmacher-Tor]] · [[Tuchmacherviertel]] · [[Zestus]] · [[Zum gesplitterten Zahn]]
+- [[Alauntor]] · [[Basilika des Morgengrauens]] · [[Bernsteinauge]] · [[Daskirion]] · [[Dreiankerkrone]] · [[Fink-Tempel (Narasimha)]] · [[Gähnender Schacht]] · [[Hospiz St. Haramador]] · [[Kalazar-Statue]] · [[Krokodil-Versteck]] · [[Pont-Viertel]] · [[Salzhund]] · [[Talglichtgasse]] · [[Tigerauge]] · [[Tuchmacher-Tor]] · [[Tuchmacherviertel]] · [[Zarat]] · [[Zestus]] · [[Zum gesplitterten Zahn]]
 
 ## Fraktionen
 
@@ -75,7 +75,7 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 
 ## Sessions (neueste zuerst)
 
-- [[Session 10 - 06.05.2026]] · [[Session 9 - 15.04.2026]] · [[Session 8 - 18.03.2026]] · [[Session 7 - 08.03.2026]] · [[Session 6 - 04.03.2026]] · [[Session 5 – Papiere, Pässe und Päckchen]] · [[Session 4 – Rhusion, zweiter Tag]] · [[Session 3 – Die Nacht danach]] · [[Session 2 – Unmittelbar nach dem Mord]] · [[Session 1 – Die Hochzeit]]
+- [[Session 11 - 03.06.2026]] · [[Session 10 - 06.05.2026]] · [[Session 9 - 15.04.2026]] · [[Session 8 - 18.03.2026]] · [[Session 7 - 08.03.2026]] · [[Session 6 - 04.03.2026]] · [[Session 5 – Papiere, Pässe und Päckchen]] · [[Session 4 – Rhusion, zweiter Tag]] · [[Session 3 – Die Nacht danach]] · [[Session 2 – Unmittelbar nach dem Mord]] · [[Session 1 – Die Hochzeit]]
 
 ## Quellen
 

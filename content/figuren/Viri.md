@@ -63,13 +63,23 @@ Viri ist nicht als Gast zur Hochzeit gekommen, sondern weil sie Sokars Männer h
 - Dolch-Versuch in Robe – peinlich (7 zum Treffen, beschämtes Wegstecken)
 - Initiierte das **Zurückhalten** des Jai-Verdachts in den Briefen an die Auftraggeber
 
+## Session 11
+- Wickelt das **Mal der 13 Stiche** vom Handgelenk der toten [[Unbekannte Frau]] ab (untersucht es)
+- Knackt den **Tresor** im [[Krokodil-Versteck]] mit Elysias Papierstreifen-Trick (DC 18 mit Vorteil); nimmt die **Intellect Fortress**-Schriftrolle (Sorcerer)
+- **Zwei Nat-20-Persuasion-Würfe**: bei [[Doruk Val]] (Inselname Zarat) und beim Tortel-Verhör
+- Reserviert im [[Bernsteinauge]] ein Buch (Frist: ein Monat)
+- Erkennt am Ende die **Ork-Kriegsbanner** (Perception 19) → [[Kurkan Akrava|Belagerung]]
+
 ## Verknüpfungen
 
 - [[Aspasia Cortiso]]
 - [[Hospiz St. Haramador]]
 - [[Bruder Kalvet]] – hat Tabulei ausgestellt; erwartet Gegenleistung
 - [[Schwester Elva]] – direkte Ansprechpartnerin; ehem. Söldnerin
-- [[Unbekannte Frau]] – Beschreibung erhalten
+- [[Unbekannte Frau]] – Beschreibung erhalten; Mal abgewickelt
 - [[Elysia]]
 - [[Fall der Offenbarung]]
 - [[Zion]] – kennt das Schwert-Geheimnis
+- [[Sir Aschefall]]
+- [[Zarat]]
+- [[Session 11 - 03.06.2026]]

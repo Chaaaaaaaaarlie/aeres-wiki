@@ -43,3 +43,4 @@ Schauplätze und Begegnungsorte in Rhusion und darüber hinaus. Für die Stadt s
 ## Außerhalb Rhusions
 
 - [[Alauntor]]
+- [[Zarat]] — Insel im Nordosten (Reiseziel ab Session 11)

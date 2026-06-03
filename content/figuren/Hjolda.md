@@ -6,7 +6,7 @@ updated: 2026-05-12
 tags: [charakter, spielercharakter]
 klasse: Waldläuferin
 herkunft: Irmetala / Kasarei
-status: aktiv
+status: aktiv – seit Session 11 nicht mehr in der reisenden Gruppe (Leibwache Aspasias)
 ---
 
 # Hjolda
@@ -65,11 +65,18 @@ Die Fink-Statue **vor dem Hypodrom** verursacht bei Hjolda jedes Mal ein unangen
 - Backup mit **Longbow** und **Hunter's Mark** im Kampf
 - Erinnert während der Diskussion über die Briefe an das übergebene **Schutzdokument** des [[Bernsteinauge]]s für [[Tigerauge]] – Argument, das die Gruppe dazu bewegt, Jais Namen aus den Briefen zu lassen
 
+## Session 11 – verlässt die Gruppe
+
+- Fügt die gefundenen **Pergamentstücke** per **Mending** zusammen (Grundlage der späteren Dekodierung)
+- Nach dem **zweiten Anschlag** auf [[Aspasia Cortiso]] entscheidet sie, **bei Aspasia zu bleiben** und sie zu beschützen: *„Wir haben noch eine Rechnung offen."*
+- Reist damit **nicht** nach [[Zarat]] mit – bleibt vorerst in Rhusion, das vor einer Belagerung steht
+
 ## Verknüpfungen
 
-- [[Aspasia Cortiso]] – hilft bei der Samen-Suche
+- [[Aspasia Cortiso]] – hilft bei der Samen-Suche; ab S11 deren Leibwache
 - [[Zion]] – Gespräch über den Wald; er hat ungewöhnliche Reaktion
 - [[Wo versteckt sich der Assassine]]
 - [[Fink-Tempel (Narasimha)]]
 - [[Rakshasa-Assassine]]
 - [[Kalazar-Statue]]
+- [[Session 11 - 03.06.2026]]

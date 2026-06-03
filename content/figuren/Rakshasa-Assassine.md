@@ -46,6 +46,13 @@ Hjoldas Vision: **feuchter Sumpfwald**, morsche Holzbalken, ausgetretener Waldwe
 - **Jai vom [[Tigerauge]]** zeigt dieselben umgedrehten Hände — entweder derselbe Rakshasa oder eines seiner Wesen
 - Aufenthaltsort der Helfer (nicht des Rakshasa selbst): [[Krokodil-Versteck]] in der [[Talglichtgasse]]
 
+## Update Session 11
+
+- Die **Helfer** im [[Krokodil-Versteck]] sind ausgelöscht; die **kahlköpfige Anführerin** ([[Unbekannte Frau]] / [[Die Boss hinter den Helfern|„Boss"]]) **vergiftete sich**, bevor sie befragt werden konnte → kein lebender Zeuge
+- Eine dekodierte Botschaft + [[Doruk Val]] führen zur Insel **[[Zarat]]** (Nordosten) als vermutetem Aufenthaltsort
+- Der Rakshasa wartet dort offenbar „auf weitere Anweisungen" → es gibt eine **übergeordnete Macht/Auftraggeber**
+- Das **Mal der 13 Stiche** (infernalisch) verbindet ihn weiter mit dem [[Ritual der 13 Stiche]]
+
 ## Offene Fragen
 
 - [ ] Wer hat ihn beauftragt?
@@ -61,5 +68,8 @@ Hjoldas Vision: **feuchter Sumpfwald**, morsche Holzbalken, ausgetretener Waldwe
 - [[Falsche Fährte]]
 - [[Wo versteckt sich der Assassine]]
 - [[Chloro Verde]] – kennt seinen Aufenthaltsort
+- [[Zarat]]
+- [[Ritual der 13 Stiche]]
 - [[Session 9 - 15.04.2026]]
 - [[Session 10 - 06.05.2026]]
+- [[Session 11 - 03.06.2026]]

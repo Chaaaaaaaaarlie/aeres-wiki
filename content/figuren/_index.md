@@ -28,7 +28,9 @@ NSCs und SCs der Aeres-Kampagne. Im Frontmatter nach `role` und `entity_type` fi
 - [[Elmar Kassar]]
 - [[Halbling-Wahrsagerin]]
 - [[Harkas]]
+- [[Kapitänin der Zestus]]
 - [[Schwester Elva]]
+- [[Sir Aschefall]]
 - [[Ventus]]
 
 ## NSCs — Politik & Adel

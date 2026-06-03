@@ -22,6 +22,17 @@ Format:
 
 ---
 
+## [2026-06-04] recap | Session 11 eingepflegt + Transkript bereinigt
+
+- Quelle: `Session_11_Aeres_03.06.2026.txt` (WhisperX-Transkript der Session vom 2026-06-03)
+- Transkript-Fix: 93 ASR-Eigennamenfehler am Vault-Kanon korrigiert (z. B. Sion→Zion, Harkers/HKSK→Harkas, Rugia/Roger→Rugir, Jolda/Joel→Hjolda, Doro→Chloro, Zerrat/Zatar→Zarat, Rusion→Rhusion). Bewusst behalten: „Patrizia" (Deckname für den Prinzeps), „Lyssa" (Spitzname Elysias). Backup: `Session_11_Aeres_03.06.2026.original.txt`
+- Zusammenfassung: [[Session 11 - 03.06.2026]]
+- Erstellte Seiten: [[Session 11 - 03.06.2026]], [[Zarat]], [[Sir Aschefall]], [[Kapitänin der Zestus]]
+- Aktualisierte Seiten: [[Harkas]], [[Unbekannte Frau]], [[Die Boss hinter den Helfern]], [[Ritual der 13 Stiche]], [[Schwarzer Seidenstoff]], [[Eingeritzte Zeichen]], [[Aspasia Cortiso]], [[Hjolda]], [[Chloro Verde]], [[Doruk Val]], [[Princeps Orpheon von Lutaxa]], [[Kurkan Akrava]], [[Krokodil-Versteck]], [[Bernsteinauge]], [[Zestus]], [[Wo versteckt sich der Assassine]], [[Rakshasa-Assassine]], [[Zion]], [[Viri]], [[Elysia]], [[Rugir]]; Infrastruktur: `index.md`, `hot.md`, `Willkommen.md`, alle betroffenen `_index.md`
+- Kernerkenntnis: Krokodil-Versteck geräumt, „Boss" (= Unbekannte Frau) tot durch Selbstvergiftung samt 13-Stiche-Mal → Spur führt zur Insel Zarat; Hjolda verlässt die Gruppe (Aspasias Leibwache); Ork-Belagerung Rhusions beginnt, während die Gruppe ausläuft. Level-Up.
+
+---
+
 ## [2026-05-12] sprachwechsel | Wiki-Ordnernamen ins Deutsche umbenannt
 
 - Vorgang: 10 wiki-Unterordner auf deutsche Namen umbenannt (per `git mv`, Historie bleibt erhalten)

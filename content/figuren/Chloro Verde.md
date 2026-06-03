@@ -67,8 +67,13 @@ Geschäftsschluss: Ein Informationshandel im Tausch (sie bekommt mehr über das 
 
 Geschwächt: Ihre Goliaths ließen sich von ihr im Vergleich zur Gruppe **schief stehen**; sie hat klar Respekt für das, was die Gruppe geschafft hat.
 
+## Session 11 – Die Attrappe ist aufgeflogen
+
+Laut dem Händler des [[Bernsteinauge]]s (über [[Viri]]) hat Chloro Verde inzwischen **gemerkt, dass der übergebene Beholder eine Attrappe/Fälschung war**. Der Händler nennt sie sarkastisch seine *„liebste Freundin"* und rät der Gruppe dringend, **unterzutauchen / die Stadt zu verlassen**. Damit ist das Täuschungsmanöver aus [[Session 9 - 15.04.2026]] / [[Session 10 - 06.05.2026]] **enttarnt** – ein potenzielles Risiko, sollte die Gruppe nach Rhusion zurückkehren.
+
 ## Offene Fragen
 
+- [ ] Wie reagiert Chloro Verde auf die aufgedeckte Fälschung?
 - [ ] Welche Fraktion oder Macht steckt hinter ihr?
 - [ ] Warum beeinflusst ihr Territorium die Umgebung magisch?
 - [ ] Was ist ihr eigentliches Interesse am Beholder?
@@ -84,5 +89,7 @@ Geschwächt: Ihre Goliaths ließen sich von ihr im Vergleich zur Gruppe **schief
 - [[Bernsteinauge]]
 - [[Tigerauge]]
 - [[Doruk Val]]
+- [[Bernsteinauge]]
 - [[Zions Hunger]] – Zions Schatten kauert vor ihr
+- [[Session 11 - 03.06.2026]]
 
