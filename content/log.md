@@ -22,6 +22,15 @@ Format:
 
 ---
 
+## [2026-06-04] fix | Bild-Pfad für Static-Site korrigiert
+
+- Problem: Bilder auf der publizierten Site (GitHub Pages) 404 — der Export-Root ist `wiki/`, das vault-root `_attachments/` liegt **außerhalb** und wird nicht mitpubliziert (Generator erzeugte Fallback-Link `![](../code_mended.png)`)
+- Fix: `code_mended.png` + `code_papier.png` von `_attachments/` nach **`wiki/bilder/`** verschoben (im Content-Baum, ohne Unterstrich → auch Jekyll-sicher)
+- Embeds bleiben unverändert Bare-`![[…]]` (Obsidian + Export lösen per Dateiname auf)
+- Hinweis: künftige Wiki-Bilder gehören nach `wiki/bilder/`, nicht ins vault-root `_attachments/`
+
+---
+
 ## [2026-06-04] assets | Codierpergament + verschlüsselter Brief eingebunden
 
 - Quelle: `code_mended.png` (Chiffre-Schlüssel) + `code_papier.png` (verschlüsselter Brief) — vom Nutzer geliefert
