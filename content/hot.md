@@ -15,7 +15,7 @@ tags:
 - Aktuellste In-Fiction-Session: [[Session 11 - 03.06.2026]].
 - Das [[Krokodil-Versteck]] ist **geräumt**. Die kahlköpfige Anführerin (= mit hoher Wahrscheinlichkeit die [[Unbekannte Frau]] und die [[Die Boss hinter den Helfern|„Boss"]]) hat sich **vergiftet** – kein lebender Zeuge.
 - Erstmals direkt beobachtet: das **Mal der 13 Stiche** (infernalisch, unter schwarzem Seidentuch) vollendet sich posthum und ätzt sich weg → [[Ritual der 13 Stiche]]. [[Rugir]] hat es zweimal abgezeichnet.
-- Dekodierte Chiffre + [[Doruk Val]] führen zur Insel **[[Zarat]]** (Nordosten) als Aufenthaltsort des [[Rakshasa-Assassine|Assassinen]].
+- Dekodierte Chiffre ([[Codierpergament]]) + [[Doruk Val]] führen zur Insel **[[Zarat]]** (Nordosten) als Aufenthaltsort des [[Rakshasa-Assassine|Assassinen]]. Chiffre-Schlüssel gesichert → künftige Nachrichten lesbar.
 - Die Gruppe segelt mit der **[[Zestus]]** (neue [[Kapitänin der Zestus|Kapitänin]]) nach Zarat; **[[Sir Aschefall]]** (Drachengeborener, Aspasias Retter) reist als Aufpasser des Princeps mit.
 - **[[Hjolda]] hat die Gruppe verlassen** und ist Leibwache von [[Aspasia Cortiso]] (nach einem zweiten Anschlag durch Gargoyles).
 - **Cliffhanger:** Die Ork-Armee des **[[Kurkan Akrava|Hrem]]** ist eingetroffen → **Belagerung Rhusions** beginnt.

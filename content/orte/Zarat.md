@@ -19,7 +19,7 @@ status: aktiv – Reiseziel
 
 ## Warum die Gruppe dorthin reist
 
-- Die im [[Krokodil-Versteck]] dekodierte Botschaft deutet darauf, dass der Gesuchte sich auf einer Insel verbirgt und dort *„auf weitere Anweisungen"* wartet – *„Dort wird niemand nach mir suchen."*
+- Die im [[Krokodil-Versteck]] dekodierte Botschaft nennt die Insel als Ziel: *„SOBALD ES VOLLBRACHT IST GEHE ICH AN BORD DIE INSEL WARTET DORT WIRD NIEMAND NACH MIR SUCHEN. ICH WARTE DORT AUF WEITERE ANWEISUNGEN"*
 - [[Doruk Val]] nennt unter [[Viri]]s Überzeugung (DC 13, Nat 20) den Namen **Zarat** als das Ziel, zu dem die „schwarze Katze" gebracht werden wollte.
 - Bezug: Doruk lehnte früher ein hochbezahltes Angebot ab, jemanden auf eine Insel zu fahren → siehe [[Wo versteckt sich der Assassine]].
 

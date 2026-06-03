@@ -50,7 +50,7 @@ Baufälliges zweistöckiges Haus in der [[Talglichtgasse]]. Tür mit teilweise a
 Das Versteck wird vollständig durchsucht:
 - Im OG-Arbeitsraum: zwei Kultistinnen (eine **gehörnte**, eine **kahlköpfige Anführerin**) – beide tot, die Kahle durch **Selbstvergiftung** (→ [[Unbekannte Frau]], [[Ritual der 13 Stiche]])
 - Auf den Leichen: **Pergamentstücke** (zusammengesetzt + dekodiert), nichtmagischer Ring, Zauberkomponenten, 5 Gold
-- **Tresor** (Zahlenschloss): ~**300 Gold**, ein **grüner Diamant**, Schriftrolle **Intellect Fortress**, eine **magische Lampe/Kristallkugel**
+- **Tresor** (Zahlenschloss): ~**300 Gold**, Schriftrolle **Intellect Fortress**, eine **magische Lampe/Kristallkugel**
 - **Aktenschrank** voller aufgerollter Akten (von Rugir in den Bag of Holding gepackt)
 - Papiere: nur **legitime Lagerwirtschaft** (Talg, Kerzen, Stoffe, Nägel, Eisen) – Tarnung der Operation
 - Ein **Schlüssel** im Tisch öffnet die zweite Tür (die Zion zuvor mit dem Großschwert aufbrach); zwei Zugänge zum Haus (Hang)

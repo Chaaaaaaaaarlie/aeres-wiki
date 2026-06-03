@@ -87,9 +87,9 @@ In [[Session 9 - 15.04.2026]]: Als [[Chloro Verde]]s Schatten länger wird, **ve
 - Schatten weiterhin maximal komprimiert versteckt – siehe [[Zions Hunger]]
 
 ## Session 11
-- Ab dieser Session vom Neuzugang **Markus** geführt (noch in VTT-Einarbeitung); zu Beginn teils „in Trance" mitgespielt
+- In dieser Session vom Neuzugang **Marcus** vertretungsweise für Eden geführt (noch in VTT-Einarbeitung); zu Beginn teils „in Trance" mitgespielt
 - Im Kampf gegen die Kultistinnen durch **Thunderwave** fast bewusstlos gegen die Wand geschleudert
-- Bricht die zweite, eisenverstärkte Tür im [[Krokodil-Versteck]] mit dem **Großschwert** auf (Stärke DC 17; Klinge nimmt Schaden)
+- Bricht die zweite, eisenverstärkte Tür im [[Krokodil-Versteck]] mit dem **Großschwert** auf (Stärke DC 17; die Klinge nimmt **keinen** Schaden – „damit wurde schon Sushi geschnitten")
 - Begegnet **[[Sir Aschefall]]** – [[Elysia]] deutet an, beide seien sich „gar nicht unähnlich" (gemeinsame „Zustände") → mögliche Parallele zu [[Zions Hunger]]
 - Reist mit der [[Zestus]] nach [[Zarat]]
 

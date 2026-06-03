@@ -14,13 +14,13 @@ ort: Rhusion – Krokodil-Versteck (Talglichtgasse), Hafen/Zestus, Bernsteinauge
 
 Direkter Anschluss an den Cliffhanger aus [[Session 10 - 06.05.2026]]. Die Gruppe räumt das **[[Krokodil-Versteck]]** vollständig leer. Im oberen Arbeitszimmer stellen sie zwei Kultistinnen – eine **gehörnte** und die **kahlköpfige Anführerin**. Im Kampf friert die Gehörnte [[Harkas]] mit *Hold Person* ein und die Kahle schleudert [[Zion]] mit *Thunderwave* fast bewusstlos gegen die Wand. Harkas enthauptet die Gehörnte und stellt die Kahle non-letal – doch bevor sie befragt werden kann, **vergiftet sie sich selbst** mit den Worten *„Sieben Kerzen zu seinen Ehren, 13 Stiche vollenden das Werk."* Auf ihrem Handgelenk, unter einem **schwarzen Seidentuch**, vollendet sich rauchend ein **Mal aus 13 Stichen** und ätzt sich weg – „als würde sie ihre Seele ausatmen".
 
-Die Kahle ist mit hoher Wahrscheinlichkeit die [[Unbekannte Frau]] – und damit die [[Die Boss hinter den Helfern|„Boss" hinter den Helfern]]. [[Rugir]] zeichnet das infernalische Mal zweimal ab. Aus mehreren **Pergamentstücken** (von den Leichen) fügt [[Hjolda]] per *Mending* eine Botschaft zusammen, die die Gruppe als **Substitutions-Chiffre** dekodiert: Der gesuchte „Katze"/Rakshasa wartet auf einer **Insel** auf weitere Anweisungen – *„Dort wird niemand nach mir suchen."* Ein **Tresor** gibt ~300 Gold, einen grünen Diamanten und eine Schriftrolle **Intellect Fortress** frei.
+Die Kahle ist mit hoher Wahrscheinlichkeit die [[Unbekannte Frau]] – und damit die [[Die Boss hinter den Helfern|„Boss" hinter den Helfern]]. [[Rugir]] zeichnet das infernalische Mal zweimal ab. Aus mehreren **Pergamentstücken** (von den Leichen) fügt [[Hjolda]] per *Mending* eine Botschaft zusammen, die die Gruppe als **Substitutions-Chiffre** dekodiert: Der gesuchte „Katze"/Rakshasa wartet auf einer **Insel** auf weitere Anweisungen – *„Dort wird niemand nach mir suchen."* Ein **Tresor** gibt ~300 Gold und eine Schriftrolle **Intellect Fortress** frei.
 
 Über den Tortel **[[Doruk Val]]** erfahren sie den Inselnamen: **[[Zarat]]**, im Nordosten gelegen (Region „Despotat Bukewa", 37+ Inseln). Zwischenstopps: [[Bernsteinauge]] (Viri reserviert ein Buch, ein Monat Frist; der Händler erfährt, dass [[Chloro Verde]] die Beholder-Attrappe durchschaut hat), das **Anwesen [[Haus Cortiso]]** (zweiter Anschlag auf [[Aspasia Cortiso]] durch belebte **Gargoyles**, abgewehrt von einem Boten – **Hjolda bleibt als Leibwache zurück**) und die **Valeria-Zitadelle** des [[Princeps Orpheon von Lutaxa]] (Erpresser-Brief für die Überfahrt, 300 Gold, neuer Begleiter **[[Sir Aschefall]]**).
 
 An Bord der **[[Zestus]]** lernen sie die **Kapitänin** kennen. Beim Auslaufen erkennt [[Viri]] am Horizont die **Kriegsbanner der Ork-Armeen** – der Vater (**[[Kurkan Akrava|der Hrem]]**) ist eingetroffen. **Belagerung Rhusions** steht bevor. Die Gruppe segelt nach Zarat. **Level-Up.**
 
-> *Spieler anwesend:* Rugir, Viri, Elysia (als „Lyssa"), Zion (geführt von Neuzugang **Markus**, der sich noch mit dem VTT einarbeitet). Hjolda wurde als NPC vom DM mitgeführt und verlässt am Ende die Gruppe.
+> *Spieler anwesend:* Rugir, Viri, Elysia (als „Lyssa"), Zion (geführt von Neuzugang **Marcus**, der sich noch mit dem VTT einarbeitet). Hjolda wurde als NPC vom DM mitgeführt und verlässt am Ende die Gruppe.
 
 ---
 
@@ -29,7 +29,7 @@ An Bord der **[[Zestus]]** lernen sie die **Kapitänin** kennen. Beim Auslaufen 
 ### Szene 1 – Kampf-Ende und Plünderung im Erdgeschoss
 **Ort:** [[Krokodil-Versteck]], Talglichtgasse
 
-Fortsetzung des S10-Kampfes: [[Rugir]] grillt mit Chromatic Orb / Cantrips die letzten unteren Helmträger, [[Harkas]] durchbohrt einen Gegner und nagelt ihn an die Wand. Markus' erster großer Crit – [[Zion]]s Klinge zieht hörbar **Blut „wie ein saugendes Geräusch"**.
+Fortsetzung des S10-Kampfes: [[Rugir]] grillt mit Chromatic Orb / Cantrips die letzten unteren Helmträger, [[Harkas]] durchbohrt einen Gegner und nagelt ihn an die Wand. Marcus' erster großer Crit – [[Zion]]s Klinge zieht hörbar **Blut „wie ein saugendes Geräusch"**.
 
 Harkas durchsucht die Leichen, indem er die Taschen mit dem Schwert aufschneidet. Bei den **verbrannten** Leichen ist alles mit dem Fleisch verschmolzen. Auf mehreren Toten findet die Gruppe **Pergamentstücke**, die offenbar zusammengehören – aber noch nicht vollständig sind.
 
@@ -67,15 +67,25 @@ Die **Gehörnte** trägt ein **ähnliches, aber unvollständiges/weniger elabori
 
 - Auf den Leichen: nichtmagischer **Ring**, **Zauberkomponenten**, **5 Gold**, weitere **Pergamentstücke**. Sie passen aneinander, aber ein Teil fehlt.
 - [[Hjolda]] kommt herauf und fügt die Stücke per **Mending** zusammen (Mending stellt nur Verbundenes wieder her, ersetzt aber keine verlorenen Teile).
-- **Raum 1 – Tresor:** Viri knackt den Zahlenschloss-Tresor mit dem von **Elysia** beigebrachten **Papierstreifen-Trick** (DC 18 mit Vorteil + Guidance, glänzender Wurf). Inhalt: **~300 Gold** (in den Bag of Holding), ein **grüner Diamant**, eine Schriftrolle **Intellect Fortress** (nimmt Viri als Sorcerer), eine **magische Lampe/Kristallkugel** (leuchtet bei Berührung). Sonstige Papiere: nur **legitime Lagerwirtschaft** (Talg, Kerzen, Stoffe, Nägel, Eisen) – Tarnung der Operation, nichts Handelbares.
-- **Raum 2 – Aktenschrank + Brief:** [[Zion]] bricht die zweite, eisenverstärkte Tür mit dem Großschwert auf (Stärke DC 17; die Klinge nimmt Schaden – „damit wurde schon Sushi geschnitten"). Innen ein **Aktenschrank** voller aufgerollter Akten (keine Zauberrollen) und auf dem Tisch eine **Nachricht/ein Brief** in derselben Chiffre. Rugir packt alle Akten in den Bag of Holding. Im Tisch findet sich auch ein **Schlüssel** für die Tür.
+- **Raum 1 – Tresor:** Viri knackt den Zahlenschloss-Tresor mit dem von **Elysia** beigebrachten **Papierstreifen-Trick** (DC 18 mit Vorteil + Guidance, glänzender Wurf). Inhalt: **~300 Gold** (in den Bag of Holding), eine Schriftrolle **Intellect Fortress** (nimmt Viri als Sorcerer), eine **magische Lampe/Kristallkugel** (leuchtet bei Berührung). Sonstige Papiere: nur **legitime Lagerwirtschaft** (Talg, Kerzen, Stoffe, Nägel, Eisen) – Tarnung der Operation, nichts Handelbares.
+- **Raum 2 – Aktenschrank + Brief:** [[Zion]] bricht die zweite, eisenverstärkte Tür mit dem Großschwert auf (Stärke DC 17; die Klinge nimmt keinen Schaden – „damit wurde schon Sushi geschnitten"). Innen ein **Aktenschrank** voller aufgerollter Akten (keine Zauberrollen) und auf dem Tisch eine **Nachricht/ein Brief** in derselben Chiffre. Rugir packt alle Akten in den Bag of Holding. Im Tisch findet sich auch ein **Schlüssel** für die Tür.
 
 ### Szene 5 – Die Dekodierung
 **Ort:** OG, Arbeitsraum
 
-Die Zeichen bilden ein **Alphabet** (Substitutions-Chiffre, erkennbar an Leerstellen für Wortgrenzen). Die Gruppe teilt sich die Zeilen auf und übersetzt gemeinsam (Gruppen-Action). Dekodiert (sinngemäß):
+Die Zeichen bilden ein **Alphabet** (Substitutions-Chiffre, erkennbar an Leerstellen für Wortgrenzen). Die Gruppe teilt sich die Zeilen auf und übersetzt gemeinsam (Gruppen-Action). → Schlüssel und Brief: [[Codierpergament]].
 
-> *„… ich warte dort wahrscheinlich wieder … auf weitere Anweisungen … Dort wird niemand nach mir suchen."*
+**Codierpergament (Chiffre-Schlüssel):**
+
+![[code_mended.png]]
+
+**Verschlüsselter Brief:**
+
+![[code_papier.png]]
+
+Dekodiert:
+
+> *„SOBALD ES VOLLBRACHT IST GEHE ICH AN BORD DIE INSEL WARTET DORT WIRD NIEMAND NACH MIR SUCHEN. ICH WARTE DORT AUF WEITERE ANWEISUNGEN"*
 
 Schlussfolgerung: Der Brief stammt vermutlich vom gesuchten **Rakshasa** („die Katze"), der die Stadt verlassen hat und auf einer **Insel** auf weitere Anweisungen wartet. Bezug zu [[Doruk Val]]s früherer Aussage, jemand habe ihm viel Gold geboten, ihn auf eine Insel zu bringen (abgelehnt). → siehe [[Wo versteckt sich der Assassine]].
 
@@ -135,13 +145,13 @@ Beim Auslaufen (blutroter Himmel) erkennt [[Viri]] (Perception 19) an den Klippe
 - **Rugir** hat das Mal **zweimal abgezeichnet** (Kopie für die Gruppe). Schrift infernalisch, noch nicht lesbar – nächster Schritt: Abgleich (Haus des Wissens / [[Daskirion]]).
 - **Dekodierte Botschaft:** Substitutions-Chiffre auf zusammengesetztem Pergament. Inhalt deutet auf den **Rakshasa**, der auf einer Insel auf weitere Anweisungen wartet (*„Dort wird niemand nach mir suchen."*).
 - **Insel [[Zarat]]:** Aufenthaltsort/Ziel des Assassinen, Nordosten, Region „Despotat Bukewa" (37+ Inseln). Name von [[Doruk Val]].
-- **Loot:** ~300 Gold (Tresor) + 300 Gold (Princeps) + grüner Diamant + **Intellect Fortress**-Schriftrolle (bei Viri) + magische Lampe + 2× **Potion of Greater Healing** (Aspasia) + Akten/Lagerlisten der Tarnoperation.
+- **Loot:** ~300 Gold (Tresor) + 300 Gold (Princeps) + **Intellect Fortress**-Schriftrolle (bei Viri) + magische Lampe + 2× **Potion of Greater Healing** (Aspasia) + Akten/Lagerlisten der Tarnoperation.
 - **Hjolda verlässt die Gruppe** und wird Aspasias **Leibwache** (zweiter Anschlag durch Gargoyles).
 - **Zweiter Anschlag auf [[Aspasia Cortiso]]:** belebte **Gargoyles**; angeschmolzener Stein, **Schießpulver-/Chemie-Geruch** (nicht Schwefel) → andere magische Handschrift als das Kultisten-Mal.
 - **Neuer Begleiter [[Sir Aschefall]]:** rotgeschuppter Drachengeborener, schwere rote Rüstung, schnaubt Rauch; war Aspasias Retter; vom Princeps mitgeschickt. Parallele zu Zion angedeutet.
 - **Erpresser-Brief des Princeps** zwingt die **Kapitänin der [[Zestus]]** zur Überfahrt nach Zarat.
 - **Cliffhanger:** Die Ork-Armee des **[[Kurkan Akrava|Hrem]]** ist eingetroffen → **Belagerung Rhusions** beginnt, während die Gruppe ausläuft.
-- **Meta:** Neuzugang **Markus** führt [[Zion]] (noch VTT-Einarbeitung); [[Sir Aschefall]] wird gegen Ende eingeführt und von Markus mitbeschrieben – ob Aschefall künftig sein SC wird, ist offen.
+- **Meta:** Neuzugang **Marcus** führt [[Zion]] für Eden; [[Sir Aschefall]] wird gegen Ende eingeführt und von Marcus mitbeschrieben – Aschefall wird künftig sein SC.
 
 ---
 
@@ -159,6 +169,7 @@ Beim Auslaufen (blutroter Himmel) erkennt [[Viri]] (Perception 19) an den Klippe
 - [[Ritual der 13 Stiche]]
 - [[Schwarzer Seidenstoff]]
 - [[Eingeritzte Zeichen]]
+- [[Codierpergament]]
 - [[Wo versteckt sich der Assassine]]
 - [[Rakshasa-Assassine]]
 - [[Zarat]]

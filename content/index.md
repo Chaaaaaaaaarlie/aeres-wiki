@@ -20,7 +20,7 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 - [[kreaturen/_index|Kreaturen-Übersicht]] — Bestiarium (1 Seite)
 - [[gottheiten/_index|Gottheiten-Übersicht]] — Götter (3 Seiten)
 - [[lore/_index|Lore-Übersicht]] — Welt-Hintergrund (5 Seiten)
-- [[fäden/_index|Fäden-Übersicht]] — offene Handlungsfäden & Hinweise (20 Seiten inkl. Rollups)
+- [[fäden/_index|Fäden-Übersicht]] — offene Handlungsfäden & Hinweise (21 Seiten inkl. Rollups)
 - [[sessions/_index|Sessions-Übersicht]] — Session-Recaps (11 Seiten)
 
 ## Figuren
@@ -67,7 +67,7 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 
 ## Fäden — Hinweise & Offen
 
-- [[Die Boss hinter den Helfern]] · [[Die Lagerhäuser]] · [[Eingeritzte Zeichen]] · [[Fall der Offenbarung]] · [[Falsche Identitäten]] · [[Geruchsspuren]] · [[Infernale Bibliotheks-Forschung]] · [[Magische Mordwaffe]] · [[Schwarzer Seidenstoff]]
+- [[Codierpergament]] · [[Die Boss hinter den Helfern]] · [[Die Lagerhäuser]] · [[Eingeritzte Zeichen]] · [[Fall der Offenbarung]] · [[Falsche Identitäten]] · [[Geruchsspuren]] · [[Infernale Bibliotheks-Forschung]] · [[Magische Mordwaffe]] · [[Schwarzer Seidenstoff]]
 
 ## Fäden — Rollups
 

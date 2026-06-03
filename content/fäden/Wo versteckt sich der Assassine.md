@@ -50,7 +50,8 @@ Ein **Sumpfgebiet oder Feuchtwald** in der Nähe von Rhusion.
 ## Session 11 – Spur zur Insel Zarat
 
 Durchbruch im [[Krokodil-Versteck]]:
-- Aus zusammengesetzten **Pergamentstücken** wird eine **Substitutions-Chiffre** dekodiert. Inhalt deutet auf den Gesuchten, der auf einer **Insel** *„auf weitere Anweisungen"* wartet: *„Dort wird niemand nach mir suchen."*
+- Aus zusammengesetzten **Pergamentstücken** wird eine **Substitutions-Chiffre** dekodiert (Schlüssel + Brief: [[Codierpergament]]):
+  > *„SOBALD ES VOLLBRACHT IST GEHE ICH AN BORD DIE INSEL WARTET DORT WIRD NIEMAND NACH MIR SUCHEN. ICH WARTE DORT AUF WEITERE ANWEISUNGEN"*
 - [[Doruk Val]] nennt (Viri Persuasion DC 13, Nat 20) das Inselziel: **[[Zarat]]**, Nordosten, Region „Despotat Bukewa" (37+ Inseln)
 - Die Gruppe segelt mit der [[Zestus]] dorthin
 
@@ -68,6 +69,7 @@ Damit verschiebt sich der Schauplatz **weg von Rhusion**: Der Assassine ist nich
 - [[Unbekannte Frau]]
 - [[Chloro Verde]]
 - [[Doruk Val]]
+- [[Codierpergament]]
 - [[Zarat]]
 - [[Hjolda]]
 - [[Session 9 - 15.04.2026]]

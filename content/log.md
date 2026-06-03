@@ -22,6 +22,16 @@ Format:
 
 ---
 
+## [2026-06-04] assets | Codierpergament + verschlüsselter Brief eingebunden
+
+- Quelle: `code_mended.png` (Chiffre-Schlüssel) + `code_papier.png` (verschlüsselter Brief) — vom Nutzer geliefert
+- Bilder nach `_attachments/` verschoben und per `![[…]]` eingebettet
+- Erstellte Seiten: [[Codierpergament]] (Schlüssel + Brief + dekodierter Text)
+- Aktualisierte Seiten: [[Session 11 - 03.06.2026]] (Szene 5), [[Wo versteckt sich der Assassine]], `fäden/_index.md`, `index.md`
+- Kernerkenntnis: Chiffre-Schlüssel der Assassinen-Helfer ist gesichert → künftige Nachrichten in derselben Chiffre lesbar.
+
+---
+
 ## [2026-06-04] recap | Session 11 eingepflegt + Transkript bereinigt
 
 - Quelle: `Session_11_Aeres_03.06.2026.txt` (WhisperX-Transkript der Session vom 2026-06-03)

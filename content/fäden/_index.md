@@ -22,6 +22,7 @@ Offene Rätsel, Handlungsfäden, Hinweise und ungeklärte Fragen. Jede Seite hat
 
 ## Hinweise & Beweise
 
+- [[Codierpergament]]
 - [[Eingeritzte Zeichen]]
 - [[Fall der Offenbarung]]
 - [[Falsche Identitäten]]
