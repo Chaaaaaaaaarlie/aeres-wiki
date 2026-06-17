@@ -238,7 +238,7 @@ Drei wendige Piratenschiffe (Trireme-Typ, Piratenkönigin von Petrasilea) greife
 ## Offene Punkte aus den Dialogen
 
 - Zions Schwert ist eindeutig eine **sentiente Waffe mit Fey-Energie**, die Blut fordert. Virens Restverbindung nach dem Kontakt ist spielrelevant.
-- Matrosen-Gerücht: *Die Gruppe wurde „erpresst" mitzunehmen* — Wahrheitsgehalt unklar.
+- Matrosen-Gerücht bestätigt: Die [[Zestus]] wurde zur Mitnahme der Gruppe gezwungen — der [[Princeps Orpheon von Lutaxa]] hat der Gruppe ein Schreiben mitgegeben, mit dem sie die Kapitänin zur Überfahrt verpflichtet haben.
 - Wortfetzen der Crew unten: *Petrasilea, Rhusion, Hochzeit, Mord* — möglicher Zusammenhang mit dem Assassinen-Fall.
 - **Piratenkönigin von Petrasilea** als neue Bedrohung eingeführt.
 - Rugir versucht täglich, magische Tinte herzustellen (täglicher d20-Wurf, bislang kein Erfolg).
