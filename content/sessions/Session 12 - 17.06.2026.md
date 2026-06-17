@@ -1,13 +1,13 @@
 ---
 type: session
-title: "Session 12 – Landratten und Piraten"
+title: "Session 12 - 17.06.2026"
 created: 2026-06-17
 updated: 2026-06-17
 tags: [session, aeres, ueberfahrt, seeschlacht]
 status: cliffhanger – Seeschlacht läuft
 ---
 
-# Session 12 – Landratten und Piraten
+# Session 12 - 17.06.2026
 
 **Datum:** 17.06.2026 | **Dauer:** ~3h 19min | **Sprecher:** Rugir, Elysia, Viri, Zion, Aschefall
 
