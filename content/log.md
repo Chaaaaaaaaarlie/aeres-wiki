@@ -22,6 +22,16 @@ Format:
 
 ---
 
+## [2026-06-17] recap | Session 12 – Landratten und Piraten
+
+- Quelle: `craig-zH1qP3suFZDO-sXIdxC4AiiKa0HM.flac.zip` (Transkription: whisperx large-v3, 2878 Segmente)
+- Zusammenfassung: [[Session 12 - 17.06.2026]]
+- Erstellte Seiten: [[Session 12 - 17.06.2026]], [[Mirene Calath]]
+- Aktualisierte Seiten: [[Zarat]], [[Zestus]]
+- Kernerkenntnis: Zarat ist eine Lepra-Seucheninsel (Leitwacht, Calderion Yolob, Halo-Zauber); Seeschlacht gegen Piraten läuft als Cliffhanger
+
+---
+
 ## [2026-06-04] fix | Bild-Pfad für Static-Site korrigiert
 
 - Problem: Bilder auf der publizierten Site (GitHub Pages) 404 — der Export-Root ist `wiki/`, das vault-root `_attachments/` liegt **außerhalb** und wird nicht mitpubliziert (Generator erzeugte Fallback-Link `![](../code_mended.png)`)

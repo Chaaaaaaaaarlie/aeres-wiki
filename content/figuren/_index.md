@@ -29,6 +29,7 @@ NSCs und SCs der Aeres-Kampagne. Im Frontmatter nach `role` und `entity_type` fi
 - [[Halbling-Wahrsagerin]]
 - [[Harkas]]
 - [[Kapitänin der Zestus]]
+- [[Mirene Calath]]
 - [[Schwester Elva]]
 - [[Sir Aschefall]]
 - [[Ventus]]
