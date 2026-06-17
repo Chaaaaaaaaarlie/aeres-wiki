@@ -127,6 +127,7 @@ Die Seeschlacht gegen drei Piratenschiffe läuft. Ein Schiff hat die Zestus bere
 ## Verknüpfungen
 
 - [[Zestus]] · [[Zarat]] · [[Leitwacht]] · [[Mirene Calath]]
+- Transkript-Zusammenfassung: [[Transcript - Session 12 - 17.06.2026]]
 - [[Rugir]] · [[Elysia]] · [[Viri]] · [[Zion]] · [[Sir Aschefall]]
 - [[Wo versteckt sich der Assassine]] · [[Ilmater]]
 - [[Session 11 - 03.06.2026]]

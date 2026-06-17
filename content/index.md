@@ -79,7 +79,7 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 
 ## Quellen
 
-*Leer — wird beim Ingesten von `.raw/`-Quellen befüllt.*
+- [[Transcript - Session 12 - 17.06.2026]] — Dialogzusammenfassung Session 12
 
 ## Fragen
 
