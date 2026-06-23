@@ -97,6 +97,20 @@ In [[Session 10 - 06.05.2026]] ruft Elysia ihren inneren Freund unter dem Namen 
 - Legt **[[Sir Aschefall]]** die Tarot-Karten (Kelch-Motiv), neckt ihn; deutet eine Parallele zwischen ihm und Zion an
 - Reist als „Lyssa" mit der [[Zestus]] nach [[Zarat]]
 
+## Session 12
+- Erkundet die **Zestus** nachts als Spinne (Wild Shape): Crewgespräche über Rhusion/Hochzeit/Mord; keine feindseligen Absichten
+- Erfährt vom Schiffskoch "Tortel" den Grund für das Nachtverbot: Sicherheit + **Piraten der Piratenkönigin von Petrasilea** (Warnung vor dunklen Lichtern)
+- Navigiert nachts nach den Sternen → **Nat-20** → einen vollen Reisetag eingespart
+- **Station im Schiffskampf:** Reparatur
+- Hilft beim Feuer (Blitzeinschlag in S12): *Mending* (12 HP Schiff zurück) + Wildshape Seepferdchen um Wasser aufzuwirbeln
+
+## Session 13
+- **Station:** Reparatur; heilt und unterstützt im Deckgefecht
+- Erwägt Wild Shape in **Riesenseepferdchen** (Large, 3–4 m) um Piratenschiffe von unten zu sabotieren — Idee bleibt unausgeführt, Situation eskaliert zu schnell
+- Fragt, ob *Speak with Animals* für einen Hai funktionieren würde (Zion: *„Kann er einfach nom machen?"*)
+- **Familiar-Eule** setzt Frostzapfen-Angriff (Kegel) im Deckgefecht ein
+- Wild Shape-Status: Riesenseepferdchen (Wildshape unklar ob aktiviert)
+
 ## Verknüpfungen
 
 - [[Zion]] – Nächtliches Gespräch, kennt seinen Hunger; soll Statue meiden
@@ -109,3 +123,4 @@ In [[Session 10 - 06.05.2026]] ruft Elysia ihren inneren Freund unter dem Namen 
 - [[Chloro Verde]] – Glücksrad-Warnung vor der Begegnung
 - [[Sir Aschefall]]
 - [[Session 11 - 03.06.2026]]
+- [[Session 13 - 23.06.2026]]

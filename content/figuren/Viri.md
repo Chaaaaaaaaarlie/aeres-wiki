@@ -70,6 +70,20 @@ Viri ist nicht als Gast zur Hochzeit gekommen, sondern weil sie Sokars Männer h
 - Reserviert im [[Bernsteinauge]] ein Buch (Frist: ein Monat)
 - Erkennt am Ende die **Ork-Kriegsbanner** (Perception 19) → [[Kurkan Akrava|Belagerung]]
 
+## Session 12
+- Wird von [[Mirene Calath]] abgefangen, bevor sie zur Kapitänin kann; nimmt die Bordregeln entgegen
+- Pflegt seekranken [[Zion]] (Hydratation, Beruhigung); erhält Knoten-Unterricht von der Besatzung
+- Kurzes Deck-Gespräch mit [[Rugir]] über Leid und Reisen; bittet [[Elysia]], ihr bei schlechten Tarotkarten Bescheid zu sagen
+- **Station im Schiffskampf:** Beidrehen / Navigation (Seile, Akrobatik)
+- Fragt Aschefall nach seiner Vergangenheit (Gespräch auf Deck)
+
+## Session 13
+- **Station im Schiffskampf:** Navigation / Beidrehen
+- **Wendepunkt der Session:** wirkt **Suggestion** auf die Piraten-Anführerin (Zauberwirkerin, Innate Sorcery) — Level-Up-Spell, neu erhalten
+- Die Anführerin wird 8 Stunden gecharmt, ordnet der Crew den Rückzug an; die meisten Piraten folgen (Wisdom DC 15 größtenteils verfehlt)
+- Suggestion kann nicht durch Damage an der Anführerin gebrochen werden — Viri behält die Konzentration
+- Zitat der gecharmten Anführerin: *„Diese Landratten haben ja überhaupt gar nichts. Das lohnt sich überhaupt nicht. Zurück, Marsch, zurück!"*
+
 ## Verknüpfungen
 
 - [[Aspasia Cortiso]]
@@ -83,3 +97,4 @@ Viri ist nicht als Gast zur Hochzeit gekommen, sondern weil sie Sokars Männer h
 - [[Sir Aschefall]]
 - [[Zarat]]
 - [[Session 11 - 03.06.2026]]
+- [[Session 13 - 23.06.2026]]

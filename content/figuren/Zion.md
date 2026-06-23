@@ -93,6 +93,17 @@ In [[Session 9 - 15.04.2026]]: Als [[Chloro Verde]]s Schatten länger wird, **ve
 - Begegnet **[[Sir Aschefall]]** – [[Elysia]] deutet an, beide seien sich „gar nicht unähnlich" (gemeinsame „Zustände") → mögliche Parallele zu [[Zions Hunger]]
 - Reist mit der [[Zestus]] nach [[Zarat]]
 
+## Session 12
+- Seekrank — hängt den ersten Tag über der Reling; der Schiffskoch hilft mit Ingwer-Wermut-Rum-Mixtur
+- Erhält [[Elysia|Elysias]] *Lesser Restoration* und *Goodberries*; lehnt ab, sich festbinden zu lassen
+- An der Kanone (Schiffskampf) eingeschränkt → Station übernimmt Rugir; Zion beobachtet die Seeschlacht
+
+## Session 13
+- Voll kampffähig; übernimmt die **Kanonenstation** (Zion erklärt kurz die Schiffskampfregeln erhalten)
+- Erster Kanonenschuss verfehlt (Attack 0, Damage 3); danach aktiv im Deckgefecht beim Entern
+- Setzt einen **Frightened-Effekt** auf eine Piratin ein — sie verlässt daraufhin das Schiff freiwillig
+- Station: Kanone (Schiffskampf) | Nahkampf (Enteraktion)
+
 ## Verknüpfungen
 
 - [[Zions Hunger]]
@@ -105,4 +116,5 @@ In [[Session 9 - 15.04.2026]]: Als [[Chloro Verde]]s Schatten länger wird, **ve
 - [[Tigerauge]]
 - [[Gähnender Schacht]] – Codewort bekannt
 - [[Session 11 - 03.06.2026]]
+- [[Session 13 - 23.06.2026]]
 

@@ -41,6 +41,16 @@ Aschefall wird in [[Session 11 - 03.06.2026]] eingeführt und ist der **künftig
 - [ ] Was ist Aschefalls „Zustand", auf den Elysia anspielt?
 - [ ] Wem dient er wirklich – dem Princeps, Haus Cortiso, oder eigenen Zielen?
 
+## Session 12
+- **Station im Schiffskampf:** Ballisten
+- Erzielt im laufenden Seegefecht einen Treffer mit der Balliste (Breitseite in ein Piratenschiff gerissen)
+- Gespräch mit [[Viri]] auf Deck: gibt kaum Persönliches preis; *„Ich spreche lieber mit Taten als mit Geschichten von früher."*
+
+## Session 13
+- **Station:** Ballisten; würfelt **Nat-20** (Strength-Check) → doppelter Ballistenschaden, nur 1 Fähigkeitspunkt Kosten
+- Tötet den letzten verbleibenden Piraten mit einem **Divine Smite (Morgenstar)**: *„Die Nägel des Morgensterns rammeln sich so tief in den Kopf."*
+- Ist die dominante Nahkampfkraft beim Deckgefecht
+
 ## Verknüpfungen
 
 - [[Princeps Orpheon von Lutaxa]]
@@ -49,3 +59,4 @@ Aschefall wird in [[Session 11 - 03.06.2026]] eingeführt und ist der **künftig
 - [[Elysia]]
 - [[Zestus]]
 - [[Session 11 - 03.06.2026]]
+- [[Session 13 - 23.06.2026]]

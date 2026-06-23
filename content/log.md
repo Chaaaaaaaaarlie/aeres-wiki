@@ -22,6 +22,16 @@ Format:
 
 ---
 
+## [2026-06-23] recap | Session 13 – Piratenabwehr
+
+- Quelle: `craig-suXgNX0kaw11-4hqp3Byds0u9flq.flac.zip` (Transkription: whisperx large-v3, 3342 Segmente, 3h 11min)
+- Zusammenfassung: [[Session 13 - 23.06.2026]]
+- Erstellte Seiten: [[Session 13 - 23.06.2026]], [[Transcript - Session 13 - 23.06.2026]]
+- Aktualisierte Seiten: `hot.md`, `log.md`, `Willkommen.md`, `index.md`, `sessions/_index.md`
+- Kernerkenntnis: Piratenangriff abgewehrt — Entscheidender Moment: Viris Suggestion charmt die Piraten-Anführerin und löst den Rückzug aus; Zestus-Crew betrachtet Gruppe fortan mit Ehrfurcht
+
+---
+
 ## [2026-06-17] recap | Session 12 – Landratten und Piraten
 
 - Quelle: `craig-zH1qP3suFZDO-sXIdxC4AiiKa0HM.flac.zip` (Transkription: whisperx large-v3, 2878 Segmente)

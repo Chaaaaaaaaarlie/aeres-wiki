@@ -21,7 +21,7 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 - [[gottheiten/_index|Gottheiten-Übersicht]] — Götter (3 Seiten)
 - [[lore/_index|Lore-Übersicht]] — Welt-Hintergrund (5 Seiten)
 - [[fäden/_index|Fäden-Übersicht]] — offene Handlungsfäden & Hinweise (21 Seiten inkl. Rollups)
-- [[sessions/_index|Sessions-Übersicht]] — Session-Recaps (12 Seiten)
+- [[sessions/_index|Sessions-Übersicht]] — Session-Recaps (13 Seiten)
 
 ## Figuren
 
@@ -75,10 +75,11 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 
 ## Sessions (neueste zuerst)
 
-- [[Session 12 - 17.06.2026]] · [[Session 11 - 03.06.2026]] · [[Session 10 - 06.05.2026]] · [[Session 9 - 15.04.2026]] · [[Session 8 - 18.03.2026]] · [[Session 7 - 08.03.2026]] · [[Session 6 - 04.03.2026]] · [[Session 5 – Papiere, Pässe und Päckchen]] · [[Session 4 – Rhusion, zweiter Tag]] · [[Session 3 – Die Nacht danach]] · [[Session 2 – Unmittelbar nach dem Mord]] · [[Session 1 – Die Hochzeit]]
+- [[Session 13 - 23.06.2026]] · [[Session 12 - 17.06.2026]] · [[Session 11 - 03.06.2026]] · [[Session 10 - 06.05.2026]] · [[Session 9 - 15.04.2026]] · [[Session 8 - 18.03.2026]] · [[Session 7 - 08.03.2026]] · [[Session 6 - 04.03.2026]] · [[Session 5 – Papiere, Pässe und Päckchen]] · [[Session 4 – Rhusion, zweiter Tag]] · [[Session 3 – Die Nacht danach]] · [[Session 2 – Unmittelbar nach dem Mord]] · [[Session 1 – Die Hochzeit]]
 
 ## Quellen
 
+- [[Transcript - Session 13 - 23.06.2026]] — Dialogzusammenfassung Session 13
 - [[Transcript - Session 12 - 17.06.2026]] — Dialogzusammenfassung Session 12
 
 ## Fragen

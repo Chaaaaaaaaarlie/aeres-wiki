@@ -88,6 +88,18 @@ Kein direkter Treffer auf die **7 Kerzen** oder die **13 Stiche**. Spezialist f�
 - Packt den **Aktenschrank** voller Akten in den Bag of Holding; verwaltet die 300-Gold-Funde und den Erpresser-Brief des Princeps
 - Bietet der **[[Kapitänin der Zestus|Kapitänin]]** die 300 Gold für die Überfahrt nach [[Zarat]]
 
+## Session 12 – Aktionen
+- **Station im Schiffskampf:** Kanone (versucht *Enlarge* auf Kanonenkugel)
+- Enlarge-Manöver: Kugel vergrößert → Schiff erschüttert und ächzt, trifft aber nicht
+- Versucht während der Überfahrt, **magische Tinte** herzustellen (Calligrapher's Supplies, täglicher d20-Wurf) — kein Erfolg
+- Nacht-Gespräch mit [[Viri]] über Reisen und Stillstand: *„Wenn du die ganze Zeit nur an einem Ort verbleibst, lernst du nichts Neues."*
+
+## Session 13 – NPC-Modus
+- **Spieler abwesend** — vom DM als NPC geführt
+- Setzt im Schiffskampf ein Piratenschiff in Brand (anhaltender D4-Brandschaden)
+- Gibt während des Deckgefechts *„Offscreen-Anweisungen"*, ist im Initiative-Tracker aktiv
+- Rugir und seine **Eulen-Familiar** greifen in den letzten Kampfrunden ein
+
 ## Verknüpfungen
 
 - [[Alabaster Kuratorium]]
@@ -97,3 +109,4 @@ Kein direkter Treffer auf die **7 Kerzen** oder die **13 Stiche**. Spezialist f�
 - [[Rugirs wahrer Name]]
 - [[Zarat]]
 - [[Session 11 - 03.06.2026]]
+- [[Session 13 - 23.06.2026]]
