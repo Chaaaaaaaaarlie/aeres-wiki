@@ -104,6 +104,14 @@ In [[Session 9 - 15.04.2026]]: Als [[Chloro Verde]]s Schatten länger wird, **ve
 - Setzt einen **Frightened-Effekt** auf eine Piratin ein — sie verlässt daraufhin das Schiff freiwillig
 - Station: Kanone (Schiffskampf) | Nahkampf (Enteraktion)
 
+## Session 14
+- **Schwert-Enthüllung mit Viri:** Viri gesteht, dass sie das Schwert genommen und ihm einen Bluttropfen gegeben hat → sie erhielt Misty Step, das Schwert die Verbindung zu Viris Blut. Zion reagiert wütend und entsetzt: die Schwester im Schwert wird gieriger. Er schüttelt Viri, schüttet sich Salzwasser über den Kopf (Schwert war heiß).
+- **Todespakt:** Zion verspricht Viri, sie zu töten, wenn die Schwester ihren Geist übernimmt — Viri akzeptiert.
+- **Koalint-Angriff** (ohne Rüstung): stürzt beim Alarm auf Deck, enthauptet sofort den ersten Koalinth mit zwei Schwertangriffen.
+- Erhält **Lesser Restoration** von Elysia/Lyssa (Sehkrankheit).
+- **Wrack-Bergung:** Findet Healing Potion (voll) + 3 leere Fiolen.
+- Schwert ist nun aktiv mit Viris Blut verbunden — die Schwester merkt sich alles.
+
 ## Verknüpfungen
 
 - [[Zions Hunger]]
@@ -115,6 +123,8 @@ In [[Session 9 - 15.04.2026]]: Als [[Chloro Verde]]s Schatten länger wird, **ve
 - [[Bernsteinauge]]
 - [[Tigerauge]]
 - [[Gähnender Schacht]] – Codewort bekannt
+- [[Viri]] – Todespakt / Schwert-Blutpakt
 - [[Session 11 - 03.06.2026]]
 - [[Session 13 - 23.06.2026]]
+- [[Session 14 - 01.07.2026]]
 

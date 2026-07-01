@@ -22,6 +22,16 @@ Format:
 
 ---
 
+## [2026-07-01] recap | Session 14 – Seeungeheuer und Koalint-Angriff
+
+- Quelle: `craig-zaG6TUKa9xCb-rSWU2mtMw0amyBy.flac.zip` (Transkription: whisperx large-v3, 3744 Segmente, ~3h 34min, 232 Korrekturen)
+- Zusammenfassung: [[Session 14 - 01.07.2026]]
+- Erstellte Seiten: [[Session 14 - 01.07.2026]], [[Transcript - Session 14 - 01.07.2026]], [[Mechanischer Vogel]], [[Rache-Kreatur]]
+- Aktualisierte Seiten: [[Zion]], [[Viri]], [[Rugir]], [[Elysia]], `hot.md`, `log.md`, `Willkommen.md`, `index.md`, `sessions/_index.md`, `fäden/_index.md`
+- Kernerkenntnis: Koch Smoothiago stirbt im Koalint-Angriff; Viris Misty Step kommt aus Blutpakt mit Zions Schwester (Todespakt geschlossen); Mechanischer Vogel aus Valarhir gefunden; Rugir stellt erste Portion magischer Tinte her; Cliffhanger: Rache-Kreatur aus totem Wal kriecht an Bord
+
+---
+
 ## [2026-06-23] recap | Session 13 – Piratenabwehr
 
 - Quelle: `craig-suXgNX0kaw11-4hqp3Byds0u9flq.flac.zip` (Transkription: whisperx large-v3, 3342 Segmente, 3h 11min)

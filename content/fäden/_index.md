@@ -13,6 +13,7 @@ Offene Rätsel, Handlungsfäden, Hinweise und ungeklärte Fragen. Jede Seite hat
 
 ## Heiße Fäden (Priorität)
 
+- [[Rache-Kreatur]] *(neu, Cliffhanger Session 14)*
 - [[Blutpakt des Tigerauge]]
 - [[Ritual der 13 Stiche]]
 - [[Wo versteckt sich der Assassine]]
@@ -35,6 +36,7 @@ Offene Rätsel, Handlungsfäden, Hinweise und ungeklärte Fragen. Jede Seite hat
 
 - [[Die Boss hinter den Helfern]]
 - [[Die Lagerhäuser]]
+- [[Mechanischer Vogel]] *(neu, Session 14)*
 - [[Rugirs wahrer Name]]
 
 ## Rollup-Seiten

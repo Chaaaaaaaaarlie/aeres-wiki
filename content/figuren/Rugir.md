@@ -100,6 +100,13 @@ Kein direkter Treffer auf die **7 Kerzen** oder die **13 Stiche**. Spezialist f�
 - Gibt während des Deckgefechts *„Offscreen-Anweisungen"*, ist im Initiative-Tracker aktiv
 - Rugir und seine **Eulen-Familiar** greifen in den letzten Kampfrunden ein
 
+## Session 14
+- **Magische Tinte hergestellt!** Nach wiederholten Fehlversuchen in der Akademie gelingt die erste Portion auf See. Erkenntnis: Die höhere Luftfeuchtigkeit und andere Zusammensetzung der Meeresluft war der entscheidende Unterschied zur Alabaster-Berge-Akademie.
+- **Koalint-Angriff:** Eule wirkt zweimal **Lightning Cone** (Nass-Effekt = Blitzableiter, halber Schaden auch bei Fehlschlag). Rugir selbst: **Chromatic Orb (Lightning)** → tötet einen Koalinth.
+- Verwahrt den **mechanischen Vogel** ([[Mechanischer Vogel]]) in seinem magischen Beutel (Bag of Holding).
+- Sendet Eule zur Erkundung des Wracks (Investigation 18 — keine Überlebenden).
+- Hilft bei Zestus-Reparatur per **Prestidigitation**.
+
 ## Verknüpfungen
 
 - [[Alabaster Kuratorium]]
@@ -107,6 +114,8 @@ Kein direkter Treffer auf die **7 Kerzen** oder die **13 Stiche**. Spezialist f�
 - [[Ritual der 13 Stiche]] – beschäftigt ihn; nächster Schritt: Mal-Abzeichnung mit Büchern abgleichen
 - [[Magische Mordwaffe]] – forensisches Interesse
 - [[Rugirs wahrer Name]]
+- [[Mechanischer Vogel]] – in seinem magischen Beutel
 - [[Zarat]]
 - [[Session 11 - 03.06.2026]]
 - [[Session 13 - 23.06.2026]]
+- [[Session 14 - 01.07.2026]]

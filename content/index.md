@@ -20,8 +20,8 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 - [[kreaturen/_index|Kreaturen-Übersicht]] — Bestiarium (1 Seite)
 - [[gottheiten/_index|Gottheiten-Übersicht]] — Götter (3 Seiten)
 - [[lore/_index|Lore-Übersicht]] — Welt-Hintergrund (5 Seiten)
-- [[fäden/_index|Fäden-Übersicht]] — offene Handlungsfäden & Hinweise (21 Seiten inkl. Rollups)
-- [[sessions/_index|Sessions-Übersicht]] — Session-Recaps (13 Seiten)
+- [[fäden/_index|Fäden-Übersicht]] — offene Handlungsfäden & Hinweise (23 Seiten inkl. Rollups)
+- [[sessions/_index|Sessions-Übersicht]] — Session-Recaps (14 Seiten)
 
 ## Figuren
 
@@ -63,11 +63,11 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 
 ## Fäden — Heiß
 
-- [[Blutpakt des Tigerauge]] · [[Hafensabotage]] · [[Ritual der 13 Stiche]] · [[Rugirs wahrer Name]] · [[Tabulei]] · [[Wo versteckt sich der Assassine]] · [[Zions Hunger]]
+- [[Blutpakt des Tigerauge]] · [[Hafensabotage]] · [[Rache-Kreatur]] · [[Ritual der 13 Stiche]] · [[Rugirs wahrer Name]] · [[Tabulei]] · [[Wo versteckt sich der Assassine]] · [[Zions Hunger]]
 
 ## Fäden — Hinweise & Offen
 
-- [[Codierpergament]] · [[Die Boss hinter den Helfern]] · [[Die Lagerhäuser]] · [[Eingeritzte Zeichen]] · [[Fall der Offenbarung]] · [[Falsche Identitäten]] · [[Geruchsspuren]] · [[Infernale Bibliotheks-Forschung]] · [[Magische Mordwaffe]] · [[Schwarzer Seidenstoff]]
+- [[Codierpergament]] · [[Die Boss hinter den Helfern]] · [[Die Lagerhäuser]] · [[Eingeritzte Zeichen]] · [[Fall der Offenbarung]] · [[Falsche Identitäten]] · [[Geruchsspuren]] · [[Infernale Bibliotheks-Forschung]] · [[Magische Mordwaffe]] · [[Mechanischer Vogel]] · [[Schwarzer Seidenstoff]]
 
 ## Fäden — Rollups
 
@@ -75,10 +75,11 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 
 ## Sessions (neueste zuerst)
 
-- [[Session 13 - 23.06.2026]] · [[Session 12 - 17.06.2026]] · [[Session 11 - 03.06.2026]] · [[Session 10 - 06.05.2026]] · [[Session 9 - 15.04.2026]] · [[Session 8 - 18.03.2026]] · [[Session 7 - 08.03.2026]] · [[Session 6 - 04.03.2026]] · [[Session 5 – Papiere, Pässe und Päckchen]] · [[Session 4 – Rhusion, zweiter Tag]] · [[Session 3 – Die Nacht danach]] · [[Session 2 – Unmittelbar nach dem Mord]] · [[Session 1 – Die Hochzeit]]
+- [[Session 14 - 01.07.2026]] · [[Session 13 - 23.06.2026]] · [[Session 12 - 17.06.2026]] · [[Session 11 - 03.06.2026]] · [[Session 10 - 06.05.2026]] · [[Session 9 - 15.04.2026]] · [[Session 8 - 18.03.2026]] · [[Session 7 - 08.03.2026]] · [[Session 6 - 04.03.2026]] · [[Session 5 – Papiere, Pässe und Päckchen]] · [[Session 4 – Rhusion, zweiter Tag]] · [[Session 3 – Die Nacht danach]] · [[Session 2 – Unmittelbar nach dem Mord]] · [[Session 1 – Die Hochzeit]]
 
 ## Quellen
 
+- [[Transcript - Session 14 - 01.07.2026]] — Dialogzusammenfassung Session 14
 - [[Transcript - Session 13 - 23.06.2026]] — Dialogzusammenfassung Session 13
 - [[Transcript - Session 12 - 17.06.2026]] — Dialogzusammenfassung Session 12
 

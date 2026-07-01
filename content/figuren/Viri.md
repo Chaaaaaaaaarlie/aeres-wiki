@@ -84,6 +84,15 @@ Viri ist nicht als Gast zur Hochzeit gekommen, sondern weil sie Sokars Männer h
 - Suggestion kann nicht durch Damage an der Anführerin gebrochen werden — Viri behält die Konzentration
 - Zitat der gecharmten Anführerin: *„Diese Landratten haben ja überhaupt gar nichts. Das lohnt sich überhaupt nicht. Zurück, Marsch, zurück!"*
 
+## Session 14
+- **Blutpakt mit Zions Schwester:** Gesteht Zion, das Schwert genommen und ihm einen Bluttropfen gegeben zu haben. Erhielt dafür **Misty Step** (neu). Akzeptiert Zions Todespakt: er tötet sie, wenn die Schwester ihren Geist übernimmt.
+- **Misty Step:** Erstmals eingesetzt im Koalint-Angriff — teleportiert sich weg, als ein Dreizack durchschneidet.
+- **Koalint-Angriff:** Allein auf Deck; läutet per Mage Hand die Schiffsglocke; wirkt Magic Missile (6 Schaden); Silvery Barbs (kritischen Treffer neu gewürfelt).
+- **1 Exhaustion-Punkt:** Constitution Save gescheitert. Albträume: zwei gelbe Augen, Blitz und Donner (Schwert-Verbindung?). Erwacht seekrank, erbricht sich. Lyssa: Lesser Restoration.
+- **Seebestattung organisiert** (gefallene Crew nach Piratenangriff): *„Das Meer nimmt euch auf und Mater empfängt eure müden Seelen."*
+- **Tortle Eduard geheilt** (Handauflegung): Nebeneffekt — Eduard redet kurz sehr schnell.
+- **Wrack-Bergung:** Findet 1 edles Käserad (Hartkäse, Emblem).
+
 ## Verknüpfungen
 
 - [[Aspasia Cortiso]]
@@ -93,8 +102,9 @@ Viri ist nicht als Gast zur Hochzeit gekommen, sondern weil sie Sokars Männer h
 - [[Unbekannte Frau]] – Beschreibung erhalten; Mal abgewickelt
 - [[Elysia]]
 - [[Fall der Offenbarung]]
-- [[Zion]] – kennt das Schwert-Geheimnis
+- [[Zion]] – kennt das Schwert-Geheimnis; Todespakt geschlossen (S14)
 - [[Sir Aschefall]]
 - [[Zarat]]
 - [[Session 11 - 03.06.2026]]
 - [[Session 13 - 23.06.2026]]
+- [[Session 14 - 01.07.2026]]

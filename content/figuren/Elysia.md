@@ -111,6 +111,13 @@ In [[Session 10 - 06.05.2026]] ruft Elysia ihren inneren Freund unter dem Namen 
 - **Familiar-Eule** setzt Frostzapfen-Angriff (Kegel) im Deckgefecht ein
 - Wild Shape-Status: Riesenseepferdchen (Wildshape unklar ob aktiviert)
 
+## Session 14
+- **Kritischer Fund:** Entdeckt auf dem Wrack den **mechanischen Vogel** in verbogenem Käfig (Rubinaugen, Zahnräder, zwergische Signatur *„Dieter von Braumann"*, Herkunft: [[Valarhir]]). Erkennt sofort die Valarhir-Herkunft.
+- **Wrack-Reparatur:** Entdeckt und behebt mit Perception 17 + Arcana + Mending + Druidcraft eine kritische Rumpfschwachstelle — ohne diesen Fund wäre das Schiff gesunken.
+- **Koalint-Angriff:** Fällt aus dem Bett (Prone, schlechteste Initiative), rappelt sich auf, wirft **Guiding Bolt** → pulverisiert einen Koalinth.
+- Wirkt **Lesser Restoration** zweimal: auf Viri (Seekrankheit) und Zion (Sehkrankheit).
+- **Fischen:** Fängt rote Schnapper (Survival DC 10 + Stärke-Save DC 7 mit Matrosenhilfe) — Proviant für die Crew nach Smoothiagos Tod gesichert.
+
 ## Verknüpfungen
 
 - [[Zion]] – Nächtliches Gespräch, kennt seinen Hunger; soll Statue meiden
@@ -122,5 +129,7 @@ In [[Session 10 - 06.05.2026]] ruft Elysia ihren inneren Freund unter dem Namen 
 - [[Kalazar-Statue]]
 - [[Chloro Verde]] – Glücksrad-Warnung vor der Begegnung
 - [[Sir Aschefall]]
+- [[Mechanischer Vogel]] – entdeckt und identifiziert
 - [[Session 11 - 03.06.2026]]
 - [[Session 13 - 23.06.2026]]
+- [[Session 14 - 01.07.2026]]
