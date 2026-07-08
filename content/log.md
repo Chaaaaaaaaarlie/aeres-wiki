@@ -22,6 +22,16 @@ Format:
 
 ---
 
+## [2026-07-08] recap | Session 15 – Ankunft auf Zarat, Calderion und der Dibbuk
+
+- Quelle: `craig-AE0xlHCNVHdX-9k0KaX6mim6BNxV.flac.zip` (Transkription: whisperx large-v3, 3357 Segmente, ~3h 23min, 158 Korrekturen)
+- Zusammenfassung: [[Session 15 - 08.07.2026]]
+- Erstellte Seiten: [[Session 15 - 08.07.2026]], [[Transcript - Session 15 - 08.07.2026]], [[Calderion]], [[Der Dibbuk]], [[Sprechende Kristallkugel]]
+- Aktualisierte Seiten: [[Zion]], [[Viri]], [[Rugir]], [[Elysia]], [[Sir Aschefall]], [[Chloro Verde]], [[Zarat]], [[Leitwacht]], [[Zions Hunger]], [[Rache-Kreatur]], `hot.md`, `log.md`, `Willkommen.md`, `index.md`, `sessions/_index.md`, `fäden/_index.md`, `figuren/_index.md`
+- Kernerkenntnis: Rache-Kreatur besiegt und aufgeklärt — der Tote im Wal floh vor Chloro Verde, deren Reichweite bis auf offene See reicht; Gruppe erreicht Zarat, trifft den todkranken Priester Calderion; Enthüllung, dass niemand die Insel je verlassen darf und ein leichenbesetzender Dämon (der Dibbuk) sein Unwesen treibt; Zion reagiert körperlich auffällig auf Calderions Anti-Fae-Schutzzauber — neuer Hinweis auf seine wahre Natur; Session endet ohne Cliffhanger mitten in der Dschungel-Verfolgung
+
+---
+
 ## [2026-07-01] recap | Session 14 – Seeungeheuer und Koalint-Angriff
 
 - Quelle: `craig-zaG6TUKa9xCb-rSWU2mtMw0amyBy.flac.zip` (Transkription: whisperx large-v3, 3744 Segmente, ~3h 34min, 232 Korrekturen)

@@ -107,6 +107,16 @@ Kein direkter Treffer auf die **7 Kerzen** oder die **13 Stiche**. Spezialist f�
 - Sendet Eule zur Erkundung des Wracks (Investigation 18 — keine Überlebenden).
 - Hilft bei Zestus-Reparatur per **Prestidigitation**.
 
+## Session 15
+- **Firebolt** deckt die Feuer-Vulnerability der Rache-Kreatur auf; Arcana + Nature (DC 15, Vorteil) identifiziert sie als Rache-Ritual-Kreatur
+- Setzt **Toll the Dead** gegen die Seepocken am Rumpf ein
+- Leitet als Hauptcaster das **Circle-Magic-Ritual** gegen den Leviathan (Ritualdauer auf 6 Stunden reduziert); Essenz-Vision der eigenen Magie: strukturierte Zahlenmatrizen
+- Erkennt starke, aber unbestimmbare Magie im Leuchtturm von Zarat
+- Wirkt vorsorglich **Mage Armor** vor dem Betreten Leitwachts
+- Eulen-Familiar verschwindet beim Betreten von Calderions Schutzkuppel (Fae-/Fiend-/Celestial-Familiars ausgesperrt) — wird entlassen, erkundet fortan von außerhalb
+- Findet einen unidentifizierten **Zauberstab** (Evokationsmagie) im Dschungel — verstaut zur späteren Identify
+- Verstaut die unaktivierte **Driftkugel** in seinem magischen Beutel
+
 ## Verknüpfungen
 
 - [[Alabaster Kuratorium]]
@@ -116,6 +126,8 @@ Kein direkter Treffer auf die **7 Kerzen** oder die **13 Stiche**. Spezialist f�
 - [[Rugirs wahrer Name]]
 - [[Mechanischer Vogel]] – in seinem magischen Beutel
 - [[Zarat]]
+- [[Der Dibbuk]]
 - [[Session 11 - 03.06.2026]]
 - [[Session 13 - 23.06.2026]]
 - [[Session 14 - 01.07.2026]]
+- [[Session 15 - 08.07.2026]]

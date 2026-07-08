@@ -118,6 +118,14 @@ In [[Session 10 - 06.05.2026]] ruft Elysia ihren inneren Freund unter dem Namen 
 - Wirkt **Lesser Restoration** zweimal: auf Viri (Seekrankheit) und Zion (Sehkrankheit).
 - **Fischen:** Fängt rote Schnapper (Survival DC 10 + Stärke-Save DC 7 mit Matrosenhilfe) — Proviant für die Crew nach Smoothiagos Tod gesichert.
 
+## Session 15
+- Verwandelt sich in ein **Drachenseepferdchen**, um Seepocken vom Schiffsrumpf zu entfernen — mehrere Fehlschläge, rammt dabei das eigene Schiff
+- Essenz-Vision im Circle-Ritual: erdverbunden, „krustig", mit eigenem Bewusstsein darunter
+- Findet im Dschungel die **[[Sprechende Kristallkugel]]** — reagiert auf ihren eigenen Zauberfokus (ebenfalls eine Kristallkugel); zeigt das Sternbild „Zwilling"
+- Durchschaut die Lüge der Kristallkugel über die Fluchtrichtung des Dibbuk; vermutet Fae-Ursprung
+- Bremst Zion davon ab, die Kristallkugel zu zerstören; verstaut sie in ihrer Bettrolle
+- Kommentiert sarkastisch Zions „menschliche Neugierde" innerhalb der Schutzkuppel — ein Elf, der sich als Mensch ausgibt
+
 ## Verknüpfungen
 
 - [[Zion]] – Nächtliches Gespräch, kennt seinen Hunger; soll Statue meiden
@@ -130,6 +138,8 @@ In [[Session 10 - 06.05.2026]] ruft Elysia ihren inneren Freund unter dem Namen 
 - [[Chloro Verde]] – Glücksrad-Warnung vor der Begegnung
 - [[Sir Aschefall]]
 - [[Mechanischer Vogel]] – entdeckt und identifiziert
+- [[Sprechende Kristallkugel]] – entdeckt, verwahrt
 - [[Session 11 - 03.06.2026]]
 - [[Session 13 - 23.06.2026]]
 - [[Session 14 - 01.07.2026]]
+- [[Session 15 - 08.07.2026]]

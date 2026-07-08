@@ -2,9 +2,9 @@
 type: entity
 title: "Zarat"
 created: 2026-06-04
-updated: 2026-06-17
+updated: 2026-07-08
 tags: [ort, insel, ziel, assassine, seucheninsel]
-status: aktiv – Gruppe unterwegs (noch nicht angekommen)
+status: aktiv – Gruppe auf der Insel angekommen (Session 15), Beiboot zerstört
 ---
 
 # Zarat
@@ -42,12 +42,22 @@ In [[Session 12 - 17.06.2026]] findet Rugir in einem Buch folgenden Eintrag:
 - [[Doruk Val]] nennt unter [[Viri]]s Überzeugung (DC 13, Nat 20) den Namen **Zarat** als das Ziel
 - Logik: Auf einer Lepra-Seucheninsel sucht niemand nach einem Assassinen
 
+## Ankunft (Session 15)
+
+Die Zestus erreicht Zarat nach einer Reise voller Zwischenfälle (Seepocken, ein ausweichender Leviathan). Die Kapitänin ankert vor der Küste — das Schiff legt nicht direkt an. Regel: Nichts, auch kein Proviant, darf die Insel ohne ausdrückliches Votum verlassen. Die Gruppe bekommt **drei Tage**, bevor das Schiff aus Vorratsmangel umkehren muss.
+
+Sekunden nach der Landung wird das Beiboot der Gruppe von einem Geschoss **aus dem Leuchtturm** zerstört — ein Wächtermechanismus, der offenbar niemanden unbemerkt entkommen lässt. Die Gruppe hat aktuell keinen offensichtlichen Weg zurück zur Zestus.
+
+In [[Leitwacht]] trifft die Gruppe auf **[[Calderion]]** (lebt noch), der von einer neuen Bedrohung berichtet: **[[Der Dibbuk|dem Dibbuk]]**, einem leichenbesetzenden Dämon. Calderions Schocker: **Niemand darf die Insel je wieder verlassen** — auch nicht die Gesunden, denn früher oder später erkrankt jeder.
+
 ## Offene Fragen
 
 - [ ] Wo genau auf Zarat hält sich der Assassine auf?
 - [ ] Wer hat ihn beauftragt, und worauf wartet er dort?
-- [ ] Lebt Calderion Yolob noch – und wie alt müsste er dann sein?
+- [x] Lebt Calderion Yolob noch – und wie alt müsste er dann sein? → lebt, wirkt aber körperlich weit älter als sein tatsächliches Alter
 - [ ] Kennt der Assassine den Schutz des Halo-Zaubers – oder umgeht er ihn?
+- [ ] Wie kommt die Gruppe ohne Beiboot je wieder von der Insel weg?
+- [ ] Steht der Dibbuk mit dem gesuchten Assassinen in Verbindung?
 
 ## Verknüpfungen
 
@@ -56,6 +66,9 @@ In [[Session 12 - 17.06.2026]] findet Rugir in einem Buch folgenden Eintrag:
 - [[Doruk Val]]
 - [[Zestus]]
 - [[Leitwacht]]
+- [[Calderion]]
+- [[Der Dibbuk]]
 - [[Ilmater]]
 - [[Session 11 - 03.06.2026]]
 - [[Session 12 - 17.06.2026]]
+- [[Session 15 - 08.07.2026]]

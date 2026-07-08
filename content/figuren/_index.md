@@ -2,7 +2,7 @@
 type: meta
 title: "Figuren-Übersicht"
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-07-08
 tags:
   - meta/index
   - domain/characters
@@ -23,6 +23,7 @@ NSCs und SCs der Aeres-Kampagne. Im Frontmatter nach `role` und `entity_type` fi
 
 - [[Augier]]
 - [[Bruder Kalvet]]
+- [[Calderion]]
 - [[Chloro Verde]]
 - [[Doruk Val]]
 - [[Elmar Kassar]]

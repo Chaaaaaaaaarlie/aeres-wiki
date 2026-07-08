@@ -2,52 +2,51 @@
 type: meta
 title: "Aktueller Kontext (Hot Cache)"
 created: 2026-05-12
-updated: 2026-07-01
+updated: 2026-07-08
 tags:
   - meta/hot
 ---
 # Aktueller Kontext
 
 ## Letztes Update
-2026-07-01 — [[Session 14 - 01.07.2026]] eingepflegt. Koalint-Angriff abgewehrt; Koch Smoothiago tot; Rache-Kreatur als Cliffhanger.
+2026-07-08 — [[Session 15 - 08.07.2026]] eingepflegt. Rache-Kreatur besiegt und aufgeklärt (Chloro Verde); Ankunft auf Zarat; Priester Calderion getroffen; Dibbuk-Bedrohung enthüllt; niemand darf die Insel je verlassen; Session endet mitten in der Dschungel-Verfolgung.
 
 ## Wichtige aktuelle Fakten
 
-- Aktuellste In-Fiction-Session: [[Session 14 - 01.07.2026]].
-- Die Gruppe ist auf der **[[Zestus]]** unterwegs nach **[[Zarat]]** — noch nicht angekommen. Schätzungsweise **Tag 6–7 von ca. 8**.
-- **Rache-Kreatur** kriecht am Tau des toten Wals entlang auf das Schiff — Session endet hier. Session 15 beginnt direkt mit diesem Encounter.
-- **Toter Wal:** Im Inneren ein verkohlt-skelettiertes Wesen in edler Kleidung mit einer Schatulle. Herkunft und Inhalt unbekannt.
-- **Koch Smoothiago (Iago)** ist tot — von Koalinths in der Nacht getötet. Crew trauert; Lyssa hat durch Fischen den Proviant gesichert.
-- **5 Koalinths** erfolgreich abgewehrt. Loot: Schwertfisch-Kurzschwert, gebogener Obsidian-Dolch, 15 Muscheln.
-- **[[Viri]]:** Hat Misty Step aus Blutpakt mit Zions Schwester-Seele. Todespakt mit Zion: er tötet sie, wenn die Schwester ihren Geist übernimmt — sie hat akzeptiert. Hat 1 Exhaustion (Constitution Save gescheitert). Albträume: zwei gelbe Augen, Blitz und Donner.
-- **[[Zion]]:** Weiß von Viris Blutpakt mit dem Schwert. Schwert wird gieriger. Hat Lesser Restoration von Lyssa erhalten.
-- **[[Rugir]]:** Hat in Session 14 endlich eine **Portion magischer Tinte** hergestellt (Luftfeuchtigkeit auf See war der Schlüssel vs. Alabaster-Berge).
-- **[[Elysia]]:** Hat den **mechanischen Vogel** (Valarhir, Signatur „Dieter von Braumann") entdeckt und geborgen — liegt in Rugirs magischem Beutel.
-- **[[Sir Aschefall]]:** Im Koalint-Kampf in Haken-Netz gefangen, Dreizack-Schaden erhalten; hat sich befreit.
-- **Tortle Eduard:** Crewmitglied, von Viri geheilt (Session 14).
-- **[[Zarat]] = Seucheninsel:** Leprakolonie [[Leitwacht]], Halo-Zauber (Schutz + Kommunikation).
-- **Belagerung Rhusions** durch [[Kurkan Akrava|Hrem]]s Ork-Armee läuft im Hintergrund.
-- **[[Hjolda]] hat die Gruppe verlassen** — ist Leibwache von [[Aspasia Cortiso]].
-- Quartiermeisterin der Zestus: **[[Mirene Calath]]**.
-- **[[Viri]]** sucht auf Zarat ein historisch bedeutsames Artefakt für [[Bernsteinauge]] (Frist ~3 Wochen verbleibend).
-
-## Neue Funde (Session 14)
-
-- **Mechanischer Vogel** ([[Mechanischer Vogel]]): Valarhir, Rubinaugen, Zahnräder, Signatur „Dieter von Braumann". Kaputt, braucht Zwerg-Experten.
-- **Wrack-Bergung:** Navigator's Kit, 200 Fuß Hanfseil, Reparaturholz + Teer, Ersatzsegel, Beiboot; Smaragd-Ohrringe (Aschefall, 100 G), Healing Potion + 3 Fiolen (Zion), Käserad (Viri).
+- Aktuellste In-Fiction-Session: [[Session 15 - 08.07.2026]].
+- Die Gruppe ist **auf [[Zarat]] gelandet** (Leprakolonie, offiziell „Savart"/„Insel der Geier"). Das Beiboot wurde sofort nach der Landung vom Leuchtturm der Insel zerstört — kein offensichtlicher Rückweg zur [[Zestus]], die vor der Küste ankert.
+- **Drei-Tage-Frist:** Die Kapitänin muss aus Vorratsmangel umkehren, wenn die Gruppe nicht rechtzeitig zurückkehrt.
+- **[[Calderion]]**, Priester Ilmaters, Hirte der Siedlung [[Leitwacht]], hält seit Jahrzehnten mit der eigenen Lebenskraft einen Schutzzauber gegen Untote/Dämonen/Teufel/Fae/Celestials aufrecht. Ist selbst unheilbar krank.
+- **Schocker:** Niemand darf Zarat je wieder verlassen — auch nicht Gesunde, denn jeder erkrankt irgendwann.
+- **[[Der Dibbuk]]**: ein Dämon, der Leichen besetzt und terrorisiert die Insel außerhalb Leitwachts. Kann die Schutzkuppel nicht betreten; ein humanoider Komplize öffnet vermutlich die Gräber. Calderion bittet die Gruppe, ihn zu stoppen — im Gegenzug hilft er bei der Suche nach dem eigentlichen Ziel: dem Mörder von [[Sokar Karioka]].
+- Die Gruppe folgt der frischen Dibbuk-Spur in den Dschungel — **Session endet hier, keine Auflösung**.
+- **[[Rache-Kreatur]] (Session 14 Cliffhanger) ist aufgelöst:** Die Kreatur war feueranfällig und besiegt, bevor sie zum Zug kam. Der Tote im Wal war ein Dieb, der vor **[[Chloro Verde]]** floh — Chloro Verdes Reichweite erstreckt sich offenbar bis auf offene See. Die Gruppe besitzt jetzt seine gestohlenen Rubine (50 Gold).
+- **[[Zion]]:** Reagiert körperlich auffällig auf Calderions Schutzzauber (Übelkeit, ein „Teil seines Kopfes" schweigt erstmals) — starker neuer Hinweis, dass er selbst etwas Fae-artiges/nicht-Menschliches in sich trägt (siehe [[Zions Hunger]]). Seine Magie erschien im Circle-Ritual „uralt, wie geborgen".
+- **[[Sir Aschefall]]:** Sein eigentlicher Auftrag war nur, die Gruppe sicher nach Zarat zu bringen — formal erfüllt. Ob er weiterhilft, ist offen.
+- **Neue Funde im Dschungel:** unaktivierte Driftkugel (bei Rugir), unidentifizierter Zauberstab (Evokation, bei Rugir), die **[[Sprechende Kristallkugel]]** — die Kreatur darin nennt sich **Ixtra** (lügendes, vermutlich Fae-Artefakt, bei Lyssa/Elysia — hat den Dibbuk absichtlich falsch geortet).
+- **[[Viri]]:** Von Calderion als Glaubensschwester erkannt; sein Blick deutet an, sie könnte seine Nachfolgerin für den Schutzzauber werden.
+- **[[Elysia]]:** Ihr Zauberfokus (Kristallkugel) reagierte auf die gefundene sprechende Kristallkugel — beide zeigen das Sternbild „Zwilling".
+- **[[Mechanischer Vogel]]:** weiterhin unverändert in Rugirs magischem Beutel.
+- **Belagerung Rhusions** durch [[Kurkan Akrava|Hrem]]s Ork-Armee läuft weiterhin im Hintergrund — Zeitdruck bleibt akut.
 
 ## Aktive Fäden
 
-- **[[Rache-Kreatur]]** — akut, Cliffhanger Session 14.
-- **[[Wo versteckt sich der Assassine]]** — Zarat noch nicht erreicht; [[Rakshasa-Assassine]] vermutlich dort.
+- **[[Der Dibbuk]]** — neu, akut. Muss gejagt und gestoppt werden.
+- **[[Sprechende Kristallkugel]]** — neu, offen. Fae-Verdacht, lügt.
+- Unidentifizierter Zauberstab — neu, offen.
+- **[[Zions Hunger]]** — eskaliert, reagiert auf Calderions Schutzzauber.
+- Sir Aschefalls wahrer Auftrag — offen, formal erfüllt.
+- **[[Chloro Verde]]** — eskaliert, Reichweite bis auf offene See.
+- **[[Wo versteckt sich der Assassine]]** — Zielinsel erreicht, Assassine noch nicht lokalisiert.
+- **[[Mechanischer Vogel]]** — ruhend.
 - **[[Ritual der 13 Stiche]]** — ruhend bis nach Zarat.
-- **[[Mechanischer Vogel]]** — offen, keine Eile; benötigt Valarhir-Experten.
-- Schwert-Verbindung Viri–Zion — eskaliert (Blutpakt aktiv, Träume beginnen).
-- [[Rugirs wahrer Name]], [[Zions Hunger]], [[Blutpakt des Tigerauge]], [[Tabulei]], [[Hafensabotage]] — im Hintergrund.
+- [[Rugirs wahrer Name]], [[Blutpakt des Tigerauge]], [[Tabulei]], [[Hafensabotage]] — im Hintergrund.
 
 ## Offen für die nächste Session
 
-- Rache-Kreatur bekämpfen / verstehen (was will sie? wen will sie?).
-- Was ist in der Schatulle des Skeletts im Wal?
-- Ankunft in Zarat / Leitwacht.
-- Suche nach dem Assassinen.
+- Den Dibbuk im Dschungel finden und stoppen — „nicht mit Zorn".
+- Die sprechende Kristallkugel weiter verhören / ihre wahre Natur testen (Kuppel-Barriere?).
+- Den gefundenen Zauberstab identifizieren.
+- Herausfinden, wer der humanoide Komplize des Dibbuk ist.
+- Einen Weg zurück zur Zestus finden (Beiboot zerstört, Drei-Tage-Frist).
+- Den gesuchten Assassinen/Mörder von Sokar Karioka über die Dibbuk-Spur aufspüren.

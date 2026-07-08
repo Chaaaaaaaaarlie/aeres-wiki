@@ -75,12 +75,29 @@ Die **junge weibliche Stimme** aus früheren Träumen ist vermutlich die Schwest
 - Chloro Verde bemerkt Zion: *„Riecht an dir … Es ist nicht einer deiner Sorte. Aber wie ich sehe, bist du schon mehrfach besetzt."* – damit ist sowohl die Schwester im Schwert als auch der Rakshasa-Pakt sichtbar für sie
 - Keine direkte Konfrontation mit der Katzengestalt in dieser Session
 
+## Session 15 – Reaktion auf Calderions Schutzzauber (wichtiger neuer Datenpunkt)
+
+Auf [[Zarat]], innerhalb der von **[[Calderion]]** aufrechterhaltenen Schutzkuppel (wehrt gezielt Untote, Dämonen, Teufel, **Fae** und himmlische Wesen ab), zeigt Zion erstmals eine klare körperliche Reaktion:
+
+- Übelkeit, das Gefühl, „nicht hier sein zu sollen"
+- Zum ersten Mal **schweigt ein Teil seines Kopfes** — möglicherweise die junge weibliche Stimme / Katzengestalt, die sonst präsent ist
+- Green-Flame-Blade-Magie lässt sich innerhalb der Kuppel wirken, aber spürbar erschwert — „wie ein Kampf gegen eine innere Barriere", brennende Fingerkuppen
+- Calderion bemerkt die Anomalie, fragt misstrauisch nach; Zion lügt mit „menschlicher Neugierde" (Deception DC 12, knapp bestanden)
+- Elysia kommentiert sarkastisch: ein Elf, der sich als Mensch ausgibt, sei wenig überzeugend
+
+Zusätzlich: Während des Circle-Rituals gegen den Leviathan (auf dem Weg nach Zarat) sehen die anderen Zauberwirker kurz die Essenz von Zions Magie — **uralt, „als wäre sie geborgen"**.
+
+→ Beide Beobachtungen deuten stark darauf hin, dass Zion selbst (nicht nur das Schwert oder die Katzengestalt) etwas **Fae-artiges oder nicht-menschliches** in sich trägt, das mit exakt der Kategorie von Wesen reagiert, die Calderions Zauber gezielt aussperrt.
+
 ## Verknüpfungen
 
 - [[Session 9 - 15.04.2026]]
 - [[Session 8 - 18.03.2026]]
+- [[Session 15 - 08.07.2026]]
 - [[Zion]]
 - [[Elysia]]
 - [[Blutpakt des Tigerauge]]
 - [[Chloro Verde]] – Schatten kauert vor ihr
 - [[Kalazar-Statue]] – Elysia will Zion fernhalten
+- [[Calderion]] – misstrauisch gegenüber Zions Reaktion auf seinen Schutzzauber
+- [[Zarat]]

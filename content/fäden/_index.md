@@ -2,7 +2,7 @@
 type: meta
 title: "Fäden-Übersicht"
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-07-08
 tags:
   - meta/index
   - domain/threads
@@ -13,7 +13,7 @@ Offene Rätsel, Handlungsfäden, Hinweise und ungeklärte Fragen. Jede Seite hat
 
 ## Heiße Fäden (Priorität)
 
-- [[Rache-Kreatur]] *(neu, Cliffhanger Session 14)*
+- [[Der Dibbuk]] *(neu, Session 15)*
 - [[Blutpakt des Tigerauge]]
 - [[Ritual der 13 Stiche]]
 - [[Wo versteckt sich der Assassine]]
@@ -36,8 +36,13 @@ Offene Rätsel, Handlungsfäden, Hinweise und ungeklärte Fragen. Jede Seite hat
 
 - [[Die Boss hinter den Helfern]]
 - [[Die Lagerhäuser]]
-- [[Mechanischer Vogel]] *(neu, Session 14)*
+- [[Mechanischer Vogel]] *(Session 14)*
+- [[Sprechende Kristallkugel]] *(neu, Session 15)*
 - [[Rugirs wahrer Name]]
+
+## Abgeschlossene Fäden
+
+- [[Rache-Kreatur]] *(gelöst, Session 15)*
 
 ## Rollup-Seiten
 

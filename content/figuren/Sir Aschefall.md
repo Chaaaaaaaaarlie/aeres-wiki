@@ -16,6 +16,7 @@ status: aktiv – reist mit der Gruppe
 - Soll dafür sorgen, dass die **Crew der [[Zestus]]** die Gruppe wieder nach Rhusion zurückbringt
 - Soll die Gruppe motivieren, **zurückzukehren** (das mitgegebene Gold soll dasselbe tun)
 - Der Princeps vertraut ihm ausdrücklich: *„Er hat Lady Cortisos Leben beschützt."*
+- **Session 15 – Enthüllung:** Bei der Ankunft auf [[Zarat]] wird klar, dass sein eigentlicher Auftrag schlicht war, die Gruppe **sicher zur Insel zu bringen**. Damit ist sein offizieller Auftrag formal erfüllt — ob er weiterhin hilft, liegt jetzt bei ihm selbst. *(Offener Faden: wahre Loyalität, weitere Motive)*
 
 ## Aspasias Retter
 
@@ -51,6 +52,14 @@ Aschefall wird in [[Session 11 - 03.06.2026]] eingeführt und ist der **künftig
 - Tötet den letzten verbleibenden Piraten mit einem **Divine Smite (Morgenstar)**: *„Die Nägel des Morgensterns rammeln sich so tief in den Kopf."*
 - Ist die dominante Nahkampfkraft beim Deckgefecht
 
+## Session 15
+
+- **Erkennt Verwandtschaft:** Als die Zestus einem gehörnten Leviathan entkommt, erkennt Aschefall (drachenblütig) Ähnlichkeit mit sich selbst — „eine kleine Version der großen Drachen". Scherzt, sie seien „gerade einem Seegott entkommen"
+- **Auftrag formal erfüllt** mit der Ankunft auf Zarat (siehe oben)
+- Wird von Viri per Seil gesichert und neben der Zestus hergezogen, um Seepocken vom Rumpf zu schaben
+- Essenz-Vision im Circle-Ritual: gleißend hell, selbstherrlich, ansteckend
+- Zieht mit der Gruppe nach Leitwacht und in den Dschungel zur Dibbuk-Verfolgung
+
 ## Verknüpfungen
 
 - [[Princeps Orpheon von Lutaxa]]
@@ -58,5 +67,7 @@ Aschefall wird in [[Session 11 - 03.06.2026]] eingeführt und ist der **künftig
 - [[Zion]]
 - [[Elysia]]
 - [[Zestus]]
+- [[Zarat]]
 - [[Session 11 - 03.06.2026]]
 - [[Session 13 - 23.06.2026]]
+- [[Session 15 - 08.07.2026]]

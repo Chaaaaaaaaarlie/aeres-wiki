@@ -2,7 +2,7 @@
 type: meta
 title: "Sessions-Übersicht"
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-07-08
 tags:
   - meta/index
   - domain/sessions
@@ -11,6 +11,7 @@ tags:
 
 Chronologische Session-Recaps. Neueste oben.
 
+- [[Session 15 - 08.07.2026]]
 - [[Session 14 - 01.07.2026]]
 - [[Session 13 - 23.06.2026]]
 - [[Session 12 - 17.06.2026]]

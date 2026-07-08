@@ -93,6 +93,17 @@ Viri ist nicht als Gast zur Hochzeit gekommen, sondern weil sie Sokars Männer h
 - **Tortle Eduard geheilt** (Handauflegung): Nebeneffekt — Eduard redet kurz sehr schnell.
 - **Wrack-Bergung:** Findet 1 edles Käserad (Hartkäse, Emblem).
 
+## Session 15
+- **Ready-Action** (Guiding Bolt) beim Betreten des toten Wals abgesichert
+- **Lore-Exposition** über Zarat/Savart und die Gründung Leitwachts durch Calderion (Despotat Bukewala, Priester Ilmaters)
+- Sichert Aschefall per Seil, während er Seepocken vom Rumpf schabt
+- Betet im Tempel neben **[[Calderion]]** — wird von ihm als Glaubensschwester erkannt: *„Ihr sprecht die Worte unseres Herrn, als würdet ihr sie leben."*
+- Calderions Blick bleibt bezeichnend an ihr hängen, als er von seinem nahenden Tod spricht — mögliche Andeutung, sie als Nachfolgerin für seinen Schutzzauber zu sehen
+- Fragt Calderion, ob er den Schutzzauber testweise auf die Gruppe im Dschungel ausweiten könnte — Arcana DC 10 (knapp bestanden): die Magie wäre für sie „zerreißend" mächtig; erklärt ihre eigene Magie als angeboren und spontan wachsend, nicht erlernt
+- Spürt **brennende Adern** innerhalb der Schutzkuppel
+- Findet die unaktivierte **Driftkugel** im Dschungel (per Mage Hand geborgen)
+- Bremst Zion davon ab, die gefundene [[Sprechende Kristallkugel]] zu zerstören
+
 ## Verknüpfungen
 
 - [[Aspasia Cortiso]]
@@ -105,6 +116,8 @@ Viri ist nicht als Gast zur Hochzeit gekommen, sondern weil sie Sokars Männer h
 - [[Zion]] – kennt das Schwert-Geheimnis; Todespakt geschlossen (S14)
 - [[Sir Aschefall]]
 - [[Zarat]]
+- [[Calderion]] – Glaubensschwester, mögliche Nachfolgerin
 - [[Session 11 - 03.06.2026]]
 - [[Session 13 - 23.06.2026]]
 - [[Session 14 - 01.07.2026]]
+- [[Session 15 - 08.07.2026]]

@@ -2,9 +2,9 @@
 type: entity
 title: "Chloro Verde"
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-07-08
 tags: [nsc, hafen, schattennetz, ungeklärt, informationshändlerin]
-status: aktiv – erstmalig getroffen in Session 9
+status: aktiv – erstmalig getroffen in Session 9; Reichweite reicht bis auf offene See (Session 15)
 ---
 
 # Chloro Verde
@@ -71,6 +71,14 @@ Geschwächt: Ihre Goliaths ließen sich von ihr im Vergleich zur Gruppe **schief
 
 Laut dem Händler des [[Bernsteinauge]]s (über [[Viri]]) hat Chloro Verde inzwischen **gemerkt, dass der übergebene Beholder eine Attrappe/Fälschung war**. Der Händler nennt sie sarkastisch seine *„liebste Freundin"* und rät der Gruppe dringend, **unterzutauchen / die Stadt zu verlassen**. Damit ist das Täuschungsmanöver aus [[Session 9 - 15.04.2026]] / [[Session 10 - 06.05.2026]] **enttarnt** – ein potenzielles Risiko, sollte die Gruppe nach Rhusion zurückkehren.
 
+## Session 15 – Die grüne Dirne auf hoher See
+
+Weit draußen auf See, Tage von Rhusion entfernt, greift die titelgebende **[[Rache-Kreatur]]** aus Session 14 die Zestus an. Untersuchung des skelettierten Diebs im toten Wal ergibt: Er floh mit einer Schatulle voller Rubine (50 Gold) vor seiner Verfolgerin — in seinen eigenen Notizen nur **„die grüne Dirne"** genannt. Ein Geschichts-/Intelligenzwurf (Nat-20) bestätigt: gemeint ist Chloro Verde.
+
+Die Rache-Kreatur steht damit mutmaßlich in direkter Verbindung zu ihr — eine Vergeltung für den Diebstahl, die den Flüchtigen über die offene See verfolgte. Chloro Verdes Reichweite und Macht gehen damit weit über ihr Territorium in Rhusions Kanalisation hinaus.
+
+Die Gruppe hat die Rubine behalten. Bereits die Erwähnung ihres Namens lässt die Seeleute der Zestus sichtlich unruhig werden.
+
 ## Offene Fragen
 
 - [ ] Wie reagiert Chloro Verde auf die aufgedeckte Fälschung?
@@ -78,6 +86,8 @@ Laut dem Händler des [[Bernsteinauge]]s (über [[Viri]]) hat Chloro Verde inzwi
 - [ ] Warum beeinflusst ihr Territorium die Umgebung magisch?
 - [ ] Was ist ihr eigentliches Interesse am Beholder?
 - [ ] Wie tief ist ihre Verbindung zum Assassinen und zur Unbekannten Frau?
+- [ ] Weiß sie, dass die Gruppe ihre gestohlenen Rubine jetzt besitzt?
+- [ ] Wie weit reicht ihre Macht tatsächlich — kann sie Kreaturen auch auf offener See beschwören/entsenden?
 
 ## Verknüpfungen
 
@@ -91,5 +101,7 @@ Laut dem Händler des [[Bernsteinauge]]s (über [[Viri]]) hat Chloro Verde inzwi
 - [[Doruk Val]]
 - [[Bernsteinauge]]
 - [[Zions Hunger]] – Zions Schatten kauert vor ihr
+- [[Rache-Kreatur]] – vermutlich in ihrem Namen entsandt
 - [[Session 11 - 03.06.2026]]
+- [[Session 15 - 08.07.2026]]
 

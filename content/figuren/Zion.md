@@ -112,19 +112,31 @@ In [[Session 9 - 15.04.2026]]: Als [[Chloro Verde]]s Schatten länger wird, **ve
 - **Wrack-Bergung:** Findet Healing Potion (voll) + 3 leere Fiolen.
 - Schwert ist nun aktiv mit Viris Blut verbunden — die Schwester merkt sich alles.
 
+## Session 15
+- **Rache-Kreatur:** Balanciert per Nat-20 über das Harpunenseil zum toten Wal; öffnet die Schatulle mit Rubinen (50 Gold); findet Notiz des toten Diebes — Verfolgerin war [[Chloro Verde]] („die grüne Dirne")
+- **Essenz-Vision im Circle-Ritual:** Seine Magie erscheint den anderen als **uralt** — „als wäre sie geborgen" (neuer, unerklärter Hinweis auf seine wahre Natur)
+- **Ankunft auf Zarat:** Riecht/sieht die toten Möwen im Wasser, bestätigt die Seucheninsel
+- **Reaktion auf Calderions Schutzkuppel:** Übelkeit, Gefühl von Unerwünschtheit — und zum ersten Mal **schweigt ein Teil seines Kopfes** (siehe [[Zions Hunger]])
+- Testet Green-Flame-Blade-Magie innerhalb der Kuppel — spürbar erschwert, als kämpfe er gegen eine innere Barriere; Fingerkuppen brennen. Lügt Calderion mit „menschlicher Neugierde" an (Deception DC 12, knapp bestanden) — Elysia bemerkt sarkastisch, ein Elf, der sich als Mensch ausgibt, sei wenig überzeugend
+- Nat-20 beim Tracking der Dibbuk-Spur im Dschungel
+- Will die gefundene [[Sprechende Kristallkugel]] mehrfach zerstören — von Lyssa und Viri gebremst
+
 ## Verknüpfungen
 
 - [[Zions Hunger]]
 - [[Blutpakt des Tigerauge]]
 - [[Elysia]]
 - [[Hjolda]] – Gespräch über den Wald; emotionale Reaktion
-- [[Chloro Verde]] – Schatten reagiert auf sie
+- [[Chloro Verde]] – Schatten reagiert auf sie; Verfolgerin des Rubindiebs
 - [[Sir Aschefall]]
 - [[Bernsteinauge]]
 - [[Tigerauge]]
 - [[Gähnender Schacht]] – Codewort bekannt
 - [[Viri]] – Todespakt / Schwert-Blutpakt
+- [[Calderion]] – misstrauisch gegenüber Zions Reaktion auf den Schutzzauber
+- [[Zarat]]
 - [[Session 11 - 03.06.2026]]
 - [[Session 13 - 23.06.2026]]
 - [[Session 14 - 01.07.2026]]
+- [[Session 15 - 08.07.2026]]
 

@@ -2,10 +2,10 @@
 type: faden
 title: "Rache-Kreatur"
 created: 2026-07-01
-updated: 2026-07-01
-tags: [faden, kreatur, cliffhanger, akut]
-status: open
-priorität: hoch
+updated: 2026-07-08
+tags: [faden, kreatur, gelöst]
+status: resolved
+priorität: niedrig
 ---
 
 # Rache-Kreatur
@@ -36,12 +36,24 @@ Als das Tau gespannt wird, beginnt es zu vibrieren. Eine Kreatur **formt sich au
 - **Verkohlte Knochen** → Tod durch Feuer oder magische Verbrennung
 - **Schatulle** → enthält etwas Wichtiges; möglicherweise der Grund für die Vergeltung
 
+## Auflösung (Session 15)
+
+Die Kreatur ist ein blutleeres, **feueranfälliges** Wesen (Vulnerability durch Rugirs Firebolt entdeckt) und kommt dank besonders schlechter Initiative nie zum Zug — besiegt, bevor sie Schaden anrichten kann.
+
+**Arcana + Nature (DC 15, mit Vorteil)** identifiziert sie als Typus, der von Hexen, Lichs oder Priestern in **Rache-Ritualen** erschaffen wird.
+
+Das Skelett im Wal-Inneren war ein Dieb auf der Flucht mit einer Schatulle voller Rubine (50 Gold), gestohlen von **[[Chloro Verde]]** — genannt „die grüne Dirne" in seinen Notizen. Die Rache-Kreatur steht damit mutmaßlich in direkter Verbindung zu Chloro Verde: eine von ihr (oder in ihrem Namen) beschworene Vergeltung für den Diebstahl, die den Flüchtigen über die offene See verfolgte.
+
+Die Rubine wurden von der Gruppe behalten — ein potenzielles Faustpfand, aber auch ein Risiko, sollte Chloro Verde die Gruppe erneut kreuzen.
+
 ## Status
 
-**Akut** — Cliffhanger. Session 15 beginnt wahrscheinlich direkt mit diesem Encounter.
+**Abgeschlossen.** Kreatur besiegt, Herkunft und Motiv geklärt.
 
 ## Verknüpfungen
 
 - [[Session 14 - 01.07.2026]] (Cliffhanger)
+- [[Session 15 - 08.07.2026]] (Auflösung)
 - [[Zestus]]
+- [[Chloro Verde]]
 - möglicherweise: [[Mechanischer Vogel]] (dasselbe Wrack?)
