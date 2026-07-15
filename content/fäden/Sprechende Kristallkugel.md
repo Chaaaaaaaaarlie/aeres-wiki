@@ -2,7 +2,7 @@
 type: faden
 title: "Sprechende Kristallkugel"
 created: 2026-07-08
-updated: 2026-07-08
+updated: 2026-07-14
 tags: [faden, artefakt, fae-verdacht, zarat, offen, ixtra]
 status: open
 priorität: mittel
@@ -36,13 +36,23 @@ Lyssa vermutet einen **Fae-Ursprung oder -Fluch**. Zion reagiert zunehmend aggre
 
 In ein Tuch gewickelt, in Lyssas Bettrolle im Rucksack verstaut. Ein späterer Test, ob sie Calderions Schutzkuppel passieren kann (Hinweis auf ihre wahre Natur — Fae/Fiend/Celestial würden ausgesperrt), wurde erwogen, aber verschoben.
 
+## Identify-Ergebnis (Session 16)
+
+Rugir versucht, das Gefäß selbst zu identifizieren: **Kein Fluch auf dem Behältnis.** Alles, was er erkennt, ist, dass es sich um ein **Aufbewahrungsbehältnis** handelt — „um nicht zu sagen, ein Gefängnis". Direkte Nachfragen an Ixtra bringen nichts Neues: Sie wiederholt, „erschaffen" worden zu sein, und weicht der Frage nach ihrem Erschaffer weiterhin aus (der Name täte ihr weh, wenn ausgesprochen).
+
+**Bestätigung per Mindlink:** Elysia verbindet sich mental mit der Kreatur im Innern (funktioniert nur, wenn tatsächlich eine Kreatur in Reichweite ist) — der Link kommt zustande. Damit ist zweifelsfrei bestätigt: **In der Kugel ist eine echte, gefangene Kreatur**, kein bloßer sprechender Gegenstand. Ob die Kreatur selbst verflucht ist, kann Identify nicht ermitteln.
+
+> [!note] Nicht zu verwechseln mit der **Driftkugel** — die separat gefundene, unaktivierte Leuchtkugel aus Session 15 erweist sich bei ihrer eigenen Identifikation als verflucht (Horror-Visionen), unabhängig von Ixtra.
+
 ## Offene Fragen
 
 - [ ] Wer ist der Schöpfer, dessen Name sie nicht nennen darf?
 - [ ] An wen wurde sie weitergegeben — und ist diese Person auf Zarat?
 - [ ] Kann sie die Schutzkuppel passieren? (Test steht noch aus)
 - [ ] Warum hat sie den Dibbuk absichtlich falsch geortet — Bosheit, Zwang, oder Loyalität zu jemand anderem?
-- [ ] Steht sie in Verbindung zur unidentifizierten **Driftkugel**, die im selben Fund-Areal lag?
+- [x] Ist wirklich eine Kreatur darin gefangen? → ja, per Mindlink bestätigt (Session 16)
+- [ ] Ist die gefangene Kreatur selbst verflucht oder geschädigt?
+- [ ] Wie befreit man sie — und will man das überhaupt?
 
 ## Verknüpfungen
 
@@ -50,3 +60,4 @@ In ein Tuch gewickelt, in Lyssas Bettrolle im Rucksack verstaut. Ein späterer T
 - [[Zarat]]
 - [[Der Dibbuk]]
 - [[Session 15 - 08.07.2026]]
+- [[Session 16 - 14.07.2026]]

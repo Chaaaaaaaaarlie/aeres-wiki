@@ -2,7 +2,7 @@
 type: entity
 title: "Sir Aschefall"
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-07-14
 tags: [nsc, begleiter, drachengeboren]
 status: aktiv – reist mit der Gruppe
 ---
@@ -60,6 +60,15 @@ Aschefall wird in [[Session 11 - 03.06.2026]] eingeführt und ist der **künftig
 - Essenz-Vision im Circle-Ritual: gleißend hell, selbstherrlich, ansteckend
 - Zieht mit der Gruppe nach Leitwacht und in den Dschungel zur Dibbuk-Verfolgung
 
+## Session 16
+
+- Untersucht die im Dschungel gefundene, herrenlose Schuppenrüstung — leichter als seine eigene, Material unklar (obsidianartig, metallkühl); zieht sie zunächst nicht an
+- Wird im Kampf gegen die Dibbuk-Kultisten von einer beschworenen schwarzen Klinge getroffen und durch **Hold Person** paralysiert
+- Charaktermoment nach der Paralyse: *„Im eigenen Körper gefangen sein, das hat mir überhaupt nicht behagt."*
+- Schlägt den dritten Kultisten mit dem Schwertknauf bewusstlos, statt ihn zu töten
+- Verpasst einen Konstitutions-Rettungswurf (DC 10) während der Rast und trägt eine Erschöpfungsstufe ein
+- Die gefundene Schuppenrüstung wird von Rugir als **verflucht** identifiziert (Klaustrophobie, erzwingt nächtliches Tragen) — siehe [[Verfluchte Schuppenrüstung]]
+
 ## Verknüpfungen
 
 - [[Princeps Orpheon von Lutaxa]]
@@ -68,6 +77,9 @@ Aschefall wird in [[Session 11 - 03.06.2026]] eingeführt und ist der **künftig
 - [[Elysia]]
 - [[Zestus]]
 - [[Zarat]]
+- [[Der Dibbuk]]
+- [[Verfluchte Schuppenrüstung]]
 - [[Session 11 - 03.06.2026]]
 - [[Session 13 - 23.06.2026]]
 - [[Session 15 - 08.07.2026]]
+- [[Session 16 - 14.07.2026]]

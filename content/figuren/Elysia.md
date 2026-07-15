@@ -2,7 +2,7 @@
 type: entity
 title: "Elysia"
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-07-14
 tags:
   - charakter
   - spielercharakter
@@ -126,6 +126,13 @@ In [[Session 10 - 06.05.2026]] ruft Elysia ihren inneren Freund unter dem Namen 
 - Bremst Zion davon ab, die Kristallkugel zu zerstören; verstaut sie in ihrer Bettrolle
 - Kommentiert sarkastisch Zions „menschliche Neugierde" innerhalb der Schutzkuppel — ein Elf, der sich als Mensch ausgibt
 
+## Session 16
+- Trackt die Fährte des Dibbuk weiter durch den Dschungel (Survival), vergleicht mit ihrer Wüstenerfahrung
+- Untersucht mit Viri das abgenagte Tierskelett (Nature) — katzenartig, deutlich größer als bekannte Großkatzen
+- **Detect Poison and Disease** auf Zion und Aschefall nach dem Kampf — kein Gift, keine Krankheit
+- Findet den zerstörten codierten Zettel bei einem der Kultisten; Rugir repariert und entziffert ihn
+- Bestätigt per **Mindlink** zweifelsfrei, dass in der [[Sprechende Kristallkugel|sprechenden Kristallkugel]] (Ixtra) tatsächlich eine echte Kreatur gefangen ist, kein bloßer Gegenstand
+
 ## Verknüpfungen
 
 - [[Zion]] – Nächtliches Gespräch, kennt seinen Hunger; soll Statue meiden
@@ -138,8 +145,10 @@ In [[Session 10 - 06.05.2026]] ruft Elysia ihren inneren Freund unter dem Namen 
 - [[Chloro Verde]] – Glücksrad-Warnung vor der Begegnung
 - [[Sir Aschefall]]
 - [[Mechanischer Vogel]] – entdeckt und identifiziert
-- [[Sprechende Kristallkugel]] – entdeckt, verwahrt
+- [[Sprechende Kristallkugel]] – entdeckt, verwahrt, Kreatur per Mindlink bestätigt
+- [[Der Dibbuk]]
 - [[Session 11 - 03.06.2026]]
 - [[Session 13 - 23.06.2026]]
 - [[Session 14 - 01.07.2026]]
 - [[Session 15 - 08.07.2026]]
+- [[Session 16 - 14.07.2026]]

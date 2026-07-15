@@ -2,7 +2,7 @@
 type: entity
 title: "Calderion"
 created: 2026-07-08
-updated: 2026-07-08
+updated: 2026-07-14
 tags: [nsc, priester, ilmater, leitwacht, zarat]
 status: aktiv – auf Zarat, unheilbar krank
 entity_type: person
@@ -47,12 +47,17 @@ Sein Blick bleibt dabei auffällig an **Viri** hängen — möglicher Hinweis, d
 
 Als Zion innerhalb der Schutzkuppel testweise Green-Flame-Blade-Magie wirkt (spürbar erschwert, wie gegen eine innere Barriere), bleibt Calderions Blick misstrauisch an ihm hängen und fragt nach dem Grund. Zion lügt mit „menschlicher Neugierde" (Deception DC 12, knapp bestanden).
 
+## Bedrohung seines Schutzzaubers (Session 16, noch nicht berichtet)
+
+Im Dschungel besiegt die Gruppe drei Kultisten, die im Auftrag handeln, den Dibbuk zu füttern und Calderions Barriere gezielt zu schwächen. Calderion selbst weiß davon noch nichts — die Gruppe hat ihm diese Information bis Sessionende nicht überbringen können.
+
 ## Offene Fragen
 
 - [ ] Wird Viri seine Nachfolgerin für den Schutzzauber?
 - [ ] Wie lange lebt Calderion noch?
 - [ ] Kennt er die wahre Natur von Zions Reaktion auf seinen Zauber?
 - [ ] Wer ist der humanoide Komplize, der dem Dibbuk hilft, Gräber zu öffnen?
+- [ ] Weiß Calderion von den Kultisten, die seine Barriere gezielt schwächen wollen?
 
 ## Verknüpfungen
 
@@ -63,3 +68,4 @@ Als Zion innerhalb der Schutzkuppel testweise Green-Flame-Blade-Magie wirkt (sp�
 - [[Viri]]
 - [[Zion]]
 - [[Session 15 - 08.07.2026]]
+- [[Session 16 - 14.07.2026]]

@@ -2,7 +2,7 @@
 type: meta
 title: "Aeres-Wiki — Hauptübersicht"
 created: 2026-05-12
-updated: 2026-07-08
+updated: 2026-07-14
 tags:
   - meta/index
 ---
@@ -20,8 +20,8 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 - [[kreaturen/_index|Kreaturen-Übersicht]] — Bestiarium (1 Seite)
 - [[gottheiten/_index|Gottheiten-Übersicht]] — Götter (3 Seiten)
 - [[lore/_index|Lore-Übersicht]] — Welt-Hintergrund (5 Seiten)
-- [[fäden/_index|Fäden-Übersicht]] — offene Handlungsfäden & Hinweise (25 Seiten inkl. Rollups)
-- [[sessions/_index|Sessions-Übersicht]] — Session-Recaps (15 Seiten)
+- [[fäden/_index|Fäden-Übersicht]] — offene Handlungsfäden & Hinweise (27 Seiten inkl. Rollups)
+- [[sessions/_index|Sessions-Übersicht]] — Session-Recaps (16 Seiten)
 
 ## Figuren
 
@@ -67,7 +67,7 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 
 ## Fäden — Hinweise & Offen
 
-- [[Codierpergament]] · [[Die Boss hinter den Helfern]] · [[Die Lagerhäuser]] · [[Eingeritzte Zeichen]] · [[Fall der Offenbarung]] · [[Falsche Identitäten]] · [[Geruchsspuren]] · [[Infernale Bibliotheks-Forschung]] · [[Magische Mordwaffe]] · [[Mechanischer Vogel]] · [[Schwarzer Seidenstoff]] · [[Sprechende Kristallkugel]]
+- [[Codierpergament]] · [[Die Boss hinter den Helfern]] · [[Die Lagerhäuser]] · [[Eingeritzte Zeichen]] · [[Fall der Offenbarung]] · [[Falsche Identitäten]] · [[Geruchsspuren]] · [[Infernale Bibliotheks-Forschung]] · [[Magische Mordwaffe]] · [[Mechanischer Vogel]] · [[Schwarzer Seidenstoff]] · [[Sprechende Kristallkugel]] · [[Verfluchte Driftkugel]] · [[Verfluchte Schuppenrüstung]]
 
 ## Fäden — Abgeschlossen
 
@@ -79,10 +79,11 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 
 ## Sessions (neueste zuerst)
 
-- [[Session 15 - 08.07.2026]] · [[Session 14 - 01.07.2026]] · [[Session 13 - 23.06.2026]] · [[Session 12 - 17.06.2026]] · [[Session 11 - 03.06.2026]] · [[Session 10 - 06.05.2026]] · [[Session 9 - 15.04.2026]] · [[Session 8 - 18.03.2026]] · [[Session 7 - 08.03.2026]] · [[Session 6 - 04.03.2026]] · [[Session 5 – Papiere, Pässe und Päckchen]] · [[Session 4 – Rhusion, zweiter Tag]] · [[Session 3 – Die Nacht danach]] · [[Session 2 – Unmittelbar nach dem Mord]] · [[Session 1 – Die Hochzeit]]
+- [[Session 16 - 14.07.2026]] · [[Session 15 - 08.07.2026]] · [[Session 14 - 01.07.2026]] · [[Session 13 - 23.06.2026]] · [[Session 12 - 17.06.2026]] · [[Session 11 - 03.06.2026]] · [[Session 10 - 06.05.2026]] · [[Session 9 - 15.04.2026]] · [[Session 8 - 18.03.2026]] · [[Session 7 - 08.03.2026]] · [[Session 6 - 04.03.2026]] · [[Session 5 – Papiere, Pässe und Päckchen]] · [[Session 4 – Rhusion, zweiter Tag]] · [[Session 3 – Die Nacht danach]] · [[Session 2 – Unmittelbar nach dem Mord]] · [[Session 1 – Die Hochzeit]]
 
 ## Quellen
 
+- [[Transcript - Session 16 - 14.07.2026]] — Dialogzusammenfassung Session 16
 - [[Transcript - Session 15 - 08.07.2026]] — Dialogzusammenfassung Session 15
 - [[Transcript - Session 14 - 01.07.2026]] — Dialogzusammenfassung Session 14
 - [[Transcript - Session 13 - 23.06.2026]] — Dialogzusammenfassung Session 13

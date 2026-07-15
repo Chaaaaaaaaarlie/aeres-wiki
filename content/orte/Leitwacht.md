@@ -2,7 +2,7 @@
 type: entity
 title: "Leitwacht"
 created: 2026-06-17
-updated: 2026-07-08
+updated: 2026-07-14
 tags: [ort, insel, siedlung, seucheninsel, ilmater]
 status: besucht (Session 15) — Gruppe hat Calderion getroffen
 entity_type: place
@@ -48,6 +48,10 @@ Die Gruppe trifft **[[Calderion]]** im Tempel und erfährt von **[[Der Dibbuk|de
 
 Innerhalb der Schutzkuppel spüren mehrere Gruppenmitglieder unangenehme körperliche Effekte (Kopfschmerz, brennende Adern); besonders **Zion** reagiert auffällig — Übelkeit, das Gefühl unerwünscht zu sein, und ein erstmals verstummender „Teil seines Kopfes" (siehe [[Zions Hunger]]).
 
+## Aktive Bedrohung des Halo-Zaubers (Session 16)
+
+Ein entzifferter Zettel bei den im Dschungel bekämpften Dibbuk-Kultisten trägt den Auftrag: *„Füttert den Dibbuk, schwächt ihre Barrieren, und bereitet euch vor."* Damit ist belegt, dass eine organisierte Gruppe aktiv daran arbeitet, Calderions Schutzzauber um Leitwacht zu schwächen — die Siedlung ist nicht nur passiv bedroht, sondern gezielt Ziel eines Sabotageplans.
+
 ## Offene Fragen
 
 - [x] Lebt Calderion Yolob noch? → ja, aber unheilbar krank und stark gealtert wirkend
@@ -55,6 +59,7 @@ Innerhalb der Schutzkuppel spüren mehrere Gruppenmitglieder unangenehme körper
 - [ ] Wie reagieren die Bewohner auf bewaffnete Fremde, die nach einem Mörder suchen?
 - [ ] Wer ist der humanoide Komplize, der dem Dibbuk hilft, Gräber außerhalb der Kuppel zu öffnen?
 - [ ] Warum reagiert Zion körperlich auf den Schutzzauber?
+- [ ] Wer koordiniert die Kultisten, die die Barriere gezielt schwächen wollen — und was geschieht, wenn sie fällt?
 
 ## Verknüpfungen
 
@@ -66,3 +71,4 @@ Innerhalb der Schutzkuppel spüren mehrere Gruppenmitglieder unangenehme körper
 - [[Zion]]
 - [[Session 12 - 17.06.2026]]
 - [[Session 15 - 08.07.2026]]
+- [[Session 16 - 14.07.2026]]

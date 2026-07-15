@@ -2,7 +2,7 @@
 type: entity
 title: "Zarat"
 created: 2026-06-04
-updated: 2026-07-08
+updated: 2026-07-14
 tags: [ort, insel, ziel, assassine, seucheninsel]
 status: aktiv – Gruppe auf der Insel angekommen (Session 15), Beiboot zerstört
 ---
@@ -50,6 +50,10 @@ Sekunden nach der Landung wird das Beiboot der Gruppe von einem Geschoss **aus d
 
 In [[Leitwacht]] trifft die Gruppe auf **[[Calderion]]** (lebt noch), der von einer neuen Bedrohung berichtet: **[[Der Dibbuk|dem Dibbuk]]**, einem leichenbesetzenden Dämon. Calderions Schocker: **Niemand darf die Insel je wieder verlassen** — auch nicht die Gesunden, denn früher oder später erkrankt jeder.
 
+## Im Dschungel (Session 16)
+
+Die Gruppe setzt die Verfolgung der Dibbuk-Spur fort und begegnet dabei einem **Exilanten-Suchtrupp** — lepra-kranke Inselverbannte, von einem Loxodon gegen Belohnung angeheuert, auf der Suche nach einem lebend vermissten Halbling und Menschen. Die Spur führt weiter zu drei **Dibbuk-Kultisten**, die dieselbe Klingenart beschwören, die Sokar Karioka tötete, und einen codierten Auftrag bei sich tragen: die Barriere um Leitwacht zu schwächen und den Dibbuk zu füttern. Im Dschungel liegen zudem eine verfluchte Schuppenrüstung und eine verfluchte Driftkugel (siehe [[Verfluchte Schuppenrüstung]], [[Verfluchte Driftkugel]]).
+
 ## Offene Fragen
 
 - [ ] Wo genau auf Zarat hält sich der Assassine auf?
@@ -57,7 +61,8 @@ In [[Leitwacht]] trifft die Gruppe auf **[[Calderion]]** (lebt noch), der von ei
 - [x] Lebt Calderion Yolob noch – und wie alt müsste er dann sein? → lebt, wirkt aber körperlich weit älter als sein tatsächliches Alter
 - [ ] Kennt der Assassine den Schutz des Halo-Zaubers – oder umgeht er ihn?
 - [ ] Wie kommt die Gruppe ohne Beiboot je wieder von der Insel weg?
-- [ ] Steht der Dibbuk mit dem gesuchten Assassinen in Verbindung?
+- [x] Steht der Dibbuk mit dem gesuchten Assassinen in Verbindung? → sehr wahrscheinlich, identische Mordwaffen-Klingen bei den Dibbuk-Kultisten (Session 16)
+- [ ] Wer sind der vermisste Halbling und Mensch, nach denen die Exilanten suchen?
 
 ## Verknüpfungen
 
@@ -68,7 +73,11 @@ In [[Leitwacht]] trifft die Gruppe auf **[[Calderion]]** (lebt noch), der von ei
 - [[Leitwacht]]
 - [[Calderion]]
 - [[Der Dibbuk]]
+- [[Magische Mordwaffe]]
+- [[Verfluchte Schuppenrüstung]]
+- [[Verfluchte Driftkugel]]
 - [[Ilmater]]
 - [[Session 11 - 03.06.2026]]
 - [[Session 12 - 17.06.2026]]
 - [[Session 15 - 08.07.2026]]
+- [[Session 16 - 14.07.2026]]

@@ -2,7 +2,7 @@
 type: entity
 title: "Viri"
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-07-14
 tags: [charakter, spielercharakter]
 klasse: Aasimar
 status: aktiv
@@ -104,6 +104,15 @@ Viri ist nicht als Gast zur Hochzeit gekommen, sondern weil sie Sokars Männer h
 - Findet die unaktivierte **Driftkugel** im Dschungel (per Mage Hand geborgen)
 - Bremst Zion davon ab, die gefundene [[Sprechende Kristallkugel]] zu zerstören
 
+## Session 16
+- Belauscht die streitenden Exilanten im Dschungel (Insight) — erkennt, dass sie etwas/jemanden suchen
+- Bricht sich einen Reißzahn aus dem abgenagten Tierskelett als Souvenir heraus
+- **Magic Missile** im Kampf gegen die Dibbuk-Kultisten — der Schaden springt ungewöhnlich wie eine Kettenreaktion von einer Wunde zur nächsten über (unerklärter Effekt)
+- Heilt Zion und Aschefall mehrfach im Kampf; zeigt spürbaren Unmut, als Rugir Gnade für die Kultisten fordert, nachdem einer sie fast getötet hätte
+- Untersucht per Mage Hand den fallengelassenen Sack — findet die verweste Lepra-Leiche, erklärt den Verwesungsgrad mit ihrer Tempelerfahrung
+- **Purify Food and Drink** während der Rast — sichert unverseuchtes Essen für die Gruppe
+- Ihre im Dschungel gefundene **Driftkugel** (Session 15) wird von Rugir identifiziert: **verflucht** (Horror-Visionen, siehe [[Verfluchte Driftkugel]])
+
 ## Verknüpfungen
 
 - [[Aspasia Cortiso]]
@@ -117,7 +126,10 @@ Viri ist nicht als Gast zur Hochzeit gekommen, sondern weil sie Sokars Männer h
 - [[Sir Aschefall]]
 - [[Zarat]]
 - [[Calderion]] – Glaubensschwester, mögliche Nachfolgerin
+- [[Der Dibbuk]]
+- [[Verfluchte Driftkugel]]
 - [[Session 11 - 03.06.2026]]
 - [[Session 13 - 23.06.2026]]
 - [[Session 14 - 01.07.2026]]
 - [[Session 15 - 08.07.2026]]
+- [[Session 16 - 14.07.2026]]

@@ -2,7 +2,7 @@
 type: entity
 title: "Rugir"
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-07-14
 tags: [charakter, spielercharakter]
 klasse: Evocation Wizard
 rasse: Zwerg
@@ -117,6 +117,16 @@ Kein direkter Treffer auf die **7 Kerzen** oder die **13 Stiche**. Spezialist f�
 - Findet einen unidentifizierten **Zauberstab** (Evokationsmagie) im Dschungel — verstaut zur späteren Identify
 - Verstaut die unaktivierte **Driftkugel** in seinem magischen Beutel
 
+## Session 16
+- Kampf gegen die Dibbuk-Kultisten: **Chromatic Orb**, mehrfach **Scorching Ray** — verbrennt zwei Kultisten zu Asche
+- Fordert im Kampf Zurückhaltung, um Informationen zu sichern — stößt auf Widerstand bei Viri
+- Repariert den zerstörten codierten Zettel per **Mending** und entziffert ihn (Investigation, mit Elysias Unterstützung): *„Füttert den Dibbuk, schwächt ihre Barrieren, und bereitet euch vor."*
+- Identifiziert vier magische Gegenstände während der Rast:
+  - **Zauberstab** → Wand of Magic Missile, fehlerhaft aber ungefährlich
+  - **Driftkugel** (Viris Fund) → verflucht, siehe [[Verfluchte Driftkugel]]
+  - **Sprechende Kristallkugel** (Ixtra) → Gefäß selbst nicht verflucht, aber ein „Aufbewahrungsbehältnis"/Gefängnis
+  - **Schuppenrüstung** (Aschefalls Fund) → verflucht, siehe [[Verfluchte Schuppenrüstung]]
+
 ## Verknüpfungen
 
 - [[Alabaster Kuratorium]]
@@ -125,9 +135,13 @@ Kein direkter Treffer auf die **7 Kerzen** oder die **13 Stiche**. Spezialist f�
 - [[Magische Mordwaffe]] – forensisches Interesse
 - [[Rugirs wahrer Name]]
 - [[Mechanischer Vogel]] – in seinem magischen Beutel
+- [[Verfluchte Driftkugel]]
+- [[Verfluchte Schuppenrüstung]]
+- [[Codierpergament]]
 - [[Zarat]]
 - [[Der Dibbuk]]
 - [[Session 11 - 03.06.2026]]
 - [[Session 13 - 23.06.2026]]
 - [[Session 14 - 01.07.2026]]
 - [[Session 15 - 08.07.2026]]
+- [[Session 16 - 14.07.2026]]

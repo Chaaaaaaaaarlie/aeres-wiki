@@ -2,7 +2,7 @@
 type: meta
 title: "Vorgangs-Protokoll"
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-07-14
 tags:
   - meta/log
 ---
@@ -19,6 +19,16 @@ Format:
 - Aktualisierte Seiten: [[…]]
 - Kernerkenntnis: ein Satz
 ```
+
+---
+
+## [2026-07-14] recap | Session 16 – Der Kultisten-Hinterhalt und die codierte Botschaft
+
+- Quelle: `craig-fnqNqpeJRAWQ-671XH3apHvN5Lck.flac.zip` (Transkription: faster-whisper large-v3, 3787 Segmente, ~2h 54min, 164 Korrekturen)
+- Zusammenfassung: [[Session 16 - 14.07.2026]]
+- Erstellte Seiten: [[Session 16 - 14.07.2026]], [[Transcript - Session 16 - 14.07.2026]], [[Verfluchte Driftkugel]], [[Verfluchte Schuppenrüstung]]
+- Aktualisierte Seiten: [[Der Dibbuk]], [[Sprechende Kristallkugel]], [[Magische Mordwaffe]], [[Wo versteckt sich der Assassine]], [[Zion]], [[Viri]], [[Elysia]], [[Rugir]], [[Sir Aschefall]], [[Calderion]], [[Leitwacht]], [[Zarat]], `hot.md`, `log.md`, `Willkommen.md`, `index.md`, `sessions/_index.md`, `fäden/_index.md`
+- Kernerkenntnis: Die Gruppe verfolgt die Dibbuk-Spur weiter, gerät in einen Hinterhalt dreier Kultisten und entdeckt dabei den bisher stärksten Beweis, dass der Dibbuk-Faden und der gesuchte Mörder Sokar Kariokas zusammenhängen — die Kultisten beschwören exakt dieselbe Mordwaffen-Klingenart. Ein entzifferter Zettel belegt einen aktiven Sabotageauftrag gegen Calderions Schutzzauber („Füttert den Dibbuk, schwächt ihre Barrieren, und bereitet euch vor."). Ein Exilanten-Suchtrupp sucht nach lebend Vermissten (Halbling + Mensch) — Eskalation gegenüber den früheren Grabschändungen. Zwei Kultisten sterben, einer wird als Köder freigelassen. Vier magische Gegenstände identifiziert: Zauberstab (Wand of Magic Missile), Driftkugel (verflucht), sprechende Kristallkugel (bestätigt: enthält eine echte gefangene Kreatur), Schuppenrüstung (verflucht). Session endet mitten in der Rast, ohne Cliffhanger.
 
 ---
 
