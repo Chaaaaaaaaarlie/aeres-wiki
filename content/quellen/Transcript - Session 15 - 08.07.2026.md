@@ -1,4 +1,4 @@
----
+﻿---
 type: quelle
 title: "Transcript - Session 15 - 08.07.2026"
 created: 2026-07-08
@@ -58,7 +58,7 @@ status: complete
 
 > **Calderion**: „Es gibt niemanden, der hier nicht krank ist." *(impliziert: auch er selbst — jeder wird irgendwann krank, niemand darf je wieder gehen)*
 
-### Der Dibbuk-Angriff
+### Der Dybbuk-Angriff
 
 > **DM**: Der Leichnam eines Erdgenasi, besessen vom Dämon, zuckt und lacht hohl an der unsichtbaren Grenze von Leitwacht — kann sie aber nicht überschreiten. Fällt auf alle Viere, flieht in den Dschungel.
 > **Calderion** *(wie ein Gebet, kein Befehl)*: „Findet dieses Wesen. Setzt seinem Treiben ein Ende. Nicht mit Zorn."

@@ -1,4 +1,4 @@
----
+﻿---
 type: entity
 title: "Zion"
 created: 2026-05-12
@@ -118,12 +118,12 @@ In [[Session 9 - 15.04.2026]]: Als [[Chloro Verde]]s Schatten länger wird, **ve
 - **Ankunft auf Zarat:** Riecht/sieht die toten Möwen im Wasser, bestätigt die Seucheninsel
 - **Reaktion auf Calderions Schutzkuppel:** Übelkeit, Gefühl von Unerwünschtheit — und zum ersten Mal **schweigt ein Teil seines Kopfes** (siehe [[Zions Hunger]])
 - Testet Green-Flame-Blade-Magie innerhalb der Kuppel — spürbar erschwert, als kämpfe er gegen eine innere Barriere; Fingerkuppen brennen. Lügt Calderion mit „menschlicher Neugierde" an (Deception DC 12, knapp bestanden) — Elysia bemerkt sarkastisch, ein Elf, der sich als Mensch ausgibt, sei wenig überzeugend
-- Nat-20 beim Tracking der Dibbuk-Spur im Dschungel
+- Nat-20 beim Tracking der Dybbuk-Spur im Dschungel
 - Will die gefundene [[Sprechende Kristallkugel]] mehrfach zerstören — von Lyssa und Viri gebremst
 
 ## Session 16
-- Vorneweg als Späher bei der Fortsetzung der Dibbuk-Jagd durch den Dschungel (Spielerin/Spieler diesen Abend abwesend — Zion wurde vom DM als mitlaufende Randfigur weitergeführt)
-- Stolpert hörbar über einen Ast und löst damit den Hinterhalt der drei Dibbuk-Kultisten mit aus
+- Vorneweg als Späher bei der Fortsetzung der Dybbuk-Jagd durch den Dschungel (Spielerin/Spieler diesen Abend abwesend — Zion wurde vom DM als mitlaufende Randfigur weitergeführt)
+- Stolpert hörbar über einen Ast und löst damit den Hinterhalt der drei Dybbuk-Kultisten mit aus
 - Wird im Kampf durch **Hold Person** paralysiert und erleidet einen automatischen kritischen Treffer (26 Schaden) — überlebt nur knapp dank rechtzeitiger Heilung
 - Rugir schlägt scherzhaft vor, ihm die verfluchte, horrorbehaftete Driftkugel zu geben: *„Er mag Dinge in seinem Schatten."*
 
@@ -140,7 +140,7 @@ In [[Session 9 - 15.04.2026]]: Als [[Chloro Verde]]s Schatten länger wird, **ve
 - [[Gähnender Schacht]] – Codewort bekannt
 - [[Viri]] – Todespakt / Schwert-Blutpakt
 - [[Calderion]] – misstrauisch gegenüber Zions Reaktion auf den Schutzzauber
-- [[Der Dibbuk]]
+- [[Der Dybbuk]]
 - [[Zarat]]
 - [[Session 11 - 03.06.2026]]
 - [[Session 13 - 23.06.2026]]

@@ -1,4 +1,4 @@
----
+﻿---
 type: entity
 title: "Leitwacht"
 created: 2026-06-17
@@ -42,7 +42,7 @@ Der Zauber gilt als **Segen Ilmaters** und ist eine der Grundlagen, warum die Si
 
 Karge, schiefe Siedlung; viele kranke und entstellte Bewohner unterschiedlichster Völker (Gnom, Luxodons, Tiefling u. a.). Beim Überschreiten einer goldschimmernden Schwelle verstehen alle Ankömmlinge sofort jede Sprache — Wirkung von Calderions Zauber. Keine Marktwirtschaft: Essen und Wasser werden schlicht an Bedürftige verteilt.
 
-Die Gruppe trifft **[[Calderion]]** im Tempel und erfährt von **[[Der Dibbuk|dem Dibbuk]]**, einem leichenbesetzenden Dämon, der Leitwacht selbst nicht betreten kann, aber außerhalb der Kuppel Gräber plündert. Ein Dibbuk-Angriff direkt vor dem Tempel demonstriert die Bedrohung live.
+Die Gruppe trifft **[[Calderion]]** im Tempel und erfährt von **[[Der Dybbuk|dem Dybbuk]]**, einem leichenbesetzenden Dämon, der Leitwacht selbst nicht betreten kann, aber außerhalb der Kuppel Gräber plündert. Ein Dybbuk-Angriff direkt vor dem Tempel demonstriert die Bedrohung live.
 
 **Neuer Schocker:** Niemand darf Leitwacht/Zarat je wieder verlassen — auch nicht die Gesunden, denn jeder erkrankt früher oder später. Auch Calderion selbst ist unheilbar krank.
 
@@ -50,14 +50,14 @@ Innerhalb der Schutzkuppel spüren mehrere Gruppenmitglieder unangenehme körper
 
 ## Aktive Bedrohung des Halo-Zaubers (Session 16)
 
-Ein entzifferter Zettel bei den im Dschungel bekämpften Dibbuk-Kultisten trägt den Auftrag: *„Füttert den Dibbuk, schwächt ihre Barrieren, und bereitet euch vor."* Damit ist belegt, dass eine organisierte Gruppe aktiv daran arbeitet, Calderions Schutzzauber um Leitwacht zu schwächen — die Siedlung ist nicht nur passiv bedroht, sondern gezielt Ziel eines Sabotageplans.
+Ein entzifferter Zettel bei den im Dschungel bekämpften Dybbuk-Kultisten trägt den Auftrag: *„Füttert den Dybbuk, schwächt ihre Barrieren, und bereitet euch vor."* Damit ist belegt, dass eine organisierte Gruppe aktiv daran arbeitet, Calderions Schutzzauber um Leitwacht zu schwächen — die Siedlung ist nicht nur passiv bedroht, sondern gezielt Ziel eines Sabotageplans.
 
 ## Offene Fragen
 
 - [x] Lebt Calderion Yolob noch? → ja, aber unheilbar krank und stark gealtert wirkend
 - [ ] Weiß der [[Rakshasa-Assassine|Assassin]] vom Halo-Zauber — oder hat er einen Weg, ihn zu umgehen?
 - [ ] Wie reagieren die Bewohner auf bewaffnete Fremde, die nach einem Mörder suchen?
-- [ ] Wer ist der humanoide Komplize, der dem Dibbuk hilft, Gräber außerhalb der Kuppel zu öffnen?
+- [ ] Wer ist der humanoide Komplize, der dem Dybbuk hilft, Gräber außerhalb der Kuppel zu öffnen?
 - [ ] Warum reagiert Zion körperlich auf den Schutzzauber?
 - [ ] Wer koordiniert die Kultisten, die die Barriere gezielt schwächen wollen — und was geschieht, wenn sie fällt?
 
@@ -67,7 +67,7 @@ Ein entzifferter Zettel bei den im Dschungel bekämpften Dibbuk-Kultisten trägt
 - [[Ilmater]]
 - [[Rakshasa-Assassine]]
 - [[Calderion]]
-- [[Der Dibbuk]]
+- [[Der Dybbuk]]
 - [[Zion]]
 - [[Session 12 - 17.06.2026]]
 - [[Session 15 - 08.07.2026]]

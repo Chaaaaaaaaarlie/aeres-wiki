@@ -1,6 +1,6 @@
----
+﻿---
 type: faden
-title: "Der Dibbuk"
+title: "Der Dybbuk"
 created: 2026-07-08
 updated: 2026-07-14
 tags: [faden, dämon, zarat, akut]
@@ -8,16 +8,16 @@ status: open
 priorität: hoch
 ---
 
-# Der Dibbuk
+# Der Dybbuk
 
 ## Was ist bekannt
 
-Ein Dämon, der sich toter Körper bemächtigt, terrorisiert die Umgebung von **[[Leitwacht]]** auf **[[Zarat]]**. Von [[Calderion]] in Session 15 als „der Dibbuk" bezeichnet.
+Ein Dämon, der sich toter Körper bemächtigt, terrorisiert die Umgebung von **[[Leitwacht]]** auf **[[Zarat]]**. Von [[Calderion]] in Session 15 als „der Dybbuk" bezeichnet.
 
 - Existierte bei Calderions Ankunft auf der Insel noch nicht — ist eine neuere Bedrohung
 - Kann Leitwacht selbst **nicht betreten** — Calderions Schutzzauber wehrt Untote, Dämonen, Teufel, Fae und himmlische Wesen ab
 - Außerhalb der Schutzkuppel wurden **Gräber geöffnet und Leichen entwendet** — menschliche, tieflingische, mindestens ein Erdgenasi (keine Tabaxi, keine Leoniden)
-- Da der Dibbuk selbst die Kuppel nicht durchdringen kann, muss ein **humanoider Komplize** die Gräber tatsächlich geöffnet haben
+- Da der Dybbuk selbst die Kuppel nicht durchdringen kann, muss ein **humanoider Komplize** die Gräber tatsächlich geöffnet haben
 - Kürzlich wurden **verfluchte Gegenstände im Dschungel** außerhalb Leitwachts gefunden
 
 ## Live-Begegnung (Session 15)
@@ -29,13 +29,13 @@ Calderions Bitte:
 
 ## Die Jagd
 
-Die Gruppe folgt der frischen Spur des Dibbuk in den Dschungel (statt zuerst den Friedhof zu untersuchen). Unterwegs gefunden: eine unaktivierte **Driftkugel** (später enttarnt als verflucht — Horror-Visionen), die **[[Sprechende Kristallkugel]]** (die den Dibbuk vorbeikommen sah, aber bewusst in die falsche Richtung weist) und ein unidentifizierter **Zauberstab** (später identifiziert als fehlerhafter, aber ungefährlicher Wand of Magic Missile).
+Die Gruppe folgt der frischen Spur des Dybbuk in den Dschungel (statt zuerst den Friedhof zu untersuchen). Unterwegs gefunden: eine unaktivierte **Driftkugel** (später enttarnt als verflucht — Horror-Visionen), die **[[Sprechende Kristallkugel]]** (die den Dybbuk vorbeikommen sah, aber bewusst in die falsche Richtung weist) und ein unidentifizierter **Zauberstab** (später identifiziert als fehlerhafter, aber ungefährlicher Wand of Magic Missile).
 
 Session 15 endet mitten in der Verfolgung — kein Kampf, keine Auflösung. Session 16 setzt die Jagd fort: vorbei an Exilanten-Suchtrupps und einem abgenagten Tierskelett, bis in den Hinterhalt der drei Kultisten (siehe unten).
 
 ## Der Hinterhalt der Kultisten (Session 16)
 
-Die Spur führt die Gruppe zu drei bewaffneten Kultisten, die eine schwer verweste Lepra-Leiche in einem Sack schleppen — vermutlich als Opfergabe für den Dibbuk gedacht. Nach einer Vorwarnung (Zion stolpert, Aschefalls Kettenhemd klirrt) greifen die Kultisten an.
+Die Spur führt die Gruppe zu drei bewaffneten Kultisten, die eine schwer verweste Lepra-Leiche in einem Sack schleppen — vermutlich als Opfergabe für den Dybbuk gedacht. Nach einer Vorwarnung (Zion stolpert, Aschefalls Kettenhemd klirrt) greifen die Kultisten an.
 
 **Kampfdetails:** Die Kultisten verfügen über einen Pakt-artigen Zugang zu beschworenen, hässlichen **schwarzen, gezackten, säbelartigen Klingen**, die aus der Distanz angreifen (wie Spiritual Weapon) und beim Tod ihres Trägers spurlos verschwinden. Sie belegen Zion und Aschefall mit **Hold Person** — Zion wird paralysiert und erleidet einen automatischen kritischen Treffer (26 Schaden), überlebt aber knapp dank rechtzeitiger Heilung. Zwei Kultisten sterben (zu Asche verbrannt durch Guiding Bolt + Scorching Ray), der dritte wird bewusstlos gefangen genommen.
 
@@ -46,27 +46,27 @@ Die Spur führt die Gruppe zu drei bewaffneten Kultisten, die eine schwer verwes
 
 Bei einem der Kultisten findet Elysia einen zerstörten, codierten Zettel (dieselbe Chiffre wie das [[Codierpergament]]). Rugir repariert ihn (Mending) und entziffert ihn:
 
-> *„Füttert den Dibbuk, schwächt ihre Barrieren, und bereitet euch vor."*
+> *„Füttert den Dybbuk, schwächt ihre Barrieren, und bereitet euch vor."*
 
-Damit ist erstmals direkt belegt: Die Kultisten handeln im Auftrag, den Dibbuk aktiv mit Opfern (auch Lebenden — siehe unten) zu füttern und Calderions Schutzzauber um Leitwacht gezielt zu schwächen, in Vorbereitung auf etwas Größeres.
+Damit ist erstmals direkt belegt: Die Kultisten handeln im Auftrag, den Dybbuk aktiv mit Opfern (auch Lebenden — siehe unten) zu füttern und Calderions Schutzzauber um Leitwacht gezielt zu schwächen, in Vorbereitung auf etwas Größeres.
 
 ## Vermisste Lebende (Session 16)
 
-Eine Gruppe vermummter, lepra-kranker Inselverbannter — angeheuert von einem **Loxodon** gegen Belohnung — sucht im Dschungel nach einem **aktuell lebend vermissten Halbling und Menschen**. Im Gegensatz zu Calderions ursprünglichem Bericht (vergangene Grabschändungen an Leichen) deutet das auf eine Eskalation hin: Der Dibbuk bzw. seine Kultisten entführen inzwischen offenbar auch **lebende** Opfer. Die im Sack gefundene, ungewöhnlich weit verweste Lepra-Leiche könnte einer der Vermissten sein — unbestätigt.
+Eine Gruppe vermummter, lepra-kranker Inselverbannter — angeheuert von einem **Loxodon** gegen Belohnung — sucht im Dschungel nach einem **aktuell lebend vermissten Halbling und Menschen**. Im Gegensatz zu Calderions ursprünglichem Bericht (vergangene Grabschändungen an Leichen) deutet das auf eine Eskalation hin: Der Dybbuk bzw. seine Kultisten entführen inzwischen offenbar auch **lebende** Opfer. Die im Sack gefundene, ungewöhnlich weit verweste Lepra-Leiche könnte einer der Vermissten sein — unbestätigt.
 
 ## Der Köder-Plan
 
-Statt den gefangenen Kultisten direkt zu verhören, täuscht die Gruppe seine Flucht vor (durchtrennte statt geknotete Fesseln) und will ihm folgen, sobald er erwacht, um das Versteck des Dibbuk bzw. seiner Auftraggeber zu finden. Die Session endet, bevor er erwacht.
+Statt den gefangenen Kultisten direkt zu verhören, täuscht die Gruppe seine Flucht vor (durchtrennte statt geknotete Fesseln) und will ihm folgen, sobald er erwacht, um das Versteck des Dybbuk bzw. seiner Auftraggeber zu finden. Die Session endet, bevor er erwacht.
 
 ## Warum das wichtig ist
 
-Calderion verspricht: Wer den Dibbuk findet, findet auch die Spur zum eigentlich gesuchten Mörder von [[Sokar Karioka]]. Die Dibbuk-Jagd ist damit faktisch Voraussetzung für [[Wo versteckt sich der Assassine]]. Session 16 liefert dafür den bisher stärksten Beweis: identische Mordwaffen-Klingen bei den Dibbuk-Kultisten.
+Calderion verspricht: Wer den Dybbuk findet, findet auch die Spur zum eigentlich gesuchten Mörder von [[Sokar Karioka]]. Die Dybbuk-Jagd ist damit faktisch Voraussetzung für [[Wo versteckt sich der Assassine]]. Session 16 liefert dafür den bisher stärksten Beweis: identische Mordwaffen-Klingen bei den Dybbuk-Kultisten.
 
 ## Offene Fragen
 
 - [ ] Wer ist der humanoide Komplize, der die Gräber öffnet?
-- [ ] Was will der Dibbuk mit den gestohlenen Leichen — und jetzt auch Lebenden?
-- [x] Hängt der Dibbuk mit dem gesuchten Rakshasa-Assassinen zusammen? → sehr wahrscheinlich: identische Mordwaffen-Klingen bei den Kultisten
+- [ ] Was will der Dybbuk mit den gestohlenen Leichen — und jetzt auch Lebenden?
+- [x] Hängt der Dybbuk mit dem gesuchten Rakshasa-Assassinen zusammen? → sehr wahrscheinlich: identische Mordwaffen-Klingen bei den Kultisten
 - [ ] Warum reagiert Zion körperlich auf Calderions Schutzzauber, obwohl er kein Dämon ist?
 - [ ] Wer gibt den Kultisten den Auftrag, „die Barrieren zu schwächen" — und worauf bereiten sie sich vor?
 - [ ] Ist die Leiche im Sack einer der von den Exilanten gesuchten Vermissten?

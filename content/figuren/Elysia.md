@@ -1,4 +1,4 @@
----
+﻿---
 type: entity
 title: "Elysia"
 created: 2026-05-12
@@ -122,12 +122,12 @@ In [[Session 10 - 06.05.2026]] ruft Elysia ihren inneren Freund unter dem Namen 
 - Verwandelt sich in ein **Drachenseepferdchen**, um Seepocken vom Schiffsrumpf zu entfernen — mehrere Fehlschläge, rammt dabei das eigene Schiff
 - Essenz-Vision im Circle-Ritual: erdverbunden, „krustig", mit eigenem Bewusstsein darunter
 - Findet im Dschungel die **[[Sprechende Kristallkugel]]** — reagiert auf ihren eigenen Zauberfokus (ebenfalls eine Kristallkugel); zeigt das Sternbild „Zwilling"
-- Durchschaut die Lüge der Kristallkugel über die Fluchtrichtung des Dibbuk; vermutet Fae-Ursprung
+- Durchschaut die Lüge der Kristallkugel über die Fluchtrichtung des Dybbuk; vermutet Fae-Ursprung
 - Bremst Zion davon ab, die Kristallkugel zu zerstören; verstaut sie in ihrer Bettrolle
 - Kommentiert sarkastisch Zions „menschliche Neugierde" innerhalb der Schutzkuppel — ein Elf, der sich als Mensch ausgibt
 
 ## Session 16
-- Trackt die Fährte des Dibbuk weiter durch den Dschungel (Survival), vergleicht mit ihrer Wüstenerfahrung
+- Trackt die Fährte des Dybbuk weiter durch den Dschungel (Survival), vergleicht mit ihrer Wüstenerfahrung
 - Untersucht mit Viri das abgenagte Tierskelett (Nature) — katzenartig, deutlich größer als bekannte Großkatzen
 - **Detect Poison and Disease** auf Zion und Aschefall nach dem Kampf — kein Gift, keine Krankheit
 - Findet den zerstörten codierten Zettel bei einem der Kultisten; Rugir repariert und entziffert ihn
@@ -146,7 +146,7 @@ In [[Session 10 - 06.05.2026]] ruft Elysia ihren inneren Freund unter dem Namen 
 - [[Sir Aschefall]]
 - [[Mechanischer Vogel]] – entdeckt und identifiziert
 - [[Sprechende Kristallkugel]] – entdeckt, verwahrt, Kreatur per Mindlink bestätigt
-- [[Der Dibbuk]]
+- [[Der Dybbuk]]
 - [[Session 11 - 03.06.2026]]
 - [[Session 13 - 23.06.2026]]
 - [[Session 14 - 01.07.2026]]

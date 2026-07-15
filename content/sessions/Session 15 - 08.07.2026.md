@@ -1,9 +1,9 @@
----
+﻿---
 type: session
 title: "Session 15 - 08.07.2026"
 created: 2026-07-08
 updated: 2026-07-08
-tags: [session, aeres, zarat, leitwacht, calderion, dibbuk, chloro-verde]
+tags: [session, aeres, zarat, leitwacht, calderion, Dybbuk, chloro-verde]
 status: complete
 ---
 
@@ -15,7 +15,7 @@ status: complete
 
 ## Kurzfassung
 
-Der Cliffhanger aus Session 14 löst sich glimpflich: Die Rache-Kreatur aus dem toten Wal ist ein blutleeres, feueranfälliges Wesen und wird besiegt, bevor sie überhaupt zum Zug kommt. Die Leiche im Wal-Inneren entpuppt sich als Dieb auf der Flucht — mit einer Schatulle voller Rubine, gestohlen von der **„grünen Dirne"**: niemand anders als **Chloro Verde**, die alte Bekannte aus Rhusions Kanalisation. Nach einer komischen Seepocken-Episode und einer knappen Flucht vor einem gigantischen Leviathan (per Circle-Magic-Ritual, bei dem alle Zauberwirker kurz die magische Essenz der anderen sehen — Zions wirkt dabei überraschend **uralt**) erreicht die Zestus endlich **Zarat**, die Seucheninsel. Das Beiboot wird sofort vom wächterhaften Leuchtturm zerstört. In der Leprakolonie **Leitwacht** trifft die Gruppe auf den erschöpften Priester **Calderion**, der seit Jahrzehnten mit der eigenen Lebenskraft einen Schutzzauber gegen Untote, Dämonen und Fae aufrechterhält. Er offenbart zwei Schocker: Ein Dämon namens **Dibbuk** besetzt Leichen und terrorisiert die Insel — und **niemand darf Zarat je wieder verlassen**, auch nicht die (noch) Gesunden. Ein Dibbuk-Angriff direkt vor dem Tempel demonstriert die Bedrohung. Innerhalb von Calderions Schutzkuppel reagiert Zion mit Übelkeit und einem unerklärlichen inneren Schweigen — ein neuer Hinweis auf seine verborgene Natur. Die Gruppe folgt der frischen Spur des Dämons in den Dschungel und findet eine unaktivierte Leuchtkugel, einen unidentifizierten Zauberstab und eine lebendige, lügende, sprechende Kristallkugel. Die Session endet ohne Cliffhanger mitten in der Verfolgungsjagd.
+Der Cliffhanger aus Session 14 löst sich glimpflich: Die Rache-Kreatur aus dem toten Wal ist ein blutleeres, feueranfälliges Wesen und wird besiegt, bevor sie überhaupt zum Zug kommt. Die Leiche im Wal-Inneren entpuppt sich als Dieb auf der Flucht — mit einer Schatulle voller Rubine, gestohlen von der **„grünen Dirne"**: niemand anders als **Chloro Verde**, die alte Bekannte aus Rhusions Kanalisation. Nach einer komischen Seepocken-Episode und einer knappen Flucht vor einem gigantischen Leviathan (per Circle-Magic-Ritual, bei dem alle Zauberwirker kurz die magische Essenz der anderen sehen — Zions wirkt dabei überraschend **uralt**) erreicht die Zestus endlich **Zarat**, die Seucheninsel. Das Beiboot wird sofort vom wächterhaften Leuchtturm zerstört. In der Leprakolonie **Leitwacht** trifft die Gruppe auf den erschöpften Priester **Calderion**, der seit Jahrzehnten mit der eigenen Lebenskraft einen Schutzzauber gegen Untote, Dämonen und Fae aufrechterhält. Er offenbart zwei Schocker: Ein Dämon namens **Dybbuk** besetzt Leichen und terrorisiert die Insel — und **niemand darf Zarat je wieder verlassen**, auch nicht die (noch) Gesunden. Ein Dybbuk-Angriff direkt vor dem Tempel demonstriert die Bedrohung. Innerhalb von Calderions Schutzkuppel reagiert Zion mit Übelkeit und einem unerklärlichen inneren Schweigen — ein neuer Hinweis auf seine verborgene Natur. Die Gruppe folgt der frischen Spur des Dämons in den Dschungel und findet eine unaktivierte Leuchtkugel, einen unidentifizierten Zauberstab und eine lebendige, lügende, sprechende Kristallkugel. Die Session endet ohne Cliffhanger mitten in der Verfolgungsjagd.
 
 ---
 
@@ -94,12 +94,12 @@ Kampf beginnt direkt im Anschluss an Session 14.
 - Stellt sich vor: *„Ich bin der Hirte dieses Ortes. Mein Name ist Calderion."* Rugirs Insight: Calderion hält wenig von Religion als Institution, respektiert aber ehrlichen Zweifel
 - Die Gruppe fragt vorsichtig nach jemandem, der Gesicht/Identität wechseln kann. Calderion: seit Langem keine Neuankömmlinge außer der Gruppe; theoretische Geheimwege existieren, werden aber praktisch nie genutzt („ein Weg ohne Abkehr"). Gezielte Gegenfrage: *„Sucht ihr also ein Wesen, das Leichen in Besitz nehmen kann?"*
 
-### 7. Der Dibbuk
+### 7. Der Dybbuk
 
-- Calderion berichtet von zunehmender okkulter Aktivität: ein Dämon, der **Dibbuk**, besetzt Leichen und terrorisiert die Insel. Er kann Leitwacht selbst nicht betreten — der Schutzzauber hält Untote, Dämonen, Teufel, Fae und himmlische Wesen fern. Doch außerhalb der Kuppel wurden Gräber geöffnet und Leichen entwendet — ein humanoider Helfer muss beteiligt sein. Entwendete Tote: Menschen, Tieflinge, ein Erdgenasi (keine Tabaxi, keine Leoniden). Verfluchte Gegenstände wurden kürzlich im Dschungel gefunden
+- Calderion berichtet von zunehmender okkulter Aktivität: ein Dämon, der **Dybbuk**, besetzt Leichen und terrorisiert die Insel. Er kann Leitwacht selbst nicht betreten — der Schutzzauber hält Untote, Dämonen, Teufel, Fae und himmlische Wesen fern. Doch außerhalb der Kuppel wurden Gräber geöffnet und Leichen entwendet — ein humanoider Helfer muss beteiligt sein. Entwendete Tote: Menschen, Tieflinge, ein Erdgenasi (keine Tabaxi, keine Leoniden). Verfluchte Gegenstände wurden kürzlich im Dschungel gefunden
 - **Der Schocker:** Niemand darf die Insel je wieder verlassen — auch nicht die Gesunden. *„Es gibt niemanden, der hier nicht krank ist."* Auch Calderion selbst ist infiziert und wird auf der Insel sterben. Sein Blick bleibt dabei auffällig an **Viri** hängen *(Andeutung: möglicher Nachfolger für den Schutzzauber?)*
 - Mitten im Gespräch: ein Schrei. Die besessene Leiche eines Erdgenasi zuckt und lacht hohl an der unsichtbaren Grenze Leitwachts, kann sie aber nicht überschreiten. Bewohner fliehen panisch. Die Leiche blickt spöttisch zur Gruppe, fällt auf alle Viere und flieht in den Dschungel
-- Calderion bestätigt: das war der Dibbuk. Er bittet die Gruppe eindringlich — „wie ein Gebet", nicht als Befehl —, das Wesen zu finden und zu stoppen, **„nicht mit Zorn"**, damit Ruhe nach Leitwacht zurückkehrt. Er verspricht: Wer den Dämon findet, findet auch die Spur zum eigentlich gesuchten Mörder
+- Calderion bestätigt: das war der Dybbuk. Er bittet die Gruppe eindringlich — „wie ein Gebet", nicht als Befehl —, das Wesen zu finden und zu stoppen, **„nicht mit Zorn"**, damit Ruhe nach Leitwacht zurückkehrt. Er verspricht: Wer den Dämon findet, findet auch die Spur zum eigentlich gesuchten Mörder
 
 ### 8. Zion und die Schutzkuppel
 
@@ -135,14 +135,14 @@ Kampf beginnt direkt im Anschluss an Session 14.
 
 ### 12. Sessionende
 
-Kein Kampf-Cliffhanger diesmal: Die Session endet an einem natürlichen Haltepunkt mitten in der Dschungel-Verfolgung. Offen bleiben: die wahre Natur der Kristallkugel, die Identität des Zauberstabs, die unaktivierte Driftkugel — und vor allem die Jagd auf den Dibbuk, bevor er laut Calderions Furcht ein „Blutbad" auslöst. Die Drei-Tage-Frist der Kapitänin läuft, und ohne Beiboot hat die Gruppe aktuell keinen offensichtlichen Weg zurück zur Zestus.
+Kein Kampf-Cliffhanger diesmal: Die Session endet an einem natürlichen Haltepunkt mitten in der Dschungel-Verfolgung. Offen bleiben: die wahre Natur der Kristallkugel, die Identität des Zauberstabs, die unaktivierte Driftkugel — und vor allem die Jagd auf den Dybbuk, bevor er laut Calderions Furcht ein „Blutbad" auslöst. Die Drei-Tage-Frist der Kapitänin läuft, und ohne Beiboot hat die Gruppe aktuell keinen offensichtlichen Weg zurück zur Zestus.
 
 ---
 
 ## Neue Figuren
 
 - **Calderion** *(Calderion Yolob)* — Priester Ilmaters, Gründer und „Hirte" von [[Leitwacht]] auf [[Zarat]]. Erschöpft, unheilbar krank, hält seit Jahrzehnten mit der eigenen Lebenskraft den Schutzzauber der Insel aufrecht. Erkennt Viri als Glaubensschwester; sein Blick bleibt bedeutsam an ihr hängen, als er von seinem nahenden Tod spricht.
-- **Der Dibbuk** *(unbekannt)* — Dämon, der Leichen besetzt und terrorisiert Zarat außerhalb Leitwachts. Kann die Schutzkuppel nicht betreten; hat mutmaßlich einen humanoiden Komplizen, der Gräber öffnet.
+- **Der Dybbuk** *(unbekannt)* — Dämon, der Leichen besetzt und terrorisiert Zarat außerhalb Leitwachts. Kann die Schutzkuppel nicht betreten; hat mutmaßlich einen humanoiden Komplizen, der Gräber öffnet.
 - **Ixtra** — die Kreatur/das Bewusstsein in der sprechenden Kristallkugel aus dem Dschungel, lebendiges, lügendes Artefakt, vermutlich Fae-Ursprungs. Erschaffer unbekannt (darf nicht genannt werden), an mindestens eine weitere Person weitergegeben.
 - Namenloser **Rubindieb** — Leiche im toten Wal, floh mit gestohlenen Rubinen vor [[Chloro Verde]]; Herkunft und Identität unbekannt.
 
@@ -162,14 +162,14 @@ Kein Kampf-Cliffhanger diesmal: Die Session endet an einem natürlichen Haltepun
 
 | Faden | Status |
 |-------|--------|
-| [[Der Dibbuk]] | **neu / akut** — muss gejagt und gestoppt werden, Voraussetzung für Calderions weitere Hilfe |
+| [[Der Dybbuk]] | **neu / akut** — muss gejagt und gestoppt werden, Voraussetzung für Calderions weitere Hilfe |
 | [[Sprechende Kristallkugel]] | **neu / offen** — Herkunft, Ehrlichkeit, Fae-Verdacht |
 | Unidentifizierter Zauberstab | neu / offen — Evokationsmagie, wartet auf Identify |
 | [[Zions Hunger]] | **eskaliert** — reagiert sichtbar auf Calderions Schutzzauber; „ein Teil seines Kopfes" schweigt erstmals |
 | Sir Aschefalls wahrer Auftrag | offen — offizieller Auftrag mit Ankunft auf Zarat erfüllt; wahre Loyalität unklar |
 | [[Chloro Verde]] | eskaliert — Verbindung zur Rache-Kreatur; Gruppe besitzt jetzt ihre gestohlenen Rubine |
 | [[Mechanischer Vogel]] | ruhend, keine Entwicklung |
-| [[Wo versteckt sich der Assassine]] | fortgeschritten — Zielinsel erreicht, Assassine noch nicht lokalisiert; Dibbuk-Jagd als Voraussetzung |
+| [[Wo versteckt sich der Assassine]] | fortgeschritten — Zielinsel erreicht, Assassine noch nicht lokalisiert; Dybbuk-Jagd als Voraussetzung |
 | Belagerung Rhusions | läuft im Hintergrund — Zeitdruck durch Drei-Tage-Frist der Kapitänin verschärft |
 | [[Ritual der 13 Stiche]] | ruhend bis nach Zarat |
 | [[Rache-Kreatur]] | **abgeschlossen** — besiegt, Herkunft/Motiv geklärt (Chloro Verdes gestohlene Rubine) |
@@ -179,7 +179,7 @@ Kein Kampf-Cliffhanger diesmal: Die Session endet an einem natürlichen Haltepun
 ## Verknüpfungen
 
 - [[Zarat]] · [[Leitwacht]] · [[Zestus]] · [[Kapitänin der Zestus]]
-- [[Chloro Verde]] · [[Calderion]] · [[Der Dibbuk]] · [[Sprechende Kristallkugel]]
+- [[Chloro Verde]] · [[Calderion]] · [[Der Dybbuk]] · [[Sprechende Kristallkugel]]
 - [[Zion]] · [[Viri]] · [[Elysia]] · [[Rugir]] · [[Sir Aschefall]]
 - Transkript: [[Transcript - Session 15 - 08.07.2026]]
 - [[Session 14 - 01.07.2026]]

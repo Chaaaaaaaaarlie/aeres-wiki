@@ -1,4 +1,4 @@
----
+﻿---
 type: entity
 title: "Calderion"
 created: 2026-07-08
@@ -34,7 +34,7 @@ Die Kraft dieses Zaubers übersteigt bei Weitem, was [[Viri]] (Arcana DC 10, kna
 - Betet am Tempelaltar; erkennt Viri als Glaubensschwester, als sie mit ihrem eigenen Symbol neben ihm betet: *„Ihr sprecht die Worte unseres Herrn, als würdet ihr sie leben."*
 - Stellt sich vor: *„Ich bin der Hirte dieses Ortes. Mein Name ist Calderion."*
 - Rugirs Insight: hält wenig von Religion als Institution, respektiert aber ehrlichen Zweifel
-- Erklärt der Gruppe die Bedrohung durch **[[Der Dibbuk|den Dibbuk]]** und bittet eindringlich (nicht als Befehl, „wie ein Gebet"), das Wesen zu stoppen — *„nicht mit Zorn"*
+- Erklärt der Gruppe die Bedrohung durch **[[Der Dybbuk|den Dybbuk]]** und bittet eindringlich (nicht als Befehl, „wie ein Gebet"), das Wesen zu stoppen — *„nicht mit Zorn"*
 - Verspricht im Gegenzug, der Spur zum eigentlich gesuchten Mörder nachzugehen
 
 ## Der Schocker: Niemand verlässt Zarat
@@ -49,14 +49,14 @@ Als Zion innerhalb der Schutzkuppel testweise Green-Flame-Blade-Magie wirkt (sp�
 
 ## Bedrohung seines Schutzzaubers (Session 16, noch nicht berichtet)
 
-Im Dschungel besiegt die Gruppe drei Kultisten, die im Auftrag handeln, den Dibbuk zu füttern und Calderions Barriere gezielt zu schwächen. Calderion selbst weiß davon noch nichts — die Gruppe hat ihm diese Information bis Sessionende nicht überbringen können.
+Im Dschungel besiegt die Gruppe drei Kultisten, die im Auftrag handeln, den Dybbuk zu füttern und Calderions Barriere gezielt zu schwächen. Calderion selbst weiß davon noch nichts — die Gruppe hat ihm diese Information bis Sessionende nicht überbringen können.
 
 ## Offene Fragen
 
 - [ ] Wird Viri seine Nachfolgerin für den Schutzzauber?
 - [ ] Wie lange lebt Calderion noch?
 - [ ] Kennt er die wahre Natur von Zions Reaktion auf seinen Zauber?
-- [ ] Wer ist der humanoide Komplize, der dem Dibbuk hilft, Gräber zu öffnen?
+- [ ] Wer ist der humanoide Komplize, der dem Dybbuk hilft, Gräber zu öffnen?
 - [ ] Weiß Calderion von den Kultisten, die seine Barriere gezielt schwächen wollen?
 
 ## Verknüpfungen
@@ -64,7 +64,7 @@ Im Dschungel besiegt die Gruppe drei Kultisten, die im Auftrag handeln, den Dibb
 - [[Leitwacht]]
 - [[Zarat]]
 - [[Ilmater]]
-- [[Der Dibbuk]]
+- [[Der Dybbuk]]
 - [[Viri]]
 - [[Zion]]
 - [[Session 15 - 08.07.2026]]

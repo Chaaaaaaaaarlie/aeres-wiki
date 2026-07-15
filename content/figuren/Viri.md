@@ -1,4 +1,4 @@
----
+﻿---
 type: entity
 title: "Viri"
 created: 2026-05-12
@@ -107,7 +107,7 @@ Viri ist nicht als Gast zur Hochzeit gekommen, sondern weil sie Sokars Männer h
 ## Session 16
 - Belauscht die streitenden Exilanten im Dschungel (Insight) — erkennt, dass sie etwas/jemanden suchen
 - Bricht sich einen Reißzahn aus dem abgenagten Tierskelett als Souvenir heraus
-- **Magic Missile** im Kampf gegen die Dibbuk-Kultisten — der Schaden springt ungewöhnlich wie eine Kettenreaktion von einer Wunde zur nächsten über (unerklärter Effekt)
+- **Magic Missile** im Kampf gegen die Dybbuk-Kultisten — der Schaden springt ungewöhnlich wie eine Kettenreaktion von einer Wunde zur nächsten über (unerklärter Effekt)
 - Heilt Zion und Aschefall mehrfach im Kampf; zeigt spürbaren Unmut, als Rugir Gnade für die Kultisten fordert, nachdem einer sie fast getötet hätte
 - Untersucht per Mage Hand den fallengelassenen Sack — findet die verweste Lepra-Leiche, erklärt den Verwesungsgrad mit ihrer Tempelerfahrung
 - **Purify Food and Drink** während der Rast — sichert unverseuchtes Essen für die Gruppe
@@ -126,7 +126,7 @@ Viri ist nicht als Gast zur Hochzeit gekommen, sondern weil sie Sokars Männer h
 - [[Sir Aschefall]]
 - [[Zarat]]
 - [[Calderion]] – Glaubensschwester, mögliche Nachfolgerin
-- [[Der Dibbuk]]
+- [[Der Dybbuk]]
 - [[Verfluchte Driftkugel]]
 - [[Session 11 - 03.06.2026]]
 - [[Session 13 - 23.06.2026]]

@@ -1,9 +1,9 @@
----
+﻿---
 type: session
 title: "Session 16 - 14.07.2026"
 created: 2026-07-14
 updated: 2026-07-14
-tags: [session, aeres, zarat, dibbuk, kultisten, sokar-karioka]
+tags: [session, aeres, zarat, Dybbuk, kultisten, sokar-karioka]
 status: complete
 ---
 
@@ -15,7 +15,7 @@ status: complete
 
 ## Kurzfassung
 
-Die Gruppe verfolgt die frische Spur des Dibbuk weiter durch den Dschungel von **Zarat**. Sie schleicht sich an einer Gruppe verzweifelter, lepra-kranker Exilanten vorbei, die im Auftrag eines Loxodon nach zwei aktuell vermissten Lebenden suchen — ein Halbling und ein Mensch. Ein blitzsauber abgenagtes Raubtierskelett und eine herrenlose, ungewöhnliche Schuppenrüstung säumen den Weg. Dann stellt sich die Fährte als Hinterhalt heraus: Drei bewaffnete Kultisten, die schwer verwundete Beute in einem Sack schleppen, ziehen die Schwerter. Im Kampf beschwören sie schwarze, gezackte Klingen aus der Distanz — **exakt die Waffenart, die Sokar Karioka tötete**. Zion wird durch Hold Person paralysiert und nur knapp vor einem tödlichen Treffer gerettet; zwei Kultisten sterben (zu Asche verbrannt), der dritte wird bewusstlos gefangen genommen. Im Sack liegt eine ungewöhnlich weit verweste Lepra-Leiche. Auf einem geretteten Zettel entziffert die Gruppe eine erschreckend eindeutige Botschaft: **„Füttert den Dibbuk, schwächt ihre Barrieren, und bereitet euch vor."** — der erste direkte Beweis, dass die Kultisten im Auftrag handeln, Leitwachts Schutzzauber gezielt zu schwächen. Die Gruppe täuscht die Flucht des Gefangenen vor, um ihm zum eigentlichen Dibbuk-Nest zu folgen, und legt eine kurze Rast ein. Rugir identifiziert vier gefundene magische Gegenstände: den Zauberstab (ein fehlerhafter, aber ungefährlicher Wand of Magic Missile), die unaktivierte Driftkugel (verflucht — löst grauenhafte Horror-Visionen aus), die sprechende Kristallkugel (kein Fluch auf dem Gefäß selbst, aber bestätigt als lebendiges Gefängnis — Elysias Mindlink beweist, dass tatsächlich eine echte Kreatur darin gefangen ist) und die gefundene Schuppenrüstung (verflucht — erzwingt Klaustrophobie und den zwanghaften Wunsch, jede Nacht darin zu schlafen). Die Session endet mitten in der Rast, kurz bevor der gefesselte Kultist „erwacht" und die Verfolgung beginnen kann.
+Die Gruppe verfolgt die frische Spur des Dybbuk weiter durch den Dschungel von **Zarat**. Sie schleicht sich an einer Gruppe verzweifelter, lepra-kranker Exilanten vorbei, die im Auftrag eines Loxodon nach zwei aktuell vermissten Lebenden suchen — ein Halbling und ein Mensch. Ein blitzsauber abgenagtes Raubtierskelett und eine herrenlose, ungewöhnliche Schuppenrüstung säumen den Weg. Dann stellt sich die Fährte als Hinterhalt heraus: Drei bewaffnete Kultisten, die schwer verwundete Beute in einem Sack schleppen, ziehen die Schwerter. Im Kampf beschwören sie schwarze, gezackte Klingen aus der Distanz — **exakt die Waffenart, die Sokar Karioka tötete**. Zion wird durch Hold Person paralysiert und nur knapp vor einem tödlichen Treffer gerettet; zwei Kultisten sterben (zu Asche verbrannt), der dritte wird bewusstlos gefangen genommen. Im Sack liegt eine ungewöhnlich weit verweste Lepra-Leiche. Auf einem geretteten Zettel entziffert die Gruppe eine erschreckend eindeutige Botschaft: **„Füttert den Dybbuk, schwächt ihre Barrieren, und bereitet euch vor."** — der erste direkte Beweis, dass die Kultisten im Auftrag handeln, Leitwachts Schutzzauber gezielt zu schwächen. Die Gruppe täuscht die Flucht des Gefangenen vor, um ihm zum eigentlichen Dybbuk-Nest zu folgen, und legt eine kurze Rast ein. Rugir identifiziert vier gefundene magische Gegenstände: den Zauberstab (ein fehlerhafter, aber ungefährlicher Wand of Magic Missile), die unaktivierte Driftkugel (verflucht — löst grauenhafte Horror-Visionen aus), die sprechende Kristallkugel (kein Fluch auf dem Gefäß selbst, aber bestätigt als lebendiges Gefängnis — Elysias Mindlink beweist, dass tatsächlich eine echte Kreatur darin gefangen ist) und die gefundene Schuppenrüstung (verflucht — erzwingt Klaustrophobie und den zwanghaften Wunsch, jede Nacht darin zu schlafen). Die Session endet mitten in der Rast, kurz bevor der gefesselte Kultist „erwacht" und die Verfolgung beginnen kann.
 
 ---
 
@@ -23,7 +23,7 @@ Die Gruppe verfolgt die frische Spur des Dibbuk weiter durch den Dschungel von *
 
 ### 1. Die Exilanten im Dschungel
 
-Die Gruppe setzt die Verfolgung der Dibbuk-Spur fort, Zion weiterhin vorneweg als Späher. Ein Zufallsereignis führt zu einer kleinen Gruppe vermummter, in Lumpen und Verbände gehüllter Gestalten, die sich lautstark streiten und immer wieder ängstlich zu den Baumkronen hochblicken, sobald Tiergeräusche ertönen. Viri belauscht sie: Sie scheinen etwas oder jemanden zu suchen.
+Die Gruppe setzt die Verfolgung der Dybbuk-Spur fort, Zion weiterhin vorneweg als Späher. Ein Zufallsereignis führt zu einer kleinen Gruppe vermummter, in Lumpen und Verbände gehüllter Gestalten, die sich lautstark streiten und immer wieder ängstlich zu den Baumkronen hochblicken, sobald Tiergeräusche ertönen. Viri belauscht sie: Sie scheinen etwas oder jemanden zu suchen.
 
 Die Gruppe schleicht sich erfolgreich vorbei (Gruppen-Stealth, DC 14) und erfährt aus einem weiteren Lauschangriff mehr: Es handelt sich um einfache Inselverbannte, die von einem **Loxodon** gegen Nahrung und Wertgegenstände als Belohnung angeheuert wurden, um Vermisste zu finden — **einen Halbling und einen Menschen**, im Präsens gesprochen. Anders als bei Calderions Bericht über vergangene Grabschändungen deutet das auf eine neue Eskalation hin: Diesmal wurden offenbar **lebende Personen entführt**. Die Gruppe beschließt, den Exilanten nicht zu helfen, sondern die Information vorerst im Hinterkopf zu behalten, und zieht weiter.
 
@@ -39,7 +39,7 @@ Im Wald liegt eine Schuppenrüstung ohne erkennbaren Besitzer. Sir Aschefall unt
 
 Weitere Survival- und Wahrnehmungs-Checks führen die Gruppe zu drei bewaffneten Gestalten, die etwas Schweres und Nasses schleppen. Zion stolpert hörbar über einen Ast, Aschefalls Kettenhemd klirrt — die Drei werden gewarnt, lassen ihre Last mit einem lauten Geräusch fallen und ziehen Schwerter. Viris Versuch eines friedlichen Kontakts scheitert; die Körpersprache der Fremden kippt in offene Feindseligkeit.
 
-### 5. Kampf gegen die Dibbuk-Kultisten
+### 5. Kampf gegen die Dybbuk-Kultisten
 
 Zentrale Kampfszene der Session:
 
@@ -60,19 +60,19 @@ Der fallengelassene Jutesack wird per Mage Hand aus der Distanz geöffnet: Darin
 
 Aschefall bemerkt, dass die Klinge, die ihn getroffen hat, spurlos verschwunden ist — ein Hinweis auf einen Pakt-artigen, warlockartigen Zugang zu dieser Magie. Elysia untersucht die Wunden bei Zion und Aschefall: schwache, verblassende schwarze Äderchen in den Wundrändern — bei Weitem nicht so nekrotisch und verdorben, wie es bei Sokars tödlicher Wunde der Fall war, weil die Heilung rechtzeitig eingriff.
 
-Der DM bestätigt die Verbindung direkt: **„Übrigens hatten die diese Klinge wie die Klinge, die Sokar getötet hat."** Und weiter: Es lasse sich nicht ausmalen, was passiert wäre, hätte einer der Charaktere ohne rechtzeitige Heilung dasselbe Schicksal erlitten wie Sokar Karioka — die bisher stärkste Verbindung zwischen den Dibbuk-Kultisten und dem gesuchten Mörder.
+Der DM bestätigt die Verbindung direkt: **„Übrigens hatten die diese Klinge wie die Klinge, die Sokar getötet hat."** Und weiter: Es lasse sich nicht ausmalen, was passiert wäre, hätte einer der Charaktere ohne rechtzeitige Heilung dasselbe Schicksal erlitten wie Sokar Karioka — die bisher stärkste Verbindung zwischen den Dybbuk-Kultisten und dem gesuchten Mörder.
 
 ### 8. Die entzifferte Botschaft
 
 Der zu Asche verbrannte Kultist trägt nur 4 Kupfermünzen und ein verkohltes Stück Räucherfleisch bei sich. Bei einem anderen findet Elysia einen zerstörten Zettel mit den bekannten Chiffre-Symbolen (siehe [[Codierpergament]]). Rugir repariert ihn mit Mending und entziffert ihn:
 
-> *„Füttert den Dibbuk, schwächt ihre Barrieren, und bereitet euch vor."*
+> *„Füttert den Dybbuk, schwächt ihre Barrieren, und bereitet euch vor."*
 
-Direkter Beweis: Die Kultisten handeln im Auftrag, den Dibbuk mit Opfern zu füttern und Calderions Schutzzauber um Leitwacht gezielt zu schwächen — in Vorbereitung auf etwas Größeres.
+Direkter Beweis: Die Kultisten handeln im Auftrag, den Dybbuk mit Opfern zu füttern und Calderions Schutzzauber um Leitwacht gezielt zu schwächen — in Vorbereitung auf etwas Größeres.
 
 ### 9. Der Köder-Plan
 
-Die Gruppe entscheidet sich gegen ein direktes Verhör und für eine List: Sie durchtrennen statt verknoten die Fesseln des bewusstlosen Kultisten, damit es wie eine Selbstbefreiung aussieht, und ziehen sich zurück, um ihm zu folgen, sobald er erwacht — in der Hoffnung, so das Versteck des Dibbuk oder seiner Auftraggeber zu finden.
+Die Gruppe entscheidet sich gegen ein direktes Verhör und für eine List: Sie durchtrennen statt verknoten die Fesseln des bewusstlosen Kultisten, damit es wie eine Selbstbefreiung aussieht, und ziehen sich zurück, um ihm zu folgen, sobald er erwacht — in der Hoffnung, so das Versteck des Dybbuk oder seiner Auftraggeber zu finden.
 
 ### 10. Kurze Rast und Item-Identifikation
 
@@ -94,15 +94,15 @@ Die Session endet mitten in der kurzen Rast, kurz nachdem die Item-Identifikatio
 ## Neue Elemente
 
 - **Exilanten-Suchtrupp** — vermummte, lepra-kranke Inselverbannte, angeheuert von einem Loxodon, auf der Suche nach einem lebend vermissten Halbling und Menschen. Nicht direkt kontaktiert.
-- **Drei Dibbuk-Kultisten** — bewaffnete Diener mit Zugang zu beschworenen schwarzen, gezackten Klingen (identisch mit Sokars Mordwaffe) und Zaubern wie Hold Person. Zwei zu Asche verbrannt, einer gefangen und als Köder präpariert.
-- **Codierte Botschaft** — „Füttert den Dibbuk, schwächt ihre Barrieren, und bereitet euch vor." Schlüsselbeweis für eine aktive Verschwörung gegen Leitwacht.
+- **Drei Dybbuk-Kultisten** — bewaffnete Diener mit Zugang zu beschworenen schwarzen, gezackten Klingen (identisch mit Sokars Mordwaffe) und Zaubern wie Hold Person. Zwei zu Asche verbrannt, einer gefangen und als Köder präpariert.
+- **Codierte Botschaft** — „Füttert den Dybbuk, schwächt ihre Barrieren, und bereitet euch vor." Schlüsselbeweis für eine aktive Verschwörung gegen Leitwacht.
 - **Verfluchte Schuppenrüstung** — im Dschungel gefunden, Klaustrophobie-Fluch, erzwingt nächtliches Tragen. Noch nicht angelegt.
 
 ---
 
 ## Lore-Updates
 
-- Die Mordwaffe, die Sokar Karioka tötete, ist keine Einzelanfertigung — dieselbe Klingenart wird von den Dibbuk-Kultisten auf Zarat beschworen. Der gesuchte Assassine und die Dibbuk-Verschwörung hängen damit mutmaßlich zusammen.
+- Die Mordwaffe, die Sokar Karioka tötete, ist keine Einzelanfertigung — dieselbe Klingenart wird von den Dybbuk-Kultisten auf Zarat beschworen. Der gesuchte Assassine und die Dybbuk-Verschwörung hängen damit mutmaßlich zusammen.
 - Die gefundene Driftkugel ist verflucht (Horror-Visionen), unabhängig von der sprechenden Kristallkugel.
 - Die sprechende Kristallkugel ist kein Lügenzauber-Trick — sie ist tatsächlich ein Gefäß, das eine echte, gefangene Kreatur enthält.
 
@@ -112,8 +112,8 @@ Die Session endet mitten in der kurzen Rast, kurz nachdem die Item-Identifikatio
 
 | Faden | Status |
 |-------|--------|
-| [[Der Dibbuk]] | **eskaliert** — aktive Kultisten-Verschwörung mit klarem Auftrag aufgedeckt; direkte Waffen-Verbindung zu Sokars Mörder |
-| [[Wo versteckt sich der Assassine]] | **fortgeschritten** — stärkster bisheriger Beweis, dass der Mörder mit der Dibbuk-Verschwörung verbunden ist |
+| [[Der Dybbuk]] | **eskaliert** — aktive Kultisten-Verschwörung mit klarem Auftrag aufgedeckt; direkte Waffen-Verbindung zu Sokars Mörder |
+| [[Wo versteckt sich der Assassine]] | **fortgeschritten** — stärkster bisheriger Beweis, dass der Mörder mit der Dybbuk-Verschwörung verbunden ist |
 | [[Magische Mordwaffe]] | **fortgeschritten** — Waffentyp erneut aufgetaucht, nicht einzigartig |
 | [[Sprechende Kristallkugel]] | **fortgeschritten** — bestätigt: echte Kreatur gefangen, Gefäß selbst nicht verflucht |
 | Verfluchte Driftkugel | neu — Horror-Visionen, sonst kein bekannter Effekt |
@@ -128,7 +128,7 @@ Die Session endet mitten in der kurzen Rast, kurz nachdem die Item-Identifikatio
 ## Verknüpfungen
 
 - [[Zarat]] · [[Leitwacht]] · [[Calderion]]
-- [[Der Dibbuk]] · [[Sprechende Kristallkugel]] · [[Codierpergament]] · [[Magische Mordwaffe]] · [[Wo versteckt sich der Assassine]]
+- [[Der Dybbuk]] · [[Sprechende Kristallkugel]] · [[Codierpergament]] · [[Magische Mordwaffe]] · [[Wo versteckt sich der Assassine]]
 - [[Zion]] · [[Viri]] · [[Elysia]] · [[Rugir]] · [[Sir Aschefall]]
 - Transkript: [[Transcript - Session 16 - 14.07.2026]]
 - [[Session 15 - 08.07.2026]]

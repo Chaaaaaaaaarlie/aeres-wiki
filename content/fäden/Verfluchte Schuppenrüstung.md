@@ -1,4 +1,4 @@
----
+﻿---
 type: faden
 title: "Verfluchte Schuppenrüstung"
 created: 2026-07-14
@@ -23,7 +23,7 @@ Aschefall hat die Rüstung bisher **nicht angelegt** — der Fluch wurde nur per
 ## Offene Fragen
 
 - [ ] Was passiert genau, wenn man sie anlegt — lässt sie sich wirklich nie wieder ausziehen?
-- [ ] Woher stammt sie — vorheriger Träger, Dibbuk-Kultisten, oder unabhängiger Fund?
+- [ ] Woher stammt sie — vorheriger Träger, Dybbuk-Kultisten, oder unabhängiger Fund?
 - [ ] Gibt es einen Nutzen, der den Fluch aufwiegt (z. B. besondere Schutzeigenschaften)?
 
 ## Verknüpfungen
@@ -31,5 +31,5 @@ Aschefall hat die Rüstung bisher **nicht angelegt** — der Fluch wurde nur per
 - [[Sir Aschefall]]
 - [[Rugir]]
 - [[Zarat]]
-- [[Der Dibbuk]]
+- [[Der Dybbuk]]
 - [[Session 16 - 14.07.2026]]

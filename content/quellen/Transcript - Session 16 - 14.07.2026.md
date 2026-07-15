@@ -1,4 +1,4 @@
----
+﻿---
 type: quelle
 title: "Transcript - Session 16 - 14.07.2026"
 created: 2026-07-14
@@ -50,15 +50,15 @@ status: complete
 
 ### Die entzifferte Botschaft
 
-> **DM** *(entzifferter Zettel bei einem der Kultisten)*: „Füttert den Dibbuk, schwächt ihre Barrieren, und bereitet euch vor."
+> **DM** *(entzifferter Zettel bei einem der Kultisten)*: „Füttert den Dybbuk, schwächt ihre Barrieren, und bereitet euch vor."
 
 ### Der Sack mit der Leiche
 
-> Der von den Kultisten fallen gelassene Jutesack enthält eine ungewöhnlich weit verweste Lepra-Leiche — vermutlich als Opfergabe für den Dibbuk gedacht.
+> Der von den Kultisten fallen gelassene Jutesack enthält eine ungewöhnlich weit verweste Lepra-Leiche — vermutlich als Opfergabe für den Dybbuk gedacht.
 
 ### Der Köder-Plan
 
-Die Gruppe täuscht die Flucht des bewusstlosen dritten Kultisten vor (durchtrennte statt geknotete Fesseln), um ihm zu folgen und den Dibbuk bzw. seine Auftraggeber zu finden.
+Die Gruppe täuscht die Flucht des bewusstlosen dritten Kultisten vor (durchtrennte statt geknotete Fesseln), um ihm zu folgen und den Dybbuk bzw. seine Auftraggeber zu finden.
 
 ### Item-Identifikation
 

@@ -1,4 +1,4 @@
----
+﻿---
 type: meta
 title: "Fäden-Übersicht"
 created: 2026-05-12
@@ -13,7 +13,7 @@ Offene Rätsel, Handlungsfäden, Hinweise und ungeklärte Fragen. Jede Seite hat
 
 ## Heiße Fäden (Priorität)
 
-- [[Der Dibbuk]] *(eskaliert, Session 16)*
+- [[Der Dybbuk]] *(eskaliert, Session 16)*
 - [[Wo versteckt sich der Assassine]] *(fortgeschritten, Session 16)*
 - [[Blutpakt des Tigerauge]]
 - [[Ritual der 13 Stiche]]

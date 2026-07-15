@@ -1,4 +1,4 @@
----
+﻿---
 type: entity
 title: "Zarat"
 created: 2026-06-04
@@ -48,11 +48,11 @@ Die Zestus erreicht Zarat nach einer Reise voller Zwischenfälle (Seepocken, ein
 
 Sekunden nach der Landung wird das Beiboot der Gruppe von einem Geschoss **aus dem Leuchtturm** zerstört — ein Wächtermechanismus, der offenbar niemanden unbemerkt entkommen lässt. Die Gruppe hat aktuell keinen offensichtlichen Weg zurück zur Zestus.
 
-In [[Leitwacht]] trifft die Gruppe auf **[[Calderion]]** (lebt noch), der von einer neuen Bedrohung berichtet: **[[Der Dibbuk|dem Dibbuk]]**, einem leichenbesetzenden Dämon. Calderions Schocker: **Niemand darf die Insel je wieder verlassen** — auch nicht die Gesunden, denn früher oder später erkrankt jeder.
+In [[Leitwacht]] trifft die Gruppe auf **[[Calderion]]** (lebt noch), der von einer neuen Bedrohung berichtet: **[[Der Dybbuk|dem Dybbuk]]**, einem leichenbesetzenden Dämon. Calderions Schocker: **Niemand darf die Insel je wieder verlassen** — auch nicht die Gesunden, denn früher oder später erkrankt jeder.
 
 ## Im Dschungel (Session 16)
 
-Die Gruppe setzt die Verfolgung der Dibbuk-Spur fort und begegnet dabei einem **Exilanten-Suchtrupp** — lepra-kranke Inselverbannte, von einem Loxodon gegen Belohnung angeheuert, auf der Suche nach einem lebend vermissten Halbling und Menschen. Die Spur führt weiter zu drei **Dibbuk-Kultisten**, die dieselbe Klingenart beschwören, die Sokar Karioka tötete, und einen codierten Auftrag bei sich tragen: die Barriere um Leitwacht zu schwächen und den Dibbuk zu füttern. Im Dschungel liegen zudem eine verfluchte Schuppenrüstung und eine verfluchte Driftkugel (siehe [[Verfluchte Schuppenrüstung]], [[Verfluchte Driftkugel]]).
+Die Gruppe setzt die Verfolgung der Dybbuk-Spur fort und begegnet dabei einem **Exilanten-Suchtrupp** — lepra-kranke Inselverbannte, von einem Loxodon gegen Belohnung angeheuert, auf der Suche nach einem lebend vermissten Halbling und Menschen. Die Spur führt weiter zu drei **Dybbuk-Kultisten**, die dieselbe Klingenart beschwören, die Sokar Karioka tötete, und einen codierten Auftrag bei sich tragen: die Barriere um Leitwacht zu schwächen und den Dybbuk zu füttern. Im Dschungel liegen zudem eine verfluchte Schuppenrüstung und eine verfluchte Driftkugel (siehe [[Verfluchte Schuppenrüstung]], [[Verfluchte Driftkugel]]).
 
 ## Offene Fragen
 
@@ -61,7 +61,7 @@ Die Gruppe setzt die Verfolgung der Dibbuk-Spur fort und begegnet dabei einem **
 - [x] Lebt Calderion Yolob noch – und wie alt müsste er dann sein? → lebt, wirkt aber körperlich weit älter als sein tatsächliches Alter
 - [ ] Kennt der Assassine den Schutz des Halo-Zaubers – oder umgeht er ihn?
 - [ ] Wie kommt die Gruppe ohne Beiboot je wieder von der Insel weg?
-- [x] Steht der Dibbuk mit dem gesuchten Assassinen in Verbindung? → sehr wahrscheinlich, identische Mordwaffen-Klingen bei den Dibbuk-Kultisten (Session 16)
+- [x] Steht der Dybbuk mit dem gesuchten Assassinen in Verbindung? → sehr wahrscheinlich, identische Mordwaffen-Klingen bei den Dybbuk-Kultisten (Session 16)
 - [ ] Wer sind der vermisste Halbling und Mensch, nach denen die Exilanten suchen?
 
 ## Verknüpfungen
@@ -72,7 +72,7 @@ Die Gruppe setzt die Verfolgung der Dibbuk-Spur fort und begegnet dabei einem **
 - [[Zestus]]
 - [[Leitwacht]]
 - [[Calderion]]
-- [[Der Dibbuk]]
+- [[Der Dybbuk]]
 - [[Magische Mordwaffe]]
 - [[Verfluchte Schuppenrüstung]]
 - [[Verfluchte Driftkugel]]

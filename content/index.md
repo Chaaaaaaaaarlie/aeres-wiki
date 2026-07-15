@@ -1,4 +1,4 @@
----
+﻿---
 type: meta
 title: "Aeres-Wiki — Hauptübersicht"
 created: 2026-05-12
@@ -63,7 +63,7 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 
 ## Fäden — Heiß
 
-- [[Blutpakt des Tigerauge]] · [[Der Dibbuk]] · [[Hafensabotage]] · [[Ritual der 13 Stiche]] · [[Rugirs wahrer Name]] · [[Tabulei]] · [[Wo versteckt sich der Assassine]] · [[Zions Hunger]]
+- [[Blutpakt des Tigerauge]] · [[Der Dybbuk]] · [[Hafensabotage]] · [[Ritual der 13 Stiche]] · [[Rugirs wahrer Name]] · [[Tabulei]] · [[Wo versteckt sich der Assassine]] · [[Zions Hunger]]
 
 ## Fäden — Hinweise & Offen
 

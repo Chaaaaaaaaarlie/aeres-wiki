@@ -1,4 +1,4 @@
----
+﻿---
 type: faden
 title: "Sprechende Kristallkugel"
 created: 2026-07-08
@@ -20,7 +20,7 @@ Ein lebendiges, sarkastisches, manipulatives Artefakt, das ständig fordert: *�
 
 ## Verhalten
 
-- Sieht den vom [[Der Dibbuk|Dibbuk]] besessenen Erdgenasi-Leichnam vorbeikommen, weist aber bewusst in die **falsche Richtung** — Lyssa erkennt die Lüge
+- Sieht den vom [[Der Dybbuk|Dybbuk]] besessenen Erdgenasi-Leichnam vorbeikommen, weist aber bewusst in die **falsche Richtung** — Lyssa erkennt die Lüge
 - Auf die Frage nach ihrem Schöpfer: „Ich wurde fallen gelassen" — von einer klammen Hand mit Dreck unter den Fingernägeln (ein **lebendes** Wesen, kein Untoter)
 - Auf „den gefallenen Engel": „Er ist gestolpert" — es gäbe viele gestolperte Engel, „einer sitzt jetzt in **Avernus**"
 - Zur Inselgeschichte: Zarat entstand, als sich Berge aus dem Meer hochdrückten — die Insel sind die Gipfel eines versunkenen Gebirges
@@ -49,7 +49,7 @@ Rugir versucht, das Gefäß selbst zu identifizieren: **Kein Fluch auf dem Behä
 - [ ] Wer ist der Schöpfer, dessen Name sie nicht nennen darf?
 - [ ] An wen wurde sie weitergegeben — und ist diese Person auf Zarat?
 - [ ] Kann sie die Schutzkuppel passieren? (Test steht noch aus)
-- [ ] Warum hat sie den Dibbuk absichtlich falsch geortet — Bosheit, Zwang, oder Loyalität zu jemand anderem?
+- [ ] Warum hat sie den Dybbuk absichtlich falsch geortet — Bosheit, Zwang, oder Loyalität zu jemand anderem?
 - [x] Ist wirklich eine Kreatur darin gefangen? → ja, per Mindlink bestätigt (Session 16)
 - [ ] Ist die gefangene Kreatur selbst verflucht oder geschädigt?
 - [ ] Wie befreit man sie — und will man das überhaupt?
@@ -58,6 +58,6 @@ Rugir versucht, das Gefäß selbst zu identifizieren: **Kein Fluch auf dem Behä
 
 - [[Elysia]]
 - [[Zarat]]
-- [[Der Dibbuk]]
+- [[Der Dybbuk]]
 - [[Session 15 - 08.07.2026]]
 - [[Session 16 - 14.07.2026]]

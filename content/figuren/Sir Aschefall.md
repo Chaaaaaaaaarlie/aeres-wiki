@@ -1,4 +1,4 @@
----
+﻿---
 type: entity
 title: "Sir Aschefall"
 created: 2026-06-04
@@ -58,12 +58,12 @@ Aschefall wird in [[Session 11 - 03.06.2026]] eingeführt und ist der **künftig
 - **Auftrag formal erfüllt** mit der Ankunft auf Zarat (siehe oben)
 - Wird von Viri per Seil gesichert und neben der Zestus hergezogen, um Seepocken vom Rumpf zu schaben
 - Essenz-Vision im Circle-Ritual: gleißend hell, selbstherrlich, ansteckend
-- Zieht mit der Gruppe nach Leitwacht und in den Dschungel zur Dibbuk-Verfolgung
+- Zieht mit der Gruppe nach Leitwacht und in den Dschungel zur Dybbuk-Verfolgung
 
 ## Session 16
 
 - Untersucht die im Dschungel gefundene, herrenlose Schuppenrüstung — leichter als seine eigene, Material unklar (obsidianartig, metallkühl); zieht sie zunächst nicht an
-- Wird im Kampf gegen die Dibbuk-Kultisten von einer beschworenen schwarzen Klinge getroffen und durch **Hold Person** paralysiert
+- Wird im Kampf gegen die Dybbuk-Kultisten von einer beschworenen schwarzen Klinge getroffen und durch **Hold Person** paralysiert
 - Charaktermoment nach der Paralyse: *„Im eigenen Körper gefangen sein, das hat mir überhaupt nicht behagt."*
 - Schlägt den dritten Kultisten mit dem Schwertknauf bewusstlos, statt ihn zu töten
 - Verpasst einen Konstitutions-Rettungswurf (DC 10) während der Rast und trägt eine Erschöpfungsstufe ein
@@ -77,7 +77,7 @@ Aschefall wird in [[Session 11 - 03.06.2026]] eingeführt und ist der **künftig
 - [[Elysia]]
 - [[Zestus]]
 - [[Zarat]]
-- [[Der Dibbuk]]
+- [[Der Dybbuk]]
 - [[Verfluchte Schuppenrüstung]]
 - [[Session 11 - 03.06.2026]]
 - [[Session 13 - 23.06.2026]]

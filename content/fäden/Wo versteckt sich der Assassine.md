@@ -1,4 +1,4 @@
----
+﻿---
 type: concept
 title: "Wo versteckt sich der Assassine"
 created: 2026-05-12
@@ -57,18 +57,18 @@ Durchbruch im [[Krokodil-Versteck]]:
 
 Damit verschiebt sich der Schauplatz **weg von Rhusion**: Der Assassine ist nicht mehr in der Stadt, sondern (vermutlich) auf Zarat.
 
-## Session 16 – Dibbuk-Kultisten führen dieselbe Mordwaffe
+## Session 16 – Dybbuk-Kultisten führen dieselbe Mordwaffe
 
-Im Dschungel von Zarat kämpft die Gruppe gegen drei Kultisten des [[Der Dibbuk|Dibbuk]], die dieselben schwarzen, gezackten Klingen beschwören, die Sokar Karioka töteten (siehe [[Magische Mordwaffe]]). Ein entzifferter Zettel bei den Kultisten trägt den Auftrag: *„Füttert den Dibbuk, schwächt ihre Barrieren, und bereitet euch vor."*
+Im Dschungel von Zarat kämpft die Gruppe gegen drei Kultisten des [[Der Dybbuk|Dybbuk]], die dieselben schwarzen, gezackten Klingen beschwören, die Sokar Karioka töteten (siehe [[Magische Mordwaffe]]). Ein entzifferter Zettel bei den Kultisten trägt den Auftrag: *„Füttert den Dybbuk, schwächt ihre Barrieren, und bereitet euch vor."*
 
-→ Bisher stärkster Beweis, dass der gesuchte Assassine nicht unabhängig von der Dibbuk-Verschwörung agiert, sondern Teil desselben Netzwerks ist (oder zumindest dieselben Ausrüster/Pakt-Geber nutzt).
+→ Bisher stärkster Beweis, dass der gesuchte Assassine nicht unabhängig von der Dybbuk-Verschwörung agiert, sondern Teil desselben Netzwerks ist (oder zumindest dieselben Ausrüster/Pakt-Geber nutzt).
 
 ## Offene Fragen
 
 - [ ] Wo genau auf [[Zarat]] verbirgt sich der Assassine?
 - [ ] Worauf wartet er, und wer gibt ihm „weitere Anweisungen"?
 - [ ] Ist Jai vom [[Tigerauge]] dieselbe Person oder ein zweiter Rakshasa? (in Rhusion zurückgeblieben?)
-- [ ] Steckt der Assassine selbst hinter dem Auftrag an die Dibbuk-Kultisten, oder dient er demselben, noch unbekannten Auftraggeber?
+- [ ] Steckt der Assassine selbst hinter dem Auftrag an die Dybbuk-Kultisten, oder dient er demselben, noch unbekannten Auftraggeber?
 
 ## Verknüpfungen
 
@@ -79,7 +79,7 @@ Im Dschungel von Zarat kämpft die Gruppe gegen drei Kultisten des [[Der Dibbuk|
 - [[Codierpergament]]
 - [[Zarat]]
 - [[Hjolda]]
-- [[Der Dibbuk]]
+- [[Der Dybbuk]]
 - [[Magische Mordwaffe]]
 - [[Session 9 - 15.04.2026]]
 - [[Session 11 - 03.06.2026]]
