@@ -2,7 +2,7 @@
 type: entity
 title: "Elysia"
 created: 2026-05-12
-updated: 2026-07-14
+updated: 2026-07-29
 tags:
   - charakter
   - spielercharakter
@@ -133,6 +133,12 @@ In [[Session 10 - 06.05.2026]] ruft Elysia ihren inneren Freund unter dem Namen 
 - Findet den zerstörten codierten Zettel bei einem der Kultisten; Rugir repariert und entziffert ihn
 - Bestätigt per **Mindlink** zweifelsfrei, dass in der [[Sprechende Kristallkugel|sprechenden Kristallkugel]] (Ixtra) tatsächlich eine echte Kreatur gefangen ist, kein bloßer Gegenstand
 
+## Session 17
+
+- Führt die Gruppe anhand der Schleifspur des Leichensacks durch den Dschungel zum [[Dybbuk-Nest]].
+- Unterstützt den Kampf und nimmt die **Sternenform des Schützen** an.
+- Untersucht gemeinsam mit Viri den beinahe getöteten Aschefall und schätzt die nekrotische Belastung als nach einer guten Nachtruhe heilbar ein.
+
 ## Verknüpfungen
 
 - [[Zion]] – Nächtliches Gespräch, kennt seinen Hunger; soll Statue meiden
@@ -152,3 +158,5 @@ In [[Session 10 - 06.05.2026]] ruft Elysia ihren inneren Freund unter dem Namen 
 - [[Session 14 - 01.07.2026]]
 - [[Session 15 - 08.07.2026]]
 - [[Session 16 - 14.07.2026]]
+- [[Dybbuk-Nest]]
+- [[Session 17 - 29.07.2026]]

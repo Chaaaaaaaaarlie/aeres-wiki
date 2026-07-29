@@ -2,7 +2,7 @@
 type: entity
 title: "Viri"
 created: 2026-05-12
-updated: 2026-07-14
+updated: 2026-07-29
 tags: [charakter, spielercharakter]
 klasse: Aasimar
 status: aktiv
@@ -113,6 +113,14 @@ Viri ist nicht als Gast zur Hochzeit gekommen, sondern weil sie Sokars Männer h
 - **Purify Food and Drink** während der Rast — sichert unverseuchtes Essen für die Gruppe
 - Ihre im Dschungel gefundene **Driftkugel** (Session 15) wird von Rugir identifiziert: **verflucht** (Horror-Visionen, siehe [[Verfluchte Driftkugel]])
 
+## Session 17
+
+- Spricht offen über ihre Herkunft: Die aasimarische Magie und ihre Flügel waren für sie **nie ein Geschenk**. Ein verstorbener Priester zeigte ihr etwas über einen gefallenen Engel und dessen Blutlinie.
+- Erklärt, dass sie das reservierte Buch im [[Bernsteinauge]] gerade deshalb sucht: Sie hofft auf Antworten zu ihrer eigenen Blutlinie und Zugehörigkeit.
+- Untersucht das untergeordnete Brandmal des Dybbuk-Kultisten per Mage Hand, ohne den Leichnam zu berühren.
+- Sprengt im Kampf den Kopf des letzten Halbling-Wirts und zwingt den Dybbuk zurück in seine freie Form.
+- Untersucht den beinahe getöteten Aschefall gemeinsam mit Lyssa; die nekrotische Belastung sollte sich nach einer guten Nachtruhe bessern.
+
 ## Verknüpfungen
 
 - [[Aspasia Cortiso]]
@@ -133,3 +141,4 @@ Viri ist nicht als Gast zur Hochzeit gekommen, sondern weil sie Sokars Männer h
 - [[Session 14 - 01.07.2026]]
 - [[Session 15 - 08.07.2026]]
 - [[Session 16 - 14.07.2026]]
+- [[Session 17 - 29.07.2026]]

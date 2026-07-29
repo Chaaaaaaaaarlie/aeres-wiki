@@ -2,9 +2,9 @@
 type: entity
 title: "Zarat"
 created: 2026-06-04
-updated: 2026-07-14
+updated: 2026-07-29
 tags: [ort, insel, ziel, assassine, seucheninsel]
-status: aktiv – Gruppe auf der Insel angekommen (Session 15), Beiboot zerstört
+status: aktiv – Gruppe im Dybbuk-Nest, Beiboot zerstört
 ---
 
 # Zarat
@@ -54,6 +54,10 @@ In [[Leitwacht]] trifft die Gruppe auf **[[Calderion]]** (lebt noch), der von ei
 
 Die Gruppe setzt die Verfolgung der Dybbuk-Spur fort und begegnet dabei einem **Exilanten-Suchtrupp** — lepra-kranke Inselverbannte, von einem Loxodon gegen Belohnung angeheuert, auf der Suche nach einem lebend vermissten Halbling und Menschen. Die Spur führt weiter zu drei **Dybbuk-Kultisten**, die dieselbe Klingenart beschwören, die Sokar Karioka tötete, und einen codierten Auftrag bei sich tragen: die Barriere um Leitwacht zu schwächen und den Dybbuk zu füttern. Im Dschungel liegen zudem eine verfluchte Schuppenrüstung und eine verfluchte Driftkugel (siehe [[Verfluchte Schuppenrüstung]], [[Verfluchte Driftkugel]]).
 
+## Dybbuk-Nest (Session 17)
+
+Der als Köder freigelassene Kultist führt die Gruppe zu einer Dschungellichtung mit Hütte, Tümpel und tiefer Leichengrube. Dort besiegt die Gruppe den Dybbuk endgültig; siehe [[Dybbuk-Nest]]. Hütte und Tümpel sind noch nicht untersucht. Unter den Wirtskörpern befinden sich ein Loxodon und ein Halbling; ob letzterer zu den Vermissten gehört, ist unbestätigt.
+
 ## Offene Fragen
 
 - [ ] Wo genau auf Zarat hält sich der Assassine auf?
@@ -63,6 +67,7 @@ Die Gruppe setzt die Verfolgung der Dybbuk-Spur fort und begegnet dabei einem **
 - [ ] Wie kommt die Gruppe ohne Beiboot je wieder von der Insel weg?
 - [x] Steht der Dybbuk mit dem gesuchten Assassinen in Verbindung? → sehr wahrscheinlich, identische Mordwaffen-Klingen bei den Dybbuk-Kultisten (Session 16)
 - [ ] Wer sind der vermisste Halbling und Mensch, nach denen die Exilanten suchen?
+- [ ] Was befindet sich in Hütte und Tümpel des [[Dybbuk-Nest]]s?
 
 ## Verknüpfungen
 
@@ -81,3 +86,5 @@ Die Gruppe setzt die Verfolgung der Dybbuk-Spur fort und begegnet dabei einem **
 - [[Session 12 - 17.06.2026]]
 - [[Session 15 - 08.07.2026]]
 - [[Session 16 - 14.07.2026]]
+- [[Dybbuk-Nest]]
+- [[Session 17 - 29.07.2026]]

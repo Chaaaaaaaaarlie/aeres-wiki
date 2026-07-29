@@ -2,7 +2,7 @@
 type: meta
 title: "Orte-Übersicht"
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-07-29
 tags:
   - meta/index
   - domain/locations
@@ -45,3 +45,4 @@ Schauplätze und Begegnungsorte in Rhusion und darüber hinaus. Für die Stadt s
 - [[Alauntor]]
 - [[Zarat]] — Seucheninsel im Nordosten, Reiseziel (Gruppe unterwegs)
 - [[Leitwacht]] — Siedlung auf Zarat, Leprakolonie unter Halo-Zauber von Calderion Yolob
+- [[Dybbuk-Nest]] — Kultistenlichtung mit Hütte und Leichengrube; Dybbuk in Session 17 zerstört

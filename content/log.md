@@ -2,7 +2,7 @@
 type: meta
 title: "Vorgangs-Protokoll"
 created: 2026-05-12
-updated: 2026-07-14
+updated: 2026-07-29
 tags:
   - meta/log
 ---
@@ -19,6 +19,16 @@ Format:
 - Aktualisierte Seiten: [[…]]
 - Kernerkenntnis: ein Satz
 ```
+
+---
+
+## [2026-07-29] recap | Session 17 – Das Dybbuk-Nest
+
+- Quelle: `craig-wYShcOpgOpIt-dMg3AJCg-Z_pdHx.flac.zip` (Transkription: WhisperX large-v3/CUDA, 3.059 Segmente, ~2h 58min, 145 Korrekturen)
+- Zusammenfassung: [[Session 17 - 29.07.2026]]
+- Erstellte Seiten: [[Session 17 - 29.07.2026]], [[Transcript - Session 17 - 29.07.2026]], [[Dybbuk-Nest]]
+- Aktualisierte Seiten: [[Der Dybbuk]], [[Ritual der 13 Stiche]], [[Viri]], [[Rugir]], [[Zion]], [[Elysia]], [[Sir Aschefall]], [[Zarat]], `hot.md`, `log.md`, `Willkommen.md`, `index.md`, `sessions/_index.md`, `orte/_index.md`, `fäden/_index.md`
+- Kernerkenntnis: Der Kultisten-Köder führt die Gruppe zum Dybbuk-Nest. Dort zerstört sie mehrere Wirtskörper und schließlich die freie Dämonengestalt. Ein abgeschwächtes Kultistenmal zeigt eine infernalische Untervertrags-Hierarchie. Hütte, Tümpel, Opferidentitäten und Auftraggeber bleiben offen.
 
 ---
 

@@ -2,7 +2,7 @@
 type: entity
 title: "Rugir"
 created: 2026-05-12
-updated: 2026-07-14
+updated: 2026-07-29
 tags: [charakter, spielercharakter]
 klasse: Evocation Wizard
 rasse: Zwerg
@@ -127,6 +127,14 @@ Kein direkter Treffer auf die **7 Kerzen** oder die **13 Stiche**. Spezialist f�
   - **Sprechende Kristallkugel** (Ixtra) → Gefäß selbst nicht verflucht, aber ein „Aufbewahrungsbehältnis"/Gefängnis
   - **Schuppenrüstung** (Aschefalls Fund) → verflucht, siehe [[Verfluchte Schuppenrüstung]]
 
+## Session 17
+
+- Lässt den Kultisten durch seine Eule verfolgen und lenkt ihn mit einer fallengelassenen Nuss ab.
+- Erkennt das Brandmal des Kultisten als schwächere Variante der bekannten infernalischen Zeichen: wie ein **Untervertrag** oder eine Nebenlinie, mit derselben, aber weniger tief verwurzelten Verdorbenheit.
+- Erkennt im Kampf, dass besetzte Leichen den Dybbuk gegen viele Schadensarten schützen, und lässt mögliche Wirtskörper verbrennen.
+- Bringt den bewusstlosen Sir Aschefall mit erfolgreicher Hilfe zurück.
+- Zerstört die freie Dybbuk-Gestalt schließlich mit Säure; die Masse zerfrisst sich von innen nach außen.
+
 ## Verknüpfungen
 
 - [[Alabaster Kuratorium]]
@@ -145,3 +153,5 @@ Kein direkter Treffer auf die **7 Kerzen** oder die **13 Stiche**. Spezialist f�
 - [[Session 14 - 01.07.2026]]
 - [[Session 15 - 08.07.2026]]
 - [[Session 16 - 14.07.2026]]
+- [[Dybbuk-Nest]]
+- [[Session 17 - 29.07.2026]]

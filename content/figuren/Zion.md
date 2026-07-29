@@ -2,7 +2,7 @@
 type: entity
 title: "Zion"
 created: 2026-05-12
-updated: 2026-07-14
+updated: 2026-07-29
 tags: [charakter, spielercharakter]
 klasse: Kämpfer
 status: aktiv
@@ -127,6 +127,13 @@ In [[Session 9 - 15.04.2026]]: Als [[Chloro Verde]]s Schatten länger wird, **ve
 - Wird im Kampf durch **Hold Person** paralysiert und erleidet einen automatischen kritischen Treffer (26 Schaden) — überlebt nur knapp dank rechtzeitiger Heilung
 - Rugir schlägt scherzhaft vor, ihm die verfluchte, horrorbehaftete Driftkugel zu geben: *„Er mag Dinge in seinem Schatten."*
 
+## Session 17
+
+- Entdeckt die getarnte Leichengrube am [[Dybbuk-Nest]] und sieht darin zahlreiche Körper in verschiedenen Verwesungsstadien.
+- Wirkt **Grease** über der Grube und macht aus der Falle eine Falle für den Dybbuk.
+- Hält einen Stoß bereit und befördert den aus der Grube steigenden Dybbuk erfolgreich zurück.
+- Kämpft aktiv gegen mehrere Wirtskörper; keine neue Entwicklung zu Hunger oder Schwert.
+
 ## Verknüpfungen
 
 - [[Zions Hunger]]
@@ -147,4 +154,6 @@ In [[Session 9 - 15.04.2026]]: Als [[Chloro Verde]]s Schatten länger wird, **ve
 - [[Session 14 - 01.07.2026]]
 - [[Session 15 - 08.07.2026]]
 - [[Session 16 - 14.07.2026]]
+- [[Dybbuk-Nest]]
+- [[Session 17 - 29.07.2026]]
 

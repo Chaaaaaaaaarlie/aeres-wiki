@@ -2,7 +2,7 @@
 type: entity
 title: "Sir Aschefall"
 created: 2026-06-04
-updated: 2026-07-14
+updated: 2026-07-29
 tags: [nsc, begleiter, drachengeboren]
 status: aktiv – reist mit der Gruppe
 ---
@@ -69,6 +69,13 @@ Aschefall wird in [[Session 11 - 03.06.2026]] eingeführt und ist der **künftig
 - Verpasst einen Konstitutions-Rettungswurf (DC 10) während der Rast und trägt eine Erschöpfungsstufe ein
 - Die gefundene Schuppenrüstung wird von Rugir als **verflucht** identifiziert (Klaustrophobie, erzwingt nächtliches Tragen) — siehe [[Verfluchte Schuppenrüstung]]
 
+## Session 17
+
+- Wird im Dybbuk-Kampf durch eine verheerende Angriffskombination bewusstlos; die besondere Fähigkeit hätte ihn regeltechnisch unmittelbar töten können, wurde vom DM jedoch entschärft.
+- Erhält eine **zweite Erschöpfungsstufe** und wird von Rugir wieder zu Bewusstsein gebracht.
+- Kämpft trotz Schwächung weiter und verwundet die freie Dybbuk-Gestalt schwer.
+- Nach dem Kampf fiebrig und kraftlos; Viri und Lyssa erwarten nach einer guten Nachtruhe Erholung von der nekrotischen Belastung.
+
 ## Verknüpfungen
 
 - [[Princeps Orpheon von Lutaxa]]
@@ -83,3 +90,5 @@ Aschefall wird in [[Session 11 - 03.06.2026]] eingeführt und ist der **künftig
 - [[Session 13 - 23.06.2026]]
 - [[Session 15 - 08.07.2026]]
 - [[Session 16 - 14.07.2026]]
+- [[Dybbuk-Nest]]
+- [[Session 17 - 29.07.2026]]

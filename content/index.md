@@ -2,7 +2,7 @@
 type: meta
 title: "Aeres-Wiki — Hauptübersicht"
 created: 2026-05-12
-updated: 2026-07-14
+updated: 2026-07-29
 tags:
   - meta/index
 ---
@@ -15,13 +15,13 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 ## Domänen
 
 - [[figuren/_index|Figuren-Übersicht]] — NSCs & SCs (26 Seiten)
-- [[orte/_index|Orte-Übersicht]] — Orte (20 Seiten)
+- [[orte/_index|Orte-Übersicht]] — Orte (21 Seiten)
 - [[fraktionen/_index|Fraktionen-Übersicht]] — Häuser, Kabalen, politische Körper (8 Seiten)
 - [[kreaturen/_index|Kreaturen-Übersicht]] — Bestiarium (1 Seite)
 - [[gottheiten/_index|Gottheiten-Übersicht]] — Götter (3 Seiten)
 - [[lore/_index|Lore-Übersicht]] — Welt-Hintergrund (5 Seiten)
 - [[fäden/_index|Fäden-Übersicht]] — offene Handlungsfäden & Hinweise (27 Seiten inkl. Rollups)
-- [[sessions/_index|Sessions-Übersicht]] — Session-Recaps (16 Seiten)
+- [[sessions/_index|Sessions-Übersicht]] — Session-Recaps (17 Seiten)
 
 ## Figuren
 
@@ -43,7 +43,7 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 
 ## Orte
 
-- [[Alauntor]] · [[Basilika des Morgengrauens]] · [[Bernsteinauge]] · [[Daskirion]] · [[Dreiankerkrone]] · [[Fink-Tempel (Narasimha)]] · [[Gähnender Schacht]] · [[Hospiz St. Haramador]] · [[Kalazar-Statue]] · [[Krokodil-Versteck]] · [[Leitwacht]] · [[Pont-Viertel]] · [[Salzhund]] · [[Talglichtgasse]] · [[Tigerauge]] · [[Tuchmacher-Tor]] · [[Tuchmacherviertel]] · [[Zarat]] · [[Zestus]] · [[Zum gesplitterten Zahn]]
+- [[Alauntor]] · [[Basilika des Morgengrauens]] · [[Bernsteinauge]] · [[Daskirion]] · [[Dreiankerkrone]] · [[Dybbuk-Nest]] · [[Fink-Tempel (Narasimha)]] · [[Gähnender Schacht]] · [[Hospiz St. Haramador]] · [[Kalazar-Statue]] · [[Krokodil-Versteck]] · [[Leitwacht]] · [[Pont-Viertel]] · [[Salzhund]] · [[Talglichtgasse]] · [[Tigerauge]] · [[Tuchmacher-Tor]] · [[Tuchmacherviertel]] · [[Zarat]] · [[Zestus]] · [[Zum gesplitterten Zahn]]
 
 ## Fraktionen
 
@@ -63,7 +63,7 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 
 ## Fäden — Heiß
 
-- [[Blutpakt des Tigerauge]] · [[Der Dybbuk]] · [[Hafensabotage]] · [[Ritual der 13 Stiche]] · [[Rugirs wahrer Name]] · [[Tabulei]] · [[Wo versteckt sich der Assassine]] · [[Zions Hunger]]
+- [[Blutpakt des Tigerauge]] · [[Hafensabotage]] · [[Ritual der 13 Stiche]] · [[Rugirs wahrer Name]] · [[Tabulei]] · [[Wo versteckt sich der Assassine]] · [[Zions Hunger]]
 
 ## Fäden — Hinweise & Offen
 
@@ -71,7 +71,7 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 
 ## Fäden — Abgeschlossen
 
-- [[Rache-Kreatur]]
+- [[Der Dybbuk]] · [[Rache-Kreatur]]
 
 ## Fäden — Rollups
 
@@ -79,10 +79,11 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 
 ## Sessions (neueste zuerst)
 
-- [[Session 16 - 14.07.2026]] · [[Session 15 - 08.07.2026]] · [[Session 14 - 01.07.2026]] · [[Session 13 - 23.06.2026]] · [[Session 12 - 17.06.2026]] · [[Session 11 - 03.06.2026]] · [[Session 10 - 06.05.2026]] · [[Session 9 - 15.04.2026]] · [[Session 8 - 18.03.2026]] · [[Session 7 - 08.03.2026]] · [[Session 6 - 04.03.2026]] · [[Session 5 – Papiere, Pässe und Päckchen]] · [[Session 4 – Rhusion, zweiter Tag]] · [[Session 3 – Die Nacht danach]] · [[Session 2 – Unmittelbar nach dem Mord]] · [[Session 1 – Die Hochzeit]]
+- [[Session 17 - 29.07.2026]] · [[Session 16 - 14.07.2026]] · [[Session 15 - 08.07.2026]] · [[Session 14 - 01.07.2026]] · [[Session 13 - 23.06.2026]] · [[Session 12 - 17.06.2026]] · [[Session 11 - 03.06.2026]] · [[Session 10 - 06.05.2026]] · [[Session 9 - 15.04.2026]] · [[Session 8 - 18.03.2026]] · [[Session 7 - 08.03.2026]] · [[Session 6 - 04.03.2026]] · [[Session 5 – Papiere, Pässe und Päckchen]] · [[Session 4 – Rhusion, zweiter Tag]] · [[Session 3 – Die Nacht danach]] · [[Session 2 – Unmittelbar nach dem Mord]] · [[Session 1 – Die Hochzeit]]
 
 ## Quellen
 
+- [[Transcript - Session 17 - 29.07.2026]] — Dialogzusammenfassung Session 17
 - [[Transcript - Session 16 - 14.07.2026]] — Dialogzusammenfassung Session 16
 - [[Transcript - Session 15 - 08.07.2026]] — Dialogzusammenfassung Session 15
 - [[Transcript - Session 14 - 01.07.2026]] — Dialogzusammenfassung Session 14
