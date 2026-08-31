@@ -1,8 +1,8 @@
-﻿---
+---
 type: meta
 title: "Fäden-Übersicht"
 created: 2026-05-12
-updated: 2026-07-14
+updated: 2026-08-26
 tags:
   - meta/index
   - domain/threads
@@ -13,12 +13,13 @@ Offene Rätsel, Handlungsfäden, Hinweise und ungeklärte Fragen. Jede Seite hat
 
 ## Heiße Fäden (Priorität)
 
-- [[Der Dybbuk]] *(eskaliert, Session 16)*
-- [[Wo versteckt sich der Assassine]] *(fortgeschritten, Session 16)*
+- [[Zions Hunger]] *(eskaliert, Session 18: Schatten bleibt außerhalb der Kuppel)*
+- Ritual in der Hütte im [[Dybbuk-Nest]] *(neu/offen, Session 18)*
+- Toter Erdgenasi / Kultistenzeichen *(fortgeschritten, Session 18)*
+- [[Wo versteckt sich der Assassine]] *(fortgeschritten, Session 16–18)*
 - [[Blutpakt des Tigerauge]]
 - [[Ritual der 13 Stiche]]
 - [[Hafensabotage]]
-- [[Zions Hunger]]
 - [[Tabulei]]
 
 ## Hinweise & Beweise
@@ -37,13 +38,14 @@ Offene Rätsel, Handlungsfäden, Hinweise und ungeklärte Fragen. Jede Seite hat
 - [[Die Boss hinter den Helfern]]
 - [[Die Lagerhäuser]]
 - [[Mechanischer Vogel]] *(Session 14)*
-- [[Sprechende Kristallkugel]] *(fortgeschritten, Session 16)*
-- [[Verfluchte Driftkugel]] *(neu, Session 16)*
+- [[Sprechende Kristallkugel]] *(fortgeschritten, Session 18)*
+- [[Verfluchte Driftkugel]] *(fortgeschritten, Session 18)*
 - [[Verfluchte Schuppenrüstung]] *(neu, Session 16)*
 - [[Rugirs wahrer Name]]
 
 ## Abgeschlossene Fäden
 
+- [[Der Dybbuk]] *(gelöst, Session 17; Nachfolgehinweise im Nest Session 18)*
 - [[Rache-Kreatur]] *(gelöst, Session 15)*
 
 ## Rollup-Seiten

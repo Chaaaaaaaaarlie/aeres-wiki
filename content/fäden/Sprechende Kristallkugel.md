@@ -1,4 +1,4 @@
-﻿---
+---
 type: faden
 title: "Sprechende Kristallkugel"
 created: 2026-07-08
@@ -61,3 +61,11 @@ Rugir versucht, das Gefäß selbst zu identifizieren: **Kein Fluch auf dem Behä
 - [[Der Dybbuk]]
 - [[Session 15 - 08.07.2026]]
 - [[Session 16 - 14.07.2026]]
+
+## Kuppeltest unfreiwillig bestanden (Session 18)
+
+Beim Rückweg nach [[Leitwacht]] zeigt Calderions Schutzkuppel eine starke Wirkung auf Ixtra: Innerhalb der Kuppel schreit sie vor Schmerz. Im Schmerz gibt sie erneut preis, dass sie in der Kugel gefangen ist. Außerhalb der Kuppel geht es ihr besser.
+
+Lyssa versteckt die Kugel deshalb außerhalb der Kuppel und gibt Ixtra die Aufgabe, darüber nachzudenken, ob es einen Weg gibt, wie die Gruppe ihr helfen kann.
+
+Neue Einordnung: Ixtra bzw. das Wesen in der Kugel reagiert klar auf die Kuppel, die Untote, Dämonen, Teufel, Fae und himmlische Wesen abwehrt. Das stützt den Fae-/Extraplanar-Verdacht, beweist aber noch nicht, was Ixtra tatsächlich ist.

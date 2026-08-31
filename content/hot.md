@@ -1,59 +1,55 @@
-﻿---
+---
 type: meta
 title: "Aktueller Kontext (Hot Cache)"
 created: 2026-05-12
-updated: 2026-07-29
+updated: 2026-08-26
 tags:
   - meta/hot
 ---
 # Aktueller Kontext
 
 ## Letztes Update
-2026-07-29 — [[Session 17 - 29.07.2026]] eingepflegt. Der Kultisten-Köder führte zum [[Dybbuk-Nest]]. Die Gruppe zerstörte mehrere Wirtskörper und schließlich die freie Dybbuk-Gestalt; zurück blieb regloses Ektoplasma. Ein schwächeres Kultistenmal belegt eine infernalische Untervertrags-Hierarchie. Hütte und Tümpel bleiben unerforscht.
+2026-08-26 — Session-18-Notizen eingepflegt. Nach dem Sieg über den [[Der Dybbuk|Dybbuk]] untersucht die Gruppe das [[Dybbuk-Nest]] weiter: Der Tümpel enthält offenbar etwas Giftiges, die Hütte birgt einen professionellen Beschwörungs-/Bannkreis und eine Wachstafel-Bitte des toten Erdgenasi. Auf dem Rückweg nach [[Leitwacht]] flieht eine entstellte pferdeartige Kreatur vor Licht. Innerhalb der Kuppel glimmt Viris Driftkugel nicht mehr, Ixtra leidet und Zions Schatten bleibt außerhalb zurück.
 
 ## Wichtige aktuelle Fakten
 
-- Aktuellste In-Fiction-Session: [[Session 17 - 29.07.2026]].
-- Die Gruppe befindet sich im [[Dybbuk-Nest]] im Dschungel von [[Zarat]], außerhalb von [[Leitwacht]].
+- Aktuellste In-Fiction-Session: [[Session 18 - 26.08.2026]] *(Einzeldatei noch nicht angelegt; Notizen sind in den betroffenen Seiten und im Log verteilt eingepflegt.)*
+- Die Gruppe schläft in [[Leitwacht]] im Haus eines verstorbenen Paars; Viri hält die erste Wache, danach Lyssa, Rugir und Aschefall.
+- **Dybbuk zerstört:** Der Dämon wurde in Session 17 vernichtet. Session 18 liefert Nachfolgehinweise im Nest, aber kein Zeichen, dass der Dybbuk selbst noch aktiv ist.
+- **Giftiger Tümpel im [[Dybbuk-Nest]]:** Viri bemerkt ein irritierendes Spiegelbild, bleibt unverletzt. Aschefall wird beim Griff nach etwas Funkelndem von Ranken gepackt. Lyssa erkennt: Aschefalls Wunde ist nicht weiter kontaminiert, aber im See lebt offenbar etwas Giftiges.
+- **Ritualhütte:** Professioneller Ritualkreis plus Salz-/Omega-Bannsymbol. Zweck wirkt wie: etwas im Inneren Beschworenes nach draußen treiben und am Zurückkehren hindern. Außenrunen sind dagegen stümperhafte Nachahmungen.
+- **Toter Erdgenasi:** Wachstafel-Bitte an den mächtigen Ritualwirkenden: nicht mehr krank sein und von der Insel herunter. Fingerabdrücke deuten auf den toten Erdgenasi vor der Hütte. Er trägt dasselbe vereinfachte Zeichen wie die drei getöteten Kultisten.
+- **Kultisten-Hierarchie:** Rugirs frühere Deutung bleibt wichtig: das Zeichen wirkt wie ein infernalischer Untervertrag / eine schwächere Nebenlinie derselben Macht.
+- **Nachtkreatur:** Auf dem Rückweg verschwinden normale Nachtgeräusche; rote Augen huschen vorbei. Lyssas Licht enthüllt eine entstellte, große pferdeartige Kreatur, die schmerzhaft vor Licht flieht.
+- **Ixtra / sprechende Kristallkugel:** Innerhalb von Calderions Kuppel schreit Ixtra vor Schmerz und gibt erneut preis, dass sie in der Kugel gefangen ist. Außerhalb geht es ihr besser; Lyssa versteckt sie draußen und bittet sie, über mögliche Hilfe nachzudenken.
+- **Zions Schatten:** Beim Durchtreten der Kuppel bleibt Zions Schatten außerhalb zurück. Er wirkt schmerzerfüllt, gereizt und nach erneutem Versuch erschöpfter. Calderion bemerkt später, dass mit ihm etwas nicht stimmt.
+- **Verfluchte Driftkugel:** Viris Driftkugel glimmt innerhalb der Kuppel nicht mehr.
+- **Die codierte Botschaft:** Bei einem Kultisten gefunden und entziffert: *„Füttert den Dybbuk, schwächt ihre Barrieren, und bereitet euch vor."* — direkter Beweis für einen organisierten Sabotage-Auftrag gegen Calderions Schutzzauber um Leitwacht. **Calderion weiß davon vermutlich noch nicht vollständig.**
 - **Drei-Tage-Frist:** Die Kapitänin der Zestus muss aus Vorratsmangel umkehren, wenn die Gruppe nicht rechtzeitig zurückkehrt — bislang kein bekannter Weg zurück (Beiboot zerstört).
-- **Dybbuk zerstört:** Der Köder führte zum Nest. Nach mehreren Körperwechseln (Loxodon, Kultist, Halbling) wurde die freie Gestalt mit Säure zerstört; Ektoplasma blieb reglos.
-- **Kultisten-Hierarchie:** Rugir deutet das abgeschwächte infernalische Brandmal als Untervertrag derselben Macht. Die Hütte trägt krude Nachahmer-Symbole.
-- **Die codierte Botschaft:** Bei einem Kultisten gefunden und entziffert: *„Füttert den Dybbuk, schwächt ihre Barrieren, und bereitet euch vor."* — direkter Beweis für einen organisierten Sabotage-Auftrag gegen Calderions Schutzzauber um Leitwacht. **Calderion weiß davon noch nichts.**
-- **Vermisste Lebende:** Ein Exilanten-Suchtrupp (lepra-krank, von einem Loxodon gegen Belohnung angeheuert) sucht nach einem aktuell lebend vermissten Halbling und Menschen — Eskalation gegenüber Calderions ursprünglichem Bericht über vergangene Grabschändungen. Die im Kultisten-Sack gefundene, ungewöhnlich weit verweste Lepra-Leiche könnte einer der Vermissten sein (unbestätigt).
-- **Zion** wurde durch Hold Person paralysiert und erlitt einen fast tödlichen automatischen kritischen Treffer (26 Schaden) — knapp durch rechtzeitige Heilung gerettet. (Zions Spieler fehlte diese Session; er wurde vom DM als Randfigur mitgeführt — keine neuen Hunger-Entwicklungen.)
-- **Sir Aschefall** wurde beinahe getötet, von Rugir stabilisiert und trägt nun zwei Erschöpfungsstufen. Nekrotische Belastung sollte sich nach einer guten Nachtruhe bessern.
-- **Viri** offenbarte, dass sie ihre aasimarische Herkunft nicht als Geschenk empfindet. Das reservierte Buch im Bernsteinauge soll Antworten über einen gefallenen Engel und ihre Blutlinie liefern.
-- **Vier magische Gegenstände identifiziert:**
-  - **Zauberstab** → Wand of Magic Missile, „irgendetwas stimmt nicht", aber unabsichtlich, nicht verflucht
-  - **Driftkugel** (Viris Fund, Session 15) → **verflucht** — Identify löst Horror-Visionen aus (siehe [[Verfluchte Driftkugel]])
-  - **[[Sprechende Kristallkugel]]** (Ixtra) → Gefäß selbst **nicht verflucht**, aber bestätigt als „Aufbewahrungsbehältnis"/Gefängnis; Elysias Mindlink beweist zweifelsfrei: **eine echte Kreatur ist darin gefangen**
-  - **Schuppenrüstung** (Aschefalls Fund) → **verflucht** — Klaustrophobie, erzwingt zwanghaftes nächtliches Tragen (siehe [[Verfluchte Schuppenrüstung]]); noch nicht angelegt
 - **Belagerung Rhusions** durch [[Kurkan Akrava|Hrem]]s Ork-Armee läuft weiterhin im Hintergrund — Zeitdruck bleibt akut.
 
 ## Aktive Fäden
 
-- **[[Der Dybbuk]]** — gelöst. Dämon in Session 17 zerstört; Kultisten-Verschwörung bleibt offen.
-- **[[Ritual der 13 Stiche]]** — fortgeschritten. Kultistenmal als infernalischer Untervertrag erkannt.
-- **[[Wo versteckt sich der Assassine]]** — fortgeschritten. Stärkster bisheriger Beweis für Verbindung zur Dybbuk-Verschwörung.
-- **[[Magische Mordwaffe]]** — fortgeschritten. Waffentyp nicht einzigartig, taucht bei Dybbuk-Kultisten erneut auf.
-- **[[Sprechende Kristallkugel]]** — fortgeschritten. Echte Kreatur bestätigt, Gefäß selbst ohne Fluch.
-- **Verfluchte Driftkugel** — neu, offen. Horror-Visionen, sonst kein bekannter Effekt.
-- **Verfluchte Schuppenrüstung** — neu, offen. Klaustrophobie-Fluch, noch nicht getragen.
-- Vermisster Halbling + Mensch — neu, offen. Exilanten-Suchtrupp, evtl. identisch mit Leiche im Sack.
-- **[[Dybbuk-Nest]]** — Hütte und Tümpel noch unerforscht; Opfer nicht identifiziert.
-- **[[Zions Hunger]]** — ruhend diese Session, weiterhin ungeklärt.
-- Sir Aschefalls wahrer Auftrag — ruhend diese Session.
-- **[[Chloro Verde]]** — ruhend diese Session.
-- **[[Mechanischer Vogel]]** — ruhend.
-- **[[Ritual der 13 Stiche]]** — ruhend bis nach Zarat.
-- [[Rugirs wahrer Name]], [[Blutpakt des Tigerauge]], [[Tabulei]], [[Hafensabotage]] — im Hintergrund.
+- **[[Der Dybbuk]]** — gelöst. Dämon in Session 17 zerstört; Hütte/Kultisten/Barriere-Sabotage bleiben offen.
+- **[[Dybbuk-Nest]]** — fortgeschritten. Hütte untersucht, Tümpel als giftige Gefahr erkannt.
+- **Ritual in der Hütte** — neu/offen. Professioneller Kreis, Salzbann, Wachstafel-Bitte, unbekannter Beschwörer.
+- **Toter Erdgenasi / Kultistenzeichen** — fortgeschritten. Vermutlich Bittsteller des Rituals; trägt dasselbe vereinfachte Zeichen wie die Kultisten.
+- **[[Zions Hunger]]** — eskaliert. Schatten bleibt an Calderions Kuppel außerhalb zurück.
+- **[[Sprechende Kristallkugel]]** — fortgeschritten. Ixtra leidet in der Kuppel, außerhalb besser; Gefängnis bestätigt.
+- **[[Verfluchte Driftkugel]]** — fortgeschritten. Glimmt in der Kuppel nicht mehr.
+- **Nachtkreatur im Dschungel** — neu/offen. Entstellte pferdeartige Kreatur, lichtscheu.
+- **[[Wo versteckt sich der Assassine]]** — fortgeschritten. Verbindung zur Dybbuk-/Kultistenverschwörung bleibt stärkster Hinweis.
+- **[[Magische Mordwaffe]]** — fortgeschritten. Waffentyp tauchte bei Dybbuk-Kultisten erneut auf.
+- Vermisster Halbling + Mensch — offen. Exilanten-Suchtrupp; Leichenidentitäten unbestätigt.
+- Rückweg zur [[Zestus]] — offen. Beiboot zerstört, Drei-Tage-Frist läuft weiter.
+- **[[Ritual der 13 Stiche]]**, Viris Herkunft, Sir Aschefalls wahrer Auftrag, [[Chloro Verde]], [[Mechanischer Vogel]], [[Rugirs wahrer Name]], [[Blutpakt des Tigerauge]], [[Tabulei]], [[Hafensabotage]] — im Hintergrund.
 
 ## Offen für die nächste Session
 
-- Hütte und Tümpel im [[Dybbuk-Nest]] untersuchen.
-- Herausfinden, wer den Kultisten den Auftrag gab, die Barriere zu schwächen — und Calderion warnen.
-- Klären, ob die Leiche im Sack einer der vermissten Lebenden (Halbling/Mensch) war.
-- Die gefangene Kreatur in der sprechenden Kristallkugel (Ixtra) weiter erforschen — evtl. befreien?
-- Entscheiden, ob/wann Aschefall die verfluchte Schuppenrüstung anlegt.
-- Einen Weg zurück zur Zestus finden (Beiboot zerstört, Drei-Tage-Frist läuft weiter).
+- Calderion über zerstörten Dybbuk, Kultistenzeichen, Ritualhütte, Wachstafel und giftigen Tümpel informieren.
+- Zions getrennten Schatten und die Kuppelreaktion untersuchen.
+- Ixtra nach möglichen Wegen aus ihrem Gefängnis befragen.
+- Identität und Motivation des Erdgenasi klären.
+- Entscheiden, ob der Tümpel weiter untersucht oder gemieden wird.
+- Einen Weg zurück zur Zestus finden.
 - Den gesuchten Assassinen/Mörder von Sokar Karioka über die verbliebene Kultisten-Spur aufspüren.

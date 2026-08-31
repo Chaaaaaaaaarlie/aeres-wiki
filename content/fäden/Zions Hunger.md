@@ -101,3 +101,11 @@ Zusätzlich: Während des Circle-Rituals gegen den Leviathan (auf dem Weg nach Z
 - [[Kalazar-Statue]] – Elysia will Zion fernhalten
 - [[Calderion]] – misstrauisch gegenüber Zions Reaktion auf seinen Schutzzauber
 - [[Zarat]]
+
+## Session 18 – Schatten bleibt außerhalb der Kuppel
+
+Beim Rückweg nach [[Leitwacht]] eskaliert Zions Reaktion auf Calderions Schutzkuppel deutlich: Zion kann die Kuppel nur unter Schmerzen und gereizt durchqueren. Sein Schatten bleibt außerhalb zurück.
+
+Die Gruppe schlägt vor, Zion solle wieder hinausgehen und mit dem Schatten erneut hineinkommen. Der Versuch hilft nicht; Zion wirkt danach nur noch erschöpfter. Calderion bemerkt später in der Kapelle, dass mit Zion etwas nicht stimmt, doch Zion zieht sich hinter Viri zurück, um keine Konfrontation zu beginnen.
+
+→ Wichtiger neuer Datenpunkt: Nicht nur Zions Körper/Magie reagiert auf die Kuppel, sondern sein Schatten wird physisch oder metaphysisch an der Grenze getrennt. Das passt zu früheren Schattenmanifestationen und verstärkt den Verdacht, dass Zions Hunger/Schatten in eine Kategorie fällt, die Calderions Schutzzauber abwehrt.

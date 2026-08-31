@@ -1,4 +1,4 @@
-﻿---
+---
 type: entity
 title: "Elysia"
 created: 2026-05-12
@@ -160,3 +160,12 @@ In [[Session 10 - 06.05.2026]] ruft Elysia ihren inneren Freund unter dem Namen 
 - [[Session 16 - 14.07.2026]]
 - [[Dybbuk-Nest]]
 - [[Session 17 - 29.07.2026]]
+
+## Session 18
+
+- Untersucht Sir Aschefall nach dem Rankengriff am Tümpel: Seine Wunde ist nicht weiter kontaminiert, aber im See scheint etwas Giftiges zu leben.
+- Betritt als Einzige die Hütte im [[Dybbuk-Nest]] und findet eine Wachstafel mit der Bitte an die mächtige Person hinter dem Ritual: Der Schreiber will nicht mehr krank sein und von der Insel herunter.
+- Erkennt gemeinsam mit Viri über Fingerabdrücke, dass die Tafel vermutlich vom toten Erdgenasi stammt.
+- Vertreibt auf dem Rückweg mit einer kleinen Lichtflamme eine entstellte pferdeartige Kreatur, die schmerzhaft vor dem Licht flieht.
+- Versteckt Ixtra außerhalb der Kuppel, nachdem Ixtra innerhalb der Kuppel schreit und preisgibt, in der Kugel gefangen zu sein.
+- Prüft das leerstehende Haus und den Haferbrei in Leitwacht auf Krankheiten/Kontamination; beides ist unbedenklich.

@@ -1,4 +1,4 @@
-﻿---
+---
 type: entity
 title: "Rugir"
 created: 2026-05-12
@@ -155,3 +155,9 @@ Kein direkter Treffer auf die **7 Kerzen** oder die **13 Stiche**. Spezialist f�
 - [[Session 16 - 14.07.2026]]
 - [[Dybbuk-Nest]]
 - [[Session 17 - 29.07.2026]]
+
+## Session 18
+
+- In den vorliegenden Notizen keine zentrale neue Aktion.
+- Ist nach Viri und Lyssa für eine spätere Wache im Haus von Leitwacht vorgesehen.
+- Relevante offene Forschungsanschlüsse aus dieser Session: professioneller Ritualkreis in der Hütte, Salzbann, vereinfachtes Kultistenzeichen am Erdgenasi und die Reaktion magischer Gegenstände innerhalb von Calderions Kuppel.

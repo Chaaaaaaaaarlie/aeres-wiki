@@ -1,4 +1,4 @@
-﻿---
+---
 type: faden
 title: "Der Dybbuk"
 created: 2026-07-08
@@ -83,3 +83,15 @@ Calderion verspricht: Wer den Dybbuk findet, findet auch die Spur zum eigentlich
 - [[Codierpergament]]
 - [[Session 15 - 08.07.2026]]
 - [[Session 16 - 14.07.2026]]
+
+## Nach dem Tod des Dybbuk: Hütte und Erdgenasi (Session 18)
+
+Die Untersuchung des [[Dybbuk-Nest]]s nach dem Kampf liefert neue Hinweise, aber keinen Hinweis darauf, dass der Dybbuk selbst noch aktiv ist.
+
+- In der Hütte liegt ein professioneller Ritualkreis mit Salz-Bannsymbol: Etwas im Inneren Beschworenes sollte offenbar durch die Tür nach draußen getrieben und am Zurückkehren gehindert werden.
+- Die äußeren Runen an Tür und Wand wirken dagegen stümperhaft, eher wie Nachahmungen.
+- Eine Wachstafel enthält eine Bitte an die mächtige Person, die das Ritual ausführte: Der Schreiber will nicht mehr krank sein und von der Insel herunter.
+- Fingerabdrücke deuten darauf hin, dass die Tafel vom toten Erdgenasi vor der Hütte stammt.
+- Dieser Erdgenasi trägt dasselbe vereinfachte Zeichen wie die zuvor getöteten Kultisten.
+
+Damit verschiebt sich der offene Kern vom Dybbuk selbst zur Frage, wer den Beschwörer/Vertragspartner hinter Hütte, Kultisten und Barriere-Sabotage kontrolliert.

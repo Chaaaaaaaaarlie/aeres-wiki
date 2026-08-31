@@ -2,7 +2,7 @@
 type: meta
 title: "Sessions-Übersicht"
 created: 2026-05-12
-updated: 2026-07-29
+updated: 2026-08-26
 tags:
   - meta/index
   - domain/sessions
@@ -11,6 +11,7 @@ tags:
 
 Chronologische Session-Recaps. Neueste oben.
 
+- [[Session 18 - 26.08.2026]] *(Notizen in `hot.md`, `log.md` und betroffenen Faden-/Ortsseiten eingepflegt; Einzeldatei wegen fehlender Create-Operation im MCP noch nicht angelegt)*
 - [[Session 17 - 29.07.2026]]
 - [[Session 16 - 14.07.2026]]
 - [[Session 15 - 08.07.2026]]

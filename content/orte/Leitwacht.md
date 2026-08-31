@@ -1,4 +1,4 @@
-﻿---
+---
 type: entity
 title: "Leitwacht"
 created: 2026-06-17
@@ -72,3 +72,13 @@ Ein entzifferter Zettel bei den im Dschungel bekämpften Dybbuk-Kultisten trägt
 - [[Session 12 - 17.06.2026]]
 - [[Session 15 - 08.07.2026]]
 - [[Session 16 - 14.07.2026]]
+
+## Rückkehr nach der Hütte (Session 18)
+
+Nach der Untersuchung des [[Dybbuk-Nest]]s kehrt die Gruppe bei Dunkelheit nach Leitwacht zurück. Beim Durchqueren der Kuppel zeigen sich neue Effekte:
+
+- Viris verfluchte Driftkugel glimmt innerhalb der Kuppel nicht mehr.
+- [[Sprechende Kristallkugel|Ixtra]] schreit im Inneren der Kuppel vor Schmerz; außerhalb geht es ihr besser.
+- [[Zion]] kann die Kuppel nur schmerzhaft durchqueren. Sein Schatten bleibt außerhalb zurück; ein erneuter Versuch erschöpft ihn weiter.
+
+Die Gruppe bittet [[Calderion]] in der Kapelle um eine Schlafmöglichkeit. Calderion bemerkt, dass mit Zion etwas nicht stimmt, doch Zion zieht sich hinter Viri zurück. Die Gruppe erhält das Haus eines verstorbenen Paars; Lyssa prüft Haus und Haferbrei auf Krankheit/Kontamination und findet keine Gefahr.

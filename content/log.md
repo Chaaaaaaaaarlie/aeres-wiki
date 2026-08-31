@@ -1,8 +1,8 @@
-﻿---
+---
 type: meta
 title: "Vorgangs-Protokoll"
 created: 2026-05-12
-updated: 2026-07-29
+updated: 2026-08-26
 tags:
   - meta/log
 ---
@@ -19,6 +19,16 @@ Format:
 - Aktualisierte Seiten: [[…]]
 - Kernerkenntnis: ein Satz
 ```
+
+---
+
+## [2026-08-26] notizen | Session 18 – Hütte, giftiger See und Kuppelreaktionen
+
+- Quelle: vom Nutzer gelieferte Spielnotizen vom 26.08.2026
+- Zusammenfassung: Session-18-Notizen in `hot.md`, [[Dybbuk-Nest]], [[Leitwacht]], [[Zarat]], [[Der Dybbuk]], [[Sprechende Kristallkugel]], [[Zions Hunger]], [[Verfluchte Driftkugel]] und Figuren-Seiten eingepflegt. Eine eigene neue Session-Datei konnte das aktuelle Obsidian-MCP nicht anlegen (`NOTE_NOT_FOUND` bei neuem Pfad); der Index verweist die Session als Nachtrag.
+- Erstellte Seiten: keine
+- Aktualisierte Seiten: [[Dybbuk-Nest]], [[Leitwacht]], [[Zarat]], [[Der Dybbuk]], [[Sprechende Kristallkugel]], [[Zions Hunger]], [[Verfluchte Driftkugel]], [[Viri]], [[Zion]], [[Elysia]], [[Sir Aschefall]], [[Rugir]], `hot.md`, `Willkommen.md`, `sessions/_index.md`, `log.md`
+- Kernerkenntnis: Nach dem Dybbuk-Sieg findet die Gruppe in der Hütte einen professionellen Beschwörungs-/Bannkreis und eine Bitte des toten Erdgenasi; der Tümpel enthält etwas Giftiges; Ixtra leidet in Calderions Kuppel, und Zions Schatten bleibt beim Durchgang außerhalb zurück.
 
 ---
 

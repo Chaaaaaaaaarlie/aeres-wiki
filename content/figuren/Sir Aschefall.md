@@ -1,4 +1,4 @@
-﻿---
+---
 type: entity
 title: "Sir Aschefall"
 created: 2026-06-04
@@ -92,3 +92,9 @@ Aschefall wird in [[Session 11 - 03.06.2026]] eingeführt und ist der **künftig
 - [[Session 16 - 14.07.2026]]
 - [[Dybbuk-Nest]]
 - [[Session 17 - 29.07.2026]]
+
+## Session 18
+
+- Greift am Tümpel des [[Dybbuk-Nest]]s nach etwas Funkelndem im Wasser; Ranken schlingen sich um seinen Arm und versuchen, ihn hineinzuziehen.
+- Kann sich selbst befreien. Zunächst steht die Vermutung im Raum, seine frühere Gift-/Nekrosebelastung lasse ihn halluzinieren, doch Lyssa findet später: Seine Wunde ist nicht weiter kontaminiert, im See lebt aber offenbar tatsächlich etwas Giftiges.
+- Ist nach Viri, Lyssa und Rugir für eine spätere Wache im Haus von Leitwacht vorgesehen.

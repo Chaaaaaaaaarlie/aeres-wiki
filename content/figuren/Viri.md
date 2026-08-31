@@ -1,4 +1,4 @@
-﻿---
+---
 type: entity
 title: "Viri"
 created: 2026-05-12
@@ -142,3 +142,11 @@ Viri ist nicht als Gast zur Hochzeit gekommen, sondern weil sie Sokars Männer h
 - [[Session 15 - 08.07.2026]]
 - [[Session 16 - 14.07.2026]]
 - [[Session 17 - 29.07.2026]]
+
+## Session 18
+
+- Wäscht sich am Tümpel des [[Dybbuk-Nest]]s die Hände und bemerkt kurz, dass mit ihrem Spiegelbild etwas nicht stimmt; anders als bei Aschefall greift sie dort nichts an.
+- Untersucht mit Zion die Hütte zunächst nur von außen und am Eingang; die äußeren Zeichen wirken stümperhaft.
+- Erkennt später mit Lyssa am Fingerabdruck, dass die Wachstafel vermutlich vom toten Erdgenasi vor der Hütte stammt.
+- Innerhalb von Leitwachts Kuppel glimmt ihre verfluchte Driftkugel nicht mehr.
+- Übernimmt im Haus des verstorbenen Paars die erste Wache.

@@ -1,4 +1,4 @@
-﻿---
+---
 type: entity
 title: "Zarat"
 created: 2026-06-04
@@ -88,3 +88,11 @@ Der als Köder freigelassene Kultist führt die Gruppe zu einer Dschungellichtun
 - [[Session 16 - 14.07.2026]]
 - [[Dybbuk-Nest]]
 - [[Session 17 - 29.07.2026]]
+
+## Nach dem Dybbuk: Hütte und Rückkehr (Session 18)
+
+Die Gruppe untersucht das [[Dybbuk-Nest]] nach dem Kampf weiter. Der Tümpel erweist sich als gefährlich: Viri bemerkt beim Händewaschen nur ein irritierendes Spiegelbild, Sir Aschefall wird jedoch von Ranken gepackt, als er nach etwas Funkelndem im Wasser greift. Lyssa erkennt später, dass Aschefalls Wunde nicht weiter kontaminiert ist, aber im See offenbar etwas Giftiges lebt.
+
+In der Hütte findet die Gruppe einen professionellen Beschwörungs-/Bannkreis und ein aus Salz gestreutes Omega-ähnliches Symbol. Es scheint so angelegt, dass etwas im Inneren Beschworenes nach draußen getrieben und am Zurückkehren gehindert wird. Eine Wachstafel enthält vermutlich die Bitte des toten Erdgenasi: Er will nicht mehr krank sein und von der Insel herunter. Der Erdgenasi trägt dasselbe vereinfachte Zeichen wie die zuvor getöteten Kultisten.
+
+Auf dem Rückweg nach [[Leitwacht]] begegnet die Gruppe einer entstellten, großen pferdeartigen Kreatur, die vor Lyssas Licht schmerzhaft zurückweicht und flieht.

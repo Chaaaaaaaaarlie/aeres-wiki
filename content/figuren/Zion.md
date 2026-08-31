@@ -1,4 +1,4 @@
-﻿---
+---
 type: entity
 title: "Zion"
 created: 2026-05-12
@@ -157,3 +157,11 @@ In [[Session 9 - 15.04.2026]]: Als [[Chloro Verde]]s Schatten länger wird, **ve
 - [[Dybbuk-Nest]]
 - [[Session 17 - 29.07.2026]]
 
+
+## Session 18
+
+- Untersucht mit Viri die Hütte im [[Dybbuk-Nest]], geht zunächst aber nicht hinein.
+- Zeichnet den professionellen Ritualkreis am Eingang ab, lässt absichtlich eine Lücke offen, um den Kreis nicht magisch zu schließen.
+- Untersucht mit Viri den toten Erdgenasi und findet an ihm dasselbe vereinfachte Zeichen wie bei den drei zuvor getöteten Kultisten.
+- Beim Durchqueren von Calderions Schutzkuppel bleibt sein Schatten außerhalb zurück. Zion wirkt schmerzerfüllt, gereizt und nach einem erneuten Versuch erschöpfter.
+- In der Kapelle bemerkt [[Calderion]], dass mit Zion etwas nicht stimmt; Zion zieht sich hinter Viri zurück, um keinen Streit anzufangen.
