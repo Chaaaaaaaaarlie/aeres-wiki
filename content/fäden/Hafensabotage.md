@@ -15,7 +15,7 @@ Aus Zeitungslektüre ([[Session 4 – Rhusion, zweiter Tag]]):
 
 - **Immer dieselben Lagerhäuser** nachts aktiv
 - Nächtige Umladungen
-- Handelsrouten gestört (Schiffe: *Andronikos*, *Zestus*, *Amaunators Segen*)
+- Handelsrouten gestört (Schiffe: *Andronikos*, *Cestus*, *Amaunators Segen*)
 - Freie Stimme: *„Wer kontrolliert diese Orte?"*
 - Zion am Hafen: Hafenarbeiter sprachen von „lukrativerer Arbeit" – niemand sagt offen, wer sie vergibt
 
@@ -23,7 +23,7 @@ Aus [[Session 6 - 04.03.2026]]:
 
 - Dock-Abläufe wirken ritualisiert: Gesten, Blicke, Verzögerungen, Codephrasen
 - Gespräche brechen bei bestimmten Fragen abrupt ab
-- Wiederkehrende Knoten: [[Zestus]], [[Bernsteinauge]], [[Chloro Verde]]
+- Wiederkehrende Knoten: [[Cestus]], [[Bernsteinauge]], [[Chloro Verde]]
 - Indirekte Hinweise auf verschleierte Aufträge, hohe Summen und hohe Risiken
 
 ## Mögliche Verbindung zum Mord
@@ -36,7 +36,7 @@ Aus [[Session 6 - 04.03.2026]]:
 
 - [ ] Wer kontrolliert die Lagerhäuser?
 - [ ] Was wird umgelagert?
-- [ ] Welche Rolle spielt die [[Zestus]] wirklich?
+- [ ] Welche Rolle spielt die [[Cestus]] wirklich?
 - [ ] Wer oder was ist [[Chloro Verde]] im Machtgefüge?
 - [ ] Welche Funktion hat das [[Bernsteinauge]] in der Kette?
 - [ ] Direkte Verbindung zum [[Rakshasa-Assassine|Assassinen]]?
@@ -46,6 +46,6 @@ Aus [[Session 6 - 04.03.2026]]:
 - [[Unbekannte Frau]]
 - [[Gähnender Schacht]]
 - [[Tigerauge]]
-- [[Zestus]]
+- [[Cestus]]
 - [[Bernsteinauge]]
 - [[Chloro Verde]]

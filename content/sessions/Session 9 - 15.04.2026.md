@@ -5,7 +5,7 @@ created: 2026-05-12
 updated: 2026-05-12
 tags: [session, session-9]
 datum: 2026-04-15
-ort: Rhusion – Salzhund, Bernsteinauge, Tigerauge, Hospiz St. Haramador, Pont-Viertel, Haus Kassar, Zestus, Kanalisation
+ort: Rhusion – Salzhund, Bernsteinauge, Tigerauge, Hospiz St. Haramador, Pont-Viertel, Haus Kassar, Cestus, Kanalisation
 ---
 
 # Session 9 – 15.04.2026
@@ -106,7 +106,7 @@ Jai zum Abschluss: *„Eine Vereinbarung ist eine Vereinbarung."*
 ### Szene 6 – Planung: Übergabe erst heute Abend
 **Ort:** Straße
 
-Elysia schlägt vor, die Übergabe auf den Abend zu verschieben – glaubwürdiger, da man ein solches Objekt nicht am helllichten Tag transportiert. Rugir schreibt eine Notiz, bindet sie an seine Eule und schickt sie zum **Tortel** auf der [[Zestus]]: Treffen heute Abend geplant.
+Elysia schlägt vor, die Übergabe auf den Abend zu verschieben – glaubwürdiger, da man ein solches Objekt nicht am helllichten Tag transportiert. Rugir schreibt eine Notiz, bindet sie an seine Eule und schickt sie zum **Tortel** auf der [[Cestus]]: Treffen heute Abend geplant.
 
 ---
 
@@ -174,8 +174,8 @@ Rugir besucht das **Amphitheater des Polemos** (Kriegsgott). Fünf Statuen von f
 
 ---
 
-### Szene 11 – Kurzer Zwischenstopp: Zestus
-**Ort:** [[Zestus]] (Hafen)
+### Szene 11 – Kurzer Zwischenstopp: Cestus
+**Ort:** [[Cestus]] (Hafen)
 
 Der **Tortel** empfängt die Gruppe freudig – die Eule hat die Nachricht überbracht. Rugir lässt den Beutel kurz über die Öffnung halten; Hjolda verhindert, dass der Tortel direkt zugreift: *„Wir schauen mit den Augen, nicht mit den Händen."* Tortel erkennt das Imitat und ist zufrieden.
 
@@ -242,7 +242,7 @@ Session-Ende. Cliffhanger.
 - **Elmar Kassar**: Schreiberling im Pont-Viertel, hat Sperkulose. Weiß: Tyrannenmutter und Obsidian-Drachen im Kataklysmus.
 - **Elysia trägt einen Freund in sich**: Geistbegleiter oder geteilte Existenz, Natur noch unbekannt.
 - **Chloro Verde** ist eine Informationshändlerin mit eigenem unterirdischen Territorium, bewachtem Kanalisationsnetz, eigenem Schatten-Phänomen und Zugang zu Informationen über Assassin und Unbekannte Frau.
-- **Capitanin der Zestus** ist eine Erdgenasi – bisher noch unbekannte Spielerin.
+- **Capitanin der Cestus** ist eine Erdgenasi – bisher noch unbekannte Spielerin.
 - **Amphitheater des Polemos**: Gladiatorenkämpfe stehen bevor.
 - Elysia hat das **Wheel of Fortune (verkehrt)** gezogen kurz vor dem Cliffhanger.
 
@@ -262,7 +262,7 @@ Session-Ende. Cliffhanger.
 - [[Blutpakt des Tigerauge]]
 - [[Hospiz St. Haramador]]
 - [[Schwester Elva]]
-- [[Zestus]]
+- [[Cestus]]
 - [[Wo versteckt sich der Assassine]]
 - [[Infernale Bibliotheks-Forschung]]
 - [[Kalazar-Statue]]

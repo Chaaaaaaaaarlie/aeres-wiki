@@ -37,7 +37,7 @@ Schauplätze und Begegnungsorte in Rhusion und darüber hinaus. Für die Stadt s
 
 - [[Tigerauge]]
 - [[Bernsteinauge]]
-- [[Zestus]]
+- [[Cestus]]
 - [[Daskirion]]
 
 ## Außerhalb Rhusions

@@ -1,15 +1,15 @@
 ---
 type: entity
-title: "Kapitänin der Zestus"
+title: "Kapitänin der Cestus"
 created: 2026-06-04
 updated: 2026-06-04
 tags: [nsc, hafen, schiff]
 status: aktiv – Name unbekannt
 ---
 
-# Kapitänin der Zestus
+# Kapitänin der Cestus
 
-Kommandantin der **[[Zestus]]**. Voller Name noch unbekannt. Erstmals getroffen in [[Session 11 - 03.06.2026]].
+Kommandantin der **[[Cestus]]**. Voller Name noch unbekannt. Erstmals getroffen in [[Session 11 - 03.06.2026]].
 
 ## Erscheinung & Auftreten
 
@@ -34,7 +34,7 @@ Kommandantin der **[[Zestus]]**. Voller Name noch unbekannt. Erstmals getroffen 
 
 ## Verknüpfungen
 
-- [[Zestus]]
+- [[Cestus]]
 - [[Doruk Val]]
 - [[Princeps Orpheon von Lutaxa]]
 - [[Sir Aschefall]]

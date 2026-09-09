@@ -3,7 +3,7 @@ type: session
 title: "Session 14 - 01.07.2026"
 created: 2026-07-01
 updated: 2026-07-01
-tags: [session, aeres, zestus, seefahrt, koalinths, cliffhanger]
+tags: [session, aeres, cestus, seefahrt, koalinths, cliffhanger]
 status: complete
 ---
 
@@ -15,13 +15,13 @@ status: complete
 
 ## Kurzfassung
 
-Direkt nach der Piratenabwehr (Session 13): Die Gruppe repariert die Zestus in einer mehrstündigen Teamarbeit. Viri gesteht Zion, dass sie seinen Schwert-Dämon heimlich gebunden hat — eine brisante Enthüllung, die in einem Totpakt endet. Am nächsten Tag entdecken sie ein von einer unbekannten Kreatur verwüstetes Handelsschiff, bergen Materialien und einen rätselhaften **mechanischen Vogel** aus Valarhir. Die Nacht bringt einen Koalint-Angriff, bei dem der Koch **Smoothiago** stirbt. Nach einem Trauertag endet die Session mit einem Cliffhanger: ein toter Wal trägt eine Kreatur aus Leichenwasser an Bord — in ihren Augen leuchtet Rache.
+Direkt nach der Piratenabwehr (Session 13): Die Gruppe repariert die Cestus in einer mehrstündigen Teamarbeit. Viri gesteht Zion, dass sie seinen Schwert-Dämon heimlich gebunden hat — eine brisante Enthüllung, die in einem Totpakt endet. Am nächsten Tag entdecken sie ein von einer unbekannten Kreatur verwüstetes Handelsschiff, bergen Materialien und einen rätselhaften **mechanischen Vogel** aus Valarhir. Die Nacht bringt einen Koalint-Angriff, bei dem der Koch **Smoothiago** stirbt. Nach einem Trauertag endet die Session mit einem Cliffhanger: ein toter Wal trägt eine Kreatur aus Leichenwasser an Bord — in ihren Augen leuchtet Rache.
 
 ---
 
 ## Ausführlich
 
-### 1. Reparatur der Zestus
+### 1. Reparatur der Cestus
 
 Unmittelbar nach der Piratenabwehr beginnt eine 5–6-stündige Reparaturphase.
 
@@ -97,7 +97,7 @@ Long Rest — aber auf rauer See: **−2 auf alle Ability Checks** wegen des Wel
 
 ### 7. Koalint-Angriff in der Nacht
 
-Im Sturm entern **5 Koalinths** die Zestus — grünhäutige Meereswesen mit Dreizacken und Haken-Netzen.
+Im Sturm entern **5 Koalinths** die Cestus — grünhäutige Meereswesen mit Dreizacken und Haken-Netzen.
 
 **Verlauf:**
 
@@ -137,7 +137,7 @@ Rum wird ins Meer gegossen. Viri hält abermals letzte Riten.
 
 ### 9. Cliffhanger: Das Wesen aus dem Wal
 
-Ein toter Wal treibt auf die Zestus zu. In seiner Flanke klafft ein riesiger Biss — jemand oder etwas hat ihn getötet. Im Inneren ist: ein **verkohlt-skelettiertes Wesen in edler Kleidung**, das eine **Schatulle** in den Händen hält.
+Ein toter Wal treibt auf die Cestus zu. In seiner Flanke klafft ein riesiger Biss — jemand oder etwas hat ihn getötet. Im Inneren ist: ein **verkohlt-skelettiertes Wesen in edler Kleidung**, das eine **Schatulle** in den Händen hält.
 
 Eine Harpune wird abgeschossen. Der Wal wird herangezogen.
 
@@ -153,7 +153,7 @@ In ihren Augen: **Rache**.
 
 ## Neue Figuren
 
-- **Smoothiago / Iago** *(gestorben)* — Schiffskoch der Zestus. Kannte manche Besatzungsmitglieder seit Kindheit, nahm Anweisungen wörtlich. Getötet von Koalinths in der Nacht.
+- **Smoothiago / Iago** *(gestorben)* — Schiffskoch der Cestus. Kannte manche Besatzungsmitglieder seit Kindheit, nahm Anweisungen wörtlich. Getötet von Koalinths in der Nacht.
 - **Eduard** — Tortle-Crewmitglied mit Holzbein (von seiner Frau geschnitzt). Schwer verletzt, von Viri geheilt. Spricht sehr langsam, erzählt von Drachen-Getränken.
 - **Rache-Kreatur** *(unbekannt)* — Wesen aus Leichenwasser und Wal-Sekreten, klettert in Session-Cliffhanger aufs Schiff. Augen leuchten vor Rache. Herkunft und Auftrag unbekannt.
 - **Skelettiertes Wesen im Wal** — verkohlt, in edler Kleidung, hält eine Schatulle. Wer es ist und was die Schatulle enthält: offen.
@@ -185,7 +185,7 @@ In ihren Augen: **Rache**.
 
 ## Verknüpfungen
 
-- [[Zestus]] · [[Zarat]] · [[Kapitänin der Zestus]]
+- [[Cestus]] · [[Zarat]] · [[Kapitänin der Cestus]]
 - [[Zion]] · [[Viri]] · [[Elysia]] · [[Rugir]] · [[Sir Aschefall]]
 - [[Mechanischer Vogel]] · [[Rache-Kreatur]]
 - Transkript: [[Transcript - Session 14 - 01.07.2026]]

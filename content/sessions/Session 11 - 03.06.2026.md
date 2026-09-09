@@ -5,7 +5,7 @@ created: 2026-06-04
 updated: 2026-06-04
 tags: [session, session-11]
 datum: 2026-06-03
-ort: Rhusion – Krokodil-Versteck (Talglichtgasse), Hafen/Zestus, Bernsteinauge, Anwesen Haus Cortiso, Valeria-Zitadelle; Seeweg Richtung Zarat
+ort: Rhusion – Krokodil-Versteck (Talglichtgasse), Hafen/Cestus, Bernsteinauge, Anwesen Haus Cortiso, Valeria-Zitadelle; Seeweg Richtung Zarat
 ---
 
 # Session 11 – 03.06.2026
@@ -18,7 +18,7 @@ Die Kahle ist mit hoher Wahrscheinlichkeit die [[Unbekannte Frau]] – und damit
 
 Über den Tortel **[[Doruk Val]]** erfahren sie den Inselnamen: **[[Zarat]]**, im Nordosten gelegen (Region „Despotat Bukewa", 37+ Inseln). Zwischenstopps: [[Bernsteinauge]] (Viri reserviert ein Buch, ein Monat Frist; der Händler erfährt, dass [[Chloro Verde]] die Beholder-Attrappe durchschaut hat), das **Anwesen [[Haus Cortiso]]** (zweiter Anschlag auf [[Aspasia Cortiso]] durch belebte **Gargoyles**, abgewehrt von einem Boten – **Hjolda bleibt als Leibwache zurück**) und die **Valeria-Zitadelle** des [[Princeps Orpheon von Lutaxa]] (Erpresser-Brief für die Überfahrt, 300 Gold, neuer Begleiter **[[Sir Aschefall]]**).
 
-An Bord der **[[Zestus]]** lernen sie die **Kapitänin** kennen. Beim Auslaufen erkennt [[Viri]] am Horizont die **Kriegsbanner der Ork-Armeen** – der Vater (**[[Kurkan Akrava|der Hrem]]**) ist eingetroffen. **Belagerung Rhusions** steht bevor. Die Gruppe segelt nach Zarat. **Level-Up.**
+An Bord der **[[Cestus]]** lernen sie die **Kapitänin** kennen. Beim Auslaufen erkennt [[Viri]] am Horizont die **Kriegsbanner der Ork-Armeen** – der Vater (**[[Kurkan Akrava|der Hrem]]**) ist eingetroffen. **Belagerung Rhusions** steht bevor. Die Gruppe segelt nach Zarat. **Level-Up.**
 
 > *Spieler anwesend:* Rugir, Viri, Elysia (als „Lyssa"), Zion (geführt von Neuzugang **Marcus**, der sich noch mit dem VTT einarbeitet). Hjolda wurde als NPC vom DM mitgeführt und verlässt am Ende die Gruppe.
 
@@ -95,7 +95,7 @@ Schlussfolgerung: Der Brief stammt vermutlich vom gesuchten **Rakshasa** („die
 Harkas drängt zur Eile (keinen Tag verlieren). Die Gruppe nimmt den **bewusstlosen Gefangenen** (Berserker aus S10) zur „peinlichen Befragung" mit in die Zitadelle. Harkas erklärt, er werde **nicht mitkommen** – es sei ihr Auftrag, den Mörder seines Bruders zu finden; er habe nur sichergehen wollen, dass dieses „Hornissennest" ausgemerzt wird. *„Beeilt euch. Mein Vater ist schließlich immer noch unterwegs."*
 
 ### Szene 7 – Doruk Val: der Name der Insel
-**Ort:** Hafen, an Bord der [[Zestus]]
+**Ort:** Hafen, an Bord der [[Cestus]]
 
 Der Tortel ist „aus der Puste". Auf die Frage nach dem Inselziel der „schwarzen Katze" zickt er zunächst (*„Wie ihr auf die Idee kommt, die Hexe zu bescheißen"*). Viri besteht **Persuasion DC 13 (Nat 20)**. Er nennt das Ziel: **[[Zarat]]**, eine von **37+ Inseln** im **Nordosten** (Region „Despotat Bukewa"). Die Karte hat die Kapitänin. Eine Überfahrt sei möglich; die **Flut** läuft in **~6 Stunden** zum Höchststand – bis dahin sollen sie sich heilen und vorbereiten.
 
@@ -124,8 +124,8 @@ Eintritt per **Passwort** (für den Notfall vorgesehen). Der gefangene **Berserk
 
 Elysia liest ihm aus Neugier die **Tarot-Karten** (Kelch-Motiv), neckt ihn; Aschefall **schnaubt Rauch** aus der Nase. Andeutung: Aschefall und Zion seien „sich gar nicht unähnlich" (beide tragen „gewisse Zustände").
 
-### Szene 11 – Die Kapitänin der Zestus
-**Ort:** Kapitänskajüte, [[Zestus]]
+### Szene 11 – Die Kapitänin der Cestus
+**Ort:** Kapitänskajüte, [[Cestus]]
 
 Nach Halt am [[Salzhund]] (Ausrüstung holen) gehen sie an Bord; [[Doruk Val]] empfängt sie. Die **Kapitänin**: Frau im dunklen Mantel mit **zwei Säbeln**, opulente Kajüte (Samt, Brokat, Schädel, Rumflaschen, rote Bleiglasfenster). Kleidung bewusst funktional, ohne Rangabzeichen. Sie liest den Princeps-Brief, erkennt die **Erpressung** (das Blut weicht ihr aus dem Gesicht). Rugir bietet dennoch die **300 Gold** für Hin- und Rückweg. Regeln: kein Unfrieden an Bord, *„Das hier ist kein Nettigkeitsbesuch."* Sie legen ohne Warten auf den Flut-Höchststand ab.
 
@@ -149,7 +149,7 @@ Beim Auslaufen (blutroter Himmel) erkennt [[Viri]] (Perception 19) an den Klippe
 - **Hjolda verlässt die Gruppe** und wird Aspasias **Leibwache** (zweiter Anschlag durch Gargoyles).
 - **Zweiter Anschlag auf [[Aspasia Cortiso]]:** belebte **Gargoyles**; angeschmolzener Stein, **Schießpulver-/Chemie-Geruch** (nicht Schwefel) → andere magische Handschrift als das Kultisten-Mal.
 - **Neuer Begleiter [[Sir Aschefall]]:** rotgeschuppter Drachengeborener, schwere rote Rüstung, schnaubt Rauch; war Aspasias Retter; vom Princeps mitgeschickt. Parallele zu Zion angedeutet.
-- **Erpresser-Brief des Princeps** zwingt die **Kapitänin der [[Zestus]]** zur Überfahrt nach Zarat.
+- **Erpresser-Brief des Princeps** zwingt die **Kapitänin der [[Cestus]]** zur Überfahrt nach Zarat.
 - **Cliffhanger:** Die Ork-Armee des **[[Kurkan Akrava|Hrem]]** ist eingetroffen → **Belagerung Rhusions** beginnt, während die Gruppe ausläuft.
 - **Meta:** Neuzugang **Marcus** führt [[Zion]] für Eden; [[Sir Aschefall]] wird gegen Ende eingeführt und von Marcus mitbeschrieben – Aschefall wird künftig sein SC.
 
@@ -174,7 +174,7 @@ Beim Auslaufen (blutroter Himmel) erkennt [[Viri]] (Perception 19) an den Klippe
 - [[Rakshasa-Assassine]]
 - [[Zarat]]
 - [[Doruk Val]]
-- [[Zestus]]
+- [[Cestus]]
 - [[Bernsteinauge]]
 - [[Chloro Verde]]
 - [[Aspasia Cortiso]]

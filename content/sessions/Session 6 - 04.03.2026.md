@@ -5,14 +5,14 @@ created: 2026-05-12
 updated: 2026-05-12
 tags: [session, session-6]
 datum: 2026-03-04
-ort: Rhusion – Hospiz St. Haramador, Hafenarkaden, Docks, Zestus
+ort: Rhusion – Hospiz St. Haramador, Hafenarkaden, Docks, Cestus
 ---
 
 # Session 6 - 04.03.2026
 
 ## Zusammenfassung
 
-Die Gruppe vertieft die Ermittlungen in Rhusions Hafenmilieu. Aus losen Schnipseln formt sich ein Muster aus Codesprache, Blicksignalen und stillen Abläufen rund um die [[Zestus]] und das Docknetz. Auf dem Schiff treffen sie [[Doruk Val]], der ein hochdotiertes, verdächtiges Fluchtangebot ablehnte und die Gruppe stattdessen auf eine neue Spur setzt: Ein ausgestopfter Betrachter im [[Bernsteinauge]] soll [[Chloro Verde]] hervorlocken.
+Die Gruppe vertieft die Ermittlungen in Rhusions Hafenmilieu. Aus losen Schnipseln formt sich ein Muster aus Codesprache, Blicksignalen und stillen Abläufen rund um die [[Cestus]] und das Docknetz. Auf dem Schiff treffen sie [[Doruk Val]], der ein hochdotiertes, verdächtiges Fluchtangebot ablehnte und die Gruppe stattdessen auf eine neue Spur setzt: Ein ausgestopfter Betrachter im [[Bernsteinauge]] soll [[Chloro Verde]] hervorlocken.
 
 ## Szenen-Protokoll
 
@@ -37,12 +37,12 @@ Beobachtungen:
 
 ### Szene 4 – Erste Kontakte im Docknetz
 
-- Tarnansatz über Hafenarbeiter-Rolle führt zur ersten belastbaren Spur: [[Zestus]]
+- Tarnansatz über Hafenarbeiter-Rolle führt zur ersten belastbaren Spur: [[Cestus]]
 - Separater Kontakt nennt [[Chloro Verde]] als relevante Größe im Viertel, aber „sie findet dich"
 - Ein verschuldeter Mann warnt explizit vor dem [[Bernsteinauge]] (nahe Großmarkt/Silberbrunnen)
 
 ### Szene 5 – Übergabe und Boarding
-**Ort:** [[Zestus]]
+**Ort:** [[Cestus]]
 
 Die Gruppe liefert ein Kuvert (Adressat: **Doruk Val**) aus und geht an Bord. Nach kurzer Interaktion führt die Spur zum Tortle [[Doruk Val]].
 
@@ -63,7 +63,7 @@ Doruk bietet Gegengeschäft an: Die Gruppe soll einen **ausgestopften Betrachter
 ## Neue Fakten / Entscheidungen
 
 - [[Bernsteinauge]] ist ein eigenständiger Ort, nicht identisch mit [[Tigerauge]].
-- [[Zestus]] ist aktiver Knotenpunkt für Informationen und diskrete Anfragen.
+- [[Cestus]] ist aktiver Knotenpunkt für Informationen und diskrete Anfragen.
 - [[Doruk Val]] wird als neue Schlüsselfigur etabliert.
 - [[Chloro Verde]] bleibt indirekt: Name bekannt, Person weiter unscharf.
 - Gruppe nimmt den Anschluss-Plot Richtung [[Bernsteinauge]] an.
@@ -71,7 +71,7 @@ Doruk bietet Gegengeschäft an: Die Gruppe soll einen **ausgestopften Betrachter
 ## Verknüpfungen
 
 - [[Hafensabotage]]
-- [[Zestus]]
+- [[Cestus]]
 - [[Doruk Val]]
 - [[Chloro Verde]]
 - [[Bernsteinauge]]

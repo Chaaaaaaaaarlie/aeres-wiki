@@ -13,7 +13,7 @@ status: aktiv – reist mit der Gruppe
 
 ## Auftrag
 
-- Soll dafür sorgen, dass die **Crew der [[Zestus]]** die Gruppe wieder nach Rhusion zurückbringt
+- Soll dafür sorgen, dass die **Crew der [[Cestus]]** die Gruppe wieder nach Rhusion zurückbringt
 - Soll die Gruppe motivieren, **zurückzukehren** (das mitgegebene Gold soll dasselbe tun)
 - Der Princeps vertraut ihm ausdrücklich: *„Er hat Lady Cortisos Leben beschützt."*
 - **Session 15 – Enthüllung:** Bei der Ankunft auf [[Zarat]] wird klar, dass sein eigentlicher Auftrag schlicht war, die Gruppe **sicher zur Insel zu bringen**. Damit ist sein offizieller Auftrag formal erfüllt — ob er weiterhin hilft, liegt jetzt bei ihm selbst. *(Offener Faden: wahre Loyalität, weitere Motive)*
@@ -54,9 +54,9 @@ Aschefall wird in [[Session 11 - 03.06.2026]] eingeführt und ist der **künftig
 
 ## Session 15
 
-- **Erkennt Verwandtschaft:** Als die Zestus einem gehörnten Leviathan entkommt, erkennt Aschefall (drachenblütig) Ähnlichkeit mit sich selbst — „eine kleine Version der großen Drachen". Scherzt, sie seien „gerade einem Seegott entkommen"
+- **Erkennt Verwandtschaft:** Als die Cestus einem gehörnten Leviathan entkommt, erkennt Aschefall (drachenblütig) Ähnlichkeit mit sich selbst — „eine kleine Version der großen Drachen". Scherzt, sie seien „gerade einem Seegott entkommen"
 - **Auftrag formal erfüllt** mit der Ankunft auf Zarat (siehe oben)
-- Wird von Viri per Seil gesichert und neben der Zestus hergezogen, um Seepocken vom Rumpf zu schaben
+- Wird von Viri per Seil gesichert und neben der Cestus hergezogen, um Seepocken vom Rumpf zu schaben
 - Essenz-Vision im Circle-Ritual: gleißend hell, selbstherrlich, ansteckend
 - Zieht mit der Gruppe nach Leitwacht und in den Dschungel zur Dybbuk-Verfolgung
 
@@ -82,7 +82,7 @@ Aschefall wird in [[Session 11 - 03.06.2026]] eingeführt und ist der **künftig
 - [[Aspasia Cortiso]]
 - [[Zion]]
 - [[Elysia]]
-- [[Zestus]]
+- [[Cestus]]
 - [[Zarat]]
 - [[Der Dybbuk]]
 - [[Verfluchte Schuppenrüstung]]

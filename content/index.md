@@ -31,7 +31,7 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 
 ### NSCs — Verbündete, Kontakte, Zeugen
 
-- [[Augier]] · [[Bruder Kalvet]] · [[Calderion]] · [[Chloro Verde]] · [[Doruk Val]] · [[Elmar Kassar]] · [[Halbling-Wahrsagerin]] · [[Harkas]] · [[Kapitänin der Zestus]] · [[Mirene Calath]] · [[Schwester Elva]] · [[Sir Aschefall]] · [[Ventus]]
+- [[Augier]] · [[Bruder Kalvet]] · [[Calderion]] · [[Chloro Verde]] · [[Doruk Val]] · [[Elmar Kassar]] · [[Halbling-Wahrsagerin]] · [[Harkas]] · [[Kapitänin der Cestus]] · [[Mirene Calath]] · [[Schwester Elva]] · [[Sir Aschefall]] · [[Ventus]]
 
 ### NSCs — Politik & Adel
 
@@ -43,7 +43,7 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 
 ## Orte
 
-- [[Alauntor]] · [[Basilika des Morgengrauens]] · [[Bernsteinauge]] · [[Daskirion]] · [[Dreiankerkrone]] · [[Dybbuk-Nest]] · [[Fink-Tempel (Narasimha)]] · [[Gähnender Schacht]] · [[Hospiz St. Haramador]] · [[Kalazar-Statue]] · [[Krokodil-Versteck]] · [[Leitwacht]] · [[Pont-Viertel]] · [[Salzhund]] · [[Talglichtgasse]] · [[Tigerauge]] · [[Tuchmacher-Tor]] · [[Tuchmacherviertel]] · [[Zarat]] · [[Zestus]] · [[Zum gesplitterten Zahn]]
+- [[Alauntor]] · [[Basilika des Morgengrauens]] · [[Bernsteinauge]] · [[Daskirion]] · [[Dreiankerkrone]] · [[Dybbuk-Nest]] · [[Fink-Tempel (Narasimha)]] · [[Gähnender Schacht]] · [[Hospiz St. Haramador]] · [[Kalazar-Statue]] · [[Krokodil-Versteck]] · [[Leitwacht]] · [[Pont-Viertel]] · [[Salzhund]] · [[Talglichtgasse]] · [[Tigerauge]] · [[Tuchmacher-Tor]] · [[Tuchmacherviertel]] · [[Zarat]] · [[Cestus]] · [[Zum gesplitterten Zahn]]
 
 ## Fraktionen
 

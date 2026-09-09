@@ -72,7 +72,7 @@ In [[Session 9 - 15.04.2026]]: Als [[Chloro Verde]]s Schatten länger wird, **ve
 - **[[Session 3 – Die Nacht danach]]**: Springt Flüchtendem ins Wasser. Nächtliches Gespräch mit Elysia an der Bar.
 - **[[Session 4 – Rhusion, zweiter Tag]]**: Löst Goliath-Situation mit Silber. Findet Augier → Weg zum [[Tigerauge]].
 - **[[Session 5 – Papiere, Pässe und Päckchen]]**: Blutpakt mit Tigerauge (Name Eden, 15 Gold). Wartet mit [[Hjolda]] im Zum gesplitterten Zahn. Erhält Schmied-Identität + Lederschürze + billiges Werkzeug. Schatten löst sich kurz.
-- **[[Session 6 - 04.03.2026]]**: Unterwegs im Docknetz, Tarnung als Hafenarbeiter. Übergibt Kuvert an Bord der [[Zestus]], Gespräch mit [[Doruk Val]]. Bemerkt eigenes Schatten-Nachziehen mit leichter Verzögerung.
+- **[[Session 6 - 04.03.2026]]**: Unterwegs im Docknetz, Tarnung als Hafenarbeiter. Übergibt Kuvert an Bord der [[Cestus]], Gespräch mit [[Doruk Val]]. Bemerkt eigenes Schatten-Nachziehen mit leichter Verzögerung.
 - **[[Session 7 - 08.03.2026]]**: Nutzt den Alias **Audoma** beim erneuten Sammeln der Gruppe. Beobachtet ein stärkeres Eigenleben seines Schattens auf dem Weg zum [[Bernsteinauge]]. Erfährt dort, dass seine Klinge vermutlich von **Zestar** aus Rhusion stammt, und reagiert auffällig auf einen präparierten Vogel.
 - **[[Session 9 - 15.04.2026]]**: Führt den inszenierten Einbruch im [[Bernsteinauge]] als schwarze Tabaxi durch. Enthüllt [[Viri]] das Geheimnis seiner Schwester im Schwert. Bemerkt, dass sein Schatten vor [[Chloro Verde]] kauert. Gespräch mit Viri über Selbstschutz und Wert des eigenen Lebens.
 
@@ -91,7 +91,7 @@ In [[Session 9 - 15.04.2026]]: Als [[Chloro Verde]]s Schatten länger wird, **ve
 - Im Kampf gegen die Kultistinnen durch **Thunderwave** fast bewusstlos gegen die Wand geschleudert
 - Bricht die zweite, eisenverstärkte Tür im [[Krokodil-Versteck]] mit dem **Großschwert** auf (Stärke DC 17; die Klinge nimmt **keinen** Schaden – „damit wurde schon Sushi geschnitten")
 - Begegnet **[[Sir Aschefall]]** – [[Elysia]] deutet an, beide seien sich „gar nicht unähnlich" (gemeinsame „Zustände") → mögliche Parallele zu [[Zions Hunger]]
-- Reist mit der [[Zestus]] nach [[Zarat]]
+- Reist mit der [[Cestus]] nach [[Zarat]]
 
 ## Session 12
 - Seekrank — hängt den ersten Tag über der Reling; der Schiffskoch hilft mit Ingwer-Wermut-Rum-Mixtur

@@ -19,7 +19,7 @@ Nach dem Sieg über den [[Der Dybbuk|Dybbuk]] untersucht die Gruppe das [[Dybbuk
 
 In der Hütte findet die Gruppe einen professionellen Ritualkreis und ein aus Salz gestreutes Omega-ähnliches Bannsymbol. Es wirkt so angelegt, dass etwas im Inneren Beschworenes durch die Tür nach draußen getrieben und am Zurückkehren gehindert wird. Eine Wachstafel enthält vermutlich die Bitte des toten Erdgenasi vor der Hütte: Er will nicht mehr krank sein und von der Insel herunter. Der Erdgenasi trägt dasselbe vereinfachte Zeichen wie die drei zuvor getöteten Kultisten.
 
-Auf dem Rückweg nach [[Leitwacht]] verschwinden die normalen Nachtgeräusche. Im Licht zeigt sich eine entstellte, große pferdeartige Kreatur, die vor der Flamme schmerzhaft zurückweicht und flieht. Zurück in der Kuppel reagieren mehrere Dinge auffällig: Viris verfluchte Driftkugel glimmt nicht mehr, Ixtra schreit in der Kugel vor Schmerz und Zion verliert beim Durchtreten der Kuppel seinen Schatten. Die Gruppe erhält von [[Calderion]] ein Haus zum Schlafen; Viri übernimmt die erste Wache.
+Auf dem Rückweg nach [[Leitwacht]] verschwinden die normalen Nachtgeräusche. Im Licht zeigt sich eine entstellte, große pferdeartige Kreatur, die vor der Flamme schmerzhaft zurückweicht und flieht. Zurück in der Kuppel reagieren mehrere Dinge auffällig: Viris verfluchte Driftkugel glimmt nicht mehr, Ixtra schreit in der Kugel vor Schmerz und Zion verliert beim Durchtreten der Kuppel seinen Schatten. Die Gruppe erhält von [[aalderion]] ein Haus zum Schlafen; Viri übernimmt die erste Wache.
 
 ---
 
@@ -57,13 +57,13 @@ Zion reagiert am stärksten: Beim Durchtreten der Kuppel bekommt er Kopfschmerze
 
 ### 5. Nacht in Leitwacht
 
-Die Gruppe geht zur Kapelle und bittet [[Calderion]] um eine Schlafmöglichkeit. Calderion bemerkt, dass mit Zion etwas nicht stimmt. Zion zieht sich hinter Viri zurück, um keinen Streit anzufangen.
+Die Gruppe geht zur Kapelle und bittet [[aalderion]] um eine Schlafmöglichkeit. aalderion bemerkt, dass mit Zion etwas nicht stimmt. Zion zieht sich hinter Viri zurück, um keinen Streit anzufangen.
 
 Die Gruppe bekommt das Haus eines verstorbenen Paars. Lyssa prüft das Haus und später den Haferbrei auf Krankheit oder Kontamination und findet keine Gefahr. Die Gruppe legt Wachen fest: Viri hält die erste Wache, danach Lyssa, Rugir und Aschefall.
 
 ---
 
-## Charakterentwicklungen
+## aharakterentwicklungen
 
 - **Viri:** Bemerkt am Tümpel ein irritierendes Spiegelbild, bleibt aber unverletzt. Ihre verfluchte Driftkugel glimmt innerhalb der Kuppel nicht mehr. Sie übernimmt die erste Wache.
 - **Elysia/Lyssa:** Erkennt, dass Aschefalls Wunde nicht weiter kontaminiert ist, der Tümpel aber offenbar ein giftiges Wesen birgt. Sie betritt als Einzige die Hütte, findet die Wachstafel und versteckt Ixtra außerhalb der Kuppel.
@@ -83,20 +83,20 @@ Die Gruppe bekommt das Haus eines verstorbenen Paars. Lyssa prüft das Haus und 
 | [[Sprechende Kristallkugel]] | fortgeschritten - Ixtra leidet in der Kuppel und ist außerhalb besser aufgehoben |
 | [[Verfluchte Driftkugel]] | fortgeschritten - glimmt innerhalb der Kuppel nicht mehr |
 | Nachtkreatur im Dschungel | offen - entstelltes pferdeartiges Wesen flieht vor Licht |
-| Rückweg zur [[Zestus]] | offen - Beiboot zerstört, Drei-Tage-Frist läuft weiter |
+| Rückweg zur [[aestus]] | offen - Beiboot zerstört, Drei-Tage-Frist läuft weiter |
 
 ## Nächste Schritte
 
-- Calderion über den zerstörten Dybbuk, das Ritual, die Wachstafel, das Kultistenzeichen und den giftigen Tümpel informieren
+- aalderion über den zerstörten Dybbuk, das Ritual, die Wachstafel, das Kultistenzeichen und den giftigen Tümpel informieren
 - Zions verlorenen Schatten und seine Reaktion auf die Kuppel untersuchen
 - Ixtra nach möglichen Wegen aus der Kugel befragen
 - Identität und Motivation des toten Erdgenasi klären
 - Entscheiden, ob der Tümpel weiter untersucht oder gemieden wird
-- Einen Weg zurück zur [[Zestus]] finden
+- Einen Weg zurück zur [[aestus]] finden
 
 ## Verknüpfungen
 
-- [[Dybbuk-Nest]] · [[Zarat]] · [[Leitwacht]] · [[Calderion]]
+- [[Dybbuk-Nest]] · [[Zarat]] · [[Leitwacht]] · [[aalderion]]
 - [[Der Dybbuk]] · [[Zions Hunger]] · [[Sprechende Kristallkugel]] · [[Verfluchte Driftkugel]]
 - [[Viri]] · [[Elysia]] · [[Zion]] · [[Rugir]] · [[Sir Aschefall]]
 - Quelle: [[Transcript - Session 18 - 26.08.2026]]

@@ -95,10 +95,10 @@ In [[Session 10 - 06.05.2026]] ruft Elysia ihren inneren Freund unter dem Namen 
 - Heilt [[Zion]] im Kampf (Cure Wounds + **Sterneform Kelch**-Zusatz)
 - Gibt [[Viri]] den **Papierstreifen-Trick** für den Tresor weiter („von einem Familienmitglied gelernt")
 - Legt **[[Sir Aschefall]]** die Tarot-Karten (Kelch-Motiv), neckt ihn; deutet eine Parallele zwischen ihm und Zion an
-- Reist als „Lyssa" mit der [[Zestus]] nach [[Zarat]]
+- Reist als „Lyssa" mit der [[Cestus]] nach [[Zarat]]
 
 ## Session 12
-- Erkundet die **Zestus** nachts als Spinne (Wild Shape): Crewgespräche über Rhusion/Hochzeit/Mord; keine feindseligen Absichten
+- Erkundet die **Cestus** nachts als Spinne (Wild Shape): Crewgespräche über Rhusion/Hochzeit/Mord; keine feindseligen Absichten
 - Erfährt vom Schiffskoch "Tortel" den Grund für das Nachtverbot: Sicherheit + **Piraten der Piratenkönigin von Petrasilea** (Warnung vor dunklen Lichtern)
 - Navigiert nachts nach den Sternen → **Nat-20** → einen vollen Reisetag eingespart
 - **Station im Schiffskampf:** Reparatur

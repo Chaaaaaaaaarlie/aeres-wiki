@@ -1,13 +1,13 @@
 ---
 type: entity
-title: "Zestus"
+title: "Cestus"
 created: 2026-05-12
 updated: 2026-05-12
 tags: [ort, schiff, hafen, aktiv]
 status: aktiv
 ---
 
-# Zestus
+# Cestus
 
 Arbeitsorientiertes Schiff im Dockbereich Rhusions. Schlicht, funktional, eingespielte Crew-Abläufe.
 
@@ -25,7 +25,7 @@ Arbeitsorientiertes Schiff im Dockbereich Rhusions. Schlicht, funktional, einges
 
 ## Session 11 – Überfahrt nach Zarat
 
-In [[Session 11 - 03.06.2026]] wird die Zestus zum **Reiseschiff** der Gruppe. Kommandiert von der **[[Kapitänin der Zestus|Kapitänin]]** (dunkler Mantel, zwei Säbel, opulente Kajüte mit Schädeln, Rum und roten Bleiglasfenstern). Der **Erpresser-Brief** des [[Princeps Orpheon von Lutaxa]] zwingt sie zur Überfahrt nach **[[Zarat]]**; sie nimmt zusätzlich die 300 Gold und legt sofort ab. **[[Sir Aschefall]]** reist als Aufpasser des Princeps mit. Beim Auslaufen erscheinen die **Ork-Kriegsbanner** am Horizont (Belagerung Rhusions).
+In [[Session 11 - 03.06.2026]] wird die Cestus zum **Reiseschiff** der Gruppe. Kommandiert von der **[[Kapitänin der Cestus|Kapitänin]]** (dunkler Mantel, zwei Säbel, opulente Kajüte mit Schädeln, Rum und roten Bleiglasfenstern). Der **Erpresser-Brief** des [[Princeps Orpheon von Lutaxa]] zwingt sie zur Überfahrt nach **[[Zarat]]**; sie nimmt zusätzlich die 300 Gold und legt sofort ab. **[[Sir Aschefall]]** reist als Aufpasser des Princeps mit. Beim Auslaufen erscheinen die **Ork-Kriegsbanner** am Horizont (Belagerung Rhusions).
 
 ## Session 12 – Erster Tag & Piraten
 
@@ -40,7 +40,7 @@ In [[Session 13 - 23.06.2026]] wird der Piratenüberfall vollständig abgewehrt:
 - Schiffskoch "Tortel" kämpft mit und wird dabei beinahe getötet
 - **Wendepunkt:** Viris Suggestion charmt die Piraten-Anführerin → Rückzugsbefehl
 - Letzter Pirat durch Aschefalls Divine Smite getötet
-- **Status nach Session 13:** Zestus **beschädigt** (Brandschäden, Einschusslöcher) — Reparaturarbeiten laufen
+- **Status nach Session 13:** Cestus **beschädigt** (Brandschäden, Einschusslöcher) — Reparaturarbeiten laufen
 - **Crew-Stimmung:** schlägt nach der Seeschlacht in Ehrfurcht um — die Magie der Gruppe hat sie tief beeindruckt
 - Kapitänin: *„Reparieren! Wir müssen hier so schnell wie möglich weg!"*
 
@@ -48,7 +48,7 @@ In [[Session 13 - 23.06.2026]] wird der Piratenüberfall vollständig abgewehrt:
 
 - [[Hafensabotage]]
 - [[Doruk Val]]
-- [[Kapitänin der Zestus]]
+- [[Kapitänin der Cestus]]
 - [[Mirene Calath]]
 - [[Sir Aschefall]]
 - [[Zarat]]

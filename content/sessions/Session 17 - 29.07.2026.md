@@ -99,7 +99,7 @@ Der unmittelbare Auftrag Calderions ist damit erfüllt. Ungeklärt bleiben die H
 | Vermisster Halbling + Mensch | offen – Halblings- und weitere Leichen gefunden, Identitäten unbestätigt |
 | [[Wo versteckt sich der Assassine]] | offen – Dybbuk-Spur endet, Verbindung über Kultisten/Mordwaffe bleibt |
 | Viris Herkunft | fortgeschritten – gefallener Engel und Blutlinie als Motiv für das reservierte Buch |
-| Rückweg zur [[Zestus]] | offen – Beiboot zerstört, Frist läuft |
+| Rückweg zur [[Cestus]] | offen – Beiboot zerstört, Frist läuft |
 
 ## Nächste Schritte
 
@@ -107,7 +107,7 @@ Der unmittelbare Auftrag Calderions ist damit erfüllt. Ungeklärt bleiben die H
 - Opfer identifizieren und prüfen, ob Halbling/Mensch zu den Vermissten gehören
 - [[Calderion]] über Nest, Kultistenmal und den zerstörten Dybbuk informieren
 - Auftraggeber und Zweck der geschwächten Barrieren weiterverfolgen
-- Einen Rückweg zur [[Zestus]] finden
+- Einen Rückweg zur [[Cestus]] finden
 
 ## Verknüpfungen
 

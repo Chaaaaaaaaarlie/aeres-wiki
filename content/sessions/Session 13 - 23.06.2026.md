@@ -3,7 +3,7 @@ type: session
 title: "Session 13 - 23.06.2026"
 created: 2026-06-23
 updated: 2026-06-23
-tags: [session, aeres, seeschlacht, piraten, zestus]
+tags: [session, aeres, seeschlacht, piraten, cestus]
 status: complete
 ---
 
@@ -15,7 +15,7 @@ status: complete
 
 ## Kurzfassung
 
-Die Session beginnt direkt im Cliffhanger aus Session 12: Piraten haben die Zestus behakt, die Seeschlacht läuft. Nach einer langen Schiffskampfphase entern die Piraten das Deck — Deckgefecht mit zahlreichen Gegnern. Die Piraten-Anführerin, eine Zauberwirkerin, wird durch Viris Suggestion für 8 Stunden gecharmt und befiehlt ihrer Crew den Rückzug. Der letzte verbleibende Pirat wird von Aschefall getötet. Die Triremen ziehen sich schwer beschädigt zurück — die Zestus hat überlebt.
+Die Session beginnt direkt im Cliffhanger aus Session 12: Piraten haben die Cestus behakt, die Seeschlacht läuft. Nach einer langen Schiffskampfphase entern die Piraten das Deck — Deckgefecht mit zahlreichen Gegnern. Die Piraten-Anführerin, eine Zauberwirkerin, wird durch Viris Suggestion für 8 Stunden gecharmt und befiehlt ihrer Crew den Rückzug. Der letzte verbleibende Pirat wird von Aschefall getötet. Die Triremen ziehen sich schwer beschädigt zurück — die Cestus hat überlebt.
 
 ---
 
@@ -44,7 +44,7 @@ Elysia erwägt, sich als Riesenseepferdchen ins Wasser zu begeben, um Piratensch
 
 ### 2. Enteraktion — Deckgefecht
 
-Als ein Piratenschiff die Zestus weiter behakt und Piraten auf das Deck stürmen, beginnt ein ausgedehntes Deckgefecht. Die Gruppe steht Seite an Seite mit der Zestus-Crew.
+Als ein Piratenschiff die Cestus weiter behakt und Piraten auf das Deck stürmen, beginnt ein ausgedehntes Deckgefecht. Die Gruppe steht Seite an Seite mit der Cestus-Crew.
 
 **Wichtige Momente:**
 - Der Schiffskoch "Tortel" (Goliath-Mischrasse, bekannt aus Session 12) kämpft mit und wird dabei fast getötet — die Gruppe reagiert entsetzt
@@ -78,7 +78,7 @@ Die beiden Triremen, schwer beschädigt, ziehen sich langsam zurück. Die Gruppe
 
 > **DM:** *„Ihr seht, wie die verbliebenen Crewmitglieder euch zum Teil ehrfürchtig ansehen. Sie haben die Macht der Magie gesehen. Eulen, die Frost speien. Leuchtfeuer, die vom Himmel herabfallen. Tatsächliches Feuer, das verschossen wird. Das haben diese Wesen wahrscheinlich noch nie in ihrem Leben so gesehen."*
 
-Die Kapitänin der Zestus ruft den Befehl aus:
+Die Kapitänin der Cestus ruft den Befehl aus:
 
 > *„Reparieren! Wir müssen hier so schnell wie möglich weg! Schnell! Schnell!"*
 
@@ -92,7 +92,7 @@ Die Kapitänin der Zestus ruft den Befehl aus:
 
 ## Lore-Updates
 
-- Die Crew der [[Zestus]] betrachtet die Gruppe fortan mit Ehrfurcht — das magische Potenzial der Gruppe ist nun offen sichtbar
+- Die Crew der [[Cestus]] betrachtet die Gruppe fortan mit Ehrfurcht — das magische Potenzial der Gruppe ist nun offen sichtbar
 - **Piratenkönigin von Petrasilea**: Die angreifenden Triremen dürften zu dieser Fraktion gehören (in Session 12 als mögliche Bedrohung eingeführt)
 
 ---
@@ -103,7 +103,7 @@ Die Kapitänin der Zestus ruft den Befehl aus:
 |-------|--------|
 | [[Wo versteckt sich der Assassine]] | Gruppe noch unterwegs — Zarat noch nicht erreicht |
 | Piraten-Überfall | ruhend — abgewehrt, aber Motive unklar (zufällig oder gezielt?) |
-| Zestus-Reparatur | **neu / offen** — Schiff beschädigt, muss repariert werden |
+| Cestus-Reparatur | **neu / offen** — Schiff beschädigt, muss repariert werden |
 | [[Ritual der 13 Stiche]] | ruhend bis nach Zarat |
 | Belagerung Rhusions | läuft im Hintergrund |
 
@@ -111,7 +111,7 @@ Die Kapitänin der Zestus ruft den Befehl aus:
 
 ## Verknüpfungen
 
-- [[Zestus]] · [[Zarat]] · [[Mirene Calath]] · [[Kapitänin der Zestus]]
+- [[Cestus]] · [[Zarat]] · [[Mirene Calath]] · [[Kapitänin der Cestus]]
 - [[Zion]] · [[Viri]] · [[Elysia]] · [[Sir Aschefall]] · [[Rugir]]
 - Transkript-Zusammenfassung: [[Transcript - Session 13 - 23.06.2026]]
 - [[Session 12 - 17.06.2026]]

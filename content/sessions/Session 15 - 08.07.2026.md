@@ -1,4 +1,4 @@
-﻿---
+---
 type: session
 title: "Session 15 - 08.07.2026"
 created: 2026-07-08
@@ -15,7 +15,7 @@ status: complete
 
 ## Kurzfassung
 
-Der Cliffhanger aus Session 14 löst sich glimpflich: Die Rache-Kreatur aus dem toten Wal ist ein blutleeres, feueranfälliges Wesen und wird besiegt, bevor sie überhaupt zum Zug kommt. Die Leiche im Wal-Inneren entpuppt sich als Dieb auf der Flucht — mit einer Schatulle voller Rubine, gestohlen von der **„grünen Dirne"**: niemand anders als **Chloro Verde**, die alte Bekannte aus Rhusions Kanalisation. Nach einer komischen Seepocken-Episode und einer knappen Flucht vor einem gigantischen Leviathan (per Circle-Magic-Ritual, bei dem alle Zauberwirker kurz die magische Essenz der anderen sehen — Zions wirkt dabei überraschend **uralt**) erreicht die Zestus endlich **Zarat**, die Seucheninsel. Das Beiboot wird sofort vom wächterhaften Leuchtturm zerstört. In der Leprakolonie **Leitwacht** trifft die Gruppe auf den erschöpften Priester **Calderion**, der seit Jahrzehnten mit der eigenen Lebenskraft einen Schutzzauber gegen Untote, Dämonen und Fae aufrechterhält. Er offenbart zwei Schocker: Ein Dämon namens **Dybbuk** besetzt Leichen und terrorisiert die Insel — und **niemand darf Zarat je wieder verlassen**, auch nicht die (noch) Gesunden. Ein Dybbuk-Angriff direkt vor dem Tempel demonstriert die Bedrohung. Innerhalb von Calderions Schutzkuppel reagiert Zion mit Übelkeit und einem unerklärlichen inneren Schweigen — ein neuer Hinweis auf seine verborgene Natur. Die Gruppe folgt der frischen Spur des Dämons in den Dschungel und findet eine unaktivierte Leuchtkugel, einen unidentifizierten Zauberstab und eine lebendige, lügende, sprechende Kristallkugel. Die Session endet ohne Cliffhanger mitten in der Verfolgungsjagd.
+Der Cliffhanger aus Session 14 löst sich glimpflich: Die Rache-Kreatur aus dem toten Wal ist ein blutleeres, feueranfälliges Wesen und wird besiegt, bevor sie überhaupt zum Zug kommt. Die Leiche im Wal-Inneren entpuppt sich als Dieb auf der Flucht — mit einer Schatulle voller Rubine, gestohlen von der **„grünen Dirne"**: niemand anders als **Chloro Verde**, die alte Bekannte aus Rhusions Kanalisation. Nach einer komischen Seepocken-Episode und einer knappen Flucht vor einem gigantischen Leviathan (per Circle-Magic-Ritual, bei dem alle Zauberwirker kurz die magische Essenz der anderen sehen — Zions wirkt dabei überraschend **uralt**) erreicht die Cestus endlich **Zarat**, die Seucheninsel. Das Beiboot wird sofort vom wächterhaften Leuchtturm zerstört. In der Leprakolonie **Leitwacht** trifft die Gruppe auf den erschöpften Priester **Calderion**, der seit Jahrzehnten mit der eigenen Lebenskraft einen Schutzzauber gegen Untote, Dämonen und Fae aufrechterhält. Er offenbart zwei Schocker: Ein Dämon namens **Dybbuk** besetzt Leichen und terrorisiert die Insel — und **niemand darf Zarat je wieder verlassen**, auch nicht die (noch) Gesunden. Ein Dybbuk-Angriff direkt vor dem Tempel demonstriert die Bedrohung. Innerhalb von Calderions Schutzkuppel reagiert Zion mit Übelkeit und einem unerklärlichen inneren Schweigen — ein neuer Hinweis auf seine verborgene Natur. Die Gruppe folgt der frischen Spur des Dämons in den Dschungel und findet eine unaktivierte Leuchtkugel, einen unidentifizierten Zauberstab und eine lebendige, lügende, sprechende Kristallkugel. Die Session endet ohne Cliffhanger mitten in der Verfolgungsjagd.
 
 ---
 
@@ -39,13 +39,13 @@ Kampf beginnt direkt im Anschluss an Session 14.
 - Im Inneren: ein verkohlt-skelettiertes Wesen in edler, zerfetzter Kleidung, sitzend auf einer Art improvisiertem Floß aus Wal-Wrackholz
 - Zion öffnet die **Schatulle** in seinen Händen: herzförmig geschliffene Rubine im Wert von **50 Gold**
 - Durchsuchung des Toten: ein Notizzettel/Journal — der Mann war auf hoher See von einem Schiff geflohen, mit gestohlener Beute. Zitat: *„Auf der Insel wird sie mich niemals finden."* Seine Verfolgerin nennt er nur **„die grüne Dirne"**
-- Zurück auf der Zestus: Die Seeleute reagieren sichtlich unbehaglich, als der Name fällt
+- Zurück auf der Cestus: Die Seeleute reagieren sichtlich unbehaglich, als der Name fällt
 - **Intelligenz-/Geschichtswurf (DC 15, Nat-20 von Zion)**: Die Gruppe erinnert sich — die grüne Dirne ist **[[Chloro Verde]]**, die sie in Rhusions Kanalisation getroffen und mit einem gefälschten Beholder hintergangen hatten
 - Die Rubine werden behalten (potenzielles Faustpfand oder Risiko, sollte Chloro Verde die Gruppe erneut kreuzen)
 
 ### 3. Seepocken und ein Leviathan
 
-- Am Folgetag: Riesige **Seepocken** am Rumpf verlangsamen die Zestus auf halbe Geschwindigkeit
+- Am Folgetag: Riesige **Seepocken** am Rumpf verlangsamen die Cestus auf halbe Geschwindigkeit
 - Lyssa verwandelt sich in ein **Drachenseepferdchen**, um sie abzusaugen — mehrere gescheiterte Würfe, rammt dabei sogar das eigene Schiff
 - Rugir setzt **Toll the Dead** gegen die Seepocken ein (~21 von 30 beseitigt)
 - Aschefall lässt sich, von Viri per Seil gesichert, neben dem Schiff herziehen und schabt den Rest ab (Stärke DC 12, erfolgreich) — Schiff wieder auf voller Geschwindigkeit
@@ -61,7 +61,7 @@ Kampf beginnt direkt im Anschluss an Session 14.
   - Elysia: erdverbunden, „krustig", darunter ein eigenes Bewusstsein
   - Aschefall: gleißend hell, selbstherrlich, ansteckend
   - **Zion: uralt — „als wäre etwas geborgen"** *(unerklärt, neuer Hinweis auf Zions wahre Natur)*
-- Der beschworene Wind treibt die Zestus davon; die Kreatur kann nicht mithalten — ein halber Tag Reisezeit wird wettgemacht
+- Der beschworene Wind treibt die Cestus davon; die Kreatur kann nicht mithalten — ein halber Tag Reisezeit wird wettgemacht
 - Matrosen spekulieren über einen gepanzerten „Seedrachen"; Aschefall (drachenblütig) erkennt Ähnlichkeit mit sich selbst und scherzt, sie seien „gerade einem Seegott entkommen"
 
 ### 4. Ankunft auf Zarat
@@ -135,7 +135,7 @@ Kampf beginnt direkt im Anschluss an Session 14.
 
 ### 12. Sessionende
 
-Kein Kampf-Cliffhanger diesmal: Die Session endet an einem natürlichen Haltepunkt mitten in der Dschungel-Verfolgung. Offen bleiben: die wahre Natur der Kristallkugel, die Identität des Zauberstabs, die unaktivierte Driftkugel — und vor allem die Jagd auf den Dybbuk, bevor er laut Calderions Furcht ein „Blutbad" auslöst. Die Drei-Tage-Frist der Kapitänin läuft, und ohne Beiboot hat die Gruppe aktuell keinen offensichtlichen Weg zurück zur Zestus.
+Kein Kampf-Cliffhanger diesmal: Die Session endet an einem natürlichen Haltepunkt mitten in der Dschungel-Verfolgung. Offen bleiben: die wahre Natur der Kristallkugel, die Identität des Zauberstabs, die unaktivierte Driftkugel — und vor allem die Jagd auf den Dybbuk, bevor er laut Calderions Furcht ein „Blutbad" auslöst. Die Drei-Tage-Frist der Kapitänin läuft, und ohne Beiboot hat die Gruppe aktuell keinen offensichtlichen Weg zurück zur Cestus.
 
 ---
 
@@ -178,7 +178,7 @@ Kein Kampf-Cliffhanger diesmal: Die Session endet an einem natürlichen Haltepun
 
 ## Verknüpfungen
 
-- [[Zarat]] · [[Leitwacht]] · [[Zestus]] · [[Kapitänin der Zestus]]
+- [[Zarat]] · [[Leitwacht]] · [[Cestus]] · [[Kapitänin der Cestus]]
 - [[Chloro Verde]] · [[Calderion]] · [[Der Dybbuk]] · [[Sprechende Kristallkugel]]
 - [[Zion]] · [[Viri]] · [[Elysia]] · [[Rugir]] · [[Sir Aschefall]]
 - Transkript: [[Transcript - Session 15 - 08.07.2026]]

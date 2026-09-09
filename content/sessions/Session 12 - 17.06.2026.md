@@ -15,7 +15,7 @@ status: cliffhanger – Seeschlacht läuft
 
 ## Kurzfassung
 
-Erster Tag auf der [[Zestus]] in Richtung [[Zarat]]. Die Gruppe lernt die Quartiermeisterin kennen, erfährt, dass Zarat eine Lepra-Seucheninsel ist – und wird zur Mittagszeit des zweiten Tages von drei Piraten-Schiffen angegriffen. Die Session endet mitten im Seegefecht.
+Erster Tag auf der [[Cestus]] in Richtung [[Zarat]]. Die Gruppe lernt die Quartiermeisterin kennen, erfährt, dass Zarat eine Lepra-Seucheninsel ist – und wird zur Mittagszeit des zweiten Tages von drei Piraten-Schiffen angegriffen. Die Session endet mitten im Seegefecht.
 
 ---
 
@@ -47,7 +47,7 @@ Zion hängt am ersten Tag über der Reling. Der **Schiffskoch** – eine mächti
 
 ### 4. Mirene Calath – Quartiermeisterin
 
-Viri versucht zur Kapitänin zu kommen. Sie wird abgefangen von **[[Mirene Calath]]** – Quartiermeisterin der Zestus, raubeinig, nennt die Gruppe sofort *„Landratten"*, aber duldet Viri, als sie anbietet, sich nützlich zu machen.
+Viri versucht zur Kapitänin zu kommen. Sie wird abgefangen von **[[Mirene Calath]]** – Quartiermeisterin der Cestus, raubeinig, nennt die Gruppe sofort *„Landratten"*, aber duldet Viri, als sie anbietet, sich nützlich zu machen.
 
 Calath erklärt die Regeln:
 - Kabinen: **vorderes Kastil** (Steuerbord-Seite)
@@ -70,7 +70,7 @@ Elysia erkundet nachts in Wild Shape (Spinne) das Schiff:
 Ausguck ruft *„Piraten!"* – drei **kleinere, wendige Schiffe** (Trireme-ähnlich, Schwenkkanonen) nähern sich.
 
 **Seeschlacht (Fahrzeugkampf):**
-- Die [[Zestus]] ist der „Charakter": Kanonen (Breitseite, magisch aufgeladen, hohe Reichweite), Ballisten (drehbar), 2 Aktionspunkte pro Runde
+- Die [[Cestus]] ist der „Charakter": Kanonen (Breitseite, magisch aufgeladen, hohe Reichweite), Ballisten (drehbar), 2 Aktionspunkte pro Runde
 - Feindschiffe: kleiner, zwei Felder Bewegung pro Runde, Schwenkkanonen (kein Breitseiten-Limit)
 
 **Positionen der Gruppe:**
@@ -86,15 +86,15 @@ Ausguck ruft *„Piraten!"* – drei **kleinere, wendige Schiffe** (Trireme-ähn
 - Rugirs Enlarge-Manöver: Kanonenkugel vergrößert → Schiff erschüttert und ächzt, aber hält; die Kugel trifft trotzdem nicht.
 - Aschefall erzielt einen Treffer mit der Balliste – reißt eine Breitseite in das erste Piratenschiff.
 - Allgemein: viele Fehlschüsse auf beiden Seiten (niedrige Würfelglück in dieser Runde).
-- Ein Piratenschiff **behakt die Zestus** → Gefahr des Enterns.
+- Ein Piratenschiff **behakt die Cestus** → Gefahr des Enterns.
 - **Session-Ende mitten in der Runde.**
 
 ---
 
 ## Neue Figuren
 
-- **[[Mirene Calath]]** — Quartiermeisterin der [[Zestus]]; raubeinige, taffe Seebärin; direkte Ansprechperson für Passagiere
-- **[[Schiffskoch der Zestus]]** *(noch kein Eigenname)* — große Goliath-Mischrasse, schnelle präzise Hände; zuständig für Schiffskost; kennt sich mit Hausmitteln aus
+- **[[Mirene Calath]]** — Quartiermeisterin der [[Cestus]]; raubeinige, taffe Seebärin; direkte Ansprechperson für Passagiere
+- **[[Schiffskoch der Cestus]]** *(noch kein Eigenname)* — große Goliath-Mischrasse, schnelle präzise Hände; zuständig für Schiffskost; kennt sich mit Hausmitteln aus
 
 ---
 
@@ -120,13 +120,13 @@ Ausguck ruft *„Piraten!"* – drei **kleinere, wendige Schiffe** (Trireme-ähn
 
 ## Cliffhanger
 
-Die Seeschlacht gegen drei Piratenschiffe läuft. Ein Schiff hat die Zestus bereits behakt. Nächste Session: Kampf fortsetzen.
+Die Seeschlacht gegen drei Piratenschiffe läuft. Ein Schiff hat die Cestus bereits behakt. Nächste Session: Kampf fortsetzen.
 
 ---
 
 ## Verknüpfungen
 
-- [[Zestus]] · [[Zarat]] · [[Leitwacht]] · [[Mirene Calath]]
+- [[Cestus]] · [[Zarat]] · [[Leitwacht]] · [[Mirene Calath]]
 - Transkript-Zusammenfassung: [[Transcript - Session 12 - 17.06.2026]]
 - [[Rugir]] · [[Elysia]] · [[Viri]] · [[Zion]] · [[Sir Aschefall]]
 - [[Wo versteckt sich der Assassine]] · [[Ilmater]]

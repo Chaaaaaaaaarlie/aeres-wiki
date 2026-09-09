@@ -99,7 +99,7 @@ Als Viri zur Kapitänskajüte geht, wird sie abgefangen:
 
 Viri stellt die Gruppe vor: Sion (Reling), Aschefall (Schuppiger), Elysia (weißliche Haare), Rugir (der kleine Zwerg — lässt Mirene lachen).
 
-> **Mirene (DM):** „Willkommen an Bord der Zestus. Hier vorne sind eure Kabinen. Im Bestfall haltet ihr euch dort auf. Wenn ihr euch behilflich machen wollt, das Deck muss immer geschrubbt werden. Schnüffelt nicht bei Nacht rum — wen ich erwische, wird an die Gallionsfigur gekettet."
+> **Mirene (DM):** „Willkommen an Bord der Cestus. Hier vorne sind eure Kabinen. Im Bestfall haltet ihr euch dort auf. Wenn ihr euch behilflich machen wollt, das Deck muss immer geschrubbt werden. Schnüffelt nicht bei Nacht rum — wen ich erwische, wird an die Gallionsfigur gekettet."
 
 Bord-Regeln zusammengefasst: Tagsüber Deck erlaubt, nachts Kabine; keine Crew-Kajüten betreten.
 
@@ -217,7 +217,7 @@ Dichter Nebel nach dem Sturm. Starke Winde danach: Elysia navigiert nach den Ste
 Gegen Mittag des dritten Tages vom Ausguck:
 > **Ausguck (DM):** „Piraten!"
 
-Drei wendige Piratenschiffe (Trireme-Typ, Piratenkönigin von Petrasilea) greifen die Zestus an. **Vehikelkampf** beginnt.
+Drei wendige Piratenschiffe (Trireme-Typ, Piratenkönigin von Petrasilea) greifen die Cestus an. **Vehikelkampf** beginnt.
 
 **Rollenverteilung der Gruppe:**
 - Rugir → Kanonstation (Vorteil auf Angriffswürfe)
@@ -225,12 +225,12 @@ Drei wendige Piratenschiffe (Trireme-Typ, Piratenkönigin von Petrasilea) greife
 - Viri → Beidrehen (Akrobatik / Knotenkenntnisse)
 - Elysia → Reparatur / Navigationsunterstützung
 
-**Kampfregeln:** Zestus = 1 Kanonenschuss + 2 Aktionspunkte pro Runde; Kanonen nur auf Breitseite, Ballisten drehbar; Piratenschiffe kleiner und wendiger (2 Felder Bewegung vs. 1 Feld).
+**Kampfregeln:** Cestus = 1 Kanonenschuss + 2 Aktionspunkte pro Runde; Kanonen nur auf Breitseite, Ballisten drehbar; Piratenschiffe kleiner und wendiger (2 Felder Bewegung vs. 1 Feld).
 
 **Verlauf (bis Session-Ende):**
 - Erste Kanonensalve: Verfehlt (Wasserfontäne).
 - Gruppe dreht rechts bei (Viri: Akrobatik 21 > DC 12 → kostet nur 1 Punkt).
-- Eines der Piratenschiffe behakt die Zestus.
+- Eines der Piratenschiffe behakt die Cestus.
 - **Session endet mid-combat — Cliffhanger.**
 
 ---
@@ -238,7 +238,7 @@ Drei wendige Piratenschiffe (Trireme-Typ, Piratenkönigin von Petrasilea) greife
 ## Offene Punkte aus den Dialogen
 
 - Zions Schwert ist eindeutig eine **sentiente Waffe mit Fey-Energie**, die Blut fordert. Virens Restverbindung nach dem Kontakt ist spielrelevant.
-- Matrosen-Gerücht bestätigt: Die [[Zestus]] wurde zur Mitnahme der Gruppe gezwungen — der [[Princeps Orpheon von Lutaxa]] hat der Gruppe ein Schreiben mitgegeben, mit dem sie die Kapitänin zur Überfahrt verpflichtet haben.
+- Matrosen-Gerücht bestätigt: Die [[Cestus]] wurde zur Mitnahme der Gruppe gezwungen — der [[Princeps Orpheon von Lutaxa]] hat der Gruppe ein Schreiben mitgegeben, mit dem sie die Kapitänin zur Überfahrt verpflichtet haben.
 - Wortfetzen der Crew unten: *Petrasilea, Rhusion, Hochzeit, Mord* — möglicher Zusammenhang mit dem Assassinen-Fall.
 - **Piratenkönigin von Petrasilea** als neue Bedrohung eingeführt.
 - Rugir versucht täglich, magische Tinte herzustellen (täglicher d20-Wurf, bislang kein Erfolg).
@@ -252,7 +252,7 @@ Drei wendige Piratenschiffe (Trireme-Typ, Piratenkönigin von Petrasilea) greife
 - [[Elysia]]
 - [[Sir Aschefall]]
 - [[Mirene Calath]]
-- [[Zestus]]
+- [[Cestus]]
 - [[Leitwacht]]
 - [[Zarat]]
 - [[Wo versteckt sich der Assassine]]

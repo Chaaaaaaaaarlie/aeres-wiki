@@ -86,7 +86,7 @@ Kein direkter Treffer auf die **7 Kerzen** oder die **13 Stiche**. Spezialist f�
 - **Zeichnet das Mal der 13 Stiche zweimal ab** (infernalisch, kopierbar aber nicht lesbar) – nächster Schritt: Abgleich im Haus des Wissens / [[Daskirion]]
 - Treibt die **Dekodierung** der Substitutions-Chiffre voran (Gruppen-Action)
 - Packt den **Aktenschrank** voller Akten in den Bag of Holding; verwaltet die 300-Gold-Funde und den Erpresser-Brief des Princeps
-- Bietet der **[[Kapitänin der Zestus|Kapitänin]]** die 300 Gold für die Überfahrt nach [[Zarat]]
+- Bietet der **[[Kapitänin der Cestus|Kapitänin]]** die 300 Gold für die Überfahrt nach [[Zarat]]
 
 ## Session 12 – Aktionen
 - **Station im Schiffskampf:** Kanone (versucht *Enlarge* auf Kanonenkugel)
@@ -105,7 +105,7 @@ Kein direkter Treffer auf die **7 Kerzen** oder die **13 Stiche**. Spezialist f�
 - **Koalint-Angriff:** Eule wirkt zweimal **Lightning Cone** (Nass-Effekt = Blitzableiter, halber Schaden auch bei Fehlschlag). Rugir selbst: **Chromatic Orb (Lightning)** → tötet einen Koalinth.
 - Verwahrt den **mechanischen Vogel** ([[Mechanischer Vogel]]) in seinem magischen Beutel (Bag of Holding).
 - Sendet Eule zur Erkundung des Wracks (Investigation 18 — keine Überlebenden).
-- Hilft bei Zestus-Reparatur per **Prestidigitation**.
+- Hilft bei Cestus-Reparatur per **Prestidigitation**.
 
 ## Session 15
 - **Firebolt** deckt die Feuer-Vulnerability der Rache-Kreatur auf; Arcana + Nature (DC 15, Vorteil) identifiziert sie als Rache-Ritual-Kreatur

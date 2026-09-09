@@ -4,13 +4,13 @@ title: "Mirene Calath"
 created: 2026-06-17
 updated: 2026-06-17
 tags: [nsc, schiff, besatzung]
-status: aktiv – Quartiermeisterin der Zestus
+status: aktiv – Quartiermeisterin der Cestus
 entity_type: person
 ---
 
 # Mirene Calath
 
-**Quartiermeisterin der [[Zestus]]**. Erste Ansprechperson für Passagiere. Nennt die Gruppe beim ersten Kontakt direkt *„Landratten"*.
+**Quartiermeisterin der [[Cestus]]**. Erste Ansprechperson für Passagiere. Nennt die Gruppe beim ersten Kontakt direkt *„Landratten"*.
 
 ## Erscheinung & Auftreten
 
@@ -21,7 +21,7 @@ entity_type: person
 
 ## Regeln an Bord
 
-Calath setzt die Schiffsregeln durch (im Auftrag der [[Kapitänin der Zestus|Kapitänin]]):
+Calath setzt die Schiffsregeln durch (im Auftrag der [[Kapitänin der Cestus|Kapitänin]]):
 - Passagiere: vorderes Kastil als Kabine
 - Tagsüber: Deck erlaubt, Mithilfe erwünscht (Schrubben, Seile, Knoten)
 - **Nachts kein Herumschleichen** auf dem Schiff; wer erwischt wird, kommt an die Galleonsfigur
@@ -37,7 +37,7 @@ Sie ist bereit, [[Viri]] zu unterweisen, wie man Seeknoten lernt (delegiert an f
 
 ## Verknüpfungen
 
-- [[Zestus]]
-- [[Kapitänin der Zestus]]
+- [[Cestus]]
+- [[Kapitänin der Cestus]]
 - [[Viri]]
 - [[Session 12 - 17.06.2026]]

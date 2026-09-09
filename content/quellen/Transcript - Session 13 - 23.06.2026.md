@@ -76,7 +76,7 @@ Aschefall würfelt eine 20 (Strength-Check → nur 1 Fähigkeitspunkt) und darf 
 
 ---
 
-## 6. Boarding — Piraten entern die Zestus
+## 6. Boarding — Piraten entern die Cestus
 
 Gegen ca. 1:10 entern Piraten das Deck. Deckgefecht beginnt. Zion befindet sich in Nahkampf:
 
@@ -176,7 +176,7 @@ Nach dem Kampf schildert der DM die Atmosphäre:
 
 - **Rugir abwesend:** Spieler war nicht dabei; DM hat Rugir als NPC geführt. In-game nicht erklärt.
 - **Piraten-Identität ungeklärt:** Die angreifenden Triremen dürften zur Fraktion der **Piratenkönigin von Petrasilea** gehören (aus Session 12 eingeführt). War der Angriff zufällig oder gezielt?
-- **Zestus-Schaden:** Das Schiff ist beschädigt (brennt). Reparaturarbeiten laufen, bevor die Reise nach [[Zarat]] fortgesetzt werden kann.
+- **Cestus-Schaden:** Das Schiff ist beschädigt (brennt). Reparaturarbeiten laufen, bevor die Reise nach [[Zarat]] fortgesetzt werden kann.
 - **Piraten-Anführerin gecharmt:** Sie ist noch 8 Stunden unter Suggestion. Was passiert, wenn der Effekt endet?
 
 ---
@@ -189,6 +189,6 @@ Nach dem Kampf schildert der DM die Atmosphäre:
 - [[Elysia]]
 - [[Sir Aschefall]]
 - [[Rugir]]
-- [[Zestus]]
+- [[Cestus]]
 - [[Zarat]]
 - [[Wo versteckt sich der Assassine]]

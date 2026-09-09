@@ -1,4 +1,4 @@
-﻿---
+---
 type: concept
 title: "Wo versteckt sich der Assassine"
 created: 2026-05-12
@@ -53,7 +53,7 @@ Durchbruch im [[Krokodil-Versteck]]:
 - Aus zusammengesetzten **Pergamentstücken** wird eine **Substitutions-Chiffre** dekodiert (Schlüssel + Brief: [[Codierpergament]]):
   > *„SOBALD ES VOLLBRACHT IST GEHE ICH AN BORD DIE INSEL WARTET DORT WIRD NIEMAND NACH MIR SUCHEN. ICH WARTE DORT AUF WEITERE ANWEISUNGEN"*
 - [[Doruk Val]] nennt (Viri Persuasion DC 13, Nat 20) das Inselziel: **[[Zarat]]**, Nordosten, Region „Despotat Bukewa" (37+ Inseln)
-- Die Gruppe segelt mit der [[Zestus]] dorthin
+- Die Gruppe segelt mit der [[Cestus]] dorthin
 
 Damit verschiebt sich der Schauplatz **weg von Rhusion**: Der Assassine ist nicht mehr in der Stadt, sondern (vermutlich) auf Zarat.
 

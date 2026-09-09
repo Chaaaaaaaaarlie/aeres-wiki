@@ -73,11 +73,11 @@ Laut dem Händler des [[Bernsteinauge]]s (über [[Viri]]) hat Chloro Verde inzwi
 
 ## Session 15 – Die grüne Dirne auf hoher See
 
-Weit draußen auf See, Tage von Rhusion entfernt, greift die titelgebende **[[Rache-Kreatur]]** aus Session 14 die Zestus an. Untersuchung des skelettierten Diebs im toten Wal ergibt: Er floh mit einer Schatulle voller Rubine (50 Gold) vor seiner Verfolgerin — in seinen eigenen Notizen nur **„die grüne Dirne"** genannt. Ein Geschichts-/Intelligenzwurf (Nat-20) bestätigt: gemeint ist Chloro Verde.
+Weit draußen auf See, Tage von Rhusion entfernt, greift die titelgebende **[[Rache-Kreatur]]** aus Session 14 die Cestus an. Untersuchung des skelettierten Diebs im toten Wal ergibt: Er floh mit einer Schatulle voller Rubine (50 Gold) vor seiner Verfolgerin — in seinen eigenen Notizen nur **„die grüne Dirne"** genannt. Ein Geschichts-/Intelligenzwurf (Nat-20) bestätigt: gemeint ist Chloro Verde.
 
 Die Rache-Kreatur steht damit mutmaßlich in direkter Verbindung zu ihr — eine Vergeltung für den Diebstahl, die den Flüchtigen über die offene See verfolgte. Chloro Verdes Reichweite und Macht gehen damit weit über ihr Territorium in Rhusions Kanalisation hinaus.
 
-Die Gruppe hat die Rubine behalten. Bereits die Erwähnung ihres Namens lässt die Seeleute der Zestus sichtlich unruhig werden.
+Die Gruppe hat die Rubine behalten. Bereits die Erwähnung ihres Namens lässt die Seeleute der Cestus sichtlich unruhig werden.
 
 ## Offene Fragen
 

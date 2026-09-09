@@ -12,11 +12,11 @@ priorität: niedrig
 
 ## Was ist bekannt
 
-Am Ende von Session 14: Ein toter Wal treibt auf die Zestus zu. In seiner Flanke klafft ein **riesiger Biss** — eine Kreatur unbekannter Art hat ihn getötet.
+Am Ende von Session 14: Ein toter Wal treibt auf die Cestus zu. In seiner Flanke klafft ein **riesiger Biss** — eine Kreatur unbekannter Art hat ihn getötet.
 
 Im Inneren des Wals:
 - Ein **verkohlt-skelettiertes Wesen in edler Kleidung** — hält eine **Schatulle**
-- Die Harpune der Zestus trifft den Wal, zieht ihn heran
+- Die Harpune der Cestus trifft den Wal, zieht ihn heran
 
 Als das Tau gespannt wird, beginnt es zu vibrieren. Eine Kreatur **formt sich aus Leichenwasser, Brackwasser und Walfluiden** und kriecht am Tau entlang auf das Schiff zu.
 
@@ -54,6 +54,6 @@ Die Rubine wurden von der Gruppe behalten — ein potenzielles Faustpfand, aber 
 
 - [[Session 14 - 01.07.2026]] (Cliffhanger)
 - [[Session 15 - 08.07.2026]] (Auflösung)
-- [[Zestus]]
+- [[Cestus]]
 - [[Chloro Verde]]
 - möglicherweise: [[Mechanischer Vogel]] (dasselbe Wrack?)

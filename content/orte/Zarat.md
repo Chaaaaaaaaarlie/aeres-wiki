@@ -17,7 +17,7 @@ Offizieller Name im Länderkunde-Buch: **„Savart"** (*„Insel der Geier"*).
 
 - Im **Nordosten** der bekannten See
 - Teil des **Despotat Bukewa** – eine von tausenden kleinerer und größerer Inseln der Region
-- Auf einfachen Karten nicht einzeln benannt; die [[Kapitänin der Zestus|Kapitänin der [[Zestus]]]] besitzt eine genauere Seekarte
+- Auf einfachen Karten nicht einzeln benannt; die [[Kapitänin der Cestus|Kapitänin der [[Cestus]]]] besitzt eine genauere Seekarte
 
 ## Zarat als Seucheninsel – Leitwacht
 
@@ -44,9 +44,9 @@ In [[Session 12 - 17.06.2026]] findet Rugir in einem Buch folgenden Eintrag:
 
 ## Ankunft (Session 15)
 
-Die Zestus erreicht Zarat nach einer Reise voller Zwischenfälle (Seepocken, ein ausweichender Leviathan). Die Kapitänin ankert vor der Küste — das Schiff legt nicht direkt an. Regel: Nichts, auch kein Proviant, darf die Insel ohne ausdrückliches Votum verlassen. Die Gruppe bekommt **drei Tage**, bevor das Schiff aus Vorratsmangel umkehren muss.
+Die Cestus erreicht Zarat nach einer Reise voller Zwischenfälle (Seepocken, ein ausweichender Leviathan). Die Kapitänin ankert vor der Küste — das Schiff legt nicht direkt an. Regel: Nichts, auch kein Proviant, darf die Insel ohne ausdrückliches Votum verlassen. Die Gruppe bekommt **drei Tage**, bevor das Schiff aus Vorratsmangel umkehren muss.
 
-Sekunden nach der Landung wird das Beiboot der Gruppe von einem Geschoss **aus dem Leuchtturm** zerstört — ein Wächtermechanismus, der offenbar niemanden unbemerkt entkommen lässt. Die Gruppe hat aktuell keinen offensichtlichen Weg zurück zur Zestus.
+Sekunden nach der Landung wird das Beiboot der Gruppe von einem Geschoss **aus dem Leuchtturm** zerstört — ein Wächtermechanismus, der offenbar niemanden unbemerkt entkommen lässt. Die Gruppe hat aktuell keinen offensichtlichen Weg zurück zur Cestus.
 
 In [[Leitwacht]] trifft die Gruppe auf **[[Calderion]]** (lebt noch), der von einer neuen Bedrohung berichtet: **[[Der Dybbuk|dem Dybbuk]]**, einem leichenbesetzenden Dämon. Calderions Schocker: **Niemand darf die Insel je wieder verlassen** — auch nicht die Gesunden, denn früher oder später erkrankt jeder.
 
@@ -74,7 +74,7 @@ Der als Köder freigelassene Kultist führt die Gruppe zu einer Dschungellichtun
 - [[Rakshasa-Assassine]]
 - [[Wo versteckt sich der Assassine]]
 - [[Doruk Val]]
-- [[Zestus]]
+- [[Cestus]]
 - [[Leitwacht]]
 - [[Calderion]]
 - [[Der Dybbuk]]

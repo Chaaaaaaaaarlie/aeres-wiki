@@ -22,6 +22,16 @@ Format:
 
 ---
 
+## [2026-09-09] fix | Schiffsschreibweise Cestus korrigiert
+
+- Quelle: Nutzerkorrektur: Cestus wird mit C geschrieben
+- Zusammenfassung: Schreibweise im aktuellen Vault auf Cestus vereinheitlicht.
+- Erstellte Seiten: keine
+- Aktualisierte Seiten: [[Cestus]], [[Kapitänin der Cestus]] und alle aktuellen Vault-Verweise auf das Schiff
+- Kernerkenntnis: Kanonische Schreibweise des Schiffs ist Cestus.
+
+---
+
 ## [2026-09-09] fix | Session 18 als Einzeldatei und Quelle angelegt
 
 - Quelle: vom Nutzer gelieferte Spielnotizen vom 26.08.2026
@@ -88,7 +98,7 @@ Format:
 - Zusammenfassung: [[Session 13 - 23.06.2026]]
 - Erstellte Seiten: [[Session 13 - 23.06.2026]], [[Transcript - Session 13 - 23.06.2026]]
 - Aktualisierte Seiten: `hot.md`, `log.md`, `Willkommen.md`, `index.md`, `sessions/_index.md`
-- Kernerkenntnis: Piratenangriff abgewehrt — Entscheidender Moment: Viris Suggestion charmt die Piraten-Anführerin und löst den Rückzug aus; Zestus-Crew betrachtet Gruppe fortan mit Ehrfurcht
+- Kernerkenntnis: Piratenangriff abgewehrt — Entscheidender Moment: Viris Suggestion charmt die Piraten-Anführerin und löst den Rückzug aus; Cestus-Crew betrachtet Gruppe fortan mit Ehrfurcht
 
 ---
 
@@ -97,7 +107,7 @@ Format:
 - Quelle: `craig-zH1qP3suFZDO-sXIdxC4AiiKa0HM.flac.zip` (Transkription: whisperx large-v3, 2878 Segmente)
 - Zusammenfassung: [[Session 12 - 17.06.2026]]
 - Erstellte Seiten: [[Session 12 - 17.06.2026]], [[Mirene Calath]]
-- Aktualisierte Seiten: [[Zarat]], [[Zestus]]
+- Aktualisierte Seiten: [[Zarat]], [[Cestus]]
 - Kernerkenntnis: Zarat ist eine Lepra-Seucheninsel (Leitwacht, Calderion Yolob, Halo-Zauber); Seeschlacht gegen Piraten läuft als Cliffhanger
 
 ---
@@ -126,8 +136,8 @@ Format:
 - Quelle: `Session_11_Aeres_03.06.2026.txt` (WhisperX-Transkript der Session vom 2026-06-03)
 - Transkript-Fix: 93 ASR-Eigennamenfehler am Vault-Kanon korrigiert (z. B. Sion→Zion, Harkers/HKSK→Harkas, Rugia/Roger→Rugir, Jolda/Joel→Hjolda, Doro→Chloro, Zerrat/Zatar→Zarat, Rusion→Rhusion). Bewusst behalten: „Patrizia" (Deckname für den Prinzeps), „Lyssa" (Spitzname Elysias). Backup: `Session_11_Aeres_03.06.2026.original.txt`
 - Zusammenfassung: [[Session 11 - 03.06.2026]]
-- Erstellte Seiten: [[Session 11 - 03.06.2026]], [[Zarat]], [[Sir Aschefall]], [[Kapitänin der Zestus]]
-- Aktualisierte Seiten: [[Harkas]], [[Unbekannte Frau]], [[Die Boss hinter den Helfern]], [[Ritual der 13 Stiche]], [[Schwarzer Seidenstoff]], [[Eingeritzte Zeichen]], [[Aspasia Cortiso]], [[Hjolda]], [[Chloro Verde]], [[Doruk Val]], [[Princeps Orpheon von Lutaxa]], [[Kurkan Akrava]], [[Krokodil-Versteck]], [[Bernsteinauge]], [[Zestus]], [[Wo versteckt sich der Assassine]], [[Rakshasa-Assassine]], [[Zion]], [[Viri]], [[Elysia]], [[Rugir]]; Infrastruktur: `index.md`, `hot.md`, `Willkommen.md`, alle betroffenen `_index.md`
+- Erstellte Seiten: [[Session 11 - 03.06.2026]], [[Zarat]], [[Sir Aschefall]], [[Kapitänin der Cestus]]
+- Aktualisierte Seiten: [[Harkas]], [[Unbekannte Frau]], [[Die Boss hinter den Helfern]], [[Ritual der 13 Stiche]], [[Schwarzer Seidenstoff]], [[Eingeritzte Zeichen]], [[Aspasia Cortiso]], [[Hjolda]], [[Chloro Verde]], [[Doruk Val]], [[Princeps Orpheon von Lutaxa]], [[Kurkan Akrava]], [[Krokodil-Versteck]], [[Bernsteinauge]], [[Cestus]], [[Wo versteckt sich der Assassine]], [[Rakshasa-Assassine]], [[Zion]], [[Viri]], [[Elysia]], [[Rugir]]; Infrastruktur: `index.md`, `hot.md`, `Willkommen.md`, alle betroffenen `_index.md`
 - Kernerkenntnis: Krokodil-Versteck geräumt, „Boss" (= Unbekannte Frau) tot durch Selbstvergiftung samt 13-Stiche-Mal → Spur führt zur Insel Zarat; Hjolda verlässt die Gruppe (Aspasias Leibwache); Ork-Belagerung Rhusions beginnt, während die Gruppe ausläuft. Level-Up.
 
 ---

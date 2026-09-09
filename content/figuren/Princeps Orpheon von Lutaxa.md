@@ -24,7 +24,7 @@ Unausgesprochen: wartet auf Ergebnisse. Die Koina liebt klare Zuständigkeiten �
 ## Session 11 – In der Zitadelle
 
 Die Gruppe betritt die **Valeria-Zitadelle** per **Passwort** (für den Notfall vorgesehen) und meldet das Inselziel **[[Zarat]]**. Der Princeps ist sichtlich erschöpft (*„bitte lasst es gute Nachrichten sein"*) – der Druck der Lage ist enorm. Er:
-- übergibt einen **versiegelten Brief** an die **[[Kapitänin der Zestus|Kapitänin]]** – faktisch eine **Anordnung/Erpressung** (Beschlagnahme bzw. 20 Jahre Hafenverbot bei Weigerung)
+- übergibt einen **versiegelten Brief** an die **[[Kapitänin der Cestus|Kapitänin]]** – faktisch eine **Anordnung/Erpressung** (Beschlagnahme bzw. 20 Jahre Hafenverbot bei Weigerung)
 - gibt **300 Gold** (Goldschatulle)
 - warnt: ein **Versagen könnte einen Krieg auslösen**
 - stellt **[[Sir Aschefall]]** als Begleiter vor (vertraut ihm, *„er hat Lady Cortisos Leben beschützt"*)
@@ -37,6 +37,6 @@ Die Gruppe betritt die **Valeria-Zitadelle** per **Passwort** (für den Notfall 
 - [[Kurkan Akrava]]
 - [[Aspasia Cortiso]]
 - [[Sir Aschefall]]
-- [[Kapitänin der Zestus]]
+- [[Kapitänin der Cestus]]
 - [[Zarat]]
 - [[Session 11 - 03.06.2026]]
