@@ -1,6 +1,6 @@
 ---
 type: meta
-title: "Aktueller Kontext (Hot aache)"
+title: "Aktueller Kontext (Hot Cache)"
 created: 2026-05-12
 updated: 2026-09-09
 tags:
@@ -21,11 +21,11 @@ tags:
 - **Toter Erdgenasi:** Wachstafel-Bitte an den mächtigen Ritualwirkenden: nicht mehr krank sein und von der Insel herunter. Fingerabdrücke deuten auf den toten Erdgenasi vor der Hütte. Er trägt dasselbe vereinfachte Zeichen wie die drei getöteten Kultisten.
 - **Kultisten-Hierarchie:** Rugirs frühere Deutung bleibt wichtig: das Zeichen wirkt wie ein infernalischer Untervertrag / eine schwächere Nebenlinie derselben Macht.
 - **Nachtkreatur:** Auf dem Rückweg verschwinden normale Nachtgeräusche; rote Augen huschen vorbei. Lyssas Licht enthüllt eine entstellte, große pferdeartige Kreatur, die schmerzhaft vor Licht flieht.
-- **Ixtra / sprechende Kristallkugel:** Innerhalb von aalderions Kuppel schreit Ixtra vor Schmerz und gibt erneut preis, dass sie in der Kugel gefangen ist. Außerhalb geht es ihr besser; Lyssa versteckt sie draußen und bittet sie, über mögliche Hilfe nachzudenken.
-- **Zions Schatten:** Beim Durchtreten der Kuppel bleibt Zions Schatten außerhalb zurück. Er wirkt schmerzerfüllt, gereizt und nach erneutem Versuch erschöpfter. aalderion bemerkt später, dass mit ihm etwas nicht stimmt.
+- **Ixtra / sprechende Kristallkugel:** Innerhalb von Calderions Kuppel schreit Ixtra vor Schmerz und gibt erneut preis, dass sie in der Kugel gefangen ist. Außerhalb geht es ihr besser; Lyssa versteckt sie draußen und bittet sie, über mögliche Hilfe nachzudenken.
+- **Zions Schatten:** Beim Durchtreten der Kuppel bleibt Zions Schatten außerhalb zurück. Er wirkt schmerzerfüllt, gereizt und nach erneutem Versuch erschöpfter. Calderion bemerkt später, dass mit ihm etwas nicht stimmt.
 - **Verfluchte Driftkugel:** Viris Driftkugel glimmt innerhalb der Kuppel nicht mehr.
-- **Die codierte Botschaft:** Bei einem Kultisten gefunden und entziffert: *„Füttert den Dybbuk, schwächt ihre Barrieren, und bereitet euch vor."* - direkter Beweis für einen organisierten Sabotage-Auftrag gegen aalderions Schutzzauber um Leitwacht. **aalderion weiß davon vermutlich noch nicht vollständig.**
-- **Drei-Tage-Frist:** Die Kapitänin der aestus muss aus Vorratsmangel umkehren, wenn die Gruppe nicht rechtzeitig zurückkehrt - bislang kein bekannter Weg zurück (Beiboot zerstört).
+- **Die codierte Botschaft:** Bei einem Kultisten gefunden und entziffert: *„Füttert den Dybbuk, schwächt ihre Barrieren, und bereitet euch vor."* - direkter Beweis für einen organisierten Sabotage-Auftrag gegen Calderions Schutzzauber um Leitwacht. **Calderion weiß davon vermutlich noch nicht vollständig.**
+- **Drei-Tage-Frist:** Die Kapitänin der Cestus muss aus Vorratsmangel umkehren, wenn die Gruppe nicht rechtzeitig zurückkehrt - bislang kein bekannter Weg zurück (Beiboot zerstört).
 - **Belagerung Rhusions** durch [[Kurkan Akrava|Hrem]]s Ork-Armee läuft weiterhin im Hintergrund - Zeitdruck bleibt akut.
 
 ## Aktive Fäden
@@ -34,22 +34,22 @@ tags:
 - **[[Dybbuk-Nest]]** - fortgeschritten. Hütte untersucht, Tümpel als giftige Gefahr erkannt.
 - **Ritual in der Hütte** - neu/offen. Professioneller Kreis, Salzbann, Wachstafel-Bitte, unbekannter Beschwörer.
 - **Toter Erdgenasi / Kultistenzeichen** - fortgeschritten. Vermutlich Bittsteller des Rituals; trägt dasselbe vereinfachte Zeichen wie die Kultisten.
-- **[[Zions Hunger]]** - eskaliert. Schatten bleibt an aalderions Kuppel außerhalb zurück.
+- **[[Zions Hunger]]** - eskaliert. Schatten bleibt an Calderions Kuppel außerhalb zurück.
 - **[[Sprechende Kristallkugel]]** - fortgeschritten. Ixtra leidet in der Kuppel, außerhalb besser; Gefängnis bestätigt.
 - **[[Verfluchte Driftkugel]]** - fortgeschritten. Glimmt in der Kuppel nicht mehr.
 - **Nachtkreatur im Dschungel** - neu/offen. Entstellte pferdeartige Kreatur, lichtscheu.
 - **[[Wo versteckt sich der Assassine]]** - fortgeschritten. Verbindung zur Dybbuk-/Kultistenverschwörung bleibt stärkster Hinweis.
 - **[[Magische Mordwaffe]]** - fortgeschritten. Waffentyp tauchte bei Dybbuk-Kultisten erneut auf.
 - Vermisster Halbling + Mensch - offen. Exilanten-Suchtrupp; Leichenidentitäten unbestätigt.
-- Rückweg zur [[aestus]] - offen. Beiboot zerstört, Drei-Tage-Frist läuft weiter.
-- **[[Ritual der 13 Stiche]]**, Viris Herkunft, Sir Aschefalls wahrer Auftrag, [[ahloro Verde]], [[Mechanischer Vogel]], [[Rugirs wahrer Name]], [[Blutpakt des Tigerauge]], [[Tabulei]], [[Hafensabotage]] - im Hintergrund.
+- Rückweg zur [[Cestus]] - offen. Beiboot zerstört, Drei-Tage-Frist läuft weiter.
+- **[[Ritual der 13 Stiche]]**, Viris Herkunft, Sir Aschefalls wahrer Auftrag, [[Chloro Verde]], [[Mechanischer Vogel]], [[Rugirs wahrer Name]], [[Blutpakt des Tigerauge]], [[Tabulei]], [[Hafensabotage]] - im Hintergrund.
 
 ## Offen für die nächste Session
 
-- aalderion über zerstörten Dybbuk, Kultistenzeichen, Ritualhütte, Wachstafel und giftigen Tümpel informieren.
+- Calderion ist über den zerstörten Dybbuk informiert; offen bleibt, ihm Kultistenzeichen, Ritualhütte, Wachstafel und giftigen Tümpel vollständig zu berichten.
 - Zions getrennten Schatten und die Kuppelreaktion untersuchen.
 - Ixtra nach möglichen Wegen aus ihrem Gefängnis befragen.
 - Identität und Motivation des Erdgenasi klären.
 - Entscheiden, ob der Tümpel weiter untersucht oder gemieden wird.
-- Einen Weg zurück zur aestus finden.
+- Einen Weg zurück zur Cestus finden.
 - Den gesuchten Assassinen/Mörder von Sokar Karioka über die verbliebene Kultisten-Spur aufspüren.

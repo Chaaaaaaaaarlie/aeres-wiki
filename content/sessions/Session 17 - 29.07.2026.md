@@ -105,7 +105,7 @@ Der unmittelbare Auftrag Calderions ist damit erfüllt. Ungeklärt bleiben die H
 
 - Hütte und Tümpel im [[Dybbuk-Nest]] untersuchen
 - Opfer identifizieren und prüfen, ob Halbling/Mensch zu den Vermissten gehören
-- [[Calderion]] über Nest, Kultistenmal und den zerstörten Dybbuk informieren
+- [[Calderion]] ist über den zerstörten Dybbuk informiert; Nest- und Kultistenmal-Hinweise noch vollständig berichten
 - Auftraggeber und Zweck der geschwächten Barrieren weiterverfolgen
 - Einen Rückweg zur [[Cestus]] finden
 

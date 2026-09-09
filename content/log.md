@@ -22,13 +22,14 @@ Format:
 
 ---
 
+
 ## [2026-09-09] fix | Schiffsschreibweise Cestus korrigiert
 
 - Quelle: Nutzerkorrektur: Cestus wird mit C geschrieben
-- Zusammenfassung: Schreibweise im aktuellen Vault auf Cestus vereinheitlicht.
+- Zusammenfassung: Schreibweise im aktuellen Vault auf Cestus vereinheitlicht; Calderion ist über den zerstörten Dybbuk bereits informiert.
 - Erstellte Seiten: keine
 - Aktualisierte Seiten: [[Cestus]], [[Kapitänin der Cestus]] und alle aktuellen Vault-Verweise auf das Schiff
-- Kernerkenntnis: Kanonische Schreibweise des Schiffs ist Cestus.
+- Kernerkenntnis: Kanonische Schreibweise des Schiffs ist Cestus; Dybbuk-Meldung an Calderion ist erledigt.
 
 ---
 

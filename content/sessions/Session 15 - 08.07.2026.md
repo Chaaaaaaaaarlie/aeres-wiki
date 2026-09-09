@@ -1,4 +1,4 @@
----
+﻿---
 type: session
 title: "Session 15 - 08.07.2026"
 created: 2026-07-08
