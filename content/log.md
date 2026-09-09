@@ -2,7 +2,7 @@
 type: meta
 title: "Vorgangs-Protokoll"
 created: 2026-05-12
-updated: 2026-08-26
+updated: 2026-09-09
 tags:
   - meta/log
 ---
@@ -19,6 +19,16 @@ Format:
 - Aktualisierte Seiten: [[…]]
 - Kernerkenntnis: ein Satz
 ```
+
+---
+
+## [2026-09-09] fix | Session 18 als Einzeldatei und Quelle angelegt
+
+- Quelle: vom Nutzer gelieferte Spielnotizen vom 26.08.2026
+- Zusammenfassung: [[Session 18 - 26.08.2026]]
+- Erstellte Seiten: [[Session 18 - 26.08.2026]], [[Transcript - Session 18 - 26.08.2026]], [[Session 18 - 26.08.2026 (Rohnotizen)]]
+- Aktualisierte Seiten: `hot.md`, `index.md`, `sessions/_index.md`, `quellen/_index.md`, `log.md`
+- Kernerkenntnis: Der frühere MCP-Blocker für neue Dateien ist aufgelöst; Session 18 ist nun als Recap, Quellenstub und Raw-Notiz im Vault vorhanden.
 
 ---
 
@@ -126,7 +136,7 @@ Format:
 
 - Vorgang: 10 wiki-Unterordner auf deutsche Namen umbenannt (per `git mv`, Historie bleibt erhalten)
 - Mapping: characters→figuren, locations→orte, factions→fraktionen, creatures→kreaturen, deities→gottheiten, threads→fäden, sources→quellen, concepts→konzepte, comparisons→vergleiche, questions→fragen
-- Unverändert: `lore/`, `sessions/`, `meta/`, `.raw/` (deutsch identisch oder rein technisch)
+- Unverändert: `lore/`, `sessions/`, `meta/`, `.raw/` (deutsch identisch bzw. rein technisch)
 - Pfad-Sweep: 39 Verweise in 15 Markdown-Dateien angepasst — Wikilinks der Form `[[characters/_index|…]]`, Dataview-`FROM`-Klauseln, Pfade in Prosa/Struktur-Diagrammen
 - CSS aktualisiert: 10 Selektoren in `.obsidian/snippets/vault-colors.css` (jetzt `data-path^="wiki/figuren"` etc.); zugehörige CSS-Variablen ebenfalls auf deutsche Namen vereinheitlicht
 - Kernerkenntnis: Vault-Ordner sind jetzt vollständig deutsch. Frontmatter-Keys und `WIKI.md` bleiben weiterhin englisch (technische Bezeichner bzw. Schema-Referenz).
