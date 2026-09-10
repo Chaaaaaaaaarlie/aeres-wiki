@@ -19,3 +19,13 @@ Priorisierte offene Handlungsstränge:
 - [[Zions Hunger]] → Katze beansprucht auch die Schwester; Schatten kauert vor Chloro Verde
 - [[Tabulei]] → Viris Hospiz-Auftrag erfüllt (Kassar behandelt)
 
+
+
+## Session 19 - aktueller Stand
+
+- [ ] [[../orte/Tickbalang-Höhle|Tickbalang-Höhle]] betreten und klären, was die Tickbalang aus ihrem Rückzugsort getrieben hat.
+- [ ] Ursache der nekromantisch ausgelaugten Lichtung untersuchen.
+- [ ] Verbindung zwischen Höhle, Mordwaffe und Sokar Kariokas Tod prüfen.
+- [ ] Zions Schatten-/Hungerproblem weiter beobachten, auch nach Calderions Wiederherstellung.
+- [ ] Ixtras verstörte Wahrnehmung der Nacht außerhalb der Kuppel nachfassen.
+- [x] Calderion über Dybbuk, Ritualhütte, Wachstafel, Kultistenzeichen und Tümpel informieren.

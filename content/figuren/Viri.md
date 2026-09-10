@@ -150,3 +150,11 @@ Viri ist nicht als Gast zur Hochzeit gekommen, sondern weil sie Sokars Männer h
 - Erkennt später mit Lyssa am Fingerabdruck, dass die Wachstafel vermutlich vom toten Erdgenasi vor der Hütte stammt.
 - Innerhalb von Leitwachts Kuppel glimmt ihre verfluchte Driftkugel nicht mehr.
 - Übernimmt im Haus des verstorbenen Paars die erste Wache.
+
+
+## Session 19
+
+- Verteilte nachts heimlich Brot an Häuser in Leitwacht und zeichnete Ilmaters Symbol in den Schlamm; am Morgen wurde dies als kleine göttliche Fügung gedeutet.
+- Fühlte sich Ilmater besonders nah und erhielt durch ihr Gebet einen Vorteil vor der nächsten langen Rast.
+- Berichtete Calderion vollständig von Dybbuk, Ritualhütte, Wachstafel, Kultistenzeichen und Tümpel.
+- Zeigte Calderion per Minor Illusion die pferdeartigen Nachtwesen, wodurch er sie als Tickbalang identifizierte.

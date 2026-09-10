@@ -1,4 +1,4 @@
-﻿---
+---
 type: faden
 title: "Verfluchte Schuppenrüstung"
 created: 2026-07-14
@@ -33,3 +33,10 @@ Aschefall hat die Rüstung bisher **nicht angelegt** — der Fluch wurde nur per
 - [[Zarat]]
 - [[Der Dybbuk]]
 - [[Session 16 - 14.07.2026]]
+
+
+## Session 19 - Bestätigter Fluch
+
+Sir Aschefall untersuchte die tief blutrote Schuppenrüstung genauer. Die Verarbeitung ist hochwertig, das Material unbekannt und perlmuttartig rot; bei dem Gedanken, sie anzulegen, stellen sich die Schuppen beinahe lebendig auf.
+
+Rugir bestätigte magisch einen Fluch: ein Bild einer roten Schlange beziehungsweise einer zweiten Haut, die den Träger herausfordert, sie wieder abzulegen. Aschefall legte sie nicht an und verwahrte sie im Bag of Holding.

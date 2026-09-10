@@ -98,3 +98,10 @@ Aschefall wird in [[Session 11 - 03.06.2026]] eingeführt und ist der **künftig
 - Greift am Tümpel des [[Dybbuk-Nest]]s nach etwas Funkelndem im Wasser; Ranken schlingen sich um seinen Arm und versuchen, ihn hineinzuziehen.
 - Kann sich selbst befreien. Zunächst steht die Vermutung im Raum, seine frühere Gift-/Nekrosebelastung lasse ihn halluzinieren, doch Lyssa findet später: Seine Wunde ist nicht weiter kontaminiert, im See lebt aber offenbar tatsächlich etwas Giftiges.
 - Ist nach Viri, Lyssa und Rugir für eine spätere Wache im Haus von Leitwacht vorgesehen.
+
+
+## Session 19
+
+- Untersuchte die blutrote Schuppenrüstung genauer, entschied sich wegen ihres Fluchcharakters aber gegen das Anlegen.
+- Kümmerte sich während der Nacht um eine Ratte und dachte an den verstorbenen Halbling, dessen Haut der Dybbuk getragen hatte.
+- Trug die Rüstung anschließend im Bag of Holding weiter, ohne sie zu nutzen.

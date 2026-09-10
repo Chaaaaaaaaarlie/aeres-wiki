@@ -1,8 +1,8 @@
-﻿---
+---
 type: entity
 title: "Calderion"
 created: 2026-07-08
-updated: 2026-07-14
+updated: 2026-09-10
 tags: [nsc, priester, ilmater, leitwacht, zarat]
 status: aktiv – auf Zarat, unheilbar krank
 entity_type: person
@@ -47,17 +47,23 @@ Sein Blick bleibt dabei auffällig an **Viri** hängen — möglicher Hinweis, d
 
 Als Zion innerhalb der Schutzkuppel testweise Green-Flame-Blade-Magie wirkt (spürbar erschwert, wie gegen eine innere Barriere), bleibt Calderions Blick misstrauisch an ihm hängen und fragt nach dem Grund. Zion lügt mit „menschlicher Neugierde" (Deception DC 12, knapp bestanden).
 
-## Bedrohung seines Schutzzaubers (Session 16, noch nicht berichtet)
+## Bedrohung seines Schutzzaubers (Session 16, berichtet in Session 19)
 
-Im Dschungel besiegt die Gruppe drei Kultisten, die im Auftrag handeln, den Dybbuk zu füttern und Calderions Barriere gezielt zu schwächen. Calderion selbst weiß davon noch nichts — die Gruppe hat ihm diese Information bis Sessionende nicht überbringen können.
+Im Dschungel besiegt die Gruppe drei Kultisten, die im Auftrag handeln, den Dybbuk zu füttern und Calderions Barriere gezielt zu schwächen. Calderion wurde in Session 19 über den zerstörten Dybbuk, die Ritualhütte, Wachstafel, Kultistenzeichen und den giftigen Tümpel informiert.
+
+## Session 19 - Tickbalang und Zions Heilung
+
+Calderion identifizierte die pferdeartigen Nachtwesen aus Viris Illusion als [[../kreaturen/Tickbalang|Tickbalang]]: Fae/Waldgeister und Trickster, die Reisende in die Irre führen und die ursprüngliche Rodung Leitwachts nicht wollten. Nach der Ankunft der ersten Kranken und Pilger zogen sie sich in eine Höhle im Südosten zurück. Ihre neue Aktivität seit ein bis zwei Wochen deutet für ihn darauf hin, dass etwas sie aus der Höhle getrieben haben könnte.
+
+Er sah Feuer vom Himmel fallen und spürte das Erdbeben; beides wertet er als mögliches Omen. Danach wirkte er eine mächtige Wiederherstellung auf [[Zion]], wobei Licht aus den Narben seiner Hand brach und ihn der Zauber sichtbar Kraft kostete. Zusätzlich gab er der Gruppe ein feines Pulver, das gegen verborgene oder unsichtbare Dinge helfen könnte.
 
 ## Offene Fragen
 
 - [ ] Wird Viri seine Nachfolgerin für den Schutzzauber?
 - [ ] Wie lange lebt Calderion noch?
 - [ ] Kennt er die wahre Natur von Zions Reaktion auf seinen Zauber?
-- [ ] Wer ist der humanoide Komplize, der dem Dybbuk hilft, Gräber zu öffnen?
-- [ ] Weiß Calderion von den Kultisten, die seine Barriere gezielt schwächen wollen?
+- [x] Wurde Calderion über Dybbuk, Ritual und Kultistenzeichen informiert?
+- [ ] Was hat die Tickbalang aus ihrer Höhle getrieben?
 
 ## Verknüpfungen
 
@@ -65,7 +71,10 @@ Im Dschungel besiegt die Gruppe drei Kultisten, die im Auftrag handeln, den Dybb
 - [[Zarat]]
 - [[Ilmater]]
 - [[Der Dybbuk]]
+- [[Tickbalang]]
+- [[Tickbalang-Höhle]]
 - [[Viri]]
 - [[Zion]]
 - [[Session 15 - 08.07.2026]]
 - [[Session 16 - 14.07.2026]]
+- [[Session 19 - 09.09.2026]]

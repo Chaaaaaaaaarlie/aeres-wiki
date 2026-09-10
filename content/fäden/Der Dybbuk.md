@@ -95,3 +95,8 @@ Die Untersuchung des [[Dybbuk-Nest]]s nach dem Kampf liefert neue Hinweise, aber
 - Dieser Erdgenasi trägt dasselbe vereinfachte Zeichen wie die zuvor getöteten Kultisten.
 
 Damit verschiebt sich der offene Kern vom Dybbuk selbst zur Frage, wer den Beschwörer/Vertragspartner hinter Hütte, Kultisten und Barriere-Sabotage kontrolliert.
+
+
+## Session 19 - Bericht abgeschlossen
+
+Calderion wurde vollständig über den zerstörten Dybbuk, die Ritualhütte, die Wachstafel, Kultistenzeichen und den giftigen Tümpel informiert. Der Dybbuk selbst bleibt erledigt; die Anschlussfrage führt nun zur [[../orte/Tickbalang-Höhle|Tickbalang-Höhle]] und zu dem, was die dortigen Wesen vertrieben oder benutzt hat.

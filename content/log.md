@@ -1,3 +1,9 @@
+## 2026-09-10 - Session 19 eingepflegt
+
+- Craig-Transkript vom 09.09.2026 per WhisperX large-v3 erstellt und als Rohtranskript unter `.raw/transcripts/Session 19 - 09.09.2026 (Transkript).md` abgelegt.
+- Neue Seiten: [[sessions/Session 19 - 09.09.2026]], [[quellen/Transcript - Session 19 - 09.09.2026]], [[kreaturen/Tickbalang]], [[orte/Tickbalang-Höhle]].
+- Status aktualisiert: Calderion ist vollständig informiert; offen bleiben Tickbalang-Höhle, nekromantische Lichtung, Zion, Ixtra und die Spur zur Mordwaffe.
+
 ---
 type: meta
 title: "Vorgangs-Protokoll"

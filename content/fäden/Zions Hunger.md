@@ -109,3 +109,10 @@ Beim Rückweg nach [[Leitwacht]] eskaliert Zions Reaktion auf Calderions Schutzk
 Die Gruppe schlägt vor, Zion solle wieder hinausgehen und mit dem Schatten erneut hineinkommen. Der Versuch hilft nicht; Zion wirkt danach nur noch erschöpfter. Calderion bemerkt später in der Kapelle, dass mit Zion etwas nicht stimmt, doch Zion zieht sich hinter Viri zurück, um keine Konfrontation zu beginnen.
 
 → Wichtiger neuer Datenpunkt: Nicht nur Zions Körper/Magie reagiert auf die Kuppel, sondern sein Schatten wird physisch oder metaphysisch an der Grenze getrennt. Das passt zu früheren Schattenmanifestationen und verstärkt den Verdacht, dass Zions Hunger/Schatten in eine Kategorie fällt, die Calderions Schutzzauber abwehrt.
+
+
+## Session 19 - Wiederherstellung
+
+Zion erholte sich nach der langen Rast teilweise, blieb aber sichtbar geschwächt. Calderion wirkte eine mächtige Wiederherstellung auf ihn; dabei brach helles Licht aus den Narben seiner Hand und der Zauber kostete Calderion spürbar Kraft.
+
+Offen bleibt, ob damit nur die akute Erschöpfung oder auch ein Teil von Zions tieferem Schatten-/Hungerproblem berührt wurde.

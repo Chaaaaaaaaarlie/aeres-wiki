@@ -82,3 +82,10 @@ Nach der Untersuchung des [[Dybbuk-Nest]]s kehrt die Gruppe bei Dunkelheit nach 
 - [[Zion]] kann die Kuppel nur schmerzhaft durchqueren. Sein Schatten bleibt außerhalb zurück; ein erneuter Versuch erschöpft ihn weiter.
 
 Die Gruppe bittet [[Calderion]] in der Kapelle um eine Schlafmöglichkeit. Calderion bemerkt, dass mit Zion etwas nicht stimmt, doch Zion zieht sich hinter Viri zurück. Die Gruppe erhält das Haus eines verstorbenen Paars; Lyssa prüft Haus und Haferbrei auf Krankheit/Kontamination und findet keine Gefahr.
+
+
+## Session 19 - Nacht unter der Kuppel
+
+Während der Nacht nach dem Dybbuk-Kampf blieb Leitwacht unruhig: Erdbeben, Hundegebell, klappernde Schalen und die bedrückende Stille außerhalb der Kuppel. Viri verteilte heimlich trockenes Brot bei Häusern und zeichnete Ilmaters Symbol in den Schlamm; am Morgen kursierten Gerüchte über eine kleine göttliche Fügung.
+
+Beim Frühstück im Tempel fragte die Gruppe nach Wegen von der Insel und nach Gerüchten. Niemand in Leitwacht kennt einen sicheren Ausweg. In den Hügeln im Südosten sollen bei passendem Wind seltsame Geräusche zu hören sein; Calderion verbindet dies mit den [[../kreaturen/Tickbalang|Tickbalang]] und ihrer Höhle.

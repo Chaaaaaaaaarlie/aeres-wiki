@@ -165,3 +165,10 @@ In [[Session 9 - 15.04.2026]]: Als [[Chloro Verde]]s Schatten länger wird, **ve
 - Untersucht mit Viri den toten Erdgenasi und findet an ihm dasselbe vereinfachte Zeichen wie bei den drei zuvor getöteten Kultisten.
 - Beim Durchqueren von Calderions Schutzkuppel bleibt sein Schatten außerhalb zurück. Zion wirkt schmerzerfüllt, gereizt und nach einem erneuten Versuch erschöpfter.
 - In der Kapelle bemerkt [[Calderion]], dass mit Zion etwas nicht stimmt; Zion zieht sich hinter Viri zurück, um keinen Streit anzufangen.
+
+
+## Session 19
+
+- War nach der langen Rast weiter stark gezeichnet, wurde aber von Calderion mit einer mächtigen Wiederherstellung gestärkt.
+- Calderions Zauber erzeugte helles Licht aus dessen Handnarben und kostete den Priester sichtbar Kraft.
+- Zions tieferes Schatten-/Hungerproblem bleibt trotz akuter Besserung offen.

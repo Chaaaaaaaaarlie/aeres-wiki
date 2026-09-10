@@ -2,54 +2,48 @@
 type: meta
 title: "Aktueller Kontext (Hot Cache)"
 created: 2026-05-12
-updated: 2026-09-09
+updated: 2026-09-10
 tags:
   - meta/hot
 ---
 # Aktueller Kontext
 
 ## Letztes Update
-2026-09-09 - [[Session 18 - 26.08.2026]] als Einzeldatei, Quellenstub und Raw-Notiz aufgenommen. Nach dem Sieg über den [[Der Dybbuk|Dybbuk]] untersucht die Gruppe das [[Dybbuk-Nest]] weiter: Der Tümpel enthält offenbar etwas Giftiges, die Hütte birgt einen professionellen Beschwörungs-/Bannkreis und eine Wachstafel-Bitte des toten Erdgenasi. Auf dem Rückweg nach [[Leitwacht]] flieht eine entstellte pferdeartige Kreatur vor Licht. Innerhalb der Kuppel glimmt Viris Driftkugel nicht mehr, Ixtra leidet und Zions Schatten bleibt außerhalb zurück.
+2026-09-10 - [[Session 19 - 09.09.2026]] aufgenommen. Nach der Nacht in [[Leitwacht]] berichtet die Gruppe [[Calderion]] vollständig von Dybbuk, Ritualhütte, Wachstafel, Kultistenzeichen, Tümpel und Nachtkreatur. Calderion identifiziert die Kreaturen als [[Tickbalang]] und warnt vor ihrer Höhle im Südosten. Er wirkt Greater Restoration auf [[Zion]] und gibt Puder gegen Verborgenes mit. Die Gruppe marschiert zur [[Tickbalang-Höhle]], findet unterwegs nekromantisch ausgesaugte Tiere und endet am Höhleneingang, dem Mörder von [[Sokar Karioka]] offenbar näher.
 
 ## Wichtige aktuelle Fakten
 
-- Aktuellste In-Fiction-Session: [[Session 18 - 26.08.2026]]
-- Die Gruppe schläft in [[Leitwacht]] im Haus eines verstorbenen Paars; Viri hält die erste Wache, danach Lyssa, Rugir und Aschefall.
-- **Dybbuk zerstört:** Der Dämon wurde in Session 17 vernichtet. Session 18 liefert Nachfolgehinweise im Nest, aber kein Zeichen, dass der Dybbuk selbst noch aktiv ist.
-- **Giftiger Tümpel im [[Dybbuk-Nest]]:** Viri bemerkt ein irritierendes Spiegelbild, bleibt unverletzt. Aschefall wird beim Griff nach etwas Funkelndem von Ranken gepackt. Lyssa erkennt: Aschefalls Wunde ist nicht weiter kontaminiert, aber im See lebt offenbar etwas Giftiges.
-- **Ritualhütte:** Professioneller Ritualkreis plus Salz-/Omega-Bannsymbol. Zweck wirkt wie: etwas im Inneren Beschworenes nach draußen treiben und am Zurückkehren hindern. Außenrunen sind dagegen stümperhafte Nachahmungen.
-- **Toter Erdgenasi:** Wachstafel-Bitte an den mächtigen Ritualwirkenden: nicht mehr krank sein und von der Insel herunter. Fingerabdrücke deuten auf den toten Erdgenasi vor der Hütte. Er trägt dasselbe vereinfachte Zeichen wie die drei getöteten Kultisten.
-- **Kultisten-Hierarchie:** Rugirs frühere Deutung bleibt wichtig: das Zeichen wirkt wie ein infernalischer Untervertrag / eine schwächere Nebenlinie derselben Macht.
-- **Nachtkreatur:** Auf dem Rückweg verschwinden normale Nachtgeräusche; rote Augen huschen vorbei. Lyssas Licht enthüllt eine entstellte, große pferdeartige Kreatur, die schmerzhaft vor Licht flieht.
-- **Ixtra / sprechende Kristallkugel:** Innerhalb von Calderions Kuppel schreit Ixtra vor Schmerz und gibt erneut preis, dass sie in der Kugel gefangen ist. Außerhalb geht es ihr besser; Lyssa versteckt sie draußen und bittet sie, über mögliche Hilfe nachzudenken.
-- **Zions Schatten:** Beim Durchtreten der Kuppel bleibt Zions Schatten außerhalb zurück. Er wirkt schmerzerfüllt, gereizt und nach erneutem Versuch erschöpfter. Calderion bemerkt später, dass mit ihm etwas nicht stimmt.
-- **Verfluchte Driftkugel:** Viris Driftkugel glimmt innerhalb der Kuppel nicht mehr.
-- **Die codierte Botschaft:** Bei einem Kultisten gefunden und entziffert: *„Füttert den Dybbuk, schwächt ihre Barrieren, und bereitet euch vor."* - direkter Beweis für einen organisierten Sabotage-Auftrag gegen Calderions Schutzzauber um Leitwacht. **Calderion weiß davon vermutlich noch nicht vollständig.**
-- **Drei-Tage-Frist:** Die Kapitänin der Cestus muss aus Vorratsmangel umkehren, wenn die Gruppe nicht rechtzeitig zurückkehrt - bislang kein bekannter Weg zurück (Beiboot zerstört).
+- Aktuellste In-Fiction-Session: [[Session 19 - 09.09.2026]]
+- Die Gruppe steht vor der [[Tickbalang-Höhle]] im Südosten von [[Zarat]]. Die Höhle wurde noch nicht betreten.
+- **Calderion informiert:** Er weiß jetzt vom zerstörten Dybbuk und von den Nachfolgehinweisen: Ritualhütte, Wachstafel, Kultistenzeichen, giftigem Wesen im Tümpel und pferdeartiger Nachtkreatur.
+- **[[Tickbalang]]:** Calderion identifiziert die pferdeartigen Wesen als faeartige Waldgeister/Trickster. Sie lebten früher im Wald um Leitwacht, zogen sich nach der Rodung in die Höhle im Südosten zurück und sind seit etwa ein bis zwei Wochen wieder vermehrt aktiv.
+- **Höhle im Südosten:** Niemand aus Leitwacht soll sie lebend verlassen haben. Wenn die Tickbalang daraus fliehen, ist dort vermutlich etwas Schlimmeres aktiv.
+- **Lebensraub-Lichtung:** Auf dem Weg liegen tote Tiere und verfallende Vegetation ohne äußere Verletzungen. Rugir erkennt nekromantische Rückstände; Viri deutet es als geraubte Lebensenergie.
+- **Zion:** Nach langer Rast weiterhin schwer angeschlagen. Calderion wirkt Greater Restoration auf ihn, was den Priester sichtbar Kraft kostet. Ob Zions Schatten-/Kuppelproblem dadurch gelöst ist, bleibt offen.
+- **Ixtra / sprechende Kristallkugel:** Lyssa sammelt Ixtra draußen wieder ein. Ixtra hat die Nacht allein außerhalb der Kuppel überstanden, wirkt aber mitgenommen und erwähnt die Kreaturen.
+- **Rugirs Eule:** Die draußen gelassene Eulen-Familiar ist nicht mehr erreichbar; unklar, ob sie fort, zerstört oder nur durch die Kuppelabschirmung getrennt ist.
+- **Verfluchte Schuppenrüstung:** Rugir bestätigt ein verdorbenes Fluchbild: rote Schlange/zweite Haut, schwer wieder abzustreifen. Aschefall legt sie nicht an; sie landet im Bag of Holding.
+- **Viri:** Verteilt nachts heimlich Brot an zwei Häuser in Leitwacht, zeichnet Ilmaters Zeichen in den Matsch und erhält für den nächsten Tag einmal Vorteil auf einen Wurf.
+- **Drei-Tage-Frist:** Die [[Kapitänin der Cestus]] muss aus Vorratsmangel umkehren, wenn die Gruppe nicht rechtzeitig zurückkehrt. Bisher kein bekannter Rückweg, Beiboot zerstört.
 - **Belagerung Rhusions** durch [[Kurkan Akrava|Hrem]]s Ork-Armee läuft weiterhin im Hintergrund - Zeitdruck bleibt akut.
 
 ## Aktive Fäden
 
-- **[[Der Dybbuk]]** - gelöst. Dämon in Session 17 zerstört; Hütte/Kultisten/Barriere-Sabotage bleiben offen.
-- **[[Dybbuk-Nest]]** - fortgeschritten. Hütte untersucht, Tümpel als giftige Gefahr erkannt.
-- **Ritual in der Hütte** - neu/offen. Professioneller Kreis, Salzbann, Wachstafel-Bitte, unbekannter Beschwörer.
-- **Toter Erdgenasi / Kultistenzeichen** - fortgeschritten. Vermutlich Bittsteller des Rituals; trägt dasselbe vereinfachte Zeichen wie die Kultisten.
-- **[[Zions Hunger]]** - eskaliert. Schatten bleibt an Calderions Kuppel außerhalb zurück.
-- **[[Sprechende Kristallkugel]]** - fortgeschritten. Ixtra leidet in der Kuppel, außerhalb besser; Gefängnis bestätigt.
-- **[[Verfluchte Driftkugel]]** - fortgeschritten. Glimmt in der Kuppel nicht mehr.
-- **Nachtkreatur im Dschungel** - neu/offen. Entstellte pferdeartige Kreatur, lichtscheu.
-- **[[Wo versteckt sich der Assassine]]** - fortgeschritten. Verbindung zur Dybbuk-/Kultistenverschwörung bleibt stärkster Hinweis.
-- **[[Magische Mordwaffe]]** - fortgeschritten. Waffentyp tauchte bei Dybbuk-Kultisten erneut auf.
-- Vermisster Halbling + Mensch - offen. Exilanten-Suchtrupp; Leichenidentitäten unbestätigt.
+- **[[Tickbalang]] / [[Tickbalang-Höhle]]** - neu/akut. Waldgeister offenbar aus ihrer Höhle verdrängt; Gruppe steht am Eingang.
+- **Lebensraub-Lichtung** - neu/offen. Nekromantische Energie hat Tiere/Pflanzen ausgesaugt.
+- **[[Wo versteckt sich der Assassine]]** - fortgeschritten. Die Höhle fühlt sich wie der nächste Schritt zum Mörder von Sokar Karioka an.
+- **[[Zions Hunger]]** - fortgeschritten. Greater Restoration half körperlich, aber Schatten-/Kuppelproblem bleibt ungeklärt.
+- **[[Sprechende Kristallkugel]]** - fortgeschritten. Ixtra reagiert weiter auffällig auf Kuppel und Waldwesen.
+- **[[Verfluchte Schuppenrüstung]]** - fortgeschritten. Fluch als zweite Haut/rote Schlange bestätigt; ungetragen.
+- **[[Der Dybbuk]]** - gelöst. Calderion ist über die Nachfolgehinweise informiert; offener Kern verschiebt sich zu Auftraggeber/Höhle/Assassinen-Spur.
 - Rückweg zur [[Cestus]] - offen. Beiboot zerstört, Drei-Tage-Frist läuft weiter.
 - **[[Ritual der 13 Stiche]]**, Viris Herkunft, Sir Aschefalls wahrer Auftrag, [[Chloro Verde]], [[Mechanischer Vogel]], [[Rugirs wahrer Name]], [[Blutpakt des Tigerauge]], [[Tabulei]], [[Hafensabotage]] - im Hintergrund.
 
 ## Offen für die nächste Session
 
-- Calderion ist über den zerstörten Dybbuk informiert; offen bleibt, ihm Kultistenzeichen, Ritualhütte, Wachstafel und giftigen Tümpel vollständig zu berichten.
-- Zions getrennten Schatten und die Kuppelreaktion untersuchen.
-- Ixtra nach möglichen Wegen aus ihrem Gefängnis befragen.
-- Identität und Motivation des Erdgenasi klären.
-- Entscheiden, ob der Tümpel weiter untersucht oder gemieden wird.
-- Einen Weg zurück zur Cestus finden.
-- Den gesuchten Assassinen/Mörder von Sokar Karioka über die verbliebene Kultisten-Spur aufspüren.
+- Die [[Tickbalang-Höhle]] betreten und klären, was die Waldgeister verdrängt hat.
+- Lebensraub-Spuren untersuchen: Was saugt Tiere und Vegetation aus und lädt sich damit auf?
+- Prüfen, was Calderions Greater Restoration an Zion verändert hat und ob sein Schatten zurückgeholt werden kann.
+- Ixtra befragen, was in der Nacht außerhalb der Kuppel passiert ist.
+- Die verfluchte Schuppenrüstung nicht anlegen, bis Fluch/Nutzen sicherer sind.
+- Den gesuchten Assassinen/Mörder von Sokar Karioka über die Höhlenspur weiter verfolgen.

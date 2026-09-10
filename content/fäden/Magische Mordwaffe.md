@@ -1,4 +1,4 @@
-﻿---
+---
 type: concept
 title: "Magische Mordwaffe"
 created: 2026-05-12
@@ -50,3 +50,8 @@ Auf **[[Zarat]]** beschwören drei Kultisten des **[[Der Dybbuk|Dybbuk]]** im Ka
 - [[Bernsteinauge]]
 - [[Der Dybbuk]]
 - [[Session 16 - 14.07.2026]]
+
+
+## Session 19 - Indirekte Spur
+
+Die Gruppe fand auf dem Weg zur Tickbalang-Höhle eine nekromantisch ausgelaugte Lichtung. Das passt noch nicht direkt zur gesuchten Mordwaffe, verstärkt aber die Spur zu einer Macht, die Lebenskraft entzieht und mit Sokar Kariokas Tod zusammenhängen könnte.

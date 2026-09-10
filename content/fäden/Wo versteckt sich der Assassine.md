@@ -85,3 +85,8 @@ Im Dschungel von Zarat kämpft die Gruppe gegen drei Kultisten des [[Der Dybbuk|
 - [[Session 11 - 03.06.2026]]
 - [[Session 16 - 14.07.2026]]
 
+
+
+## Session 19 - Spur zur Höhle
+
+Nach Calderions Erklärung zu den Tickbalang und der Südost-Höhle folgte die Gruppe dieser Spur. Die nekromantisch ausgelaugte Lichtung und der furchteinflößende Höhleneingang verstärkten den Eindruck, dem eigentlichen Täter hinter Sokar Kariokas Tod näher zu kommen.

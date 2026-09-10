@@ -169,3 +169,11 @@ In [[Session 10 - 06.05.2026]] ruft Elysia ihren inneren Freund unter dem Namen 
 - Vertreibt auf dem Rückweg mit einer kleinen Lichtflamme eine entstellte pferdeartige Kreatur, die schmerzhaft vor dem Licht flieht.
 - Versteckt Ixtra außerhalb der Kuppel, nachdem Ixtra innerhalb der Kuppel schreit und preisgibt, in der Kugel gefangen zu sein.
 - Prüft das leerstehende Haus und den Haferbrei in Leitwacht auf Krankheiten/Kontamination; beides ist unbedenklich.
+
+
+## Session 19
+
+- Wartete in der feuchten Nacht Rüstung und Schild, auch bei Aschefalls Ausrüstung; Feuchtigkeit, Rost und Grünspan bleiben auf Zarat ein echtes Problem.
+- Nutzte Druidcraft zur Wetterdeutung: weiterer Regen und feuchte Bedingungen.
+- Legte eine Tarotdeutung zur Lage: Ankunft, Zusammenarbeit, Konflikt und Verlust von Kontrolle deuten darauf, dass die Ereignisse auf Zarat nicht zufällig sind.
+- Holte Ixtra wieder von außerhalb der Kuppel.

@@ -96,3 +96,10 @@ Die Gruppe untersucht das [[Dybbuk-Nest]] nach dem Kampf weiter. Der Tümpel erw
 In der Hütte findet die Gruppe einen professionellen Beschwörungs-/Bannkreis und ein aus Salz gestreutes Omega-ähnliches Symbol. Es scheint so angelegt, dass etwas im Inneren Beschworenes nach draußen getrieben und am Zurückkehren gehindert wird. Eine Wachstafel enthält vermutlich die Bitte des toten Erdgenasi: Er will nicht mehr krank sein und von der Insel herunter. Der Erdgenasi trägt dasselbe vereinfachte Zeichen wie die zuvor getöteten Kultisten.
 
 Auf dem Rückweg nach [[Leitwacht]] begegnet die Gruppe einer entstellten, großen pferdeartigen Kreatur, die vor Lyssas Licht schmerzhaft zurückweicht und flieht.
+
+
+## Session 19 - Südöstliche Hügel
+
+Calderion berichtete, dass [[Leitwacht]] früher vollständig Wald war und die [[../kreaturen/Tickbalang|Tickbalang]] nach der Rodung in eine Höhle im Südosten zurückwichen. Die Gruppe folgte dieser Spur.
+
+Auf dem Weg fand sie eine Lichtung, auf der Vegetation verging und Tiere ohne äußere Wunden tot lagen, als wäre ihnen die Lebenskraft ausgesogen worden. Am Ende erreichte sie einen porösen Hügel mit alten Felswohnungen und der [[Tickbalang-Höhle]] am Fuß.

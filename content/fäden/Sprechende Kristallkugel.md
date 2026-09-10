@@ -69,3 +69,8 @@ Beim Rückweg nach [[Leitwacht]] zeigt Calderions Schutzkuppel eine starke Wirku
 Lyssa versteckt die Kugel deshalb außerhalb der Kuppel und gibt Ixtra die Aufgabe, darüber nachzudenken, ob es einen Weg gibt, wie die Gruppe ihr helfen kann.
 
 Neue Einordnung: Ixtra bzw. das Wesen in der Kugel reagiert klar auf die Kuppel, die Untote, Dämonen, Teufel, Fae und himmlische Wesen abwehrt. Das stützt den Fae-/Extraplanar-Verdacht, beweist aber noch nicht, was Ixtra tatsächlich ist.
+
+
+## Session 19 - Ixtra vor der Kuppel
+
+Lyssa holte Ixtra wieder von außerhalb der Schutzkuppel. Ixtra war noch da, begrüßte die Gruppe mit scharfem Spott und wirkte zugleich verstört: Sie war die Nacht allein bei den beobachtenden Wesen draußen und meinte, dass etwas geschehen sei oder nicht stimme.

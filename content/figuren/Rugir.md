@@ -161,3 +161,11 @@ Kein direkter Treffer auf die **7 Kerzen** oder die **13 Stiche**. Spezialist f�
 - In den vorliegenden Notizen keine zentrale neue Aktion.
 - Ist nach Viri und Lyssa für eine spätere Wache im Haus von Leitwacht vorgesehen.
 - Relevante offene Forschungsanschlüsse aus dieser Session: professioneller Ritualkreis in der Hütte, Salzbann, vereinfachtes Kultistenzeichen am Erdgenasi und die Reaktion magischer Gegenstände innerhalb von Calderions Kuppel.
+
+
+## Session 19
+
+- Versuchte über die Schutzkuppel hinweg Kontakt zu seinem Eulenvertrauten aufzunehmen; die Barriere verhinderte dies, später blieb die Eule außerhalb der Kuppel verschwunden oder unerreichbar.
+- Beobachtete nachts mehrere leuchtende Augenpaare im Wald jenseits der Kuppel.
+- Identifizierte die rote Schuppenrüstung als verflucht und warnte vor der zweiten-Haut-/Schlangen-Natur des Effekts.
+- Half mit Lichtzaubern bei der Vorbereitung auf den Höhlengang.
