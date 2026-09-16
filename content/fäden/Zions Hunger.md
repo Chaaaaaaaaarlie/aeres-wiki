@@ -2,7 +2,7 @@
 type: concept
 title: "Zions Hunger"
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-09-16
 tags: [offen, zion, inneres]
 priorität: hoch
 ---
@@ -116,3 +116,12 @@ Die Gruppe schlägt vor, Zion solle wieder hinausgehen und mit dem Schatten erne
 Zion erholte sich nach der langen Rast teilweise, blieb aber sichtbar geschwächt. Calderion wirkte eine mächtige Wiederherstellung auf ihn; dabei brach helles Licht aus den Narben seiner Hand und der Zauber kostete Calderion spürbar Kraft.
 
 Offen bleibt, ob damit nur die akute Erschöpfung oder auch ein Teil von Zions tieferem Schatten-/Hungerproblem berührt wurde.
+
+
+## Session 20 — Prüfung ausgesetzt
+
+[[Zion]] betritt mit der Gruppe die [[Tickbalang-Höhle]] und besteht den Rettungswurf gegen die [[Die Dunkelheit der Tickbalang-Höhle|Dunkelheit]] ebenso wenig wie alle anderen (Quelle: [[Session 20 - 16.09.2026]]). Weil sein Spieler fehlt, wird seine Prüfung jedoch ausdrücklich **ausgespart und auf die nächste Session verschoben**.
+
+Offen bleibt damit die naheliegendste Frage der Session: Was bietet eine Macht, die jedem seine wundeste Stelle vorhält, ausgerechnet jemandem an, der bereits einen Hunger, einen Blutpakt und einen abgetrennten Schatten mit sich trägt.
+
+Vor dem Einstieg drängte Zion zur Eile: Auf eine weitere Nacht, damit [[Elysia|Lyssa]] *Protection from Evil and Good* vorbereiten kann, habe die Gruppe keine Zeit mehr.

@@ -2,7 +2,7 @@
 type: faden
 title: "Verfluchte Driftkugel"
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-09-16
 tags: [faden, artefakt, fluch, zarat, offen]
 status: open
 priorität: niedrig
@@ -38,3 +38,24 @@ Beim Versuch, die Kugel zu identifizieren, erscheinen Rugir grauenhafte Visionen
 ## Reaktion auf Leitwachts Kuppel (Session 18)
 
 Beim Rückweg nach [[Leitwacht]] stellt die Gruppe fest, dass Viris Driftkugel innerhalb der Schutzkuppel nicht mehr glimmt. Ob dies eine gezielte Dämpfung magischer Gegenstände, ein Effekt des Fluchs oder eine Reaktion auf die Art der Kuppel ist, bleibt offen.
+
+
+## Session 20 — Der Fluch als Waffe
+
+In der [[Tickbalang-Höhle]] setzt [[Viri]] die Kugel erstmals ernsthaft ein (Quelle: [[Session 20 - 16.09.2026]]) — und der Fluch erweist sich als unerwartet nützlich.
+
+**Was passiert:**
+
+- Beim Aktivieren erfüllt die Helligkeit kurz den Raum; die Schatten, die die Kugel an die Wände wirft, sind Ungeheuer aus Tentakeln, Zähnen und Grausamkeiten — und sie beginnen zu **schreien**
+- In der Finsternis der Höhle haben diese Schatten „ihren Herrn und Meister gefunden": Sie kämpfen mit der Dunkelheit draußen
+- Der Lichtkegel wird abwechselnd größer und kleiner, bis sich nach ein bis zwei Minuten ein etwa **meterbreiter Lichtkegel** festigt, gegen den die Dunkelheit vibrierend drückt
+- Das Licht **drängt die Finsternis zur Seite** — es ist das einzige Mittel der Gruppe, das gegen die Dunkelheit wirklich standhält
+- Das Schreien bleibt die ganze Zeit hörbar, auch für die Gruppe draußen, und macht Viri nach eigener Aussage fast verrückt
+- Sobald Viri wieder ins Tageslicht tritt, verharren die Schattenmonster und das Schreien hört auf
+- In der Abgrundkammer, wo die Dunkelheit zurückweicht, flammt das Licht plötzlich in voller Stärke auf; danach hört auch das Schreien auf
+
+**Neue Einordnung:** Der Fluch ist kein reiner Horror-Effekt ohne Nutzen. Die Kugel bringt offenbar etwas mit, das mit der Finsternis in der Höhle in derselben Währung verhandelt. Woher sie stammt und was die Schatten sind, bleibt unbeantwortet.
+
+- [ ] Sind die Schatten in der Kugel derselben Art wie die Macht in der Höhle?
+- [ ] Verbraucht sich der Effekt, oder bleibt die Kugel dauerhaft eine Lichtquelle gegen solche Finsternis?
+- [ ] Wird Viri von wiederholtem Gebrauch geschädigt?

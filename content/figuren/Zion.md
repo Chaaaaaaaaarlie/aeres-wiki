@@ -2,7 +2,7 @@
 type: entity
 title: "Zion"
 created: 2026-05-12
-updated: 2026-07-29
+updated: 2026-09-16
 tags: [charakter, spielercharakter]
 klasse: Kämpfer
 status: aktiv
@@ -172,3 +172,15 @@ In [[Session 9 - 15.04.2026]]: Als [[Chloro Verde]]s Schatten länger wird, **ve
 - War nach der langen Rast weiter stark gezeichnet, wurde aber von Calderion mit einer mächtigen Wiederherstellung gestärkt.
 - Calderions Zauber erzeugte helles Licht aus dessen Handnarben und kostete den Priester sichtbar Kraft.
 - Zions tieferes Schatten-/Hungerproblem bleibt trotz akuter Besserung offen.
+
+
+## Session 20
+
+> [!info] Zions Spieler fehlte in dieser Session; Zion wurde vom Spielleiter geführt.
+
+- Drängte vor dem Einstieg in die [[Tickbalang-Höhle]] zur Eile: Auf eine weitere Nacht, damit [[Elysia|Lyssa]] den passenden Schutzzauber vorbereiten kann, habe die Gruppe keine Zeit mehr.
+- Bildete in der angeseilten Marschordnung die Nachhut.
+- Bestand den Rettungswurf gegen die [[Die Dunkelheit der Tickbalang-Höhle|Dunkelheit]] ebenfalls nicht.
+- **Seine Prüfung wurde ausdrücklich ausgespart** und auf die nächste Session verschoben, damit sein Spieler sie selbst spielen kann. Was Zion in der Vision angeboten wurde und wie er entschieden hat, ist noch offen.
+- Erhielt von Lyssa *Guidance* für den Weg durch die Quarzkammer und kam unbeschadet hindurch.
+- Die Gruppe äußert am Tisch offene Sorge, wie Zion angesichts seines Schattens auf diese Höhle reagieren wird.

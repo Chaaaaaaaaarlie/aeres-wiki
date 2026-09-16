@@ -2,7 +2,7 @@
 type: concept
 title: "Wo versteckt sich der Assassine"
 created: 2026-05-12
-updated: 2026-07-14
+updated: 2026-09-16
 tags: [offen, priorität, assassine]
 priorität: hoch
 ---
@@ -90,3 +90,14 @@ Im Dschungel von Zarat kämpft die Gruppe gegen drei Kultisten des [[Der Dybbuk|
 ## Session 19 - Spur zur Höhle
 
 Nach Calderions Erklärung zu den Tickbalang und der Südost-Höhle folgte die Gruppe dieser Spur. Die nekromantisch ausgelaugte Lichtung und der furchteinflößende Höhleneingang verstärkten den Eindruck, dem eigentlichen Täter hinter Sokar Kariokas Tod näher zu kommen.
+
+
+## Session 20 — Höhle betreten, keine direkte Spur
+
+Die Gruppe betritt die [[Tickbalang-Höhle]], in der sie den Mörder von [[Sokar Karioka]] vermutet (Quelle: [[Session 20 - 16.09.2026]]).
+
+**Was für die Spur spricht:** Am Höhleneingang findet [[Viri]] neben magischem Residuum dieselbe **nekrotische Leere**, die die Mordwaffen bei [[Zion]] und [[Sir Aschefall]] hinterlassen haben — die Abwesenheit von Leben und Sinn. Die Spuren sind allerdings nicht frisch.
+
+**Was dagegen spricht:** Im bisher erkundeten Teil der Höhle findet sich kein direkter Hinweis auf den Assassinen. Die dortige Macht arbeitet mit Illusion, Wahrnehmungsverzerrung und Versuchung — nicht mit Klingen. Die Toten am Abgrund sind Abenteurer, die an einer eierlegenden Kreatur gestorben sind, nicht an einer magischen Mordwaffe.
+
+Ob die Macht in der Höhle, die Kreatur mit den Eiern und der gesuchte Mörder drei Dinge sind oder eines, ist offen.

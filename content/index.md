@@ -2,7 +2,7 @@
 type: meta
 title: "Aeres-Wiki — Hauptübersicht"
 created: 2026-05-12
-updated: 2026-09-10
+updated: 2026-09-16
 tags:
   - meta/index
 ---
@@ -14,14 +14,14 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 
 ## Domänen
 
-- [[figuren/_index|Figuren-Übersicht]] — NSCs & SCs (26 Seiten)
+- [[figuren/_index|Figuren-Übersicht]] — NSCs & SCs (30 Seiten)
 - [[orte/_index|Orte-Übersicht]] — Orte (22 Seiten)
 - [[fraktionen/_index|Fraktionen-Übersicht]] — Häuser, Kabalen, politische Körper (8 Seiten)
 - [[kreaturen/_index|Kreaturen-Übersicht]] — Bestiarium (2 Seiten)
-- [[gottheiten/_index|Gottheiten-Übersicht]] — Götter (3 Seiten)
-- [[lore/_index|Lore-Übersicht]] — Welt-Hintergrund (5 Seiten)
-- [[fäden/_index|Fäden-Übersicht]] — offene Handlungsfäden & Hinweise (27 Seiten inkl. Rollups)
-- [[sessions/_index|Sessions-Übersicht]] — Session-Recaps (19 Seiten)
+- [[gottheiten/_index|Gottheiten-Übersicht]] — Götter & Engel (4 Seiten)
+- [[lore/_index|Lore-Übersicht]] — Welt-Hintergrund (6 Seiten)
+- [[fäden/_index|Fäden-Übersicht]] — offene Handlungsfäden & Hinweise (28 Seiten inkl. Rollups)
+- [[sessions/_index|Sessions-Übersicht]] — Session-Recaps (20 Seiten)
 
 ## Figuren
 
@@ -32,6 +32,10 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 ### NSCs — Verbündete, Kontakte, Zeugen
 
 - [[Augier]] · [[Bruder Kalvet]] · [[Calderion]] · [[Chloro Verde]] · [[Doruk Val]] · [[Elmar Kassar]] · [[Halbling-Wahrsagerin]] · [[Harkas]] · [[Kapitänin der Cestus]] · [[Mirene Calath]] · [[Schwester Elva]] · [[Sir Aschefall]] · [[Ventus]]
+
+### NSCs — Aus der Vergangenheit
+
+- [[Der Kriegsherr]] · [[Zahir]] · [[Saria]] · [[Jada]]
 
 ### NSCs — Politik & Adel
 
@@ -55,19 +59,19 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 
 ## Gottheiten
 
-- [[Gottheiten der Menschen]] · [[Ilmater]] · [[Mystra]]
+- [[Gottheiten der Menschen]] · [[Ilmater]] · [[Mystra]] · [[Dolorion]]
 
 ## Lore
 
-- [[Apokrator]] · [[Der Große Kataklysmus]] · [[Götter & Tempel]] · [[Rhusion]] · [[Welt & Hintergrund]]
+- [[Apokrator]] · [[Der Große Kataklysmus]] · [[Götter & Tempel]] · [[Karaman]] · [[Rhusion]] · [[Welt & Hintergrund]]
 
 ## Fäden — Heiß
 
-- [[Tickbalang]] · [[Tickbalang-Höhle]] · [[Zions Hunger]] · [[Wo versteckt sich der Assassine]] · [[Blutpakt des Tigerauge]] · [[Ritual der 13 Stiche]] · [[Tabulei]]
+- [[Die Dunkelheit der Tickbalang-Höhle]] · [[Dolorion]] · [[Ventus]] · [[Tickbalang]] · [[Tickbalang-Höhle]] · [[Zions Hunger]] · [[Wo versteckt sich der Assassine]] · [[Blutpakt des Tigerauge]] · [[Ritual der 13 Stiche]] · [[Tabulei]]
 
 ## Fäden — Hinweise & Offen
 
-- [[Codierpergament]] · [[Die Boss hinter den Helfern]] · [[Die Lagerhäuser]] · [[Eingeritzte Zeichen]] · [[Fall der Offenbarung]] · [[Falsche Identitäten]] · [[Geruchsspuren]] · [[Infernale Bibliotheks-Forschung]] · [[Magische Mordwaffe]] · [[Mechanischer Vogel]] · [[Schwarzer Seidenstoff]] · [[Sprechende Kristallkugel]] · [[Verfluchte Driftkugel]] · [[Verfluchte Schuppenrüstung]]
+- [[Codierpergament]] · [[Der Kriegsherr]] · [[Die Boss hinter den Helfern]] · [[Die Lagerhäuser]] · [[Eingeritzte Zeichen]] · [[Fall der Offenbarung]] · [[Falsche Identitäten]] · [[Geruchsspuren]] · [[Infernale Bibliotheks-Forschung]] · [[Karaman]] · [[Magische Mordwaffe]] · [[Mechanischer Vogel]] · [[Rugirs wahrer Name]] · [[Schwarzer Seidenstoff]] · [[Sprechende Kristallkugel]] · [[Verfluchte Driftkugel]] · [[Verfluchte Schuppenrüstung]]
 
 ## Fäden — Abgeschlossen
 
@@ -79,10 +83,11 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 
 ## Sessions (neueste zuerst)
 
-- [[Session 19 - 09.09.2026]] · [[Session 18 - 26.08.2026]] · [[Session 17 - 29.07.2026]] · [[Session 16 - 14.07.2026]] · [[Session 15 - 08.07.2026]] · [[Session 14 - 01.07.2026]] · [[Session 13 - 23.06.2026]] · [[Session 12 - 17.06.2026]] · [[Session 11 - 03.06.2026]] · [[Session 10 - 06.05.2026]] · [[Session 9 - 15.04.2026]] · [[Session 8 - 18.03.2026]] · [[Session 7 - 08.03.2026]] · [[Session 6 - 04.03.2026]] · [[Session 5 – Papiere, Pässe und Päckchen]] · [[Session 4 – Rhusion, zweiter Tag]] · [[Session 3 – Die Nacht danach]] · [[Session 2 – Unmittelbar nach dem Mord]] · [[Session 1 – Die Hochzeit]]
+- [[Session 20 - 16.09.2026]] · [[Session 19 - 09.09.2026]] · [[Session 18 - 26.08.2026]] · [[Session 17 - 29.07.2026]] · [[Session 16 - 14.07.2026]] · [[Session 15 - 08.07.2026]] · [[Session 14 - 01.07.2026]] · [[Session 13 - 23.06.2026]] · [[Session 12 - 17.06.2026]] · [[Session 11 - 03.06.2026]] · [[Session 10 - 06.05.2026]] · [[Session 9 - 15.04.2026]] · [[Session 8 - 18.03.2026]] · [[Session 7 - 08.03.2026]] · [[Session 6 - 04.03.2026]] · [[Session 5 – Papiere, Pässe und Päckchen]] · [[Session 4 – Rhusion, zweiter Tag]] · [[Session 3 – Die Nacht danach]] · [[Session 2 – Unmittelbar nach dem Mord]] · [[Session 1 – Die Hochzeit]]
 
 ## Quellen
 
+- [[Transcript - Session 20 - 16.09.2026]] — Craig-Audiotranskript, WhisperX large-v3/CUDA mit Alignment
 - [[Transcript - Session 19 - 09.09.2026]] — Craig-Audiotranskript, WhisperX large-v3/CUDA mit Alignment
 - [[Transcript - Session 18 - 26.08.2026]] — Nutzer-Spielnotizen Session 18
 - [[Transcript - Session 17 - 29.07.2026]] — Dialogzusammenfassung Session 17

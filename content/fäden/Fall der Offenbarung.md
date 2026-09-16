@@ -2,7 +2,7 @@
 type: concept
 title: "Fall der Offenbarung"
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-09-16
 tags: [hinweis, buch, prophecy, ungeklärt]
 status: ungeklärt
 ---
@@ -61,3 +61,14 @@ Dolorion war einst ein Engel [[Ilmater]]s. Er fiel, weil er anfing, Leid berechn
 - [[Viri]]
 - [[Ritual der 13 Stiche]]
 - [[Zions Hunger]]
+
+
+## Dolorion manifestiert sich (Session 20)
+
+Der Engel, in dessen Haut dieses Buch gebunden sein soll, tritt in [[Session 20 - 16.09.2026]] erstmals persönlich auf: [[Dolorion]] erscheint [[Viri]] in einer Vision in der [[Tickbalang-Höhle]] und fordert ihre Gefolgschaft.
+
+Auffällig ist die Parallele zwischen Buch und Begegnung: Auch in Viris Vision liegt ein Buch vor ihren Füßen — in ihrer eigenen Kinderhandschrift, mit frischer schwarzer Tinte, die auf jede Seite denselben Satz schreibt: *„Du wirst tragen, bis niemand mehr leiden muss."*
+
+Ob das ein Hinweis auf die Natur dieses Buches ist oder nur Bildsprache der Vision, bleibt offen.
+
+- [ ] Steht das Buch in Viris Vision in Verbindung zum realen [[Fall der Offenbarung]]?

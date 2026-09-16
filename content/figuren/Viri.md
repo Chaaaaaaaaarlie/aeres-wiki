@@ -2,7 +2,7 @@
 type: entity
 title: "Viri"
 created: 2026-05-12
-updated: 2026-07-29
+updated: 2026-09-16
 tags: [charakter, spielercharakter]
 klasse: Aasimar
 status: aktiv
@@ -158,3 +158,16 @@ Viri ist nicht als Gast zur Hochzeit gekommen, sondern weil sie Sokars Männer h
 - Fühlte sich Ilmater besonders nah und erhielt durch ihr Gebet einen Vorteil vor der nächsten langen Rast.
 - Berichtete Calderion vollständig von Dybbuk, Ritualhütte, Wachstafel, Kultistenzeichen und Tümpel.
 - Zeigte Calderion per Minor Illusion die pferdeartigen Nachtwesen, wodurch er sie als Tickbalang identifizierte.
+
+
+## Session 20
+
+- Untersuchte die Schmauchspuren am Eingang der [[Tickbalang-Höhle]] und erkannte darin magisches Residuum **und** dieselbe nekrotische Leere, die sie von den Mordwaffen kennt.
+- Ließ sich ein Seil umbinden und ging als erste Nicht-Kundschafterin tief in die Höhle; aktivierte dort zum ersten Mal ernsthaft ihre [[Verfluchte Driftkugel]].
+- Stellte fest, dass die Schatten-Ungeheuer des Fluchs in dieser Finsternis „ihren Herrn und Meister gefunden" haben: Das Licht ringt mit der Dunkelheit und drängt sie zurück.
+- Erhielt von [[Sir Aschefall]] *Protection from Evil and Good* und führte die angeseilte Gruppe als Lichtträgerin an.
+- Erlebte in ihrer Prüfung ihr Heimatdorf, ihre fiebernde jüngste Schwester und die Nacht, in der das Dorf brannte — und stand dann [[Dolorion]] gegenüber, dem gefallenen Engel [[Ilmater]]s.
+- **Lehnte zweimal ausdrücklich ab, ihm zu dienen**, und formulierte dabei ihr Glaubensprinzip so klar wie nie: *„Kein Leid ist unnötig. […] Wir helfen beim Tragen des Leides. Doch wir sind nicht da, um jedes Leid zu nehmen."*
+- Ihre Adern leuchteten daraufhin golden auf und ihre Flügel entfalteten sich so hell, dass der Engel sich abwenden musste. Sein letzter Satz: *„Du bist nicht mein Blut, du bist eine Schande."*
+- Spürte nach dem Erwachen Abdrücke großer Zähne auf der Haut; es fanden sich aber weder Wunde noch Blut.
+- Brach in der Quarzkammer versehentlich einen Kristall auf, hielt sich geistesgegenwärtig den Ärmel vors Gesicht und blieb unverletzt; löste die Kammer anschließend mit *Sorcerer's Burst* auf Kältebasis.

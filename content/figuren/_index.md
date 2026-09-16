@@ -2,7 +2,7 @@
 type: meta
 title: "Figuren-Übersicht"
 created: 2026-05-12
-updated: 2026-07-08
+updated: 2026-09-16
 tags:
   - meta/index
   - domain/characters
@@ -29,11 +29,14 @@ NSCs und SCs der Aeres-Kampagne. Im Frontmatter nach `role` und `entity_type` fi
 - [[Elmar Kassar]]
 - [[Halbling-Wahrsagerin]]
 - [[Harkas]]
+- [[Jada]]
 - [[Kapitänin der Cestus]]
 - [[Mirene Calath]]
+- [[Saria]]
 - [[Schwester Elva]]
 - [[Sir Aschefall]]
 - [[Ventus]]
+- [[Zahir]]
 
 ## NSCs — Politik & Adel
 
@@ -41,6 +44,13 @@ NSCs und SCs der Aeres-Kampagne. Im Frontmatter nach `role` und `entity_type` fi
 - [[Kurkan Akrava]]
 - [[Princeps Orpheon von Lutaxa]]
 - [[Sokar Karioka]]
+
+## NSCs — Aus der Vergangenheit
+
+- [[Der Kriegsherr]] — Sir Aschefalls früherer Herr
+- [[Zahir]] — Elysias Vater
+- [[Saria]] — Elysias Mutter
+- [[Jada]] — Elysias Kartenlegerin
 
 ## NSCs — Verdächtige
 

@@ -2,48 +2,61 @@
 type: meta
 title: "Aktueller Kontext (Hot Cache)"
 created: 2026-05-12
-updated: 2026-09-10
+updated: 2026-09-16
 tags:
   - meta/hot
 ---
 # Aktueller Kontext
 
 ## Letztes Update
-2026-09-10 - [[Session 19 - 09.09.2026]] aufgenommen. Nach der Nacht in [[Leitwacht]] berichtet die Gruppe [[Calderion]] vollständig von Dybbuk, Ritualhütte, Wachstafel, Kultistenzeichen, Tümpel und Nachtkreatur. Calderion identifiziert die Kreaturen als [[Tickbalang]] und warnt vor ihrer Höhle im Südosten. Er wirkt Greater Restoration auf [[Zion]] und gibt Puder gegen Verborgenes mit. Die Gruppe marschiert zur [[Tickbalang-Höhle]], findet unterwegs nekromantisch ausgesaugte Tiere und endet am Höhleneingang, dem Mörder von [[Sokar Karioka]] offenbar näher.
+
+2026-09-16 - [[Session 20 - 16.09.2026]] aufgenommen. Die Gruppe betritt die [[Tickbalang-Höhle]]. Die Höhle greift nicht die Sicht an, sondern den Geist: verzerrte Entfernungen, gestörte Telepathie, verdoppelte Gänge, ausgehebelte Dunkelsicht. Nach kurzer Zeit im Inneren stürzt jede Figur in eine eigene, auf ihre Herkunft zugeschnittene Prüfung. [[Viri]] weist [[Dolorion]] ab, [[Elysia|Lyssa]] durchschaut das Muster „Geführt" um [[Ventus]], [[Sir Aschefall]] lehnt die Selbstvergöttlichung seines [[Der Kriegsherr|früheren Kriegsherrn]] ab, und [[Rugir]] liest im Archiv des [[Alabaster Kuratorium]]s seinen wahren zweiten Namen, bevor er ihm wieder weggestrichen wird. Alle vier lehnen ab, sterben in ihrer Vision und erwachen unverletzt. [[Zion]]s Prüfung wird auf die nächste Session verschoben (Spieler fehlte). Danach: Quarzkammer mit giftigem Gas, dann eine große Kammer mit einem Abgrund, über den nur eine Kette führt.
 
 ## Wichtige aktuelle Fakten
 
-- Aktuellste In-Fiction-Session: [[Session 19 - 09.09.2026]]
-- Die Gruppe steht vor der [[Tickbalang-Höhle]] im Südosten von [[Zarat]]. Die Höhle wurde noch nicht betreten.
-- **Calderion informiert:** Er weiß jetzt vom zerstörten Dybbuk und von den Nachfolgehinweisen: Ritualhütte, Wachstafel, Kultistenzeichen, giftigem Wesen im Tümpel und pferdeartiger Nachtkreatur.
-- **[[Tickbalang]]:** Calderion identifiziert die pferdeartigen Wesen als faeartige Waldgeister/Trickster. Sie lebten früher im Wald um Leitwacht, zogen sich nach der Rodung in die Höhle im Südosten zurück und sind seit etwa ein bis zwei Wochen wieder vermehrt aktiv.
-- **Höhle im Südosten:** Niemand aus Leitwacht soll sie lebend verlassen haben. Wenn die Tickbalang daraus fliehen, ist dort vermutlich etwas Schlimmeres aktiv.
-- **Lebensraub-Lichtung:** Auf dem Weg liegen tote Tiere und verfallende Vegetation ohne äußere Verletzungen. Rugir erkennt nekromantische Rückstände; Viri deutet es als geraubte Lebensenergie.
-- **Zion:** Nach langer Rast weiterhin schwer angeschlagen. Calderion wirkt Greater Restoration auf ihn, was den Priester sichtbar Kraft kostet. Ob Zions Schatten-/Kuppelproblem dadurch gelöst ist, bleibt offen.
-- **Ixtra / sprechende Kristallkugel:** Lyssa sammelt Ixtra draußen wieder ein. Ixtra hat die Nacht allein außerhalb der Kuppel überstanden, wirkt aber mitgenommen und erwähnt die Kreaturen.
-- **Rugirs Eule:** Die draußen gelassene Eulen-Familiar ist nicht mehr erreichbar; unklar, ob sie fort, zerstört oder nur durch die Kuppelabschirmung getrennt ist.
-- **Verfluchte Schuppenrüstung:** Rugir bestätigt ein verdorbenes Fluchbild: rote Schlange/zweite Haut, schwer wieder abzustreifen. Aschefall legt sie nicht an; sie landet im Bag of Holding.
-- **Viri:** Verteilt nachts heimlich Brot an zwei Häuser in Leitwacht, zeichnet Ilmaters Zeichen in den Matsch und erhält für den nächsten Tag einmal Vorteil auf einen Wurf.
-- **Drei-Tage-Frist:** Die [[Kapitänin der Cestus]] muss aus Vorratsmangel umkehren, wenn die Gruppe nicht rechtzeitig zurückkehrt. Bisher kein bekannter Rückweg, Beiboot zerstört.
-- **Belagerung Rhusions** durch [[Kurkan Akrava|Hrem]]s Ork-Armee läuft weiterhin im Hintergrund - Zeitdruck bleibt akut.
+- Aktuellste In-Fiction-Session: [[Session 20 - 16.09.2026]]
+- Die Gruppe steht **in** der [[Tickbalang-Höhle]] vor einem tiefen Abgrund. Einzige Überfahrt: eine **Kette**. Am anderen Ende meint Rugir Spinnennetze zu sehen.
+- **Die Dunkelheit** ([[Die Dunkelheit der Tickbalang-Höhle]]) hebelt Dunkelsicht aus, verzerrt Raum und Entfernung, stört Telepathie und schickt jeden in eine persönliche Vision. Ab der Abgrundkammer endet der Effekt; normale Dunkelsicht reicht wieder.
+- **Wirksame Gegenmittel:** [[Verfluchte Driftkugel|Viris Driftkugel]] (Fluchlicht drängt die Finsternis zurück, schreit dabei ununterbrochen), *Light* (stark gedämpft, ca. 1 m), *Protection from Evil and Good* (Vorteil, bessere Orientierung), ein Seil zwischen allen.
+- **Alle Prüfungen wurden abgelehnt.** Niemand hat einen Pakt geschlossen. Der Spielleiter bestätigt im Nachgespräch: Eine Annahme hätte für Viri das Ende der Figur bedeutet.
+- **Zions Prüfung steht noch aus** — bewusst ausgespart, wird in der nächsten Session nachgeholt.
+- **Goldgelbe Augen:** Nur [[Rugir]] sieht sie, als er sein Gegenüber als Illusion entlarvt. Er sagt, er könne sich denken, was es sei — nennt es aber nicht. Viri betont, der Engel habe **keine** gelben Augen gehabt.
+- **Eingangsspuren:** magisches Residuum **plus** dieselbe nekrotische Leere wie an den Mordwaffen. Alter unsicher, ein bis zwei Wochen möglich. Bester bisheriger Beleg, dass die Höhle mit dem Mörder von [[Sokar Karioka]] zu tun hat.
+- **Die Toten am Abgrund:** Abenteurer, gestorben an einer aufgerissenen Brust, in die etwas **Eier gelegt** hat. Beute: 2 Heiltränke, 15 Gold.
+- **Quarzkristalle:** mannshoch, schwarz, fragil; beim Bruch entweicht giftiges grünes Gas. Rugir kennt das Material aus dem Hausbau.
+- **Keine Tickbalang** im bisher erkundeten Teil der Höhle — nur Fledermäuse.
+- **Drei-Tage-Frist** der [[Kapitänin der Cestus]] und die Belagerung Rhusions durch [[Kurkan Akrava|Hrem]] laufen weiter im Hintergrund.
+
+## Was jede Figur mitgenommen hat
+
+- **[[Viri]]:** Hat [[Dolorion]] zweimal ausdrücklich abgewiesen. Ihre Adern und Flügel leuchteten golden auf. Sein Abschied: *„Du bist nicht mein Blut, du bist eine Schande."* Sie spürt Zahnabdrücke ohne Wunde.
+- **[[Elysia]]:** Musste sich der Möglichkeit stellen, dass [[Ventus]] ihr ganzes Leben gelenkt hat — jede Karte trug das Wort **„Geführt"**. Sie entkam über einen Weg ohne Zeichen. Nach dem Erwachen sucht sie eine bestimmte Karte, findet sie und deutet sie als Beweis, dass Ventus ihr geholfen hat. Sie sagt, es sei keine Machtversuchung gewesen, sondern eine **Wahl**.
+- **[[Rugir]]:** Hat seinen wahren zweiten Namen für einen Herzschlag gelesen und sofort wieder verloren. Lehnte Allwissen und die rettende Unterschrift ab. Als Einziger hat er die goldgelben Augen gesehen.
+- **[[Sir Aschefall]]:** Vergangenheit erstmals belegt — er diente einem Kriegsherrn und verbrannte auf Befehl einen Wehrlosen. Lehnte Herrschaft über Tesparis und Göttlichkeit ab: *„Den Weg ja, das Ziel nein."*
+- **[[Zion]]:** offen.
 
 ## Aktive Fäden
 
-- **[[Tickbalang]] / [[Tickbalang-Höhle]]** - neu/akut. Waldgeister offenbar aus ihrer Höhle verdrängt; Gruppe steht am Eingang.
-- **Lebensraub-Lichtung** - neu/offen. Nekromantische Energie hat Tiere/Pflanzen ausgesaugt.
-- **[[Wo versteckt sich der Assassine]]** - fortgeschritten. Die Höhle fühlt sich wie der nächste Schritt zum Mörder von Sokar Karioka an.
-- **[[Zions Hunger]]** - fortgeschritten. Greater Restoration half körperlich, aber Schatten-/Kuppelproblem bleibt ungeklärt.
-- **[[Sprechende Kristallkugel]]** - fortgeschritten. Ixtra reagiert weiter auffällig auf Kuppel und Waldwesen.
-- **[[Verfluchte Schuppenrüstung]]** - fortgeschritten. Fluch als zweite Haut/rote Schlange bestätigt; ungetragen.
-- **[[Der Dybbuk]]** - gelöst. Calderion ist über die Nachfolgehinweise informiert; offener Kern verschiebt sich zu Auftraggeber/Höhle/Assassinen-Spur.
-- Rückweg zur [[Cestus]] - offen. Beiboot zerstört, Drei-Tage-Frist läuft weiter.
-- **[[Ritual der 13 Stiche]]**, Viris Herkunft, Sir Aschefalls wahrer Auftrag, [[Chloro Verde]], [[Mechanischer Vogel]], [[Rugirs wahrer Name]], [[Blutpakt des Tigerauge]], [[Tabulei]], [[Hafensabotage]] - im Hintergrund.
+- **[[Die Dunkelheit der Tickbalang-Höhle]]** - neu/akut. Was ist die Macht, und wem gehören die goldgelben Augen?
+- **[[Dolorion]]** - neu/akut. Der gefallene Engel Ilmaters ist abgewiesen, aber nicht besiegt.
+- **[[Ventus]]** - eskaliert. Beistand oder Puppenspieler?
+- **[[Der Kriegsherr]]** / **[[Karaman]]** - neu. Aschefalls Vergangenheit, der Tesparis-Plan und die Festung um das Dämonentor.
+- **[[Rugirs wahrer Name]]** - fortgeschritten. Ein zweiter Name, der jemandem *gehört hat*.
+- **[[Tickbalang-Höhle]]** - fortgeschritten. Abgrund, Kette, Netze, eierlegende Kreatur.
+- **[[Verfluchte Driftkugel]]** - fortgeschritten. Der Fluch ist eine Waffe gegen die Finsternis.
+- **[[Zions Hunger]]** - offen. Prüfung ausgesetzt.
+- **[[Wo versteckt sich der Assassine]]** - offen. Nekrotische Eingangsspur ja, direkte Spur in der Höhle nein.
+- **[[Alabaster Kuratorium]]** - fortgeschritten. Rugirs Akte, gefälschte Berichte, geschwärzter Name.
+- **[[Tickbalang]]**, Lebensraub-Lichtung, [[Sprechende Kristallkugel]], [[Verfluchte Schuppenrüstung]], Rückweg zur [[Cestus]] - im Hintergrund.
+- **[[Ritual der 13 Stiche]]**, [[Blutpakt des Tigerauge]], [[Tabulei]], [[Mechanischer Vogel]], [[Hafensabotage]], [[Chloro Verde]] - im Hintergrund.
 
 ## Offen für die nächste Session
 
-- Die [[Tickbalang-Höhle]] betreten und klären, was die Waldgeister verdrängt hat.
-- Lebensraub-Spuren untersuchen: Was saugt Tiere und Vegetation aus und lädt sich damit auf?
-- Prüfen, was Calderions Greater Restoration an Zion verändert hat und ob sein Schatten zurückgeholt werden kann.
-- Ixtra befragen, was in der Nacht außerhalb der Kuppel passiert ist.
-- Die verfluchte Schuppenrüstung nicht anlegen, bis Fluch/Nutzen sicherer sind.
-- Den gesuchten Assassinen/Mörder von Sokar Karioka über die Höhlenspur weiter verfolgen.
+- Zions Prüfung in der Dunkelheit nachholen — die wichtigste offene Frage.
+- Die Kette über dem Abgrund prüfen und überqueren.
+- Klären, was die Netze gesponnen und den Abenteurern Eier in die Brust gelegt hat.
+- Lyssa fragen, welche Karte sie gesucht und gefunden hat.
+- Herausfinden, wem die goldgelben Augen gehören.
+- Die schwarzen Quarzkristalle einordnen — was war darin eingeschlossen?
+- Die nekrotisch-magische Eingangsspur mit der [[Magische Mordwaffe|magischen Mordwaffe]] abgleichen.
+- Im Blick behalten, ob die Prüfungen die Figuren nachhaltig verändert haben (Viris Aasimar-Erbe, Rugirs Namensverlust, Aschefalls Vergangenheit, Elysias Verhältnis zu Ventus).

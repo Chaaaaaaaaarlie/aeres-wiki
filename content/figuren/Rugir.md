@@ -2,7 +2,7 @@
 type: entity
 title: "Rugir"
 created: 2026-05-12
-updated: 2026-07-29
+updated: 2026-09-16
 tags: [charakter, spielercharakter]
 klasse: Evocation Wizard
 rasse: Zwerg
@@ -169,3 +169,18 @@ Kein direkter Treffer auf die **7 Kerzen** oder die **13 Stiche**. Spezialist f�
 - Beobachtete nachts mehrere leuchtende Augenpaare im Wald jenseits der Kuppel.
 - Identifizierte die rote Schuppenrüstung als verflucht und warnte vor der zweiten-Haut-/Schlangen-Natur des Effekts.
 - Half mit Lichtzaubern bei der Vorbereitung auf den Höhlengang.
+
+
+## Session 20
+
+- Versuchte am Eingang der [[Tickbalang-Höhle]], das Alter der Schmauchspuren zu bestimmen: keine frische Spur, ein bis zwei Wochen möglich, durch den Regen aber unsicher.
+- Stellte klar, dass Illusionsmagie nicht sein Fachgebiet ist — er ist Evokationsspezialist — und versorgte die Gruppe stattdessen mit Light-Steinen und einem Light-Zauber auf [[Viri]].
+- Erlebte seine Prüfung im Untersuchungsraum und im Archiv des [[Alabaster Kuratorium]]s: Tinte, die seine Berichte von selbst umschreibt, eine Personalakte mit einem **zweiten, geschwärzten Namen**, Berichte in seinem Namen, die er nie verfasst hat, und sein eigener Name als „Gefährdungsfaktor" markiert.
+- Sah ein Wesen aus Pergament, Siegelwachs und ineinander verschlungenen Händen, das mit einer Kralle über Akten strich: Namen verschwanden, Opfer wurden zu Tätern, Artefakte hörten rückwirkend auf zu existieren.
+- **Las für einen einzigen Herzschlag seinen wahren zweiten Namen** — und verlor die Erinnerung sofort wieder, weggestrichen von derselben Kralle. Siehe [[Rugirs wahrer Name]].
+- Lehnte die angebotene Unterschrift ab, obwohl sie ihm das Leben seiner Gefährten sichern sollte: *„Wenn wir damit anfangen, wo soll es enden?"*
+- Lehnte danach auch geschenktes Allwissen ab — *„Ich muss mir meine Macht selber erlernen. Ich will nicht wie einer von diesen Zauberern oder Hexenmeistern sein."* — und nahm dafür psychischen Schaden.
+- Entlarvte das Wesen mit dem Wort **„Illusion"** und sah dabei für einen Moment **zwei goldgelbe Augen** hinter der Maske. Er ist der Einzige der Gruppe, der sie gesehen hat.
+- Versteinerte in der Vision und sprengte sie mit seinen letzten Worten *„Fahr zur Hölle"* in kaltem violettem Licht; das Letzte, was er spürte, war Freiheit.
+- Pustete in der Quarzkammer die grüne Gaswolke mit *Prestidigitation* fort und legte Wassernebel darüber.
+- Untersuchte die Skelette in der Abgrundkammer perfekt: Todesursache ist eine aufgerissene Brust, in die etwas **Eier gelegt** hat. Fand dabei zwei Heiltränke und 15 Gold.

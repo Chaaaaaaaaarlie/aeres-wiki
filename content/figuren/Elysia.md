@@ -2,7 +2,7 @@
 type: entity
 title: "Elysia"
 created: 2026-05-12
-updated: 2026-07-29
+updated: 2026-09-16
 tags:
   - charakter
   - spielercharakter
@@ -177,3 +177,17 @@ In [[Session 10 - 06.05.2026]] ruft Elysia ihren inneren Freund unter dem Namen 
 - Nutzte Druidcraft zur Wetterdeutung: weiterer Regen und feuchte Bedingungen.
 - Legte eine Tarotdeutung zur Lage: Ankunft, Zusammenarbeit, Konflikt und Verlust von Kontrolle deuten darauf, dass die Ereignisse auf Zarat nicht zufällig sind.
 - Holte Ixtra wieder von außerhalb der Kuppel.
+
+
+## Session 20
+
+- Verwandelte sich in eine winzige, schneeweiße Spinne und kundschaftete als Erste die [[Tickbalang-Höhle]] aus.
+- Erkannte als Erste die eigentliche Gefahr: *„Diese Höhle ist völlig geistesgestört. Nein, sie stört den Geist."* — der Ort greift nicht die Sicht an, sondern die Wahrnehmung.
+- Stellte fest, dass ihr telepathischer Draht zu [[Rugir]] in der Höhle nur als verzerrte Wortfetzen ankommt.
+- Ritt in Spinnenform auf [[Sir Aschefall]]s Schulterpanzer, damit die Gruppe sie nicht verliert.
+- Erlebte in ihrer Prüfung die Wüste ihrer Heimat, in der die Sterne sich zu einer **Marionette** ordneten und jede Tarotkarte im Sand dasselbe Wort trug: **„Geführt."**
+- Begegnete dort ihrem Vater [[Zahir]], ihrer Mutter [[Saria]] und der Kartenlegerin [[Jada]] — und der Frage, ob die Sterne je zu ihr gesprochen haben oder ob nur etwas gelernt hat, welche Zeichen sie sehen will.
+- Suchte während der Vision nach der Präsenz ihrer „zweiten Hälfte" und fand [[Ventus]] noch in sich; sie prüfte ihr Kartendeck und zog die **Sieben der Schwerter**.
+- Verweigerte die Führung durch den Sandsturm ausdrücklich — *„Das hier ist alles eine Lüge. Hör auf, mit mir zu sprechen!"* — und wurde daraufhin in der Vision vom schwarzen Sand begraben.
+- Suchte nach dem Erwachen panisch eine bestimmte Karte, fand sie und deutete sie als Beweis: *„Er hat mir geholfen. Er hat mir wieder geholfen."*
+- Widersprach der Gruppe ausdrücklich, es sei eine Machtversuchung gewesen: Sie sei vor eine **Wahl** gestellt worden.

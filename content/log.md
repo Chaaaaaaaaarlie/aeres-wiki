@@ -1,14 +1,8 @@
-## 2026-09-10 - Session 19 eingepflegt
-
-- Craig-Transkript vom 09.09.2026 per WhisperX large-v3 erstellt und als Rohtranskript unter `.raw/transcripts/Session 19 - 09.09.2026 (Transkript).md` abgelegt.
-- Neue Seiten: [[sessions/Session 19 - 09.09.2026]], [[quellen/Transcript - Session 19 - 09.09.2026]], [[kreaturen/Tickbalang]], [[orte/Tickbalang-Höhle]].
-- Status aktualisiert: Calderion ist vollständig informiert; offen bleiben Tickbalang-Höhle, nekromantische Lichtung, Zion, Ixtra und die Spur zur Mordwaffe.
-
 ---
 type: meta
 title: "Vorgangs-Protokoll"
 created: 2026-05-12
-updated: 2026-09-09
+updated: 2026-09-16
 tags:
   - meta/log
 ---
@@ -25,6 +19,26 @@ Format:
 - Aktualisierte Seiten: [[…]]
 - Kernerkenntnis: ein Satz
 ```
+
+---
+
+## [2026-09-16] transkript | Session 20 - Die Prüfungen in der Tickbalang-Höhle
+
+- Quelle: Craig-Audio `craig-dWvHwDdlHp6C-Bn1XgUXTsHTwA2n.flac.zip`, WhisperX `large-v3` (CUDA/float16, Alignment), 2450 Segmente, ca. 3h 16min; Rohtranskript unter `.raw/session-transcripts/Session 20 - 16.09.2026.md`
+- Zusammenfassung: [[Session 20 - 16.09.2026]]
+- Erstellte Seiten: [[Session 20 - 16.09.2026]], [[Transcript - Session 20 - 16.09.2026]], [[Die Dunkelheit der Tickbalang-Höhle]], [[Dolorion]], [[Der Kriegsherr]], [[Zahir]], [[Saria]], [[Jada]], [[Karaman]]
+- Aktualisierte Seiten: [[Tickbalang-Höhle]], [[Tickbalang]], [[Ventus]], [[Rugirs wahrer Name]], [[Verfluchte Driftkugel]], [[Alabaster Kuratorium]], [[Ilmater]], [[Fall der Offenbarung]], [[Zions Hunger]], [[Wo versteckt sich der Assassine]], [[Viri]], [[Elysia]], [[Rugir]], [[Sir Aschefall]], [[Zion]], `hot.md`, `index.md`, `Willkommen.md`, `sessions/_index.md`, `quellen/_index.md`, `figuren/_index.md`, `fäden/_index.md`, `orte/_index.md`, `lore/_index.md`, `gottheiten/_index.md`, `lore/Welt & Hintergrund.md`, `log.md`
+- Kernerkenntnis: Die Tickbalang-Höhle greift den Geist statt der Sinne an und stellt jede Figur vor eine maßgeschneiderte Versuchung — Viri weist Dolorion ab, Elysia erkennt das Muster „Geführt" hinter Ventus, Aschefall lehnt Göttlichkeit ab und Rugir verliert seinen wahren Namen gleich nach dem Lesen. Alle lehnen ab; Zions Prüfung steht noch aus.
+- Anmerkung Datenqualität: Die Pipeline-Datei `corrected_obsidian.md` enthält 114 fehlerhafte Glossar-Ersetzungen („auch" → „Nat-20"); für den Recap wurde `combined_raw.txt` als Hauptquelle verwendet.
+- Anmerkung Struktur: Der Eintrag vom 2026-09-10 stand versehentlich oberhalb des YAML-Frontmatters und wurde unverändert an die korrekte Stelle unterhalb des Kopfblocks verschoben.
+
+---
+
+## 2026-09-10 - Session 19 eingepflegt
+
+- Craig-Transkript vom 09.09.2026 per WhisperX large-v3 erstellt und als Rohtranskript unter `.raw/transcripts/Session 19 - 09.09.2026 (Transkript).md` abgelegt.
+- Neue Seiten: [[sessions/Session 19 - 09.09.2026]], [[quellen/Transcript - Session 19 - 09.09.2026]], [[kreaturen/Tickbalang]], [[orte/Tickbalang-Höhle]].
+- Status aktualisiert: Calderion ist vollständig informiert; offen bleiben Tickbalang-Höhle, nekromantische Lichtung, Zion, Ixtra und die Spur zur Mordwaffe.
 
 ---
 

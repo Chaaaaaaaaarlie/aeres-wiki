@@ -2,7 +2,7 @@
 type: entity
 title: "Tickbalang"
 created: 2026-09-10
-updated: 2026-09-10
+updated: 2026-09-16
 tags: [kreatur, fae, zarat, waldgeist]
 status: aktiv
 entity_type: creature
@@ -42,3 +42,11 @@ Die Rückkehr der Tickbalang wirkt nicht wie ein isolierter Angriff auf Leitwach
 - [[Sprechende Kristallkugel]]
 - [[Session 18 - 26.08.2026]]
 - [[Session 19 - 09.09.2026]]
+- [[Session 20 - 16.09.2026]]
+
+
+## Session 20 — keine Tickbalang in der Höhle
+
+Die Gruppe betritt in [[Session 20 - 16.09.2026]] die [[Tickbalang-Höhle]] und trifft im erkundeten Teil **keinen einzigen Tickbalang** an. Stattdessen findet sie eine Macht vor, die Sinne und Geist angreift (siehe [[Die Dunkelheit der Tickbalang-Höhle]]), aufgescheuchte Fledermäuse, giftige Quarzkristalle und die Skelette von Abenteurern.
+
+Das stützt Calderions Vermutung: Die Tickbalang wurden aus ihrem eigenen Rückzugsort vertrieben, und das, was sie vertrieben hat, ist noch dort.

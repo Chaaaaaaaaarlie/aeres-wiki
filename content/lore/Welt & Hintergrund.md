@@ -2,7 +2,7 @@
 type: domain
 title: "Welt & Hintergrund"
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-09-16
 tags: [moc, welt, hintergrund]
 status: aktiv
 ---
@@ -24,3 +24,4 @@ status: aktiv
 
 - [[Koina]]
 - [[Zamathisches Imperium]]
+- [[Karaman]] — Festung um ein nie geschlossenes Dämonentor

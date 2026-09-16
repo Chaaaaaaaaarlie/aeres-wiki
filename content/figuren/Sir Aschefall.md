@@ -2,7 +2,7 @@
 type: entity
 title: "Sir Aschefall"
 created: 2026-06-04
-updated: 2026-07-29
+updated: 2026-09-16
 tags: [nsc, begleiter, drachengeboren]
 status: aktiv – reist mit der Gruppe
 ---
@@ -105,3 +105,17 @@ Aschefall wird in [[Session 11 - 03.06.2026]] eingeführt und ist der **künftig
 - Untersuchte die blutrote Schuppenrüstung genauer, entschied sich wegen ihres Fluchcharakters aber gegen das Anlegen.
 - Kümmerte sich während der Nacht um eine Ratte und dachte an den verstorbenen Halbling, dessen Haut der Dybbuk getragen hatte.
 - Trug die Rüstung anschließend im Bag of Holding weiter, ohne sie zu nutzen.
+
+
+## Session 20
+
+- Sicherte [[Viri]] mit einem Seil, bevor sie allein in die [[Tickbalang-Höhle]] ging, mit klarer Abmachung: dreimal ziehen heißt sofort herausziehen.
+- War der Einzige mit einem passenden Schutzzauber — und gab ihn weg: *Protection from Evil and Good* auf Viri statt auf sich selbst.
+- Trug [[Elysia|Lyssa]] in Spinnenform auf seinem Schulterpanzer durch die Höhle.
+- Erlebte in seiner Prüfung zuerst ein friedliches Lagerfeuer, dann eine brennende Straße — und seinen eigenen, jüngeren Körper mit frischem Blut zwischen den Schuppen, der auf Befehl des [[Der Kriegsherr|Kriegsherrn]] einen knienden, waffenlosen Mann verbrannte.
+- **Erstmals konkret belegt:** Aschefall diente einem Kriegsherrn, war an einer Brandschatzung beteiligt und hat dabei mindestens einen Wehrlosen getötet.
+- Schob in der Vision die Unschuldigen hinter sich, bevor er die anrückenden Kreaturen mit einer Feuereruption vernichtete.
+- Lehnte das Bündnisangebot seines früheren Herrn ab — Herrschaft über Tesparis, ein neues Imperium, Aufstieg zum Gott: *„Den Weg ja, das Ziel nein."* Er wolle Frieden finden und Vorbild sein, kein Gott. *„Es reicht."*
+- Wurde daraufhin erdolcht, zog sich am Schaft weiter heran und brannte den Kriegsherrn mit dem letzten Rest seiner Kraft aus. Sein Kommentar am Tisch: *„Sic semper tyrannis."*
+- Brach die eigene Vision auf *„Verlockung nach Macht"* herunter — der Anstoß, an dem die Gruppe erkennt, dass alle dasselbe Muster erlebt haben.
+- Blieb in der Quarzkammer als Letzter mit dem Harnisch hängen, riss einen Kristall auf, wurde vergiftet und heilte das Gift mit fünf Punkten *Lay on Hands* selbst.

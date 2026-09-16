@@ -2,7 +2,7 @@
 type: entity
 title: "Ilmater"
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-09-16
 tags: [gottheit, mitleid, leid]
 status: erwähnt
 ---
@@ -25,3 +25,12 @@ Gottheit des Leidens, der Ausdauer und des Ertragens von Schmerz. Im Aeres-Mater
 - [[Schwester Elva]]
 - [[Tabulei]]
 - [[Viri]]
+
+
+## Dolorion tritt auf (Session 20)
+
+In [[Session 20 - 16.09.2026]] begegnet [[Viri]] dem gefallenen Engel **[[Dolorion]]** erstmals direkt — in einer Vision in der [[Tickbalang-Höhle]]. Er wirbt darum, dass sie ihm dient, und stellt Ilmaters Lehre ausdrücklich in Frage: *„Leid ist unnötig und nicht zweckdienlich."*
+
+Viri lehnt ab und formuliert dabei die ilmatersche Position so klar wie nie zuvor: Man hilft beim Tragen des Leides, man nimmt es nicht. Beim Klang von Ilmaters Namen faucht Dolorion, als bereite ihm das Schmerzen.
+
+Siehe [[Dolorion]] für die vollständige Begegnung.

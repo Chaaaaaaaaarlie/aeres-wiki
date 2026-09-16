@@ -2,7 +2,7 @@
 type: meta
 title: "Fäden-Übersicht"
 created: 2026-05-12
-updated: 2026-09-10
+updated: 2026-09-16
 tags:
   - meta/index
   - domain/threads
@@ -13,7 +13,10 @@ Offene Rätsel, Handlungsfäden, Hinweise und ungeklärte Fragen. Jede Seite hat
 
 ## Heiße Fäden (Priorität)
 
-- [[Tickbalang]] / [[Tickbalang-Höhle]] *(neu/akut, Session 19: Höhle erreicht)*
+- [[Die Dunkelheit der Tickbalang-Höhle]] *(neu/akut, Session 20: Höhle greift Sinne und Geist an, vier Prüfungen abgelehnt)*
+- [[Dolorion]] *(neu/akut, Session 20: der gefallene Engel tritt Viri direkt gegenüber)*
+- [[Ventus]] *(eskaliert, Session 20: Verdacht, dass er Elysias Leben gelenkt hat)*
+- [[Tickbalang]] / [[Tickbalang-Höhle]] *(fortgeschritten, Session 20: Gruppe im Inneren, Abgrund erreicht)*
 - Lebensraub-Lichtung *(neu/offen, Session 19: nekromantisch ausgesaugte Tiere/Pflanzen)*
 - [[Zions Hunger]] *(fortgeschritten, Session 19: Greater Restoration, Schattenproblem offen)*
 - [[Wo versteckt sich der Assassine]] *(fortgeschritten, Session 19: Höhlenspur fühlt sich wie Nähe zum Mörder an)*
@@ -32,6 +35,8 @@ Offene Rätsel, Handlungsfäden, Hinweise und ungeklärte Fragen. Jede Seite hat
 - [[Infernale Bibliotheks-Forschung]]
 - [[Magische Mordwaffe]] *(aktualisiert, Session 16)*
 - [[Schwarzer Seidenstoff]]
+- [[Der Kriegsherr]] *(neu, Session 20: Aschefalls Vergangenheit und Tesparis-Plan)*
+- [[Karaman]] *(neu, Session 20: Festung um ein Dämonentor)*
 
 ## Offene Fäden
 
@@ -39,9 +44,9 @@ Offene Rätsel, Handlungsfäden, Hinweise und ungeklärte Fragen. Jede Seite hat
 - [[Die Lagerhäuser]]
 - [[Mechanischer Vogel]] *(Session 14)*
 - [[Sprechende Kristallkugel]] *(fortgeschritten, Session 19)*
-- [[Verfluchte Driftkugel]] *(fortgeschritten, Session 18)*
+- [[Verfluchte Driftkugel]] *(fortgeschritten, Session 20: Fluch wirkt als Waffe gegen die Finsternis)*
 - [[Verfluchte Schuppenrüstung]] *(fortgeschritten, Session 19)*
-- [[Rugirs wahrer Name]]
+- [[Rugirs wahrer Name]] *(fortgeschritten, Session 20: Name kurz lesbar, dann gelöscht)*
 
 ## Abgeschlossene Fäden
 
