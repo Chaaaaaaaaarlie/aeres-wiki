@@ -2,7 +2,7 @@
 type: concept
 title: "Wo versteckt sich der Assassine"
 created: 2026-05-12
-updated: 2026-09-16
+updated: 2026-09-23
 tags: [offen, priorität, assassine]
 priorität: hoch
 ---
@@ -84,6 +84,8 @@ Im Dschungel von Zarat kämpft die Gruppe gegen drei Kultisten des [[Der Dybbuk|
 - [[Session 9 - 15.04.2026]]
 - [[Session 11 - 03.06.2026]]
 - [[Session 16 - 14.07.2026]]
+- [[Session 20 - 16.09.2026]]
+- [[Session 21 - 23.09.2026]]
 
 
 
@@ -101,3 +103,7 @@ Die Gruppe betritt die [[Tickbalang-Höhle]], in der sie den Mörder von [[Sokar
 **Was dagegen spricht:** Im bisher erkundeten Teil der Höhle findet sich kein direkter Hinweis auf den Assassinen. Die dortige Macht arbeitet mit Illusion, Wahrnehmungsverzerrung und Versuchung — nicht mit Klingen. Die Toten am Abgrund sind Abenteurer, die an einer eierlegenden Kreatur gestorben sind, nicht an einer magischen Mordwaffe.
 
 Ob die Macht in der Höhle, die Kreatur mit den Eiern und der gesuchte Mörder drei Dinge sind oder eines, ist offen.
+
+## Session 21 — Spinnenhöhle ohne direkte Spur
+
+Auch die Spinnenhöhle jenseits des Abgrunds (Quelle: [[Session 21 - 23.09.2026]]) liefert keinen direkten Hinweis auf den Assassinen — die dort besiegte Mutterspinne und ihre Brut erklären zwar plausibel die eierlegende Kreatur von der Abgrundkammer, tragen aber keine erkennbare Verbindung zur magischen Mordwaffe. Die formlose Gestalt hinter der am Sessionende entdeckten Tür bleibt der aussichtsreichste noch unbestätigte Kandidat.

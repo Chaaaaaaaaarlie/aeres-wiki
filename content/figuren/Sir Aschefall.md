@@ -92,6 +92,8 @@ Aschefall wird in [[Session 11 - 03.06.2026]] eingeführt und ist der **künftig
 - [[Session 16 - 14.07.2026]]
 - [[Dybbuk-Nest]]
 - [[Session 17 - 29.07.2026]]
+- [[Session 20 - 16.09.2026]]
+- [[Session 21 - 23.09.2026]]
 
 ## Session 18
 
@@ -119,3 +121,10 @@ Aschefall wird in [[Session 11 - 03.06.2026]] eingeführt und ist der **künftig
 - Wurde daraufhin erdolcht, zog sich am Schaft weiter heran und brannte den Kriegsherrn mit dem letzten Rest seiner Kraft aus. Sein Kommentar am Tisch: *„Sic semper tyrannis."*
 - Brach die eigene Vision auf *„Verlockung nach Macht"* herunter — der Anstoß, an dem die Gruppe erkennt, dass alle dasselbe Muster erlebt haben.
 - Blieb in der Quarzkammer als Letzter mit dem Harnisch hängen, riss einen Kristall auf, wurde vergiftet und heilte das Gift mit fünf Punkten *Lay on Hands* selbst.
+
+## Session 21
+
+- Testet die Kette über dem Abgrund als Erster, rutscht ab, hält sich am Sicherungsseil und erreicht auf allen Vieren die andere Seite — überzogen von einer klebrigen Mischung aus Körperflüssigkeiten und Spinnennetzresten.
+- Kann nach der Überquerung ungewöhnlich lange nicht aufstehen; wird von [[Rugir]] hochgeholfen.
+- Tritt nach dem Sieg über die Spinnenhöhle mehrere der toten Spinnen demonstrativ in den Abgrund.
+- Steigt mit der Gruppe auf **Stufe 5** auf.

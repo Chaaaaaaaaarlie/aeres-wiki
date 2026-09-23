@@ -2,7 +2,7 @@
 type: faden
 title: "Die Dunkelheit der Tickbalang-Höhle"
 created: 2026-09-16
-updated: 2026-09-16
+updated: 2026-09-23
 tags: [faden, zarat, tickbalang-höhle, illusion, geist, visionen, offen]
 status: open
 priorität: hoch
@@ -49,9 +49,11 @@ Nach kurzer Zeit im Inneren verlangt die Höhle einen schweren Rettungswurf gege
 | [[Elysia]] | [[Ventus]] | Sicherheit und Gewissheit: sich diesmal führen lassen, ohne Prüfung und Zweifel | *„Das hier ist alles eine Lüge."* |
 | [[Sir Aschefall]] | [[Der Kriegsherr]] | Herrschaft über [[Karaman|Tesparis]], ein neues Imperium, Aufstieg zum Gott | *„Den Weg ja, das Ziel nein."* |
 | [[Rugir]] | Ein Archivwesen des [[Alabaster Kuratorium]]s | Allwissen, Rang, das Leben der Gefährten — gegen eine einzige Unterschrift | *„Fahr zur Hölle."* |
-| [[Zion]] | — | — | ausgesetzt, folgt in der nächsten Session |
+| [[Zion]] | Ein tausendäugiger Wolf | Rettung von Schwester und Mutter — gegen eine letzte, unschuldige Seele | lehnt ab, tötet den Wolf ([[Session 21 - 23.09.2026]]) |
 
 Alle vier lehnen ab. Alle vier sterben daraufhin in ihrer Vision — und erwachen gleichzeitig, unverletzt, am selben Ort, aber zu Boden gestürzt. Viri spürt noch Zahnabdrücke auf der Haut; Aschefall findet weder Wunde noch Narbe noch Blut.
+
+**Zion** lehnt seine Prüfung zu Beginn von [[Session 21 - 23.09.2026]] ebenfalls ab, tötet dabei aber den Wolf aktiv im Zweikampf, statt nur zu sterben und zu erwachen — anders als bei den anderen vier verliert er dauerhaft 9 maximale Lebenspunkte. Details siehe [[Zions Hunger]].
 
 ## Hinweise auf die Natur der Macht
 
@@ -69,8 +71,8 @@ Alle vier lehnen ab. Alle vier sterben daraufhin in ihrer Vision — und erwache
 - [ ] Hat es die [[Tickbalang]] aus ihrer Höhle vertrieben?
 - [ ] Sind Dolorion, Ventus, der Kriegsherr und das Archivwesen alle nur Masken derselben Macht — oder hat es echte Wesen herbeigezogen?
 - [ ] Was passiert, wenn jemand **annimmt**? (Der Spielleiter bestätigt im Nachgespräch: Für Viri wäre das das Ende der Figur gewesen.)
-- [ ] Wie fällt Zions Prüfung aus?
-- [ ] Endet die Dunkelheit wirklich an der Abgrundkammer, oder war das nur eine Pause?
+- [x] Wie fällt Zions Prüfung aus? — Er lehnt ab und tötet den Wolf ([[Session 21 - 23.09.2026]])
+- [x] Endet die Dunkelheit wirklich an der Abgrundkammer, oder war das nur eine Pause? — Bestätigt: Jenseits des Abgrunds (Spinnenhöhle, Ilmater-Schrein) wirkt keine anomale Dunkelheit mehr
 
 ## Verknüpfungen
 
@@ -78,6 +80,8 @@ Alle vier lehnen ab. Alle vier sterben daraufhin in ihrer Vision — und erwache
 - [[Dolorion]] · [[Ventus]] · [[Der Kriegsherr]]
 - [[Alabaster Kuratorium]] · [[Rugirs wahrer Name]]
 - [[Verfluchte Driftkugel]]
+- [[Zions Hunger]] · [[Ilmater]]
 - [[Viri]] · [[Elysia]] · [[Rugir]] · [[Sir Aschefall]] · [[Zion]]
 - [[Wo versteckt sich der Assassine]]
 - [[Session 20 - 16.09.2026]]
+- [[Session 21 - 23.09.2026]]

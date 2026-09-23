@@ -2,7 +2,7 @@
 type: meta
 title: "Aeres-Wiki — Hauptübersicht"
 created: 2026-05-12
-updated: 2026-09-16
+updated: 2026-09-23
 tags:
   - meta/index
 ---
@@ -20,8 +20,8 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 - [[kreaturen/_index|Kreaturen-Übersicht]] — Bestiarium (2 Seiten)
 - [[gottheiten/_index|Gottheiten-Übersicht]] — Götter & Engel (4 Seiten)
 - [[lore/_index|Lore-Übersicht]] — Welt-Hintergrund (6 Seiten)
-- [[fäden/_index|Fäden-Übersicht]] — offene Handlungsfäden & Hinweise (28 Seiten inkl. Rollups)
-- [[sessions/_index|Sessions-Übersicht]] — Session-Recaps (20 Seiten)
+- [[fäden/_index|Fäden-Übersicht]] — offene Handlungsfäden & Hinweise (29 Seiten inkl. Rollups)
+- [[sessions/_index|Sessions-Übersicht]] — Session-Recaps (21 Seiten)
 
 ## Figuren
 
@@ -67,7 +67,7 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 
 ## Fäden — Heiß
 
-- [[Die Dunkelheit der Tickbalang-Höhle]] · [[Dolorion]] · [[Ventus]] · [[Tickbalang]] · [[Tickbalang-Höhle]] · [[Zions Hunger]] · [[Wo versteckt sich der Assassine]] · [[Blutpakt des Tigerauge]] · [[Ritual der 13 Stiche]] · [[Tabulei]]
+- [[Die Gestalt hinter der Tür]] · [[Zions Hunger]] · [[Die Dunkelheit der Tickbalang-Höhle]] · [[Dolorion]] · [[Ventus]] · [[Tickbalang]] · [[Tickbalang-Höhle]] · [[Wo versteckt sich der Assassine]] · [[Blutpakt des Tigerauge]] · [[Ritual der 13 Stiche]] · [[Tabulei]]
 
 ## Fäden — Hinweise & Offen
 
@@ -83,10 +83,11 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 
 ## Sessions (neueste zuerst)
 
-- [[Session 20 - 16.09.2026]] · [[Session 19 - 09.09.2026]] · [[Session 18 - 26.08.2026]] · [[Session 17 - 29.07.2026]] · [[Session 16 - 14.07.2026]] · [[Session 15 - 08.07.2026]] · [[Session 14 - 01.07.2026]] · [[Session 13 - 23.06.2026]] · [[Session 12 - 17.06.2026]] · [[Session 11 - 03.06.2026]] · [[Session 10 - 06.05.2026]] · [[Session 9 - 15.04.2026]] · [[Session 8 - 18.03.2026]] · [[Session 7 - 08.03.2026]] · [[Session 6 - 04.03.2026]] · [[Session 5 – Papiere, Pässe und Päckchen]] · [[Session 4 – Rhusion, zweiter Tag]] · [[Session 3 – Die Nacht danach]] · [[Session 2 – Unmittelbar nach dem Mord]] · [[Session 1 – Die Hochzeit]]
+- [[Session 21 - 23.09.2026]] · [[Session 20 - 16.09.2026]] · [[Session 19 - 09.09.2026]] · [[Session 18 - 26.08.2026]] · [[Session 17 - 29.07.2026]] · [[Session 16 - 14.07.2026]] · [[Session 15 - 08.07.2026]] · [[Session 14 - 01.07.2026]] · [[Session 13 - 23.06.2026]] · [[Session 12 - 17.06.2026]] · [[Session 11 - 03.06.2026]] · [[Session 10 - 06.05.2026]] · [[Session 9 - 15.04.2026]] · [[Session 8 - 18.03.2026]] · [[Session 7 - 08.03.2026]] · [[Session 6 - 04.03.2026]] · [[Session 5 – Papiere, Pässe und Päckchen]] · [[Session 4 – Rhusion, zweiter Tag]] · [[Session 3 – Die Nacht danach]] · [[Session 2 – Unmittelbar nach dem Mord]] · [[Session 1 – Die Hochzeit]]
 
 ## Quellen
 
+- [[Transcript - Session 21 - 23.09.2026]] — Craig-Audiotranskript, WhisperX large-v3/CUDA mit Alignment
 - [[Transcript - Session 20 - 16.09.2026]] — Craig-Audiotranskript, WhisperX large-v3/CUDA mit Alignment
 - [[Transcript - Session 19 - 09.09.2026]] — Craig-Audiotranskript, WhisperX large-v3/CUDA mit Alignment
 - [[Transcript - Session 18 - 26.08.2026]] — Nutzer-Spielnotizen Session 18

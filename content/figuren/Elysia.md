@@ -160,6 +160,9 @@ In [[Session 10 - 06.05.2026]] ruft Elysia ihren inneren Freund unter dem Namen 
 - [[Session 16 - 14.07.2026]]
 - [[Dybbuk-Nest]]
 - [[Session 17 - 29.07.2026]]
+- [[Session 20 - 16.09.2026]]
+- [[Session 21 - 23.09.2026]]
+- [[Ilmater]]
 
 ## Session 18
 
@@ -191,3 +194,11 @@ In [[Session 10 - 06.05.2026]] ruft Elysia ihren inneren Freund unter dem Namen 
 - Verweigerte die Führung durch den Sandsturm ausdrücklich — *„Das hier ist alles eine Lüge. Hör auf, mit mir zu sprechen!"* — und wurde daraufhin in der Vision vom schwarzen Sand begraben.
 - Suchte nach dem Erwachen panisch eine bestimmte Karte, fand sie und deutete sie als Beweis: *„Er hat mir geholfen. Er hat mir wieder geholfen."*
 - Widersprach der Gruppe ausdrücklich, es sei eine Machtversuchung gewesen: Sie sei vor eine **Wahl** gestellt worden.
+
+## Session 21
+
+- Tötet mit *Moonbeam* mehrere katzengroße Spinnen an der Höhlendecke auf einen Schlag, während die Gruppe eine Spinnenhöhle jenseits des Abgrunds durchkämpft.
+- Rettet [[Zion]] im letzten Moment vor einem tödlichen Fehler: Als er nach dem Kampf, noch in seiner Vision gefangen, sie am Hals packt und das Schwert zieht, öffnet sie eine telepathische Verbindung und schreit ihm direkt in den Kopf — das Band zwischen beiden Figuren gibt ihm Vorteil auf den entscheidenden Rettungswurf, den er hauchdünn besteht.
+- Trägt danach sichtbare Kratzer und Druckstellen von Zions Panzerhandschuh am Hals; ohrfeigt ihn als Weckruf, nicht als Vergeltung, und erklärt sie seien vorerst quitt.
+- Repariert den jenseits des Abgrunds gefundenen, entweihten [[Ilmater]]-Schrein mit wiederholtem *Mending*.
+- Steigt mit der Gruppe auf **Stufe 5** auf.

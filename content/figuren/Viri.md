@@ -142,6 +142,9 @@ Viri ist nicht als Gast zur Hochzeit gekommen, sondern weil sie Sokars Männer h
 - [[Session 15 - 08.07.2026]]
 - [[Session 16 - 14.07.2026]]
 - [[Session 17 - 29.07.2026]]
+- [[Session 20 - 16.09.2026]]
+- [[Session 21 - 23.09.2026]]
+- [[Ilmater]]
 
 ## Session 18
 
@@ -171,3 +174,12 @@ Viri ist nicht als Gast zur Hochzeit gekommen, sondern weil sie Sokars Männer h
 - Ihre Adern leuchteten daraufhin golden auf und ihre Flügel entfalteten sich so hell, dass der Engel sich abwenden musste. Sein letzter Satz: *„Du bist nicht mein Blut, du bist eine Schande."*
 - Spürte nach dem Erwachen Abdrücke großer Zähne auf der Haut; es fanden sich aber weder Wunde noch Blut.
 - Brach in der Quarzkammer versehentlich einen Kristall auf, hielt sich geistesgegenwärtig den Ärmel vors Gesicht und blieb unverletzt; löste die Kammer anschließend mit *Sorcerer's Burst* auf Kältebasis.
+
+## Session 21
+
+- Offenbart im Kampf gegen die Spinnenhöhle jenseits des Abgrunds eine ausgeprägte **Arachnophobie**: Versagt einen Rettungswurf gegen den bloßen Anblick der Spinnenmenge und wird verängstigt.
+- Wird von der Mutterspinne in einen Netzkokon gesponnen — ihr wortwörtlicher Albtraum — und befreit sich erst mit letzter Kraftanstrengung durch *Misty Step*, nachdem sie zunächst zu verängstigt ist, um überhaupt zu zaubern.
+- Tötet die riesige Mutterspinne mit einem kritischen *Guiding Bolt* (38 Schaden) mit einem einzigen Treffer.
+- Findet hinter dem Abgrund einen entweihten [[Ilmater]]-Schrein — eine grob behauene Steinhand mit abgebrochenen Fingern —, spürt beim Auflegen der Hand magisches Residuum und einen in Dissonanz kippenden Chor und gewinnt dabei einen Lebenspunkt zurück.
+- Weiht den von [[Elysia|Lyssa]] reparierten Schrein mit *Bless*; die dabei freigesetzte Kraft heilt die gesamte Gruppe vollständig (verbrauchte Zauberplätze bleiben verbraucht).
+- Steigt mit der Gruppe auf **Stufe 5** auf.

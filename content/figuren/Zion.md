@@ -156,6 +156,9 @@ In [[Session 9 - 15.04.2026]]: Als [[Chloro Verde]]s Schatten länger wird, **ve
 - [[Session 16 - 14.07.2026]]
 - [[Dybbuk-Nest]]
 - [[Session 17 - 29.07.2026]]
+- [[Session 20 - 16.09.2026]]
+- [[Session 21 - 23.09.2026]]
+- [[Ilmater]]
 
 
 ## Session 18
@@ -184,3 +187,17 @@ In [[Session 9 - 15.04.2026]]: Als [[Chloro Verde]]s Schatten länger wird, **ve
 - **Seine Prüfung wurde ausdrücklich ausgespart** und auf die nächste Session verschoben, damit sein Spieler sie selbst spielen kann. Was Zion in der Vision angeboten wurde und wie er entschieden hat, ist noch offen.
 - Erhielt von Lyssa *Guidance* für den Weg durch die Quarzkammer und kam unbeschadet hindurch.
 - Die Gruppe äußert am Tisch offene Sorge, wie Zion angesichts seines Schattens auf diese Höhle reagieren wird.
+
+## Session 21 — Die nachgeholte Prüfung
+
+- Erwacht in einem uralten Wald voller golden leuchtender Augen; hört die Stimme seiner in Ketten gefangenen Schwester **Eden** — derselbe Name, den Zion seit [[Session 5 – Papiere, Pässe und Päckchen]] als eigene Tarnidentität im [[Tigerauge]] führt.
+- Wird von einem riesigen, ausgemergelten Wolf mit tausend goldenen Augen im Maul durch eine eskalierende Kette moralischer Kompromisse geführt: erst „verdiente" Tote, dann zunehmend unschuldige Opfer, schließlich Illusionen von Eden und der eigenen Mutter.
+- Besteht mehrere Rettungswürfe gegen den Wahn nicht und hackt unkontrolliert auf die Trugbilder von Schwester und Mutter ein; lehnt aber jedes Bündnisangebot des Wolfs ab, auch das Angebot, beide Frauen für eine letzte Seele zurückzubekommen.
+- Erkennt in letzter Sekunde eine Katze wieder, die er **kürzlich in der wachen Welt auf seiner Brust liegen sah** — ein neuer, ungeklärter Hinweis, dass die Wesen aus seinen Visionen auch außerhalb der Höhle real mit ihm in Kontakt stehen.
+- Sein eigener Schatten erscheint zum ersten Mal als **eigenständig handelnder Verbündeter** (Rabenform) statt als etwas, das sich versteckt oder zurückbleibt, und hilft zusammen mit der Katze, den Wolf endgültig zu erlegen.
+- Tötet den Wolf im Zweikampf; dessen Blut fließt rückwärts in Zions Klinge, die dabei vor Zufriedenheit vibriert.
+- Erwacht mit dauerhaft **9 weniger maximalen Lebenspunkten**.
+- **Nach dem folgenden Spinnenkampf (siehe unten) bricht der Wahn erneut durch:** Noch zwischen Vision und Wirklichkeit gefangen, packt er [[Elysia|Lyssa]] am Hals und zieht das Schwert, ohne sie zu erkennen. Nur ihre telepathische Verbindung und das Band zwischen beiden Figuren (Vorteil auf den Rettungswurf) holen ihn im letzten Moment zurück — er lässt das Schwert fallen, bevor er zuschlägt.
+- Erkennt an sichtbaren Kratzern und Druckstellen an Lyssas Hals, was er getan hat: *„Ich habe dich verletzt."* Wird von ihr geohrfeigt (als Weckruf, nicht als Vergeltung) und erwähnt der Gruppe gegenüber erstmals offen Wolf, Schatten und Katze aus seiner Vision, weicht aber vertiefenden Fragen aus.
+- Bewacht anschließend allein die neu entdeckte, formlose Bedrohung hinter einer Tür, während der Rest der Gruppe einen entweihten [[Ilmater]]-Schrein repariert und weiht — lässt sich von Viri kurz zurück in die Gruppe holen.
+- Steigt mit der Gruppe auf **Stufe 5** auf.

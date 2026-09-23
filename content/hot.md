@@ -2,7 +2,7 @@
 type: meta
 title: "Aktueller Kontext (Hot Cache)"
 created: 2026-05-12
-updated: 2026-09-16
+updated: 2026-09-23
 tags:
   - meta/hot
 ---
@@ -10,53 +10,46 @@ tags:
 
 ## Letztes Update
 
-2026-09-16 - [[Session 20 - 16.09.2026]] aufgenommen. Die Gruppe betritt die [[Tickbalang-Höhle]]. Die Höhle greift nicht die Sicht an, sondern den Geist: verzerrte Entfernungen, gestörte Telepathie, verdoppelte Gänge, ausgehebelte Dunkelsicht. Nach kurzer Zeit im Inneren stürzt jede Figur in eine eigene, auf ihre Herkunft zugeschnittene Prüfung. [[Viri]] weist [[Dolorion]] ab, [[Elysia|Lyssa]] durchschaut das Muster „Geführt" um [[Ventus]], [[Sir Aschefall]] lehnt die Selbstvergöttlichung seines [[Der Kriegsherr|früheren Kriegsherrn]] ab, und [[Rugir]] liest im Archiv des [[Alabaster Kuratorium]]s seinen wahren zweiten Namen, bevor er ihm wieder weggestrichen wird. Alle vier lehnen ab, sterben in ihrer Vision und erwachen unverletzt. [[Zion]]s Prüfung wird auf die nächste Session verschoben (Spieler fehlte). Danach: Quarzkammer mit giftigem Gas, dann eine große Kammer mit einem Abgrund, über den nur eine Kette führt.
+2026-09-23 - [[Session 21 - 23.09.2026]] aufgenommen. [[Zion]] holt seine aus [[Session 20 - 16.09.2026]] verschobene Prüfung nach: In einer Waldvision tötet er einen tausendäugigen Wolf, wird dabei von einer real wiedererkannten Katze und seinem erstmals eigenständig handelnden Schatten (Rabenform) unterstützt, und verliert dauerhaft 9 maximale Lebenspunkte. Direkt danach überquert die Gruppe den Abgrund an der Kette, besiegt jenseits davon ein Lager riesiger Spinnen, weiht einen entweihten Ilmater-Schrein (volle Heilung) und steht am Sessionende vor einer Tür mit einer formlosen, sich vervielfachenden Bedrohung. Zwischen Spinnenkampf und Schrein greift Zion — noch visionsbefangen — [[Elysia|Lyssa]] tätlich an; nur ihre telepathische Verbindung stoppt ihn rechtzeitig. Die Gruppe steigt auf Stufe 5 auf.
 
 ## Wichtige aktuelle Fakten
 
-- Aktuellste In-Fiction-Session: [[Session 20 - 16.09.2026]]
-- Die Gruppe steht **in** der [[Tickbalang-Höhle]] vor einem tiefen Abgrund. Einzige Überfahrt: eine **Kette**. Am anderen Ende meint Rugir Spinnennetze zu sehen.
-- **Die Dunkelheit** ([[Die Dunkelheit der Tickbalang-Höhle]]) hebelt Dunkelsicht aus, verzerrt Raum und Entfernung, stört Telepathie und schickt jeden in eine persönliche Vision. Ab der Abgrundkammer endet der Effekt; normale Dunkelsicht reicht wieder.
-- **Wirksame Gegenmittel:** [[Verfluchte Driftkugel|Viris Driftkugel]] (Fluchlicht drängt die Finsternis zurück, schreit dabei ununterbrochen), *Light* (stark gedämpft, ca. 1 m), *Protection from Evil and Good* (Vorteil, bessere Orientierung), ein Seil zwischen allen.
-- **Alle Prüfungen wurden abgelehnt.** Niemand hat einen Pakt geschlossen. Der Spielleiter bestätigt im Nachgespräch: Eine Annahme hätte für Viri das Ende der Figur bedeutet.
-- **Zions Prüfung steht noch aus** — bewusst ausgespart, wird in der nächsten Session nachgeholt.
-- **Goldgelbe Augen:** Nur [[Rugir]] sieht sie, als er sein Gegenüber als Illusion entlarvt. Er sagt, er könne sich denken, was es sei — nennt es aber nicht. Viri betont, der Engel habe **keine** gelben Augen gehabt.
-- **Eingangsspuren:** magisches Residuum **plus** dieselbe nekrotische Leere wie an den Mordwaffen. Alter unsicher, ein bis zwei Wochen möglich. Bester bisheriger Beleg, dass die Höhle mit dem Mörder von [[Sokar Karioka]] zu tun hat.
-- **Die Toten am Abgrund:** Abenteurer, gestorben an einer aufgerissenen Brust, in die etwas **Eier gelegt** hat. Beute: 2 Heiltränke, 15 Gold.
-- **Quarzkristalle:** mannshoch, schwarz, fragil; beim Bruch entweicht giftiges grünes Gas. Rugir kennt das Material aus dem Hausbau.
-- **Keine Tickbalang** im bisher erkundeten Teil der Höhle — nur Fledermäuse.
-- **Drei-Tage-Frist** der [[Kapitänin der Cestus]] und die Belagerung Rhusions durch [[Kurkan Akrava|Hrem]] laufen weiter im Hintergrund.
+- Aktuellste In-Fiction-Session: [[Session 21 - 23.09.2026]]
+- Die Gruppe steht **vor einer Tür** jenseits des Abgrunds in der [[Tickbalang-Höhle]]. Dahinter lauert etwas Formloses, das sich vervielfacht und wieder zusammenfindet und die Höhle bei Annäherung erbeben lässt — siehe [[Die Gestalt hinter der Tür]].
+- **Zions Prüfung ist bestanden, aber teuer:** Er tötet den Wolf aus seiner Vision, verliert dabei dauerhaft 9 maximale Lebenspunkte. Anders als bei den anderen vier Prüfungen (Session 20) hat Zion aktiv gekämpft statt nur zu sterben und zu erwachen.
+- **Zions Wahn ist real und gefährlich:** Direkt nach dem Spinnenkampf greift er, noch in der Vision gefangen, [[Elysia|Lyssa]] am Hals an und zieht das Schwert. Nur ihre telepathische Verbindung (Vorteil auf den Rettungswurf durchs Band der Figuren) rettet sie. Sie trägt sichtbare Kratzer und Druckstellen; die Gruppe weiß jetzt, dass Zion unter Stress zur Gefahr werden kann.
+- **Die Katze ist real:** Zion erkennt in seiner Vision eine Katze wieder, die kürzlich tatsächlich auf seiner Brust gelegen hat — ein neuer Beleg, dass die Wesen aus seinem Inneren auch außerhalb der Höhle mit ihm in Kontakt stehen (vermutlich verknüpft mit der älteren „Katzengestalt", siehe [[Zions Hunger]]).
+- **Zions Schatten handelt erstmals als eigenständiger Verbündeter** — nimmt Rabenform an und kämpft aktiv gegen den Wolf, statt sich zu verstecken.
+- **Die Dunkelheit endet endgültig an der Abgrundkammer:** Jenseits davon (Spinnenhöhle, Schrein) wirkt keine geistbeeinflussende Finsternis mehr.
+- **Der Ilmater-Schrein:** entweihte Steinhand mit abgebrochenen Fingern, von [[Elysia|Lyssa]] repariert (*Mending*) und von [[Viri]] geweiht (*Bless*). Heilt die gesamte Gruppe vollständig; verbrauchte Zauberplätze bleiben verbraucht. Erbauer und Zerstörer unbekannt.
+- **Viri hat Arachnophobie** — neu offenbart im Spinnenkampf; wurde dort in einem Netzkokon gefangen, entkam per *Misty Step* und tötete die Mutterspinne mit einem kritischen *Guiding Bolt* (38 Schaden).
+- Stufenaufstieg: Die gesamte Gruppe ist jetzt **Stufe 5**.
+- Im Hintergrund weiterhin ungelöst: Drei-Tage-Frist der [[Kapitänin der Cestus]], Belagerung Rhusions durch [[Kurkan Akrava|Hrem]], [[Wo versteckt sich der Assassine]].
 
 ## Was jede Figur mitgenommen hat
 
-- **[[Viri]]:** Hat [[Dolorion]] zweimal ausdrücklich abgewiesen. Ihre Adern und Flügel leuchteten golden auf. Sein Abschied: *„Du bist nicht mein Blut, du bist eine Schande."* Sie spürt Zahnabdrücke ohne Wunde.
-- **[[Elysia]]:** Musste sich der Möglichkeit stellen, dass [[Ventus]] ihr ganzes Leben gelenkt hat — jede Karte trug das Wort **„Geführt"**. Sie entkam über einen Weg ohne Zeichen. Nach dem Erwachen sucht sie eine bestimmte Karte, findet sie und deutet sie als Beweis, dass Ventus ihr geholfen hat. Sie sagt, es sei keine Machtversuchung gewesen, sondern eine **Wahl**.
-- **[[Rugir]]:** Hat seinen wahren zweiten Namen für einen Herzschlag gelesen und sofort wieder verloren. Lehnte Allwissen und die rettende Unterschrift ab. Als Einziger hat er die goldgelben Augen gesehen.
-- **[[Sir Aschefall]]:** Vergangenheit erstmals belegt — er diente einem Kriegsherrn und verbrannte auf Befehl einen Wehrlosen. Lehnte Herrschaft über Tesparis und Göttlichkeit ab: *„Den Weg ja, das Ziel nein."*
-- **[[Zion]]:** offen.
+- **[[Zion]]:** Besteht seine Prüfung, tötet den Wolf, verliert 9 maximale HP. Greift danach im Wahn Lyssa an und erkennt entsetzt, was er getan hat: *„Ich habe dich verletzt."* Erwähnt der Gruppe erstmals offen Wolf, Schatten und Katze, weicht aber vertiefenden Fragen aus.
+- **[[Elysia]]:** Rettet Zion telepathisch im letzten Moment, trägt danach sichtbare Verletzungen von ihm. Tötet mit *Moonbeam* mehrere Spinnen und repariert den Ilmater-Schrein.
+- **[[Viri]]:** Offenbart Arachnophobie, übersteht den Netzkokon, tötet die Mutterspinne mit kritischem *Guiding Bolt*, weiht den Schrein.
+- **[[Rugir]]:** Schläfert Spinnen ein, nutzt Tremorsense zur Orientierung, bestätigt eine unnatürliche Bewegung hinter der Tür.
+- **[[Sir Aschefall]]:** Testet die Kette als Erster, wird überzogen mit Netzklebstoff, tritt tote Spinnen in den Abgrund.
 
 ## Aktive Fäden
 
-- **[[Die Dunkelheit der Tickbalang-Höhle]]** - neu/akut. Was ist die Macht, und wem gehören die goldgelben Augen?
-- **[[Dolorion]]** - neu/akut. Der gefallene Engel Ilmaters ist abgewiesen, aber nicht besiegt.
-- **[[Ventus]]** - eskaliert. Beistand oder Puppenspieler?
-- **[[Der Kriegsherr]]** / **[[Karaman]]** - neu. Aschefalls Vergangenheit, der Tesparis-Plan und die Festung um das Dämonentor.
-- **[[Rugirs wahrer Name]]** - fortgeschritten. Ein zweiter Name, der jemandem *gehört hat*.
-- **[[Tickbalang-Höhle]]** - fortgeschritten. Abgrund, Kette, Netze, eierlegende Kreatur.
-- **[[Verfluchte Driftkugel]]** - fortgeschritten. Der Fluch ist eine Waffe gegen die Finsternis.
-- **[[Zions Hunger]]** - offen. Prüfung ausgesetzt.
-- **[[Wo versteckt sich der Assassine]]** - offen. Nekrotische Eingangsspur ja, direkte Spur in der Höhle nein.
-- **[[Alabaster Kuratorium]]** - fortgeschritten. Rugirs Akte, gefälschte Berichte, geschwärzter Name.
-- **[[Tickbalang]]**, Lebensraub-Lichtung, [[Sprechende Kristallkugel]], [[Verfluchte Schuppenrüstung]], Rückweg zur [[Cestus]] - im Hintergrund.
+- **[[Die Gestalt hinter der Tür]]** - neu/akut. Formlos, sich vervielfachend, lässt die Höhle erbeben.
+- **[[Zions Hunger]]** - eskaliert. Der Wahn greift erstmals real in die Welt über; Katze real gesehen; Schatten als Verbündeter.
+- **[[Tickbalang-Höhle]]** - fortgeschritten. Abgrund, Spinnenhöhle und Schrein erkundet, Tür noch verschlossen.
+- **[[Die Dunkelheit der Tickbalang-Höhle]]** - bestätigt abgeschlossen an der Abgrundkammer; Zions Prüfung nachgeholt.
+- **[[Wo versteckt sich der Assassine]]** - offen. Auch im Spinnenlager keine direkte Spur.
+- **[[Dolorion]]**, **[[Ventus]]**, **[[Der Kriegsherr]]** / **[[Karaman]]**, **[[Rugirs wahrer Name]]** - im Hintergrund, aus Session 20, weiterhin unbearbeitet.
+- **[[Tickbalang]]**, Lebensraub-Lichtung, [[Sprechende Kristallkugel]], [[Verfluchte Schuppenrüstung]], [[Verfluchte Driftkugel]], Rückweg zur [[Cestus]] - im Hintergrund.
 - **[[Ritual der 13 Stiche]]**, [[Blutpakt des Tigerauge]], [[Tabulei]], [[Mechanischer Vogel]], [[Hafensabotage]], [[Chloro Verde]] - im Hintergrund.
 
 ## Offen für die nächste Session
 
-- Zions Prüfung in der Dunkelheit nachholen — die wichtigste offene Frage.
-- Die Kette über dem Abgrund prüfen und überqueren.
-- Klären, was die Netze gesponnen und den Abenteurern Eier in die Brust gelegt hat.
-- Lyssa fragen, welche Karte sie gesucht und gefunden hat.
-- Herausfinden, wem die goldgelben Augen gehören.
-- Die schwarzen Quarzkristalle einordnen — was war darin eingeschlossen?
-- Die nekrotisch-magische Eingangsspur mit der [[Magische Mordwaffe|magischen Mordwaffe]] abgleichen.
-- Im Blick behalten, ob die Prüfungen die Figuren nachhaltig verändert haben (Viris Aasimar-Erbe, Rugirs Namensverlust, Aschefalls Vergangenheit, Elysias Verhältnis zu Ventus).
+- Die Tür öffnen und der Gestalt dahinter begegnen.
+- Klären, wer oder was die Katze aus Zions Vision ist — und wann sie real auf seiner Brust lag.
+- Beobachten, ob und wie sich Zions Wahn wiederholt; wie die Gruppe (v. a. Lyssa) künftig mit dem Risiko umgeht.
+- Herausfinden, wer den Ilmater-Schrein errichtet und wer ihn entweiht hat.
+- Verbrauchte Zauberplätze im Blick behalten (die Schrein-Heilung hat nur HP zurückgesetzt).
+- Weiterhin offen aus Session 20: goldgelbe Augen, Rugirs wahrer Name, Ventus' Rolle, der Kriegsherr/Tesparis-Plan.

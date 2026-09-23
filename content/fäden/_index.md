@@ -2,7 +2,7 @@
 type: meta
 title: "Fäden-Übersicht"
 created: 2026-05-12
-updated: 2026-09-16
+updated: 2026-09-23
 tags:
   - meta/index
   - domain/threads
@@ -13,13 +13,14 @@ Offene Rätsel, Handlungsfäden, Hinweise und ungeklärte Fragen. Jede Seite hat
 
 ## Heiße Fäden (Priorität)
 
-- [[Die Dunkelheit der Tickbalang-Höhle]] *(neu/akut, Session 20: Höhle greift Sinne und Geist an, vier Prüfungen abgelehnt)*
+- [[Die Gestalt hinter der Tür]] *(neu/akut, Session 21: formlose, sich vervielfachende Bedrohung hinter dem Ilmater-Schrein)*
+- [[Zions Hunger]] *(eskaliert, Session 21: Prüfung bestanden, aber der Wahn greift erstmals in die Wirklichkeit über — Angriff auf Elysia)*
+- [[Tickbalang]] / [[Tickbalang-Höhle]] *(fortgeschritten, Session 21: Abgrund überquert, Spinnenlager besiegt, Ilmater-Schrein gefunden)*
+- [[Die Dunkelheit der Tickbalang-Höhle]] *(bestätigt, Session 21: endet an der Abgrundkammer; Zions Prüfung nachgeholt)*
 - [[Dolorion]] *(neu/akut, Session 20: der gefallene Engel tritt Viri direkt gegenüber)*
 - [[Ventus]] *(eskaliert, Session 20: Verdacht, dass er Elysias Leben gelenkt hat)*
-- [[Tickbalang]] / [[Tickbalang-Höhle]] *(fortgeschritten, Session 20: Gruppe im Inneren, Abgrund erreicht)*
 - Lebensraub-Lichtung *(neu/offen, Session 19: nekromantisch ausgesaugte Tiere/Pflanzen)*
-- [[Zions Hunger]] *(fortgeschritten, Session 19: Greater Restoration, Schattenproblem offen)*
-- [[Wo versteckt sich der Assassine]] *(fortgeschritten, Session 19: Höhlenspur fühlt sich wie Nähe zum Mörder an)*
+- [[Wo versteckt sich der Assassine]] *(offen, Session 21: auch im Spinnenlager keine direkte Spur)*
 - [[Blutpakt des Tigerauge]]
 - [[Ritual der 13 Stiche]]
 - [[Hafensabotage]]

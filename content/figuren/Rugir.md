@@ -155,6 +155,8 @@ Kein direkter Treffer auf die **7 Kerzen** oder die **13 Stiche**. Spezialist f�
 - [[Session 16 - 14.07.2026]]
 - [[Dybbuk-Nest]]
 - [[Session 17 - 29.07.2026]]
+- [[Session 20 - 16.09.2026]]
+- [[Session 21 - 23.09.2026]]
 
 ## Session 18
 
@@ -184,3 +186,10 @@ Kein direkter Treffer auf die **7 Kerzen** oder die **13 Stiche**. Spezialist f�
 - Versteinerte in der Vision und sprengte sie mit seinen letzten Worten *„Fahr zur Hölle"* in kaltem violettem Licht; das Letzte, was er spürte, war Freiheit.
 - Pustete in der Quarzkammer die grüne Gaswolke mit *Prestidigitation* fort und legte Wassernebel darüber.
 - Untersuchte die Skelette in der Abgrundkammer perfekt: Todesursache ist eine aufgerissene Brust, in die etwas **Eier gelegt** hat. Fand dabei zwei Heiltränke und 15 Gold.
+
+## Session 21
+
+- Schläfert mit *Sleep* mehrere kleine Spinnen in der Spinnenhöhle jenseits des Abgrunds ein und nutzt Zwergen-Gesteinskunde (Tremorsense) zur Orientierung im Dunkeln.
+- Hangelt sich mühsam wie ein Faultier über die Kette und hilft anschließend [[Sir Aschefall]], der nach der Überquerung nicht sofort aufstehen kann, wieder auf die Beine.
+- Bestätigt über Tremorsense, dass sich hinter der am Ende der Session entdeckten Tür etwas eindeutig Unnatürliches bewegt, ohne es näher bestimmen zu können.
+- Steigt mit der Gruppe auf **Stufe 5** auf.

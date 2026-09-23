@@ -2,7 +2,7 @@
 type: meta
 title: "Vorgangs-Protokoll"
 created: 2026-05-12
-updated: 2026-09-16
+updated: 2026-09-23
 tags:
   - meta/log
 ---
@@ -19,6 +19,17 @@ Format:
 - Aktualisierte Seiten: [[…]]
 - Kernerkenntnis: ein Satz
 ```
+
+---
+
+## [2026-09-23] transkript | Session 21 - Zions Prüfung, die Spinnenhöhle und der entweihte Schrein
+
+- Quelle: Craig-Audio `craig-8fJsBxj6eZ74-TcVREB4REeDm1ry.flac.zip`, WhisperX `large-v3` (CUDA/float16, Alignment), 3022 Segmente, ca. 3h 4min, 150 Korrekturen; Rohtranskript unter `.raw/session-transcripts/Session 21 - 23.09.2026.md`
+- Zusammenfassung: [[Session 21 - 23.09.2026]]
+- Erstellte Seiten: [[Session 21 - 23.09.2026]], [[Transcript - Session 21 - 23.09.2026]], [[Die Gestalt hinter der Tür]]
+- Aktualisierte Seiten: [[Zion]], [[Viri]], [[Elysia]], [[Rugir]], [[Sir Aschefall]], [[Zions Hunger]], [[Tickbalang-Höhle]], [[Die Dunkelheit der Tickbalang-Höhle]], [[Ilmater]], [[Wo versteckt sich der Assassine]], `hot.md`, `index.md`, `Willkommen.md`, `sessions/_index.md`, `quellen/_index.md`, `fäden/_index.md`, `log.md`
+- Kernerkenntnis: Zion besteht seine nachgeholte Prüfung — tötet einen tausendäugigen Wolf mit Hilfe eines real wiedererkannten Katers und seines erstmals eigenständig handelnden Schattens, verliert aber dauerhaft 9 maximale Lebenspunkte. Direkt danach bricht sein Wahn erstmals außerhalb der Vision durch: Er greift Elysia tätlich an und wird nur durch ihre telepathische Verbindung gestoppt. Die Gruppe überquert den Abgrund, besiegt ein Spinnenlager, weiht einen entweihten Ilmater-Schrein (volle Heilung der Gruppe) und steht am Sessionende vor einer Tür mit einer formlosen, sich vervielfachenden Bedrohung. Stufenaufstieg auf 5.
+- Anmerkung Datenqualität: `corrected_obsidian.md` enthält für diese Session nur 21 korrekte Namenskorrekturen (Sion/Xion → Zion) und wurde direkt als Hauptquelle verwendet — keine fehlerhaften Glossar-Ersetzungen wie bei Session 20.
 
 ---
 
