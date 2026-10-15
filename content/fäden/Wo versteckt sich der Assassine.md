@@ -2,12 +2,14 @@
 type: concept
 title: "Wo versteckt sich der Assassine"
 created: 2026-05-12
-updated: 2026-09-23
-tags: [offen, priorität, assassine]
-priorität: hoch
+updated: 2026-10-14
+tags: [gelöst, assassine]
+status: resolved
 ---
 
 # Wo versteckt sich der Assassine?
+
+> [!resolved] **Session 22:** Die Gruppe findet und tötet den [[Rakshasa-Assassine|Rakshasa]] in einem entweihten Ilmater-Altarraum der [[Tickbalang-Höhle]] — direkt hinter der Tür aus [[Session 21 - 23.09.2026]]. Er hauste im angrenzenden Arbeitszimmer, unmittelbar neben einem Blutbecken und sieben [[Todgelichter|Todgelichtern]]. Offen bleibt nur noch, wer ihn beauftragt hat — siehe [[Die Boss hinter den Helfern]].
 
 ## Hjoldas Vision-Hinweis
 
@@ -70,25 +72,6 @@ Im Dschungel von Zarat kämpft die Gruppe gegen drei Kultisten des [[Der Dybbuk|
 - [ ] Ist Jai vom [[Tigerauge]] dieselbe Person oder ein zweiter Rakshasa? (in Rhusion zurückgeblieben?)
 - [ ] Steckt der Assassine selbst hinter dem Auftrag an die Dybbuk-Kultisten, oder dient er demselben, noch unbekannten Auftraggeber?
 
-## Verknüpfungen
-
-- [[Rakshasa-Assassine]]
-- [[Unbekannte Frau]]
-- [[Chloro Verde]]
-- [[Doruk Val]]
-- [[Codierpergament]]
-- [[Zarat]]
-- [[Hjolda]]
-- [[Der Dybbuk]]
-- [[Magische Mordwaffe]]
-- [[Session 9 - 15.04.2026]]
-- [[Session 11 - 03.06.2026]]
-- [[Session 16 - 14.07.2026]]
-- [[Session 20 - 16.09.2026]]
-- [[Session 21 - 23.09.2026]]
-
-
-
 ## Session 19 - Spur zur Höhle
 
 Nach Calderions Erklärung zu den Tickbalang und der Südost-Höhle folgte die Gruppe dieser Spur. Die nekromantisch ausgelaugte Lichtung und der furchteinflößende Höhleneingang verstärkten den Eindruck, dem eigentlichen Täter hinter Sokar Kariokas Tod näher zu kommen.
@@ -107,3 +90,33 @@ Ob die Macht in der Höhle, die Kreatur mit den Eiern und der gesuchte Mörder d
 ## Session 21 — Spinnenhöhle ohne direkte Spur
 
 Auch die Spinnenhöhle jenseits des Abgrunds (Quelle: [[Session 21 - 23.09.2026]]) liefert keinen direkten Hinweis auf den Assassinen — die dort besiegte Mutterspinne und ihre Brut erklären zwar plausibel die eierlegende Kreatur von der Abgrundkammer, tragen aber keine erkennbare Verbindung zur magischen Mordwaffe. Die formlose Gestalt hinter der am Sessionende entdeckten Tür bleibt der aussichtsreichste noch unbestätigte Kandidat.
+
+## Session 22 — Gefunden und erlegt
+
+Hinter der Tür aus Session 21 liegt ein entweihter Ilmater-Altarraum mit Blutbecken und sieben [[Todgelichter|Todgelichtern]]. Im angrenzenden Arbeitszimmer — samt Skalpellen, Geheimschrift-Briefen und einem Haufen aus Rüstung, Schädeln, Schuhen und Lumpen — lauert der Rakshasa selbst und greift die Gruppe im Überraschungsangriff an.
+
+Der folgende Kampf ist knapp: Eine angstauslösende Illusion, die die Gestalt des toten Sokar Karioka annimmt, lässt drei der fünf Figuren gleichzeitig auf 0 Lebenspunkte fallen. [[Rugir]] besiegt ihn schließlich mit einem Zauberstab, der sich als vom Rakshasa selbst verflucht erweist — er trifft „die eigenen Leute" seines Fluchträgers und richtet sich damit gegen seinen Schöpfer. Der Rakshasa schmilzt zu Ichor und flüstert: *„Ich werde dich heimsuchen, Zwerg."*
+
+Damit ist der **gesuchte Mörder Sokar Kariokas gefunden und tot**. Offen bleibt, wer ihn beauftragt hat — siehe [[Die Boss hinter den Helfern]] — und ob Jai vom [[Tigerauge]] ein zweiter, noch lebender Rakshasa ist.
+
+## Verknüpfungen
+
+- [[Rakshasa-Assassine]]
+- [[Rakshasa]]
+- [[Todgelichter]]
+- [[Ritual der 13 Stiche]]
+- [[Die Boss hinter den Helfern]]
+- [[Magische Mordwaffe]]
+- [[Unbekannte Frau]]
+- [[Chloro Verde]]
+- [[Doruk Val]]
+- [[Codierpergament]]
+- [[Zarat]]
+- [[Hjolda]]
+- [[Der Dybbuk]]
+- [[Session 9 - 15.04.2026]]
+- [[Session 11 - 03.06.2026]]
+- [[Session 16 - 14.07.2026]]
+- [[Session 20 - 16.09.2026]]
+- [[Session 21 - 23.09.2026]]
+- [[Session 22 - 14.10.2026]]

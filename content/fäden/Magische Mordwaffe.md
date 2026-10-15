@@ -2,9 +2,9 @@
 type: concept
 title: "Magische Mordwaffe"
 created: 2026-05-12
-updated: 2026-07-14
+updated: 2026-10-14
 tags: [hinweis, forensisch, illusionsmagie]
-status: aktiv
+status: täter identifiziert und tot – ursprung der waffe weiterhin offen
 ---
 
 # Magische Mordwaffe
@@ -55,3 +55,7 @@ Auf **[[Zarat]]** beschwören drei Kultisten des **[[Der Dybbuk|Dybbuk]]** im Ka
 ## Session 19 - Indirekte Spur
 
 Die Gruppe fand auf dem Weg zur Tickbalang-Höhle eine nekromantisch ausgelaugte Lichtung. Das passt noch nicht direkt zur gesuchten Mordwaffe, verstärkt aber die Spur zu einer Macht, die Lebenskraft entzieht und mit Sokar Kariokas Tod zusammenhängen könnte.
+
+## Session 22 — Der Täter ist tot
+
+Die Gruppe tötet in [[Session 22 - 14.10.2026]] den [[Rakshasa-Assassine|Rakshasa]], der Sokar Karioka tötete (siehe [[Wo versteckt sich der Assassine]]). Damit ist geklärt, **wer** zustach und **wer** die Illusionsmagie bei der Tat einsetzte — der Rakshasa selbst, als Meister der Tarnung. Offen bleibt weiterhin, wer die eigentliche schwarze, gezackte Klingenart ursprünglich schmiedete/paktgebunden bereitstellte, und wer dahintersteht — siehe [[Die Boss hinter den Helfern]].

@@ -162,7 +162,9 @@ In [[Session 10 - 06.05.2026]] ruft Elysia ihren inneren Freund unter dem Namen 
 - [[Session 17 - 29.07.2026]]
 - [[Session 20 - 16.09.2026]]
 - [[Session 21 - 23.09.2026]]
+- [[Session 22 - 14.10.2026]]
 - [[Ilmater]]
+- [[Rakshasa-Assassine]]
 
 ## Session 18
 
@@ -202,3 +204,11 @@ In [[Session 10 - 06.05.2026]] ruft Elysia ihren inneren Freund unter dem Namen 
 - Trägt danach sichtbare Kratzer und Druckstellen von Zions Panzerhandschuh am Hals; ohrfeigt ihn als Weckruf, nicht als Vergeltung, und erklärt sie seien vorerst quitt.
 - Repariert den jenseits des Abgrunds gefundenen, entweihten [[Ilmater]]-Schrein mit wiederholtem *Mending*.
 - Steigt mit der Gruppe auf **Stufe 5** auf.
+
+## Session 22
+
+- Findet verdeckt einen versteckten Türmechanismus (Tatzenabdruck mit Krallenvertiefungen) im entweihten Ilmater-Altarraum und verschleiert die Entdeckung erfolgreich vor möglichen Beobachtern.
+- Teilt den Fund anschließend telepathisch — hält [[Zion]] dabei aber bewusst heraus: Nach dem Vorfall aus [[Session 21 - 23.09.2026]] vertraut sie ihm gerade nicht.
+- Bleibt im Kampf gegen den [[Rakshasa-Assassine|Rakshasa]] als eine von nur zwei stehenden Figuren übrig, nachdem [[Viri]], Zion und [[Sir Aschefall]] durch dessen zweite Angstwelle gleichzeitig auf 0 Lebenspunkte fallen.
+- Heilt die drei Gefallenen nach dem Sieg mit *Aura of Vitality* und einer neuen Heilfähigkeit zurück ins Leben (zusammen ca. 60 Lebenspunkte).
+- Unterstützt Viri erschöpft bei der teilweisen Wiederherstellung der zerschlagenen Ilmater-Statue und sinkt danach selbst erschöpft am Altar zusammen.

@@ -157,6 +157,9 @@ Kein direkter Treffer auf die **7 Kerzen** oder die **13 Stiche**. Spezialist f�
 - [[Session 17 - 29.07.2026]]
 - [[Session 20 - 16.09.2026]]
 - [[Session 21 - 23.09.2026]]
+- [[Session 22 - 14.10.2026]]
+- [[Rakshasa-Assassine]]
+- [[Todgelichter]]
 
 ## Session 18
 
@@ -193,3 +196,11 @@ Kein direkter Treffer auf die **7 Kerzen** oder die **13 Stiche**. Spezialist f�
 - Hangelt sich mühsam wie ein Faultier über die Kette und hilft anschließend [[Sir Aschefall]], der nach der Überquerung nicht sofort aufstehen kann, wieder auf die Beine.
 - Bestätigt über Tremorsense, dass sich hinter der am Ende der Session entdeckten Tür etwas eindeutig Unnatürliches bewegt, ohne es näher bestimmen zu können.
 - Steigt mit der Gruppe auf **Stufe 5** auf.
+
+## Session 22
+
+- Findet im Arbeitszimmer neben dem Altarraum ein Zylinder-Zahlenschloss, dreht es zweimal, besteht danach einen Intelligenz-Rettungswurf und lässt klugerweise davon ab, es weiter zu erzwingen — ein Problem für später.
+- Gegenzaubert früh im Kampf gegen den im Raum lauernden [[Rakshasa-Assassine|Rakshasa]] einen seiner Zaubersprüche; sein eigener schwacher magischer Angriff schadet dem Rakshasa dagegen kaum.
+- Vergrößert [[Sir Aschefall]] mit *Enlarge*, wodurch dessen Divine Smite und Shining Smite den Großteil des sichtbaren Schadens anrichten.
+- Setzt im entscheidenden Moment, als nur noch er und [[Elysia|Lyssa]] stehen, den in [[Session 16 - 14.07.2026]] als „defekt, aber harmlos" identifizierten Zauberstab gegen den Rakshasa ein — der Stab erweist sich als tatsächlich verflucht und trifft „die eigenen Leute" seines Fluchträgers, der niemand anderes als der Rakshasa selbst ist. Der finale Treffer tötet ihn.
+- Untersucht nach dem Kampf rituell die sieben Kerzen um das Blutbecken und identifiziert sie als **[[Todgelichter]]** — aus dem Fett ritueller Mordopfer gegossene, noch kraftvolle Fokuskerzen. Bemerkt dabei neben Abscheu und Ekel kurz die Verlockung der Macht, die von ihnen ausgeht.

@@ -2,7 +2,7 @@
 type: meta
 title: "Aktueller Kontext (Hot Cache)"
 created: 2026-05-12
-updated: 2026-09-23
+updated: 2026-10-14
 tags:
   - meta/hot
 ---
@@ -10,46 +10,41 @@ tags:
 
 ## Letztes Update
 
-2026-09-23 - [[Session 21 - 23.09.2026]] aufgenommen. [[Zion]] holt seine aus [[Session 20 - 16.09.2026]] verschobene Prüfung nach: In einer Waldvision tötet er einen tausendäugigen Wolf, wird dabei von einer real wiedererkannten Katze und seinem erstmals eigenständig handelnden Schatten (Rabenform) unterstützt, und verliert dauerhaft 9 maximale Lebenspunkte. Direkt danach überquert die Gruppe den Abgrund an der Kette, besiegt jenseits davon ein Lager riesiger Spinnen, weiht einen entweihten Ilmater-Schrein (volle Heilung) und steht am Sessionende vor einer Tür mit einer formlosen, sich vervielfachenden Bedrohung. Zwischen Spinnenkampf und Schrein greift Zion — noch visionsbefangen — [[Elysia|Lyssa]] tätlich an; nur ihre telepathische Verbindung stoppt ihn rechtzeitig. Die Gruppe steigt auf Stufe 5 auf.
+2026-10-14 - [[Session 22 - 14.10.2026]] aufgenommen. Die Gruppe erzwingt die Tür aus [[Session 21 - 23.09.2026]] und findet einen entweihten [[Ilmater]]-Altarraum: ein Taufbecken aus rotem Porphyr voll Blut, umstanden von sieben flammenlosen schwarz-silbernen Kerzen, dahinter ein Arbeitszimmer voller Hinweise auf rituelle Morde. Ein Überraschungsangriff entpuppt sich als der lange gesuchte **[[Rakshasa-Assassine|Rakshasa]]**, Sokar Kariokas Mörder. Eine angstauslösende Illusion in der Gestalt des toten Sokar Karioka lässt [[Sir Aschefall]], [[Viri]] und [[Zion]] gleichzeitig auf 0 Lebenspunkte fallen; nur [[Elysia|Lyssa]] und [[Rugir]] bleiben stehen. Rugir gibt dem Rakshasa mit einem zuvor als harmlos eingeschätzten, tatsächlich vom Rakshasa selbst verfluchten Zauberstab den Todesstoß. Er schmilzt zu Ichor und flüstert: *„Ich werde dich heimsuchen, Zwerg."* Lyssa heilt die drei Gefallenen zurück ins Leben.
 
 ## Wichtige aktuelle Fakten
 
-- Aktuellste In-Fiction-Session: [[Session 21 - 23.09.2026]]
-- Die Gruppe steht **vor einer Tür** jenseits des Abgrunds in der [[Tickbalang-Höhle]]. Dahinter lauert etwas Formloses, das sich vervielfacht und wieder zusammenfindet und die Höhle bei Annäherung erbeben lässt — siehe [[Die Gestalt hinter der Tür]].
-- **Zions Prüfung ist bestanden, aber teuer:** Er tötet den Wolf aus seiner Vision, verliert dabei dauerhaft 9 maximale Lebenspunkte. Anders als bei den anderen vier Prüfungen (Session 20) hat Zion aktiv gekämpft statt nur zu sterben und zu erwachen.
-- **Zions Wahn ist real und gefährlich:** Direkt nach dem Spinnenkampf greift er, noch in der Vision gefangen, [[Elysia|Lyssa]] am Hals an und zieht das Schwert. Nur ihre telepathische Verbindung (Vorteil auf den Rettungswurf durchs Band der Figuren) rettet sie. Sie trägt sichtbare Kratzer und Druckstellen; die Gruppe weiß jetzt, dass Zion unter Stress zur Gefahr werden kann.
-- **Die Katze ist real:** Zion erkennt in seiner Vision eine Katze wieder, die kürzlich tatsächlich auf seiner Brust gelegen hat — ein neuer Beleg, dass die Wesen aus seinem Inneren auch außerhalb der Höhle mit ihm in Kontakt stehen (vermutlich verknüpft mit der älteren „Katzengestalt", siehe [[Zions Hunger]]).
-- **Zions Schatten handelt erstmals als eigenständiger Verbündeter** — nimmt Rabenform an und kämpft aktiv gegen den Wolf, statt sich zu verstecken.
-- **Die Dunkelheit endet endgültig an der Abgrundkammer:** Jenseits davon (Spinnenhöhle, Schrein) wirkt keine geistbeeinflussende Finsternis mehr.
-- **Der Ilmater-Schrein:** entweihte Steinhand mit abgebrochenen Fingern, von [[Elysia|Lyssa]] repariert (*Mending*) und von [[Viri]] geweiht (*Bless*). Heilt die gesamte Gruppe vollständig; verbrauchte Zauberplätze bleiben verbraucht. Erbauer und Zerstörer unbekannt.
-- **Viri hat Arachnophobie** — neu offenbart im Spinnenkampf; wurde dort in einem Netzkokon gefangen, entkam per *Misty Step* und tötete die Mutterspinne mit einem kritischen *Guiding Bolt* (38 Schaden).
-- Stufenaufstieg: Die gesamte Gruppe ist jetzt **Stufe 5**.
-- Im Hintergrund weiterhin ungelöst: Drei-Tage-Frist der [[Kapitänin der Cestus]], Belagerung Rhusions durch [[Kurkan Akrava|Hrem]], [[Wo versteckt sich der Assassine]].
+- Aktuellste In-Fiction-Session: [[Session 22 - 14.10.2026]]
+- **Der gesuchte Mörder ist gefunden und tot:** Der Rakshasa-Assassine, der [[Sokar Karioka]] tötete (siehe [[Wo versteckt sich der Assassine]], jetzt gelöst), hauste im Arbeitszimmer neben dem Altarraum und wurde im Kampf besiegt. Kein Körper bleibt zurück, nur eine gesicherte Ichor-Probe.
+- **Er war nur der ausführende Diener:** Siehe [[Die Boss hinter den Helfern]] — wer ihn tatsächlich beauftragt hat, ist weiterhin unbekannt.
+- **Todgelichter entdeckt:** Sieben schwarz-silberne Kerzen, rituell aus dem Fett ermordeter Wesen gegossen, noch kraftvoll — siehe [[Todgelichter]]. Passen exakt zur „Sieben Kerzen"-Formel aus dem [[Ritual der 13 Stiche]].
+- **Mitgenommene Beweise/Funde:** Ichor-Probe, ein zerschlagenes unidentifiziertes Schwert, ein unlesbares Zauberbuch und Briefe in unbekannter Geheimschrift, eine unidentifizierte Nautilus-Muschel. Ein Zylinder-Zahlenschloss im Arbeitszimmer bleibt ungelöst.
+- **Die zerschlagene Ilmater-Statue** wurde von [[Viri]] (Mending, unterstützt von der erschöpften Lyssa) zu etwa 80 % wiederhergestellt; das Blut im Becken kochte kurz auf und erstarrte dann unerklärt zu einer stillen Oberfläche.
+- **Zion war ohne Spieler anwesend** diese Session — vom Spielleiter als NSC-Move mitgeführt; keine neuen Entwicklungen zu seinem Wahn, aber er reagiert im Überraschungsangriff instinktiv (siehe [[Zions Hunger]]).
+- Im Hintergrund weiterhin ungelöst: Drei-Tage-Frist der [[Kapitänin der Cestus]], Belagerung Rhusions durch [[Kurkan Akrava|Hrem]], wer den Rakshasa beauftragte, Herkunft/Entweihung des Altarraums.
 
 ## Was jede Figur mitgenommen hat
 
-- **[[Zion]]:** Besteht seine Prüfung, tötet den Wolf, verliert 9 maximale HP. Greift danach im Wahn Lyssa an und erkennt entsetzt, was er getan hat: *„Ich habe dich verletzt."* Erwähnt der Gruppe erstmals offen Wolf, Schatten und Katze, weicht aber vertiefenden Fragen aus.
-- **[[Elysia]]:** Rettet Zion telepathisch im letzten Moment, trägt danach sichtbare Verletzungen von ihm. Tötet mit *Moonbeam* mehrere Spinnen und repariert den Ilmater-Schrein.
-- **[[Viri]]:** Offenbart Arachnophobie, übersteht den Netzkokon, tötet die Mutterspinne mit kritischem *Guiding Bolt*, weiht den Schrein.
-- **[[Rugir]]:** Schläfert Spinnen ein, nutzt Tremorsense zur Orientierung, bestätigt eine unnatürliche Bewegung hinter der Tür.
-- **[[Sir Aschefall]]:** Testet die Kette als Erster, wird überzogen mit Netzklebstoff, tritt tote Spinnen in den Abgrund.
+- **[[Rugir]]:** Gegenzaubert den Rakshasa früh, lässt das Zahlenschloss klugerweise unangetastet. Tötet den Rakshasa mit dem zuvor als harmlos eingeschätzten, nun als verflucht enttarnten Zauberstab. Identifiziert die sieben Kerzen rituell als Todgelichter und bemerkt an sich selbst einen kurzen Moment der Verlockung durch ihre Macht.
+- **[[Sir Aschefall]]:** Von Rugir vergrößert (*Enlarge*), liefert mit Divine Smite und Shining Smite den Großteil des Schadens — celestiale Energie trifft den Rakshasa sichtlich empfindlicher. Fällt in der zweiten Angstwelle auf 0 HP.
+- **[[Viri]]:** Widersteht als Einzige der ersten Angstwelle. Fällt in der zweiten auf 0 HP. Stellt die Ilmater-Statue zu 80 % wieder her.
+- **[[Elysia]]/Lyssa:** Findet den verdeckten Türmechanismus, hält Zion dabei bewusst aus Misstrauen heraus. Bleibt stehen, heilt die drei Gefallenen mit *Aura of Vitality* und einer neuen Heilfähigkeit zurück. Unterstützt Viri erschöpft bei der Reparatur.
+- **[[Zion]]:** Instinktiv aus der Bahn der ersten Klinge gezogen. Fällt in der zweiten Angstwelle auf 0 HP, wird zurückgeholt. Nimmt am Ende das zerschlagene Schwert mit.
 
 ## Aktive Fäden
 
-- **[[Die Gestalt hinter der Tür]]** - neu/akut. Formlos, sich vervielfachend, lässt die Höhle erbeben.
-- **[[Zions Hunger]]** - eskaliert. Der Wahn greift erstmals real in die Welt über; Katze real gesehen; Schatten als Verbündeter.
-- **[[Tickbalang-Höhle]]** - fortgeschritten. Abgrund, Spinnenhöhle und Schrein erkundet, Tür noch verschlossen.
-- **[[Die Dunkelheit der Tickbalang-Höhle]]** - bestätigt abgeschlossen an der Abgrundkammer; Zions Prüfung nachgeholt.
-- **[[Wo versteckt sich der Assassine]]** - offen. Auch im Spinnenlager keine direkte Spur.
-- **[[Dolorion]]**, **[[Ventus]]**, **[[Der Kriegsherr]]** / **[[Karaman]]**, **[[Rugirs wahrer Name]]** - im Hintergrund, aus Session 20, weiterhin unbearbeitet.
-- **[[Tickbalang]]**, Lebensraub-Lichtung, [[Sprechende Kristallkugel]], [[Verfluchte Schuppenrüstung]], [[Verfluchte Driftkugel]], Rückweg zur [[Cestus]] - im Hintergrund.
-- **[[Ritual der 13 Stiche]]**, [[Blutpakt des Tigerauge]], [[Tabulei]], [[Mechanischer Vogel]], [[Hafensabotage]], [[Chloro Verde]] - im Hintergrund.
+- **[[Todgelichter]]** - neu. Umgang mit den sieben noch kraftvollen Kerzen ungeklärt.
+- **[[Ritual der 13 Stiche]]** - stark fortgeschritten. Altar, Blutbecken, Todgelichter gefunden; Auftraggeber weiterhin unbekannt.
+- **[[Die Boss hinter den Helfern]]** - weiterhin offen. Der Diener ist tot, der Kopf bleibt im Dunkeln.
+- **[[Zions Hunger]]** - unverändert eskaliert seit Session 21, diese Session nur am Rande berührt.
+- **[[Die Gestalt hinter der Tür]]** - wahrscheinlich gelöst (war der Rakshasa), nicht explizit vom Spielleiter bestätigt.
+- **[[Tickbalang-Höhle]]** - Altarraum erkundet; unklar, ob die Höhle darüber hinausgeht.
 
 ## Offen für die nächste Session
 
-- Die Tür öffnen und der Gestalt dahinter begegnen.
-- Klären, wer oder was die Katze aus Zions Vision ist — und wann sie real auf seiner Brust lag.
-- Beobachten, ob und wie sich Zions Wahn wiederholt; wie die Gruppe (v. a. Lyssa) künftig mit dem Risiko umgeht.
-- Herausfinden, wer den Ilmater-Schrein errichtet und wer ihn entweiht hat.
-- Verbrauchte Zauberplätze im Blick behalten (die Schrein-Heilung hat nur HP zurückgesetzt).
-- Weiterhin offen aus Session 20: goldgelbe Augen, Rugirs wahrer Name, Ventus' Rolle, der Kriegsherr/Tesparis-Plan.
+- Die gefundenen Briefe und das Zauberbuch in der Geheimschrift entziffern (geplant: auf der Rückreise zur [[Cestus]]).
+- Entscheiden, was mit den sieben Todgelichtern geschehen soll.
+- Das Zylinder-Zahlenschloss und die Nautilus-Muschel einordnen.
+- Das mitgenommene Schwert und die Ichor-Probe untersuchen (ggf. *Identify*).
+- Herausfinden, wer dem Rakshasa den Befehl gab.
+- Weiterhin offen: goldgelbe Augen, Rugirs wahrer Name, Ventus' Rolle, der Kriegsherr/Tesparis-Plan, Drei-Tage-Frist der Cestus.

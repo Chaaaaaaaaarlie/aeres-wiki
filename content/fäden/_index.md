@@ -2,7 +2,7 @@
 type: meta
 title: "Fäden-Übersicht"
 created: 2026-05-12
-updated: 2026-09-23
+updated: 2026-10-14
 tags:
   - meta/index
   - domain/threads
@@ -13,16 +13,17 @@ Offene Rätsel, Handlungsfäden, Hinweise und ungeklärte Fragen. Jede Seite hat
 
 ## Heiße Fäden (Priorität)
 
-- [[Die Gestalt hinter der Tür]] *(neu/akut, Session 21: formlose, sich vervielfachende Bedrohung hinter dem Ilmater-Schrein)*
+- [[Die Gestalt hinter der Tür]] *(wahrscheinlich gelöst, Session 22: der Rakshasa hinter der Tür gefunden und besiegt)*
+- [[Todgelichter]] *(neu, Session 22: sieben noch kraftvolle Fokuskerzen aus dem Altarraum, Umgang ungeklärt)*
+- [[Ritual der 13 Stiche]] *(stark fortgeschritten, Session 22: Altar, Blutbecken und Todgelichter gefunden)*
+- [[Die Boss hinter den Helfern]] *(weiterhin offen, Session 22: der Rakshasa war nur der ausführende Diener — der Kopf bleibt unbekannt)*
 - [[Zions Hunger]] *(eskaliert, Session 21: Prüfung bestanden, aber der Wahn greift erstmals in die Wirklichkeit über — Angriff auf Elysia)*
-- [[Tickbalang]] / [[Tickbalang-Höhle]] *(fortgeschritten, Session 21: Abgrund überquert, Spinnenlager besiegt, Ilmater-Schrein gefunden)*
+- [[Tickbalang]] / [[Tickbalang-Höhle]] *(fortgeschritten, Session 22: Altarraum jenseits der Tür erkundet, Rakshasa besiegt)*
 - [[Die Dunkelheit der Tickbalang-Höhle]] *(bestätigt, Session 21: endet an der Abgrundkammer; Zions Prüfung nachgeholt)*
 - [[Dolorion]] *(neu/akut, Session 20: der gefallene Engel tritt Viri direkt gegenüber)*
 - [[Ventus]] *(eskaliert, Session 20: Verdacht, dass er Elysias Leben gelenkt hat)*
 - Lebensraub-Lichtung *(neu/offen, Session 19: nekromantisch ausgesaugte Tiere/Pflanzen)*
-- [[Wo versteckt sich der Assassine]] *(offen, Session 21: auch im Spinnenlager keine direkte Spur)*
 - [[Blutpakt des Tigerauge]]
-- [[Ritual der 13 Stiche]]
 - [[Hafensabotage]]
 - [[Tabulei]]
 
@@ -34,14 +35,13 @@ Offene Rätsel, Handlungsfäden, Hinweise und ungeklärte Fragen. Jede Seite hat
 - [[Falsche Identitäten]]
 - [[Geruchsspuren]]
 - [[Infernale Bibliotheks-Forschung]]
-- [[Magische Mordwaffe]] *(aktualisiert, Session 16)*
+- [[Magische Mordwaffe]] *(weitgehend erklärt, Session 22: Täter identifiziert und tot, Ursprung der Waffe weiterhin offen)*
 - [[Schwarzer Seidenstoff]]
 - [[Der Kriegsherr]] *(neu, Session 20: Aschefalls Vergangenheit und Tesparis-Plan)*
 - [[Karaman]] *(neu, Session 20: Festung um ein Dämonentor)*
 
 ## Offene Fäden
 
-- [[Die Boss hinter den Helfern]]
 - [[Die Lagerhäuser]]
 - [[Mechanischer Vogel]] *(Session 14)*
 - [[Sprechende Kristallkugel]] *(fortgeschritten, Session 19)*
@@ -51,6 +51,7 @@ Offene Rätsel, Handlungsfäden, Hinweise und ungeklärte Fragen. Jede Seite hat
 
 ## Abgeschlossene Fäden
 
+- [[Wo versteckt sich der Assassine]] *(gelöst, Session 22: der Rakshasa-Assassine gefunden und besiegt)*
 - [[Der Dybbuk]] *(gelöst, Session 17; Calderion über Nachfolgehinweise informiert Session 19)*
 - [[Rache-Kreatur]] *(gelöst, Session 15)*
 

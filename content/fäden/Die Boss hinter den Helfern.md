@@ -2,7 +2,7 @@
 type: concept
 title: "Die Boss hinter den Helfern"
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-10-14
 tags: [offen-faden, rhusion, assassine, rakshasa]
 status: aufgelöst – Boss tot (Session 11), Hintermacht offen
 ---
@@ -33,12 +33,19 @@ Ein Söldner antwortete auf Elysias telepathisches Angebot:
 - Eine bisher unbekannte Figur in der hinteren Innentür im OG des Versteckes
 - Ein zweiter Rakshasa
 
+## Session 22 — Der Diener ist tot, der Kopf bleibt offen
+
+Mit dem Tod des [[Rakshasa-Assassine|Rakshasa-Assassinen]] in [[Session 22 - 14.10.2026]] stellt die Gruppe ausdrücklich fest, dass er nur der **ausführende Diener** war — nicht der Kopf hinter dem Mord an [[Sokar Karioka]]. [[Viri]]s Formulierung danach: Wer auch immer den Befehl am Ende gegeben hat, wird sich neue Opfer und neue Ausführende suchen. Die eigentliche Hintermacht, die sowohl die „Boss" aus dem [[Krokodil-Versteck]] als auch den Rakshasa einsetzte, bleibt vollständig unbekannt.
+
 ## Verknüpfungen
 
 - [[Session 10 - 06.05.2026]]
 - [[Session 11 - 03.06.2026]]
+- [[Session 22 - 14.10.2026]]
 - [[Krokodil-Versteck]]
 - [[Unbekannte Frau]]
 - [[Ritual der 13 Stiche]]
 - [[Rakshasa]]
+- [[Rakshasa-Assassine]]
+- [[Wo versteckt sich der Assassine]]
 

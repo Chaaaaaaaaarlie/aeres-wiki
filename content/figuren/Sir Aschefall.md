@@ -94,6 +94,8 @@ Aschefall wird in [[Session 11 - 03.06.2026]] eingeführt und ist der **künftig
 - [[Session 17 - 29.07.2026]]
 - [[Session 20 - 16.09.2026]]
 - [[Session 21 - 23.09.2026]]
+- [[Session 22 - 14.10.2026]]
+- [[Rakshasa-Assassine]]
 
 ## Session 18
 
@@ -128,3 +130,9 @@ Aschefall wird in [[Session 11 - 03.06.2026]] eingeführt und ist der **künftig
 - Kann nach der Überquerung ungewöhnlich lange nicht aufstehen; wird von [[Rugir]] hochgeholfen.
 - Tritt nach dem Sieg über die Spinnenhöhle mehrere der toten Spinnen demonstrativ in den Abgrund.
 - Steigt mit der Gruppe auf **Stufe 5** auf.
+
+## Session 22
+
+- Stemmt gemeinsam mit [[Zion]] die Tür aus [[Session 21 - 23.09.2026]] auf und betritt mit der Gruppe den entweihten Ilmater-Altarraum.
+- Wird von [[Rugir]] vergrößert (*Enlarge*) und liefert im Kampf gegen den [[Rakshasa-Assassine|Rakshasa]] mit Divine Smite und Shining Smite den Großteil des sichtbaren Schadens — seine Angriffe scheinen celestiale Energie zu tragen, die den Dämon sichtlich mehr schmerzt als gewöhnlicher Schaden.
+- Fällt in der zweiten Angstwelle des Rakshasa (unter dessen angenommener Gestalt des toten Sokar Karioka) zusammen mit [[Viri]] und Zion auf 0 Lebenspunkte und wird von [[Elysia|Lyssa]] zurückgeholt.

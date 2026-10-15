@@ -2,7 +2,7 @@
 type: meta
 title: "Quellen-Übersicht"
 created: 2026-05-12
-updated: 2026-09-23
+updated: 2026-10-14
 tags:
   - meta/index
   - domain/sources
@@ -13,6 +13,7 @@ Zusammenfassungen des Rohmaterials aus `.raw/` — Session-Audio-Transkripte, Ha
 
 ## Session-Quellen
 
+- [[Transcript - Session 22 - 14.10.2026]] — Craig-Audiotranskript, WhisperX large-v3, 2834 Segmente
 - [[Transcript - Session 21 - 23.09.2026]] — Craig-Audiotranskript, WhisperX large-v3/CUDA mit Alignment
 - [[Transcript - Session 20 - 16.09.2026]] — Craig-Audiotranskript, WhisperX large-v3/CUDA mit Alignment
 - [[Transcript - Session 19 - 09.09.2026]] — Craig-Audiotranskript, WhisperX large-v3/CUDA mit Alignment

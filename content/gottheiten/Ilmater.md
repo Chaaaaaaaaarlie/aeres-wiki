@@ -2,7 +2,7 @@
 type: entity
 title: "Ilmater"
 created: 2026-05-12
-updated: 2026-09-23
+updated: 2026-10-14
 tags: [gottheit, mitleid, leid]
 status: erwähnt
 ---
@@ -27,6 +27,9 @@ Gottheit des Leidens, der Ausdauer und des Ertragens von Schmerz. Im Aeres-Mater
 - [[Viri]]
 - [[Tickbalang-Höhle]]
 - [[Session 21 - 23.09.2026]]
+- [[Session 22 - 14.10.2026]]
+- [[Rakshasa-Assassine]]
+- [[Todgelichter]]
 
 
 ## Dolorion tritt auf (Session 20)
@@ -42,3 +45,11 @@ Siehe [[Dolorion]] für die vollständige Begegnung.
 Jenseits des Abgrunds in der [[Tickbalang-Höhle]] findet die Gruppe in [[Session 21 - 23.09.2026]] einen entweihten Ilmater-Schrein: eine grob behauene Steinhand mit abgebrochenen Fingern, offensichtlich von einer einzelnen Person errichtet. [[Viri]] spürt beim Auflegen der Hand magisches Residuum und einen in Dissonanz kippenden Chor. [[Elysia|Lyssa]] repariert die Finger mit *Mending*, Viri weiht den Schrein anschließend mit *Bless* — pulsierendes Licht erfüllt die Kammer und heilt die gesamte Gruppe vollständig.
 
 Wer den Schrein einst errichtet und wer ihn entweiht hat, ist unbekannt. Direkt dahinter liegt eine Tür, hinter der eine formlose, sich vervielfachende Gestalt lauert — vermutlich der Grund, warum die Gruppe diesen von Ilmater verlassenen Ort überhaupt betreten hat.
+
+## Der entweihte Altar (Session 22)
+
+Hinter dieser Tür findet die Gruppe in [[Session 22 - 14.10.2026]] einen weit größeren, zentralen entweihten Ilmater-Kultraum: eine zerschlagene Ilmater-Statue hinter einem Altar, dessen Widmung an Ilmater ausgekratzt wurde, und ein Taufbecken aus rotem Porphyr, gefüllt mit dem Blut mehrerer rituell ermordeter Opfer. Um das Becken stehen sieben [[Todgelichter]] — Fokuskerzen aus dem Fett der Getöteten, deren Kraft durch die Entweihung dieses Ortes noch verstärkt wurde.
+
+Dort hauste der [[Rakshasa-Assassine|Rakshasa]], Sokar Kariokas Mörder, der die Gruppe im Überraschungsangriff angreift und im folgenden Kampf getötet wird (siehe [[Wo versteckt sich der Assassine]]).
+
+Nach dem Sieg stellt [[Viri]] die zerschlagene Statue mit wiederholtem *Mending* zu 80 % wieder her — unterstützt von der erschöpften [[Elysia|Lyssa]]. Der Spielleiter macht deutlich: Der Ort wird dadurch nicht rein. Zu viel Leid ist hier geschehen, und Ilmater ist kein Herr, der Leid negiert oder beseitigt — er hilft, es zu tragen und aus dem Schmerz Stärke zu ziehen. Während die Statue sich formt, kocht das Blut im Becken kurz auf und erstarrt dann zu einer glatten, stillen Oberfläche — unerklärt.

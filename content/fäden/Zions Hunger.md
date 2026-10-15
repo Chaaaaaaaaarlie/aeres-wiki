@@ -2,7 +2,7 @@
 type: concept
 title: "Zions Hunger"
 created: 2026-05-12
-updated: 2026-09-23
+updated: 2026-10-14
 tags: [offen, zion, inneres]
 priorität: hoch
 ---
@@ -107,6 +107,8 @@ Zusätzlich: Während des Circle-Rituals gegen den Leviathan (auf dem Weg nach Z
 - [[Rugir]]
 - [[Session 20 - 16.09.2026]]
 - [[Session 21 - 23.09.2026]]
+- [[Session 22 - 14.10.2026]]
+- [[Rakshasa-Assassine]]
 
 ## Session 18 – Schatten bleibt außerhalb der Kuppel
 
@@ -154,11 +156,18 @@ Zion erkennt danach an sichtbaren Kratzern und Druckstellen an Lyssas Hals, was 
 
 → Wichtigste neue Erkenntnis der Session: Zions Hunger ist nicht länger auf die Visionen der Höhle beschränkt. Er kann jetzt, unter Stress und direkt nach einer Prüfung, in die Wirklichkeit übergreifen und die Gruppe selbst gefährden.
 
-## Offene Fragen (Stand Session 21)
+## Session 22 — Ein möglicher Schutzreflex, und Lyssa zieht eine Grenze
+
+In [[Session 22 - 14.10.2026]] zeigt sich eine mögliche neue Facette: Im Überraschungsangriff des [[Rakshasa-Assassine|Rakshasa]] gegen die Trainingspuppe wird Zion instinktiv aus der Bahn der ersten Klinge gezogen, bevor er selbst reagieren kann — als würde etwas in ihm vorausschauend handeln. Anders als frühere Manifestationen wirkt dieser Moment nicht bedrohlich, sondern schützend. Ob das derselbe Hunger/Schatten ist oder etwas Eigenständiges, bleibt offen.
+
+Direkt davor beantwortet [[Elysia|Lyssa]] die am Ende von Session 21 aufgeworfene Frage, wie die Gruppe künftig mit dem Risiko umgeht: Sie findet im entweihten Altarraum verdeckt einen Türmechanismus und teilt ihn telepathisch mit der Gruppe — **schließt Zion dabei aber bewusst aus** und begründet das offen mit Misstrauen nach dem Vorfall aus Session 21. Zum ersten Mal zieht die Gruppe damit eine konkrete, praktische Konsequenz aus Zions Gefährlichkeit unter Stress.
+
+## Offene Fragen (Stand Session 22)
 
 - [ ] Wer oder was ist die Katze, und wann genau hat sie real auf Zions Brust gelegen?
 - [ ] Ist die Katze aus der Vision identisch mit der „kahlrasierten, rauchenden Katze" aus Session 8/9, die Zions und Edens Seelen beanspruchte?
 - [ ] Wer ist „die Hexe", von der der Wolf abfällig spricht?
 - [ ] Warum trägt Zions Tarnidentität denselben Namen wie seine Schwester?
 - [ ] Wie oft kann sich der Wahn wiederholen, und was löst ihn aus — Erschöpfung, Trigger-Reize, beides?
-- [ ] Wie geht die Gruppe (v. a. Lyssa) künftig mit dem Risiko um, dass Zion unter Stress zur Gefahr für sie wird?
+- [ ] War der schützende Reflex im Überraschungsangriff von Session 22 derselbe Hunger/Schatten, oder etwas Eigenständiges?
+- [ ] Wie lange hält Lyssas Vertrauensbruch an, und wie reagiert Zion, wenn er merkt, dass er ausgeschlossen wird?

@@ -2,8 +2,8 @@
 type: entity
 title: "Tickbalang-Höhle"
 created: 2026-09-10
-updated: 2026-09-23
-tags: [ort, zarat, höhle, tickbalang, fae, nekromantie, illusion, dungeon, spinnen, ilmater]
+updated: 2026-10-14
+tags: [ort, zarat, höhle, tickbalang, fae, nekromantie, illusion, dungeon, spinnen, ilmater, rakshasa]
 status: aktiv – Gruppe im Inneren
 entity_type: place
 ---
@@ -32,7 +32,7 @@ Die Gruppe hat dort das Gefühl, dem eigentlichen Auftrag näherzukommen: dem M�
 
 ## Status
 
-Die Gruppe hat den Abgrund an der Kette überquert, eine Spinnenhöhle dahinter besiegt und einen entweihten Ilmater-Schrein gefunden. Sie steht am Ende von [[Session 21 - 23.09.2026]] vor einer Tür, hinter der etwas Unbekanntes, Formloses lauert (Quelle: [[Session 21 - 23.09.2026]]).
+Die Gruppe hat den Abgrund an der Kette überquert, eine Spinnenhöhle dahinter besiegt, einen entweihten Ilmater-Schrein gefunden und in [[Session 22 - 14.10.2026]] die Tür dahinter geöffnet: ein weiterer, zentraler entweihter Ilmater-Altarraum mit Blutbecken und Todgelichtern, in dem der [[Rakshasa-Assassine|Rakshasa]], Sokar Kariokas Mörder, hauste. Er wurde dort besiegt. Die Gruppe hat noch nicht erkundet, ob die Höhle über diesen Raum hinausgeht.
 
 ## Der Eingang
 
@@ -53,7 +53,8 @@ Ab der Abgrundkammer endet dieser Effekt: Dort weicht die Dunkelheit zurück, un
 - **Abgrundkammer** — eine große Kammer mit einem mehrere Meter breiten, tiefen Abgrund. Einzige erkennbare Überfahrt ist eine **Kette**, die sich darüber spannt. Am Boden liegen Knochen; am anderen Ende meint Rugir **Spinnennetze** zu erkennen.
 - **Spinnenhöhle** (jenseits des Abgrunds, [[Session 21 - 23.09.2026]]) — Lager Dutzender katzengroßer Spinnen und einer riesigen Mutterspinne, an Wänden und Decke. Der Boden ist mit organischem Klebstoff aus Körperflüssigkeiten und Netzresten überzogen. Die Gruppe tötet die Mutterspinne und vertreibt die überlebenden Jungtiere.
 - **Gang zum Schrein** — führt von der Spinnenhöhle weiter zu einem entweihten [[Ilmater]]-Schrein: eine grob behauene Steinhand mit abgebrochenen Fingern. [[Elysia|Lyssa]] repariert ihn mit *Mending*, [[Viri]] weiht ihn mit *Bless* — die Gruppe wird dadurch vollständig geheilt (verbrauchte Zauberplätze bleiben verbraucht).
-- **Die Tür** — unmittelbar hinter dem Schrein. Siehe [[Die Gestalt hinter der Tür]] für Details. Die Session endet vor dieser Tür.
+- **Die Tür** — unmittelbar hinter dem Schrein. Siehe [[Die Gestalt hinter der Tür]] für Details. [[Session 21 - 23.09.2026]] endet vor dieser Tür.
+- **Der Altarraum** (jenseits der Tür, [[Session 22 - 14.10.2026]]) — ein weiterer, größerer entweihter Ilmater-Kultraum: erhöhter Altar, zerschlagene Ilmater-Statue, ein Taufbecken aus rotem Porphyr voll Blut, umstanden von sieben [[Todgelichter|Todgelichtern]]. Ein angrenzendes Arbeitszimmer enthält Skalpelle, unbeschriftete Fläschchen, Geheimschrift-Briefe, ein zerschlagenes Schwert, einen Haufen aus grünspanüberzogener Rüstung, Schädeln, Schuhen und Lumpen, eine Kuriositätensammlung (darunter eine unerklärte Nautilus-Muschel) und ein ungelöstes Zylinder-Zahlenschloss. Hier hauste der [[Rakshasa-Assassine|Rakshasa]], der die Gruppe im Überraschungsangriff angreift und im folgenden Kampf getötet wird.
 
 Die Gruppe hat sich beim Vorgehen an die Regel gehalten, sich immer rechts zu halten.
 
@@ -73,7 +74,12 @@ Die Gruppe hat sich beim Vorgehen an die Regel gehalten, sich immer rechts zu ha
 - [ ] Welche Verbindung besteht zur Dybbuk-Kultisten-Spur und zum Mörder von Sokar Karioka?
 - [ ] Gibt es in den alten Felswohnungen Hinweise auf frühere Bewohner Zarats?
 - [ ] Wer hat den Ilmater-Schrein hinter der Spinnenhöhle errichtet — und wer hat ihn entweiht?
-- [ ] Was oder wer lauert hinter der Tür am Ende von [[Session 21 - 23.09.2026]]? Siehe [[Die Gestalt hinter der Tür]]
+- [x] Was oder wer lauert hinter der Tür am Ende von [[Session 21 - 23.09.2026]]? → Der [[Rakshasa-Assassine|Rakshasa]], siehe [[Die Gestalt hinter der Tür]]
+- [ ] Geht die Höhle über den Altarraum hinaus?
+- [ ] Wie viele Opfer wurden für die sieben gefundenen [[Todgelichter]] rituell getötet, und wer hat sie getötet?
+- [ ] Was besagen die in unbekannter Geheimschrift verfassten Briefe und das Zauberbuch vom Altar?
+- [ ] Welche Sequenz löst das Zylinder-Zahlenschloss im Arbeitszimmer des Rakshasa?
+- [ ] Was ist die Bedeutung der gefundenen Nautilus-Muschel?
 
 ## Verknüpfungen
 
@@ -88,6 +94,10 @@ Die Gruppe hat sich beim Vorgehen an die Regel gehalten, sich immer rechts zu ha
 - [[Ilmater]]
 - [[Zions Hunger]]
 - [[Die Gestalt hinter der Tür]]
+- [[Rakshasa-Assassine]]
+- [[Todgelichter]]
+- [[Ritual der 13 Stiche]]
 - [[Session 19 - 09.09.2026]]
 - [[Session 20 - 16.09.2026]]
 - [[Session 21 - 23.09.2026]]
+- [[Session 22 - 14.10.2026]]

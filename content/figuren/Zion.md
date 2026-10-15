@@ -158,7 +158,9 @@ In [[Session 9 - 15.04.2026]]: Als [[Chloro Verde]]s Schatten länger wird, **ve
 - [[Session 17 - 29.07.2026]]
 - [[Session 20 - 16.09.2026]]
 - [[Session 21 - 23.09.2026]]
+- [[Session 22 - 14.10.2026]]
 - [[Ilmater]]
+- [[Rakshasa-Assassine]]
 
 
 ## Session 18
@@ -201,3 +203,12 @@ In [[Session 9 - 15.04.2026]]: Als [[Chloro Verde]]s Schatten länger wird, **ve
 - Erkennt an sichtbaren Kratzern und Druckstellen an Lyssas Hals, was er getan hat: *„Ich habe dich verletzt."* Wird von ihr geohrfeigt (als Weckruf, nicht als Vergeltung) und erwähnt der Gruppe gegenüber erstmals offen Wolf, Schatten und Katze aus seiner Vision, weicht aber vertiefenden Fragen aus.
 - Bewacht anschließend allein die neu entdeckte, formlose Bedrohung hinter einer Tür, während der Rest der Gruppe einen entweihten [[Ilmater]]-Schrein repariert und weiht — lässt sich von Viri kurz zurück in die Gruppe holen.
 - Steigt mit der Gruppe auf **Stufe 5** auf.
+
+## Session 22
+
+> [!info] Zions Spieler fehlte in dieser Session; Zion wurde durchgehend vom Spielleiter geführt.
+
+- Wird im Überraschungsangriff gegen die Trainingspuppe instinktiv aus der Bahn der ersten schwarzen Klinge gezogen — etwas in ihm reagiert, bevor er selbst handeln kann. Möglicher neuer Ausdruck seines inneren Hungers/Schattens, siehe [[Zions Hunger]].
+- Kämpft gegen den im Altarraum lauernden [[Rakshasa-Assassine|Rakshasa]] und fällt in dessen zweiter Angstwelle — ausgelöst durch dessen angenommene Gestalt des toten Sokar Karioka und den Befehl „Gehorcht!" — zusammen mit [[Viri]] und [[Sir Aschefall]] gleichzeitig auf 0 Lebenspunkte.
+- Wird von [[Elysia|Lyssa]] zurückgeholt; erinnert sich beim Erwachen an eine kurze gemeinsame Vision aus neun brennenden roten Scheiben und geflügelten, gehörnten Wesen.
+- Nimmt am Ende der Session das zerschlagene, kunstvoll geschmiedete, aber unidentifizierte Schwert aus dem Arbeitszimmer neben dem Altar mit.

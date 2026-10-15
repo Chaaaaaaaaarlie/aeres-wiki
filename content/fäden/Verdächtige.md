@@ -13,10 +13,11 @@ status: aktiv
 
 ## Aktiv gesucht
 
-- [[Rakshasa-Assassine]] — entkommen; Spur führt seit Session 11 zur Insel [[Zarat]] (Nordosten)
+- Die Hintermacht hinter dem [[Rakshasa-Assassine|Rakshasa]] — wer ihn beauftragt hat, ist weiterhin unbekannt (siehe [[Die Boss hinter den Helfern]])
 
 ## Tot / abgeschlossen
 
+- [[Rakshasa-Assassine]] — Sokar Kariokas Mörder; gefunden und getötet in [[Session 22 - 14.10.2026]] in einem entweihten Ilmater-Altarraum der [[Tickbalang-Höhle]]
 - [[Unbekannte Frau]] — die kahlköpfige Anführerin (= [[Die Boss hinter den Helfern|„Boss"]]) im [[Krokodil-Versteck]]; **vergiftete sich** in Session 11 vor der Befragung. Name nie genannt.
 
 ## Verhaftet

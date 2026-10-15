@@ -2,7 +2,7 @@
 type: concept
 title: "Ritual der 13 Stiche"
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-10-14
 tags: [hinweis, ritual, teufel-daemon, ungeklärt]
 status: ungeklärt – aktiv in Bearbeitung
 ---
@@ -55,6 +55,16 @@ Aus **Siegeln des Abgrunds** (anonym):
 - Die Abpaus-Zeichnung aus dem Verhör bei Harkas liegt vor – noch nicht mit Büchern abgeglichen
 - Selbst infernalisch wirkende Unterweltakteure scheinen vor dem Thema zurückzuschrecken
 
+## Session 22 — Der Altar und die Todgelichter
+
+In [[Session 22 - 14.10.2026]] findet die Gruppe hinter der Tür aus [[Session 21 - 23.09.2026]] einen entweihten [[Ilmater]]-Altarraum: ein Taufbecken aus rotem Porphyr, gefüllt mit Blut mehrerer Opfer, umstanden von **sieben schwarz-silbernen Kerzen** ohne sichtbare Flamme. [[Rugir]] identifiziert sie rituell als **[[Todgelichter]]** — aus dem Fett rituell ermordeter Wesen gegossene Fokuskerzen, deren Kraft durch die Entweihung des Altars noch verstärkt wird.
+
+Die **Sieben-Kerzen-Zahl stimmt exakt** mit der bekannten Formel überein: *„Sieben Kerzen zu seinen Ehren, 13 Stiche vollenden das Werk."* Direkt neben dem Altar hauste der nun erlegte [[Rakshasa-Assassine|Rakshasa]], Sokar Kariokas Mörder — ein starkes, aber nicht explizit bestätigtes Indiz, dass er selbst für die Opfer hinter diesen Todgelichtern verantwortlich ist.
+
+Nach dem Kampf stellt [[Viri]] die zerschlagene Ilmater-Statue zu 80 % wieder her; während der Reparatur kocht das Blut im Becken kurz auf und erstarrt dann zu einer glatten, stillen Oberfläche — unerklärt. Im Arbeitszimmer daneben findet die Gruppe zudem Briefe und ein Zauberbuch in einer unbekannten Geheimschrift, die sie auf der Rückreise zu entziffern plant.
+
+→ Der Rakshasa selbst ist tot, aber **„das Werk"** ist damit nicht notwendig beendet: Die sieben Todgelichter besitzen laut Rugir noch Kraft, und wer den Rakshasa beauftragt hat, bleibt unbekannt — siehe [[Die Boss hinter den Helfern]].
+
 ## Offene Fragen
 
 - [ ] Was ist das vollständige Ritual?
@@ -63,10 +73,13 @@ Aus **Siegeln des Abgrunds** (anonym):
 - [ ] Sind noch weitere Stiche geplant?
 - [ ] Abpaus-Zeichnung mit Daskirion-Büchern vergleichen
 - [ ] Was genau wusste der Händler des [[Tigerauge]]s und warum wich er zurück?
+- [ ] Wie viele Opfer wurden für die sieben in Session 22 gefundenen [[Todgelichter]] rituell getötet?
+- [ ] War der erlegte [[Rakshasa-Assassine|Rakshasa]] selbst der Ausführende des Rituals, oder nur ein weiterer Nutznießer des Ortes?
 
 ## Verknüpfungen
 
 - [[Session 8 - 18.03.2026]]
+- [[Session 22 - 14.10.2026]]
 - [[Fanatischer Attentäter]]
 - [[Rugir]]
 - [[Daskirion]]
@@ -76,4 +89,7 @@ Aus **Siegeln des Abgrunds** (anonym):
 - [[Unbekannte Frau]]
 - [[Schwarzer Seidenstoff]]
 - [[Die Boss hinter den Helfern]]
+- [[Todgelichter]]
+- [[Rakshasa-Assassine]]
+- [[Ilmater]]
 - [[Session 11 - 03.06.2026]]

@@ -144,7 +144,9 @@ Viri ist nicht als Gast zur Hochzeit gekommen, sondern weil sie Sokars Männer h
 - [[Session 17 - 29.07.2026]]
 - [[Session 20 - 16.09.2026]]
 - [[Session 21 - 23.09.2026]]
+- [[Session 22 - 14.10.2026]]
 - [[Ilmater]]
+- [[Rakshasa-Assassine]]
 
 ## Session 18
 
@@ -183,3 +185,12 @@ Viri ist nicht als Gast zur Hochzeit gekommen, sondern weil sie Sokars Männer h
 - Findet hinter dem Abgrund einen entweihten [[Ilmater]]-Schrein — eine grob behauene Steinhand mit abgebrochenen Fingern —, spürt beim Auflegen der Hand magisches Residuum und einen in Dissonanz kippenden Chor und gewinnt dabei einen Lebenspunkt zurück.
 - Weiht den von [[Elysia|Lyssa]] reparierten Schrein mit *Bless*; die dabei freigesetzte Kraft heilt die gesamte Gruppe vollständig (verbrauchte Zauberplätze bleiben verbraucht).
 - Steigt mit der Gruppe auf **Stufe 5** auf.
+
+## Session 22
+
+- Dippt in einem entweihten Ilmater-Altarraum eine Speerspitze ins blutgefüllte Taufbecken und bestätigt: Es ist Blut, vermutlich von mehreren Opfern.
+- Sticht aus Neugier mit ihrem Dolch eine Trainingspuppe an, deren ältere Wunden bereits kauterisiert sind — kurz darauf stellt sich heraus, dass genau diese Puppe Ziel des Überraschungsangriffs des im Raum lauernden [[Rakshasa-Assassine|Rakshasa]] wird.
+- Widersteht als einzige der ersten Angstwelle des Rakshasa im folgenden Kampf. Fällt in der zweiten — unter der angenommenen Gestalt des toten Sokar Karioka — zusammen mit [[Zion]] und [[Sir Aschefall]] auf 0 Lebenspunkte und wird von [[Elysia|Lyssa]] zurückgeholt.
+- Untersucht nach dem Kampf den Altar: eine ausgekratzte Widmung an [[Ilmater]] und ein unlesbares Zauberbuch in unbekannter Geheimschrift, das als Beweisstück mitgenommen wird.
+- Stellt die zerschlagene Ilmater-Statue mit wiederholtem *Mending* zu etwa 80 % wieder her — unterstützt von der erschöpften Lyssa. Während die Statue sich formt, kocht das Blut im Becken kurz auf und erstarrt dann zu einer stillen, glatten Oberfläche.
+- Formuliert nach dem Kampf den Gedanken, dass die Gruppe gemeinsam, nicht einzeln, stark war, und dass der Rakshasa nur der ausführende Diener eines noch unbekannten Auftraggebers war.

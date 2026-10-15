@@ -2,7 +2,7 @@
 type: meta
 title: "Vorgangs-Protokoll"
 created: 2026-05-12
-updated: 2026-09-23
+updated: 2026-10-14
 tags:
   - meta/log
 ---
@@ -19,6 +19,17 @@ Format:
 - Aktualisierte Seiten: [[…]]
 - Kernerkenntnis: ein Satz
 ```
+
+---
+
+## [2026-10-14] transkript | Session 22 - Der Altarraum, der Rakshasa und die Todgelichter
+
+- Quelle: Craig-Audio `craig-VnFKqU1gjsRL-ra7xexzXq0yrniJ.flac.zip`, WhisperX `large-v3`, 2834 Segmente, ca. 3h 7min, 171 Korrekturen; Rohtranskript unter `.raw/session-transcripts/Session 22 - 14.10.2026.md`
+- Zusammenfassung: [[Session 22 - 14.10.2026]]
+- Erstellte Seiten: [[Session 22 - 14.10.2026]], [[Transcript - Session 22 - 14.10.2026]], [[Todgelichter]]
+- Aktualisierte Seiten: [[Zion]], [[Viri]], [[Elysia]], [[Rugir]], [[Sir Aschefall]], [[Wo versteckt sich der Assassine]], [[Rakshasa-Assassine]], [[Ritual der 13 Stiche]], [[Die Boss hinter den Helfern]], [[Magische Mordwaffe]], [[Die Gestalt hinter der Tür]], [[Tickbalang-Höhle]], [[Ilmater]], `hot.md`, `index.md`, `Willkommen.md`, `sessions/_index.md`, `quellen/_index.md`, `fäden/_index.md`, `log.md`
+- Kernerkenntnis: Die Gruppe erzwingt die Tür aus [[Session 21 - 23.09.2026]] und findet einen entweihten Ilmater-Altarraum mit Blutbecken und sieben Todgelichtern. Ein Überraschungsangriff entpuppt sich als der lange gesuchte Rakshasa-Assassine, Sokar Kariokas Mörder: Eine angstauslösende Illusion in Gestalt des toten Sokar Karioka lässt drei der fünf Figuren gleichzeitig auf 0 Lebenspunkte fallen, bevor Rugir ihn mit einem zuvor als harmlos eingeschätzten, tatsächlich vom Rakshasa selbst verfluchten Zauberstab tötet. Damit ist der gesuchte Mörder gefunden und tot — offen bleibt, wer ihn beauftragt hat. Die Gruppe sichert Beweise, stellt die zerschlagene Ilmater-Statue teilweise wieder her und identifiziert die sieben Kerzen als Todgelichter, Fokusobjekte aus dem Fett ritueller Mordopfer.
+- Anmerkung Datenqualität: `corrected_obsidian.md` wurde direkt als Hauptquelle verwendet. Zions Spieler war offenbar nicht anwesend — Zion wird durchgehend vom Spielleiter als NSC-Move mitgeführt, ohne eigene Tonspur.
 
 ---
 

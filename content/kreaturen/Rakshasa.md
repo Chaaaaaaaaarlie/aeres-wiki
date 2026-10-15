@@ -29,18 +29,27 @@ Eine **Dämonenspezies**, die sich grundlegend von klassischen vertrags- oder bl
 - **Der Tabaxi-Assassine** ist nicht Tabaxi, sondern Rakshasa – „mit der Form kommt ihr schon recht gut hin" (Chloro Verde)
 - **Jai vom [[Tigerauge]]**: hat **umgedrehte Hände** (nur [[Elysia]] hat es eindeutig gesehen) – damit entweder selbst der Rakshasa oder eine andere Erscheinung derselben Art
 
+## Session 22 — Der Tabaxi-Assassine erlegt
+
+Die Gruppe tötet in [[Session 22 - 14.10.2026]] den [[Rakshasa-Assassine|Rakshasa, der Sokar Karioka getötet hatte]], in einem entweihten Ilmater-Altarraum der [[Tickbalang-Höhle]] auf [[Zarat]]. Bestätigt im Kampf: umgedrehte Klauenhand, Gestaltwandlung (nimmt die Form des toten Sokar Karioka an), Unsichtbarkeit, innate Zauberei, sowie eine deutliche Schwäche gegenüber celestialer/religiös aufgeladener Energie. Er stirbt durch einen von ihm selbst verfluchten Gegenstand, der sich gegen seinen eigenen Schöpfer richtet.
+
+Damit bleibt offen, ob **Jai vom [[Tigerauge]]** (ebenfalls mit umgedrehten Händen gesehen) derselbe Rakshasa war oder ein zweiter — da dieser hier nun tot ist, deutet vieles auf mindestens zwei Rakshasas in der Kampagne hin.
+
 ## Offen
 
-- [ ] Wie viele Rakshasas treiben sich in Rhusion herum?
+- [ ] Wie viele Rakshasas treiben sich insgesamt herum — reicht es über Rhusion und Zarat hinaus?
 - [ ] Welche Form von Macht (politisch? magisch? kultisch?) konsumieren sie?
 - [ ] Ist der Boss der Helfer aus der Talglichtgasse selbst Rakshasa oder Untergebene?
+- [ ] Ist Jai vom [[Tigerauge]] ein zweiter, noch lebender Rakshasa?
 
 ## Verknüpfungen
 
 - [[Session 10 - 06.05.2026]]
+- [[Session 22 - 14.10.2026]]
 - [[Tigerauge]]
 - [[Chloro Verde]]
 - [[Wo versteckt sich der Assassine]]
 - [[Blutpakt des Tigerauge]]
 - [[Infernale Bibliotheks-Forschung]]
+- [[Rakshasa-Assassine]]
 
