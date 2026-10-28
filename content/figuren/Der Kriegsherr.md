@@ -2,7 +2,7 @@
 type: entity
 title: "Der Kriegsherr"
 created: 2026-09-16
-updated: 2026-09-16
+updated: 2026-10-28
 tags: [charakter, nsc, vergangenheit, aschefall, tesparis, vision]
 status: offen
 entity_type: person
@@ -53,6 +53,14 @@ Der Kriegsherr stößt ihm daraufhin einen Dolch unters Brustbein direkt ins Her
 
 Ob der Kriegsherr noch lebt oder nur als Erinnerungsbild von der [[Die Dunkelheit der Tickbalang-Höhle|Macht in der Höhle]] benutzt wurde, ist unklar. Die Vision liefert aber erstmals konkrete Belege für Aschefalls Vergangenheit: Er hat als Waffe eines Kriegsherrn gedient, bei einer Brandschatzung mitgewirkt und dabei mindestens einen Wehrlosen getötet. Das rahmt seinen aktuellen Auftrag und sein Schweigen über die eigene Herkunft neu.
 
+## Session 23 — Eine zweite Vision, diesmal über eine Kristallkugel
+
+In [[Session 23 - 28.10.2026]] findet Aschefall im Arbeitszimmer neben dem entweihten Ilmater-Altarraum der [[Tickbalang-Höhle]] eine zweite, unter einem Tuch verborgene Kristallkugel. Beim Berühren sieht er sich erneut inmitten einer Armee — diesmal eindeutig als **Belagerung**: Leitern werden an Stadtmauern gestellt, Rammböcke rollen heran, Belagerungstürme nähern sich, Schreie, der Geruch von Feuer. Direkt neben ihm steht erneut die gerüstete Gestalt, die er sofort wiedererkennt: *„Das ist der General aus deiner letzten Vision. Dein alter Vertrauter."* Der Spielleiter bestätigt explizit: *„Es ist quasi dein Herr."*
+
+Diesmal entscheidet sich niemand sonst in der Gruppe, die Kugel ebenfalls zu berühren — sie wird ungeöffnet im Bag of Holding verstaut.
+
+→ Anders als in [[Session 20 - 16.09.2026]] liefert diese Vision keinen neuen Dialog oder Namen, bestätigt aber: Der Kriegsherr (oder zumindest sein Bild) ist über mehrere, unabhängig gefundene magische Objekte hinweg präsent — was dafürspricht, dass er mehr ist als nur ein einmaliges Höhlen-Konstrukt.
+
 ## Offene Fragen
 
 - [ ] Wie heißt er, und lebt er noch?
@@ -60,6 +68,7 @@ Ob der Kriegsherr noch lebt oder nur als Erinnerungsbild von der [[Die Dunkelhei
 - [ ] Ist der Tesparis-Plan Erfindung der Höhle oder ein reales Vorhaben?
 - [ ] Wer ist „die größte Tyrannin von allen", die Aschefall laut eigener Aussage „ausgesprochen gut" kennt?
 - [ ] Steht sein Plan in Verbindung zum [[Zamathisches Imperium|Zamathischen Imperium]] oder zur [[Kabale der Rubinschuppen]]?
+- [ ] Warum erscheint er nun auch außerhalb der Tickbalang-Höhle, über ein eigenständiges magisches Objekt?
 
 ## Verknüpfungen
 
@@ -70,4 +79,6 @@ Ob der Kriegsherr noch lebt oder nur als Erinnerungsbild von der [[Die Dunkelhei
 - [[Zamathisches Imperium]]
 - [[Kabale der Rubinschuppen]]
 - [[Der Große Kataklysmus]]
+- [[Krieg am Himmel]]
 - [[Session 20 - 16.09.2026]]
+- [[Session 23 - 28.10.2026]]

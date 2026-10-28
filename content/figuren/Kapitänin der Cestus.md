@@ -2,7 +2,7 @@
 type: entity
 title: "Kapitänin der Cestus"
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-10-28
 tags: [nsc, hafen, schiff]
 status: aktiv – Name unbekannt
 ---
@@ -26,6 +26,10 @@ Kommandantin der **[[Cestus]]**. Voller Name noch unbekannt. Erstmals getroffen 
 - Regeln: *„Richtet keinen Unfrieden auf meinem Schiff an. Das hier ist kein Nettigkeitsbesuch."* – *„Ihr seid zwar nicht meine Geiseln und ich auch nicht eure."*
 - Legt ab, ohne auf den Flut-Höchststand zu warten
 
+## Session 23 — Rückkehr von Zarat
+
+Als die Gruppe mit dem [[Nautilus-Bioschiff|Nautilus-Bioschiff]] bei der Cestus auftaucht, ist sie mitten in Navigationsberechnungen und wirft einen Dolch durch die angelehnte Kajütentür, bevor sie erkennt, wer stört. Sichtlich erleichtert, dass die Gruppe überlebt hat, bleibt sie dennoch misstrauisch wegen der Pest (*„Wenn ihr hustet, werfe ich euch alle über Bord."*) und befiehlt sofort, den Anker zu lichten und zurück nach Rhusion zu fahren — für ausführlichere Bitten (z. B. eine Nachricht an den Tempelpriester) hat sie erkennbar keine Zeit.
+
 ## Offene Fragen
 
 - [ ] Name und Hintergrund der Kapitänin
@@ -39,4 +43,6 @@ Kommandantin der **[[Cestus]]**. Voller Name noch unbekannt. Erstmals getroffen 
 - [[Princeps Orpheon von Lutaxa]]
 - [[Sir Aschefall]]
 - [[Zarat]]
+- [[Nautilus-Bioschiff]]
 - [[Session 11 - 03.06.2026]]
+- [[Session 23 - 28.10.2026]]

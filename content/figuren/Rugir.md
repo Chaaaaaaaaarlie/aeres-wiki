@@ -2,7 +2,7 @@
 type: entity
 title: "Rugir"
 created: 2026-05-12
-updated: 2026-09-16
+updated: 2026-10-28
 tags: [charakter, spielercharakter]
 klasse: Evocation Wizard
 rasse: Zwerg
@@ -158,8 +158,11 @@ Kein direkter Treffer auf die **7 Kerzen** oder die **13 Stiche**. Spezialist f�
 - [[Session 20 - 16.09.2026]]
 - [[Session 21 - 23.09.2026]]
 - [[Session 22 - 14.10.2026]]
+- [[Session 23 - 28.10.2026]]
 - [[Rakshasa-Assassine]]
 - [[Todgelichter]]
+- [[Nautilus-Bioschiff]]
+- [[Gefallener Engel]]
 
 ## Session 18
 
@@ -204,3 +207,11 @@ Kein direkter Treffer auf die **7 Kerzen** oder die **13 Stiche**. Spezialist f�
 - Vergrößert [[Sir Aschefall]] mit *Enlarge*, wodurch dessen Divine Smite und Shining Smite den Großteil des sichtbaren Schadens anrichten.
 - Setzt im entscheidenden Moment, als nur noch er und [[Elysia|Lyssa]] stehen, den in [[Session 16 - 14.07.2026]] als „defekt, aber harmlos" identifizierten Zauberstab gegen den Rakshasa ein — der Stab erweist sich als tatsächlich verflucht und trifft „die eigenen Leute" seines Fluchträgers, der niemand anderes als der Rakshasa selbst ist. Der finale Treffer tötet ihn.
 - Untersucht nach dem Kampf rituell die sieben Kerzen um das Blutbecken und identifiziert sie als **[[Todgelichter]]** — aus dem Fett ritueller Mordopfer gegossene, noch kraftvolle Fokuskerzen. Bemerkt dabei neben Abscheu und Ekel kurz die Verlockung der Macht, die von ihnen ausgeht.
+
+## Session 23
+
+- Löscht ein Todgelicht per Mage Hand und erlebt trotz der Distanz eine Vision — bestätigt, dass die magische Verbindung der Hand genügt, um vom Fluch der Kerzen erfasst zu werden.
+- Findet im Arbeitszimmer verschlüsselte Schriftstücke, ein in Schuppenhaut gebundenes Buch und ein schwarz-graues Steinartefakt mit einer Aura von Staunen und Verlockung; widersteht knapp (Weisheits-Rettungswurf) dem Drang, es direkt zu berühren, und bergt es per Mage Hand.
+- Entdeckt bei einer letzten Durchsuchung (Nat-20 Investigation) einen verborgenen Gang hinter einem Wandbehang, der zu einer unterirdischen Grotte mit einem organischen Nautilus-Bioschiff führt (siehe [[Nautilus-Bioschiff]]).
+- Attunet sich über eine Stunde an das Bioschiff und pilotiert die Gruppe tauchend zurück zur [[Cestus]] — navigiert per Survival an der Küste entlang und weicht dem Leuchtturm-Wachlicht aus.
+- Versucht vergeblich, das Bioschiff am Rumpf der Cestus zu befestigen, und lässt es schließlich im Meer zurück; entkommt dabei nur knapp dem Ertrinken und wird von der Crew an Bord gezogen.

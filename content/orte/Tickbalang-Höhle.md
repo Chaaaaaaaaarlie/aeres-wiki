@@ -2,9 +2,9 @@
 type: entity
 title: "Tickbalang-Höhle"
 created: 2026-09-10
-updated: 2026-10-14
+updated: 2026-10-28
 tags: [ort, zarat, höhle, tickbalang, fae, nekromantie, illusion, dungeon, spinnen, ilmater, rakshasa]
-status: aktiv – Gruppe im Inneren
+status: vollständig erkundet – Gruppe hat die Höhle verlassen
 entity_type: place
 ---
 
@@ -32,7 +32,11 @@ Die Gruppe hat dort das Gefühl, dem eigentlichen Auftrag näherzukommen: dem M�
 
 ## Status
 
-Die Gruppe hat den Abgrund an der Kette überquert, eine Spinnenhöhle dahinter besiegt, einen entweihten Ilmater-Schrein gefunden und in [[Session 22 - 14.10.2026]] die Tür dahinter geöffnet: ein weiterer, zentraler entweihter Ilmater-Altarraum mit Blutbecken und Todgelichtern, in dem der [[Rakshasa-Assassine|Rakshasa]], Sokar Kariokas Mörder, hauste. Er wurde dort besiegt. Die Gruppe hat noch nicht erkundet, ob die Höhle über diesen Raum hinausgeht.
+Die Gruppe hat den Abgrund an der Kette überquert, eine Spinnenhöhle dahinter besiegt, einen entweihten Ilmater-Schrein gefunden und in [[Session 22 - 14.10.2026]] die Tür dahinter geöffnet: ein weiterer, zentraler entweihter Ilmater-Altarraum mit Blutbecken und Todgelichtern, in dem der [[Rakshasa-Assassine|Rakshasa]], Sokar Kariokas Mörder, hauste. Er wurde dort besiegt. In [[Session 23 - 28.10.2026]] findet die Gruppe hinter dem Altarraum einen verborgenen Gang zu einer unterirdischen Grotte mit Meerzugang — damit ist die Höhle vollständig erkundet und verlassen.
+
+### Der verborgene Gang und die Grotte (Session 23)
+
+[[Rugir]] entdeckt bei einer letzten Durchsuchung des Arbeitszimmers einen an einem Haken hängenden, sich leicht bewegenden Wandbehang. Beim Nachforschen nach dem Mechanismus reißt die gesamte Verkleidung polternd um und legt einen Gang mit Treppen nach unten frei. Der Gang führt in eine feuchte Tropfsteingrotte, die in der Ferne auf einen über Land unerreichbaren Ausgang mit Tageslicht blickt. Darin liegt ein notdürftiges Holzdock mit einem organischen, Nautilus-artigen Bioschiff (siehe [[Nautilus-Bioschiff]]), mit dem die Gruppe tauchend bis zur [[Cestus]] zurückkehrt.
 
 ## Der Eingang
 
@@ -75,11 +79,12 @@ Die Gruppe hat sich beim Vorgehen an die Regel gehalten, sich immer rechts zu ha
 - [ ] Gibt es in den alten Felswohnungen Hinweise auf frühere Bewohner Zarats?
 - [ ] Wer hat den Ilmater-Schrein hinter der Spinnenhöhle errichtet — und wer hat ihn entweiht?
 - [x] Was oder wer lauert hinter der Tür am Ende von [[Session 21 - 23.09.2026]]? → Der [[Rakshasa-Assassine|Rakshasa]], siehe [[Die Gestalt hinter der Tür]]
-- [ ] Geht die Höhle über den Altarraum hinaus?
+- [x] Geht die Höhle über den Altarraum hinaus? → Ja: ein verborgener Gang führt zu einer Grotte mit Meerzugang und einem Nautilus-Bioschiff (Session 23)
 - [ ] Wie viele Opfer wurden für die sieben gefundenen [[Todgelichter]] rituell getötet, und wer hat sie getötet?
-- [ ] Was besagen die in unbekannter Geheimschrift verfassten Briefe und das Zauberbuch vom Altar?
+- [ ] Was besagen die in unbekannter Geheimschrift verfassten Briefe und das Zauberbuch vom Altar (inzwischen um ein weiteres, in Schuppenhaut gebundenes Buch ergänzt)?
 - [ ] Welche Sequenz löst das Zylinder-Zahlenschloss im Arbeitszimmer des Rakshasa?
-- [ ] Was ist die Bedeutung der gefundenen Nautilus-Muschel?
+- [ ] Was ist die Bedeutung der gefundenen Nautilus-Muschel — und ihres Zusammenhangs mit dem gefundenen Bioschiff?
+- [ ] Wer hat das Bioschiff in der Grotte unter der Höhle zurückgelassen, und warum?
 
 ## Verknüpfungen
 
@@ -97,7 +102,11 @@ Die Gruppe hat sich beim Vorgehen an die Regel gehalten, sich immer rechts zu ha
 - [[Rakshasa-Assassine]]
 - [[Todgelichter]]
 - [[Ritual der 13 Stiche]]
+- [[Gefallener Engel]]
+- [[Mumifiziertes Herz]]
+- [[Nautilus-Bioschiff]]
 - [[Session 19 - 09.09.2026]]
 - [[Session 20 - 16.09.2026]]
 - [[Session 21 - 23.09.2026]]
 - [[Session 22 - 14.10.2026]]
+- [[Session 23 - 28.10.2026]]

@@ -2,7 +2,7 @@
 type: faden
 title: "Sprechende Kristallkugel"
 created: 2026-07-08
-updated: 2026-07-14
+updated: 2026-10-28
 tags: [faden, artefakt, fae-verdacht, zarat, offen, ixtra]
 status: open
 priorität: mittel
@@ -59,8 +59,12 @@ Rugir versucht, das Gefäß selbst zu identifizieren: **Kein Fluch auf dem Behä
 - [[Elysia]]
 - [[Zarat]]
 - [[Der Dybbuk]]
+- [[Gefallener Engel]]
+- [[Die Boss hinter den Helfern]]
+- [[Rakshasa-Assassine]]
 - [[Session 15 - 08.07.2026]]
 - [[Session 16 - 14.07.2026]]
+- [[Session 23 - 28.10.2026]]
 
 ## Kuppeltest unfreiwillig bestanden (Session 18)
 
@@ -74,3 +78,19 @@ Neue Einordnung: Ixtra bzw. das Wesen in der Kugel reagiert klar auf die Kuppel,
 ## Session 19 - Ixtra vor der Kuppel
 
 Lyssa holte Ixtra wieder von außerhalb der Schutzkuppel. Ixtra war noch da, begrüßte die Gruppe mit scharfem Spott und wirkte zugleich verstört: Sie war die Nacht allein bei den beobachtenden Wesen draußen und meinte, dass etwas geschehen sei oder nicht stimme.
+
+## Session 23 — „Ihr könnt ihn nicht töten"
+
+Im entweihten Altarraum befragt [[Elysia]] die Kugel in [[Session 23 - 28.10.2026]] erneut zum Ort. Ixtra bleibt ausweichend, lügt erkennbar (per Insight entlarvt) und zittert/klopft gegen sich selbst. Als Elysia beiläufig erwähnt, dass die Gruppe den „Herrn dieses Raumes" — den [[Rakshasa-Assassine|Rakshasa]] — getötet habe, lacht die Kugel: *„Ihr könnt ihn nicht töten. Er findet seine Form in den neuen Höllen wieder und wird wiederkehren."* (siehe [[Die Boss hinter den Helfern]])
+
+Auf weitere Fragen bleibt Ixtra vage, verweist erneut darauf, sich „so schwer Dinge merken" zu können, und sagt, die Luft sei „hier drin" nicht gut — ein neuer Hinweis auf begrenzte Kraft oder Zeit des/der Gefangenen. Die Gruppe erwägt kurz, die Kugel zu zerschlagen, um ihr mehr „Luft" zu geben, verwirft dies aber, da das den Gefangenen töten würde.
+
+**Reaktion auf den gefallenen Engel:** Als die Gruppe im selben Raum ein Gerät mit den Überresten eines gefallenen Engels findet (siehe [[Gefallener Engel]]), dreht sich Ixtra unaufgefordert und eigenständig in dessen Richtung — ein möglicher Hinweis auf eine gemeinsame Natur oder Herkunft beider Gefangener.
+
+Ixtra funktioniert außerhalb von [[Zarat]] weiterhin problemlos: Lyssa prüft es nachts an Bord der [[Cestus]] kurz und bestätigt, dass es „noch lebt"/funktioniert.
+
+## Offene Fragen (Stand Session 23)
+
+- [ ] Ist Ixtra auf irgendeine Weise mit dem in [[Gefallener Engel]] gefundenen Gerät verwandt?
+- [ ] Was meint Ixtra genau mit „die Luft ist hier nicht gut" — läuft dem/der Gefangenen die Zeit davon?
+- [ ] Woher weiß Ixtra, dass der Rakshasa „zurückkehrt"?

@@ -2,7 +2,7 @@
 type: entity
 title: "Elysia"
 created: 2026-05-12
-updated: 2026-09-16
+updated: 2026-10-28
 tags:
   - charakter
   - spielercharakter
@@ -163,8 +163,12 @@ In [[Session 10 - 06.05.2026]] ruft Elysia ihren inneren Freund unter dem Namen 
 - [[Session 20 - 16.09.2026]]
 - [[Session 21 - 23.09.2026]]
 - [[Session 22 - 14.10.2026]]
+- [[Session 23 - 28.10.2026]]
 - [[Ilmater]]
 - [[Rakshasa-Assassine]]
+- [[Ventus]]
+- [[Krieg am Himmel]]
+- [[Gefallener Engel]]
 
 ## Session 18
 
@@ -212,3 +216,12 @@ In [[Session 10 - 06.05.2026]] ruft Elysia ihren inneren Freund unter dem Namen 
 - Bleibt im Kampf gegen den [[Rakshasa-Assassine|Rakshasa]] als eine von nur zwei stehenden Figuren übrig, nachdem [[Viri]], Zion und [[Sir Aschefall]] durch dessen zweite Angstwelle gleichzeitig auf 0 Lebenspunkte fallen.
 - Heilt die drei Gefallenen nach dem Sieg mit *Aura of Vitality* und einer neuen Heilfähigkeit zurück ins Leben (zusammen ca. 60 Lebenspunkte).
 - Unterstützt Viri erschöpft bei der teilweisen Wiederherstellung der zerschlagenen Ilmater-Statue und sinkt danach selbst erschöpft am Altar zusammen.
+
+## Session 23
+
+- Befragt ihre sprechende Kristallkugel [[Sprechende Kristallkugel|Ixtra]] im Altarraum; erfährt dabei beiläufig, dass der erlegte Rakshasa „nicht getötet werden kann" und in den neuen Höllen zurückkehrt (siehe [[Die Boss hinter den Helfern]]).
+- Beobachtet, wie Ixtra eigenständig auf das im selben Raum gefundene Gerät mit dem gefallenen Engel reagiert (siehe [[Gefallener Engel]]).
+- Opfert ihre Wildshape, um per *Find Familiar* kostenlos eine celestiale Taube zu beschwören — die einzige verfügbare Form, die durch die magische Kuppel um den Tempel gelangt — und schickt damit Viris Nachricht an den Priester.
+- Sichert die erste Nacht an Bord der Cestus mit *Detect Poison and Disease* und prüft, ob Ixtra weiterhin „funktioniert".
+- Offenbart [[Zion]] im nächtlichen Gespräch, dass [[Ventus]] buchstäblich in ihr wohnt und alles mit ihr wahrnimmt; warnt ihn, nicht blind auf die Stimmen in seinem eigenen Kopf zu hören (siehe [[Ventus]]).
+- Erlebt beim Einschlafen die Abschlussvision der Session: eine Himmelsschlacht zwischen Nautilus-Flotten und keilförmigen Schiffen mit Drachen — der Spielleiter erklärt damit den ersten Akt der Kampagne für abgeschlossen (siehe [[Krieg am Himmel]]).

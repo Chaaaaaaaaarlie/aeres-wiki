@@ -2,7 +2,7 @@
 type: entity
 title: "Ventus"
 created: 2026-05-12
-updated: 2026-09-16
+updated: 2026-10-28
 tags: [nsc, mysterium, geistbegleiter, elysia]
 status: erstmals namentlich angerufen in Session 10
 ---
@@ -39,10 +39,14 @@ Reaktion:
 ## Verknüpfungen
 
 - [[Elysia]]
+- [[Zion]]
 - [[Session 9 - 15.04.2026]]
 - [[Session 10 - 06.05.2026]]
+- [[Session 23 - 28.10.2026]]
 - [[Apokrator]]
 - [[Kalazar-Statue]]
+- [[Krieg am Himmel]]
+- [[Zions Hunger]]
 
 
 ## Session 20 — „Geführt"
@@ -81,7 +85,27 @@ Auf Viris Frage bestreitet sie ausdrücklich, vor eine Machtversuchung gestellt 
 
 Damit steht die Frage der Vision unbeantwortet im Raum: Elysia deutet den Ausgang erneut als Zeichen von Ventus — also genau so, wie die Vision es vorhergesagt hat.
 
-## Offene Fragen (Stand Session 20)
+## Session 23 — „Er wohnt in mir"
+
+An Bord der [[Cestus]] offenbart Elysia [[Zion]] in [[Session 23 - 28.10.2026]] erstmals unverhüllt, was Ventus für sie ist. Auf Zions Frage, wer ihr „Freund" sei, antwortet sie:
+
+> *„Er hat sich mir nie vorgestellt. Ich habe ihn Ventus genannt."*
+
+Und auf die Nachfrage, wie sie ihn „befreit" habe:
+
+> *„Ich habe die Zeichen der Sterne gelesen, durch die Zeichen diesen Ort gefunden, ihn gefunden und ihn befreit."* — *„Es war mir vorbestimmt. Also habe ich das getan, natürlich."*
+
+Entscheidend ist die Formulierung, mit der sie Zions Frage „Siehst du irgendetwas an mir dran?" beantwortet:
+
+> *„Nein, ich meine das durchaus wörtlich. Er wohnt in mir."*
+
+Auf Zions besorgte Frage, ob sie das wisse: *„Ich habe ihn befreit. Das war mein Schicksal."* Sie bestätigt außerdem, dass Ventus **alles mitbekommt, was sie mitbekommt** — eine durchgehende, nicht nur gelegentliche Verbindung. Zion bemerkt scherzhaft/unbehaglich, dass Ventus damit das gesamte Gespräch mitgehört habe.
+
+→ Das ist die bislang direkteste und unverhüllteste Aussage zu Ventus' Natur: keine vage „Präsenz" oder ein „Geistbegleiter" im übertragenen Sinn, sondern ein Mitbewohner in Elysias Körper, der mit ihr wahrnimmt. Dies bestätigt und verschärft den Verdacht aus [[Session 20 - 16.09.2026]], dass Ventus Elysias Leben aktiv gelenkt hat — sie deutet es selbst weiterhin als Schicksal, nicht als Kontrollverlust.
+
+Zion fragt außerdem, ob „die Sterne" sehen könnten, wie man seine Schwester aus dem Schwert befreit (siehe [[Zions Hunger]]) — Elysia bietet an, die Karten zu befragen, vertagt dies aber auf den nächsten Tag.
+
+## Offene Fragen (Stand Session 23)
 
 - [ ] War das Ventus selbst, oder hat die Höhle seine Rolle gespielt?
 - [ ] Hat Ventus Elysias Leben tatsächlich gelenkt — von der Kindheit über die Wüste bis zum Siegel?
@@ -89,3 +113,6 @@ Damit steht die Frage der Vision unbeantwortet im Raum: Elysia deutet den Ausgan
 - [ ] Welche Karte hat Elysia nach dem Erwachen gesucht und gefunden?
 - [ ] Ist die Sternen-Marionette Ventus' wahre Gestalt, ein Symbol für Elysia selbst — oder für beides?
 - [ ] Was ist der schwarze Sand unter dem Wüstensand?
+- [x] Wohnt Ventus tatsächlich körperlich/seelisch in Elysia? → Von ihr selbst explizit bestätigt (Session 23): „Er wohnt in mir", er nimmt alles mit ihr wahr
+- [ ] Was bedeutet es für Elysias Autonomie, dass eine zweite Präsenz dauerhaft mitwahrnimmt?
+- [ ] Besteht ein Zusammenhang zwischen Ventus und der Himmelsschlacht-Vision, die Elysia direkt im Anschluss an dieses Gespräch erlebt (siehe [[Krieg am Himmel]])?

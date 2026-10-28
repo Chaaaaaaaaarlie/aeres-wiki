@@ -2,7 +2,7 @@
 type: meta
 title: "Vorgangs-Protokoll"
 created: 2026-05-12
-updated: 2026-10-28
+updated: 2026-10-14
 tags:
   - meta/log
 ---
@@ -22,13 +22,14 @@ Format:
 
 ---
 
-## [2026-10-28] session | Session 23 - 28.10.2026
+## [2026-10-28] transkript | Session 23 - Der gefallene Engel, das Nautilus-Bioschiff und das Ende des ersten Akts
 
-- Quelle: [[Session 23 - 28.10.2026]]
+- Quelle: Craig-Audio `craig-zI5OKwCgMNHI-7fgCn-9tF7lmxMu.flac.zip`, WhisperX `large-v3`, 2903 Segmente, ca. 3h 17min, 115 Korrekturen; Rohtranskript unter `.raw/session-transcripts/Session 23 - 28.10.2026.md`
 - Zusammenfassung: [[Session 23 - 28.10.2026]]
-- Erstellte Seiten: [[Session 23 - 28.10.2026]], [[Transcript - Session 23 - 28.10.2026]]
-- Aktualisierte Seiten: Placeholder for updated pages.
-- Kernerkenntnis: Placeholder for kernel knowledge.
+- Erstellte Seiten: [[Session 23 - 28.10.2026]], [[Transcript - Session 23 - 28.10.2026]], [[Gefallener Engel]], [[Mumifiziertes Herz]], [[Nautilus-Bioschiff]], [[Krieg am Himmel]]
+- Aktualisierte Seiten: [[Zion]], [[Viri]], [[Elysia]], [[Rugir]], [[Sir Aschefall]], [[Todgelichter]], [[Die Boss hinter den Helfern]], [[Sprechende Kristallkugel]], [[Der Kriegsherr]], [[Zions Hunger]], [[Ventus]], [[Ritual der 13 Stiche]], [[Tickbalang-Höhle]], [[Rakshasa-Assassine]], [[Rakshasa]], `hot.md`, `index.md`, `Willkommen.md`, `sessions/_index.md`, `fäden/_index.md`, `log.md`
+- Kernerkenntnis: Die Gruppe schließt die Durchsuchung des entweihten Ilmater-Altarraums ab (Todgelicht, Blutprobe, mumifiziertes Herz, zweite Kriegsherr-Vision, ein Gerät mit den Überresten eines gefallenen Engels) und erfährt von der sprechenden Kristallkugel, dass der erlegte Rakshasa in den neuen Höllen zurückkehrt. Rugir findet einen verborgenen Gang zu einer Grotte mit einem organischen Nautilus-Bioschiff, pilotiert die Gruppe damit zurück zur Cestus und lässt es dort zurück. An Bord eskalieren Zions Schwert und Albträume weiter (die Katze zeigt erstmals selbst Angst), während Elysia offenbart, dass Ventus buchstäblich in ihr wohnt. Die Session endet mit einer gemeinsamen Vision einer Himmelsschlacht zwischen Nautilus-Flotten und keilförmigen Schiffen — der Spielleiter erklärt den ersten Akt der Kampagne für abgeschlossen.
+- Anmerkung Datenqualität: `corrected_obsidian.md` wurde direkt als Hauptquelle verwendet. Alle sechs Tonspuren sind diesmal vorhanden (Zions Spieler war wieder anwesend). Der Spielleiter nennt die Insel einmal beiläufig „Seucheninsel Sarath" — vermutlich eine Transkriptionsvariante von „Savart", dem bereits bekannten offiziellen Namen von [[Zarat]]; nicht als neuer Ort geführt. Diverse Real-Life-Anspielungen der Spielenden (Zitate, Insider-Scherze) wurden als Out-of-Character erkannt und nicht in den Recap übernommen.
 
 ---
 

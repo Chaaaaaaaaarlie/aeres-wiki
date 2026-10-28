@@ -2,7 +2,7 @@
 type: entity
 title: "Rakshasa"
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-10-28
 tags: [kreatur, dämon, rakshasa, gestaltwandler]
 status: aktiv – aktuell verfolgt durch die Gruppe (Session 10)
 ---
@@ -35,6 +35,10 @@ Die Gruppe tötet in [[Session 22 - 14.10.2026]] den [[Rakshasa-Assassine|Raksha
 
 Damit bleibt offen, ob **Jai vom [[Tigerauge]]** (ebenfalls mit umgedrehten Händen gesehen) derselbe Rakshasa war oder ein zweiter — da dieser hier nun tot ist, deutet vieles auf mindestens zwei Rakshasas in der Kampagne hin.
 
+## Session 23 — Rakshasas kehren zurück
+
+[[Elysia]]s sprechende Kristallkugel verrät in [[Session 23 - 28.10.2026]] beiläufig, dass der getötete Rakshasa nicht endgültig beseitigt ist: *„Ihr könnt ihn nicht töten. Er findet seine Form in den neuen Höllen wieder und wird wiederkehren."* — ein erster konkreter Hinweis auf die tatsächliche Natur von Rakshasas als Art in dieser Kampagnenwelt: Tod auf dieser Ebene ist offenbar nicht dasselbe wie Vernichtung.
+
 ## Offen
 
 - [ ] Wie viele Rakshasas treiben sich insgesamt herum — reicht es über Rhusion und Zarat hinaus?
@@ -46,6 +50,8 @@ Damit bleibt offen, ob **Jai vom [[Tigerauge]]** (ebenfalls mit umgedrehten Hän
 
 - [[Session 10 - 06.05.2026]]
 - [[Session 22 - 14.10.2026]]
+- [[Session 23 - 28.10.2026]]
+- [[Sprechende Kristallkugel]]
 - [[Tigerauge]]
 - [[Chloro Verde]]
 - [[Wo versteckt sich der Assassine]]

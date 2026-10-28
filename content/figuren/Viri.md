@@ -2,7 +2,7 @@
 type: entity
 title: "Viri"
 created: 2026-05-12
-updated: 2026-09-16
+updated: 2026-10-28
 tags: [charakter, spielercharakter]
 klasse: Aasimar
 status: aktiv
@@ -145,8 +145,11 @@ Viri ist nicht als Gast zur Hochzeit gekommen, sondern weil sie Sokars Männer h
 - [[Session 20 - 16.09.2026]]
 - [[Session 21 - 23.09.2026]]
 - [[Session 22 - 14.10.2026]]
+- [[Session 23 - 28.10.2026]]
 - [[Ilmater]]
 - [[Rakshasa-Assassine]]
+- [[Gefallener Engel]]
+- [[Todgelichter]]
 
 ## Session 18
 
@@ -194,3 +197,10 @@ Viri ist nicht als Gast zur Hochzeit gekommen, sondern weil sie Sokars Männer h
 - Untersucht nach dem Kampf den Altar: eine ausgekratzte Widmung an [[Ilmater]] und ein unlesbares Zauberbuch in unbekannter Geheimschrift, das als Beweisstück mitgenommen wird.
 - Stellt die zerschlagene Ilmater-Statue mit wiederholtem *Mending* zu etwa 80 % wieder her — unterstützt von der erschöpften Lyssa. Während die Statue sich formt, kocht das Blut im Becken kurz auf und erstarrt dann zu einer stillen, glatten Oberfläche.
 - Formuliert nach dem Kampf den Gedanken, dass die Gruppe gemeinsam, nicht einzeln, stark war, und dass der Rakshasa nur der ausführende Diener eines noch unbekannten Auftraggebers war.
+
+## Session 23
+
+- Hebt eine noch brennende Todgelicht-Kerze per Mage Hand hoch, erlebt eine Vision (vor allem Blut) und spricht beim Verlöschen ein Gebet für die darin gebundenen Seelen; nimmt diese eine Kerze als Beweisstück mit (siehe [[Todgelichter]]).
+- Findet im Arbeitszimmer eine aus Blutgefäßen und Haarsträhnen gefertigte Halsberge (legt sie nicht an), gläserne Tierfiguren voll Quecksilber und einen magischen Fächer mit sich wandelnden Orakelsprüchen.
+- Verliert beim Fund des Geräts mit dem gefallenen Engel fast vollständig die Kontrolle: Mehrere gescheiterte Weisheits-Rettungswürfe gegen überwältigende Verzweiflung, versucht [[Rugir]] körperlich daran zu hindern, es im Bag of Holding zu verstauen, und entschuldigt sich danach bei ihm (siehe [[Gefallener Engel]]).
+- Nutzt an Bord den gefundenen Fächer, um sich selbst mit seinen wechselnden Weisheitssprüchen aufzuheitern.

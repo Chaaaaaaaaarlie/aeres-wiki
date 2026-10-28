@@ -2,7 +2,7 @@
 type: entity
 title: "Sir Aschefall"
 created: 2026-06-04
-updated: 2026-09-16
+updated: 2026-10-28
 tags: [nsc, begleiter, drachengeboren]
 status: aktiv – reist mit der Gruppe
 ---
@@ -86,6 +86,8 @@ Aschefall wird in [[Session 11 - 03.06.2026]] eingeführt und ist der **künftig
 - [[Zarat]]
 - [[Der Dybbuk]]
 - [[Verfluchte Schuppenrüstung]]
+- [[Der Kriegsherr]]
+- [[Mumifiziertes Herz]]
 - [[Session 11 - 03.06.2026]]
 - [[Session 13 - 23.06.2026]]
 - [[Session 15 - 08.07.2026]]
@@ -95,6 +97,7 @@ Aschefall wird in [[Session 11 - 03.06.2026]] eingeführt und ist der **künftig
 - [[Session 20 - 16.09.2026]]
 - [[Session 21 - 23.09.2026]]
 - [[Session 22 - 14.10.2026]]
+- [[Session 23 - 28.10.2026]]
 - [[Rakshasa-Assassine]]
 
 ## Session 18
@@ -136,3 +139,11 @@ Aschefall wird in [[Session 11 - 03.06.2026]] eingeführt und ist der **künftig
 - Stemmt gemeinsam mit [[Zion]] die Tür aus [[Session 21 - 23.09.2026]] auf und betritt mit der Gruppe den entweihten Ilmater-Altarraum.
 - Wird von [[Rugir]] vergrößert (*Enlarge*) und liefert im Kampf gegen den [[Rakshasa-Assassine|Rakshasa]] mit Divine Smite und Shining Smite den Großteil des sichtbaren Schadens — seine Angriffe scheinen celestiale Energie zu tragen, die den Dämon sichtlich mehr schmerzt als gewöhnlicher Schaden.
 - Fällt in der zweiten Angstwelle des Rakshasa (unter dessen angenommener Gestalt des toten Sokar Karioka) zusammen mit [[Viri]] und Zion auf 0 Lebenspunkte und wird von [[Elysia|Lyssa]] zurückgeholt.
+
+## Session 23
+
+- Findet eine verschlossene Schatulle mit einem mumifizierten Herzen (siehe [[Mumifiziertes Herz]]); lässt impulsiv einen Tropfen eigenen Blutes darauf fallen — seine alten nekrotischen Narben von den Akolyten-Klingen heilen zu gesunder Schuppenhaut, und er spürt eine zeitweise Resistenz gegen nekrotischen Schaden, kann sich den eigenen Impuls dabei selbst nicht erklären.
+- Findet daneben ein übersehenes Skelett mit einer Wachstafel in der Faust: die letzten, abgebrochenen Worte *„Götter vergebt uns, wir konnten sie nie…"*.
+- Berührt eine zweite Kristallkugel und erlebt erneut eine Vision seines früheren Herrn [[Der Kriegsherr]] — diesmal inmitten einer Belagerung mit Leitern, Rammböcken und Belagerungstürmen.
+- Liest der Gruppe aus einem in Drakonisch verfassten, von einem Drachen geschriebenen Buch vor, das Zion im selben Raum findet.
+- Lässt seine Wunden vom wenig kompetenten Schiffsarzt der Cestus behandeln.

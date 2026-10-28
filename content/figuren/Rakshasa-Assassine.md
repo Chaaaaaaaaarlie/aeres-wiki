@@ -2,7 +2,7 @@
 type: entity
 title: "Rakshasa-Assassine"
 created: 2026-05-12
-updated: 2026-10-14
+updated: 2026-10-28
 status: tot
 ---
 
@@ -13,6 +13,8 @@ status: tot
 In [[Session 22 - 14.10.2026]] stellt die Gruppe den Rakshasa-Assassinen in einem entweihten Ilmater-Altarraum der [[Tickbalang-Höhle]] auf [[Zarat]] und tötet ihn im Kampf — siehe [[Wo versteckt sich der Assassine]] für die vollständige Auflösung des Fadens. Er schmilzt zu schwarzem Ichor und flüstert mit letzter Kraft: *„Ich werde dich heimsuchen, Zwerg."* Kein Körper bleibt zurück, nur eine als Beweis gesicherte Ichor-Probe.
 
 Die Gruppe geht davon aus, dass er nur der **ausführende Diener** war, nicht der eigentliche Auftraggeber — siehe [[Die Boss hinter den Helfern]].
+
+> [!important] Session 23: Laut [[Elysia]]s sprechender Kristallkugel ist dieser Tod nicht endgültig — *„Ihr könnt ihn nicht töten. Er findet seine Form in den neuen Höllen wieder und wird wiederkehren."* Siehe [[Die Boss hinter den Helfern]] und [[Sprechende Kristallkugel]].
 
 ## Status (vor Session 22): 🔴 Flüchtig
 
@@ -94,3 +96,5 @@ Stirbt durch den eigenen, von ihm selbst verfluchten Zauberstab, den [[Rugir]] g
 - [[Session 10 - 06.05.2026]]
 - [[Session 11 - 03.06.2026]]
 - [[Session 22 - 14.10.2026]]
+- [[Session 23 - 28.10.2026]]
+- [[Sprechende Kristallkugel]]

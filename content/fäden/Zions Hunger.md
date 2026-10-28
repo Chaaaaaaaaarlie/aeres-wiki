@@ -2,7 +2,7 @@
 type: concept
 title: "Zions Hunger"
 created: 2026-05-12
-updated: 2026-10-14
+updated: 2026-10-28
 tags: [offen, zion, inneres]
 priorität: hoch
 ---
@@ -108,7 +108,10 @@ Zusätzlich: Während des Circle-Rituals gegen den Leviathan (auf dem Weg nach Z
 - [[Session 20 - 16.09.2026]]
 - [[Session 21 - 23.09.2026]]
 - [[Session 22 - 14.10.2026]]
+- [[Session 23 - 28.10.2026]]
 - [[Rakshasa-Assassine]]
+- [[Die Boss hinter den Helfern]]
+- [[Ventus]]
 
 ## Session 18 – Schatten bleibt außerhalb der Kuppel
 
@@ -162,7 +165,19 @@ In [[Session 22 - 14.10.2026]] zeigt sich eine mögliche neue Facette: Im Überr
 
 Direkt davor beantwortet [[Elysia|Lyssa]] die am Ende von Session 21 aufgeworfene Frage, wie die Gruppe künftig mit dem Risiko umgeht: Sie findet im entweihten Altarraum verdeckt einen Türmechanismus und teilt ihn telepathisch mit der Gruppe — **schließt Zion dabei aber bewusst aus** und begründet das offen mit Misstrauen nach dem Vorfall aus Session 21. Zum ersten Mal zieht die Gruppe damit eine konkrete, praktische Konsequenz aus Zions Gefährlichkeit unter Stress.
 
-## Offene Fragen (Stand Session 22)
+## Session 23 — Das Schwert wird fordernd, die Katze zeigt Angst
+
+In [[Session 23 - 28.10.2026]] eskalieren gleich zwei Stränge von Zions Hunger parallel.
+
+**Das Schwert:** Beim Ölen der Klinge an Bord der [[Cestus]] spricht Zion mit dem Schwert — der Seele seiner Schwester (siehe oben, „Die Schwester im Schwert"). Es reagiert zum ersten Mal offen eifersüchtig und besitzergreifend: Es verlangt weitere Tote („Ich kann nicht die ganze Zeit irgendjemanden für dich umbringen" — „Vielleicht muss ich mir wen anders suchen") und wirft ihm vor, andere Hände seien „netter" zu ihm gewesen als seine. Als Zion ihm widerspricht, wird das Schwert kalt und antwortet nicht mehr. Elysia schlägt später vor, das Weihbecken im Altarraum hätte eine Gelegenheit sein können, die Schwester zu befreien — zu spät, der Gedanke kommt der Gruppe erst danach.
+
+**Die Katze und die goldgelben Augen:** Im Schlaf wird Zion erneut von der katzenhaften Gestalt aus seinen Albträumen besucht (siehe oben, Session 8/9/21). Sie wirft ihm vor, sich „wie eine Dirne" nacheinander mehreren Mächten angeboten zu haben und nun sogar zu sterben zu versuchen, um ihr zu entkommen — *„Glaubst du wirklich, das kann dich von mir retten?"* Als Zion sie direkt nach dem Wesen fragt, das dem erlegten [[Rakshasa-Assassine|Rakshasa]] Befehle gab, zeigt die Katze zum **ersten Mal erkennbar Angst** (Insight-Wurf bestanden), bevor sie ausweicht, ihm mit der Kralle übers Gesicht fährt (2 psychischer Schaden) und sich in Rauch auflöst. Zion fällt durch eine schwarze Iris und sieht am Grund **zwei goldgelbe, katzenhafte Augen** — dieselbe Farbe wie das Erkennungsmerkmal des Rakshasa und wie die Augen hinter der Illusion, die [[Rugir]] in [[Die Dunkelheit der Tickbalang-Höhle]] gesehen hat — und hört ein Grollen, das ihn bis ins Innerste erschüttert. Er erwacht schweißgebadet mit stechenden Kopfschmerzen und hält instinktiv den Schwertgriff fest, als wäre das sein Anker in der Realität.
+
+**Gespräch mit Elysia:** Danach spricht Zion offen mit der wachenden [[Elysia]] über Schwert und Katze. Sie warnt ihn ausdrücklich, nicht blind auf die Stimmen in seinem Kopf zu hören — „nicht alles, was deine Stimmen sagen, ist richtig" — und offenbart im selben Gespräch, dass [[Ventus]] buchstäblich in ihr wohnt (siehe [[Ventus]]).
+
+→ **Neue Erkenntnis:** Zum ersten Mal zeigt die Katze selbst Angst — vor etwas, das offenbar noch über ihr steht. Das deckt sich mit der sprechenden Kristallkugel, die in derselben Session beiläufig verrät, dass der Rakshasa „nicht getötet werden kann" (siehe [[Die Boss hinter den Helfern]]). Beides spricht für eine Hierarchie von Mächten, die weit über den bisher bekannten Gegnern liegt.
+
+## Offene Fragen (Stand Session 23)
 
 - [ ] Wer oder was ist die Katze, und wann genau hat sie real auf Zions Brust gelegen?
 - [ ] Ist die Katze aus der Vision identisch mit der „kahlrasierten, rauchenden Katze" aus Session 8/9, die Zions und Edens Seelen beanspruchte?
@@ -171,3 +186,5 @@ Direkt davor beantwortet [[Elysia|Lyssa]] die am Ende von Session 21 aufgeworfen
 - [ ] Wie oft kann sich der Wahn wiederholen, und was löst ihn aus — Erschöpfung, Trigger-Reize, beides?
 - [ ] War der schützende Reflex im Überraschungsangriff von Session 22 derselbe Hunger/Schatten, oder etwas Eigenständiges?
 - [ ] Wie lange hält Lyssas Vertrauensbruch an, und wie reagiert Zion, wenn er merkt, dass er ausgeschlossen wird?
+- [ ] Wovor genau hat die Katze in Session 23 zum ersten Mal Angst gezeigt — ist es dieselbe Macht, deren goldgelbe Augen Rugir in der Höhle sah?
+- [ ] Was will das Schwert/die Schwester wirklich — nur weitere Tote, oder eine eigene Befreiung?

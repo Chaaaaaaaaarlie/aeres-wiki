@@ -2,7 +2,7 @@
 type: concept
 title: "Ritual der 13 Stiche"
 created: 2026-05-12
-updated: 2026-10-14
+updated: 2026-10-28
 tags: [hinweis, ritual, teufel-daemon, ungeklärt]
 status: ungeklärt – aktiv in Bearbeitung
 ---
@@ -65,6 +65,12 @@ Nach dem Kampf stellt [[Viri]] die zerschlagene Ilmater-Statue zu 80 % wieder he
 
 → Der Rakshasa selbst ist tot, aber **„das Werk"** ist damit nicht notwendig beendet: Die sieben Todgelichter besitzen laut Rugir noch Kraft, und wer den Rakshasa beauftragt hat, bleibt unbekannt — siehe [[Die Boss hinter den Helfern]].
 
+## Session 23 — Weitere Geheimschrift, und der Rakshasa „kehrt zurück"
+
+In [[Session 23 - 28.10.2026]] findet die Gruppe im selben Arbeitszimmer weitere verschlüsselte Schriftstücke sowie ein in schuppiger, nicht-menschlicher Haut gebundenes Buch — zusätzlich zu den bereits in Session 22 gefundenen Briefen und dem Zauberbuch. Die Entzifferung bleibt weiterhin für die Rückreise geplant.
+
+[[Elysia]]s sprechende Kristallkugel verrät außerdem beiläufig, dass der erlegte Rakshasa „nicht getötet werden kann" und seine Form in den neuen Höllen zurückfindet (siehe [[Die Boss hinter den Helfern]]) — „das Werk" könnte also auch durch seinen Tod nicht wirklich unterbrochen sein.
+
 ## Offene Fragen
 
 - [ ] Was ist das vollständige Ritual?
@@ -80,6 +86,7 @@ Nach dem Kampf stellt [[Viri]] die zerschlagene Ilmater-Statue zu 80 % wieder he
 
 - [[Session 8 - 18.03.2026]]
 - [[Session 22 - 14.10.2026]]
+- [[Session 23 - 28.10.2026]]
 - [[Fanatischer Attentäter]]
 - [[Rugir]]
 - [[Daskirion]]

@@ -2,7 +2,7 @@
 type: entity
 title: "Zion"
 created: 2026-05-12
-updated: 2026-09-16
+updated: 2026-10-28
 tags: [charakter, spielercharakter]
 klasse: Kämpfer
 status: aktiv
@@ -159,8 +159,12 @@ In [[Session 9 - 15.04.2026]]: Als [[Chloro Verde]]s Schatten länger wird, **ve
 - [[Session 20 - 16.09.2026]]
 - [[Session 21 - 23.09.2026]]
 - [[Session 22 - 14.10.2026]]
+- [[Session 23 - 28.10.2026]]
 - [[Ilmater]]
 - [[Rakshasa-Assassine]]
+- [[Gefallener Engel]]
+- [[Nautilus-Bioschiff]]
+- [[Ventus]]
 
 
 ## Session 18
@@ -212,3 +216,11 @@ In [[Session 9 - 15.04.2026]]: Als [[Chloro Verde]]s Schatten länger wird, **ve
 - Kämpft gegen den im Altarraum lauernden [[Rakshasa-Assassine|Rakshasa]] und fällt in dessen zweiter Angstwelle — ausgelöst durch dessen angenommene Gestalt des toten Sokar Karioka und den Befehl „Gehorcht!" — zusammen mit [[Viri]] und [[Sir Aschefall]] gleichzeitig auf 0 Lebenspunkte.
 - Wird von [[Elysia|Lyssa]] zurückgeholt; erinnert sich beim Erwachen an eine kurze gemeinsame Vision aus neun brennenden roten Scheiben und geflügelten, gehörnten Wesen.
 - Nimmt am Ende der Session das zerschlagene, kunstvoll geschmiedete, aber unidentifizierte Schwert aus dem Arbeitszimmer neben dem Altar mit.
+
+## Session 23
+
+- Findet im Arbeitszimmer ein dorniges Gerät mit den Überresten eines gefallenen Engels (siehe [[Gefallener Engel]]) sowie eine kleine schwarze Glasmurmel, in der gelegentlich ein reptilienartiges Auge erscheint, und ein in Drakonisch verfasstes Buch eines Drachen über das Leben als Mensch.
+- Lehnt entschieden ab, das im Untergrund gefundene Nautilus-Bioschiff mitzunehmen: *„Manchmal sollte man der Gier nicht nachgeben."* (siehe [[Nautilus-Bioschiff]])
+- Spricht an Bord der Cestus mit seinem redenden Schwert beim Ölen der Klinge — es wird zum ersten Mal offen eifersüchtig und fordernd, verlangt weitere Tote und wirft ihm vor, andere Hände seien „netter" zu ihm gewesen.
+- Wird im Schlaf erneut von der katzenhaften Gestalt aus seinen Albträumen besucht; sie zeigt auf die Frage nach dem Auftraggeber des Rakshasa zum ersten Mal selbst **Angst**, bevor sie ihn zerkratzt und verschwindet. Zion sieht danach zwei goldgelbe Augen in der Tiefe und erwacht schweißgebadet mit stechenden Kopfschmerzen (siehe [[Zions Hunger]]).
+- Erfährt im anschließenden Gespräch mit [[Elysia]], dass [[Ventus]] buchstäblich in ihr wohnt und alles mit ihr wahrnimmt; wird gewarnt, nicht blind auf die Stimmen in seinem eigenen Kopf zu hören.
