@@ -12,6 +12,8 @@ status: aktiv
 
 # Rugir
 
+![[Token Rugir.webp|200]]
+
 > *„Name unbestätigt."*
 
 ## Kurzprofil

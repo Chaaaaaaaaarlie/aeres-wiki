@@ -9,6 +9,8 @@ status: aktiv – reist mit der Gruppe
 
 # Sir Aschefall
 
+![[Token Sir Aschefall.webp|200]]
+
 **Rotgeschuppter Drachengeborener**, schwere rote Rüstung über einer Robe, Schwert. Äußerlich ein **Krieger**. Vom [[Princeps Orpheon von Lutaxa]] in [[Session 11 - 03.06.2026]] als Begleiter mitgeschickt.
 
 ## Auftrag

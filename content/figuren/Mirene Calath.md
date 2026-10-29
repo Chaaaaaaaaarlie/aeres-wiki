@@ -10,6 +10,8 @@ entity_type: person
 
 # Mirene Calath
 
+![[Token Mirene Calath.webp|200]]
+
 **Quartiermeisterin der [[Cestus]]**. Erste Ansprechperson für Passagiere. Nennt die Gruppe beim ersten Kontakt direkt *„Landratten"*.
 
 ## Erscheinung & Auftreten

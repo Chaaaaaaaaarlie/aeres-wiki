@@ -8,6 +8,8 @@ tags: [nsc, gefaehrlich, sokar-bruder]
 
 # Harkas
 
+![[Token Harkas.webp|200]]
+
 **Halbork** · Sokars Bruder · Prunkvoll gepanzert · Ein Hauer natürlich, einer mit goldener Kuppe.
 
 ## Charakter

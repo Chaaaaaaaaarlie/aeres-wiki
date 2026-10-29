@@ -9,6 +9,8 @@ status: aktiv
 
 # Doruk Val
 
+![[Token Doruk Val.webp|200]]
+
 Tortle auf der [[Cestus]], klar erfahren, vorsichtig und schwer zu lesen.
 
 ## Bekannte Aussagen

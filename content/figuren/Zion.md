@@ -10,6 +10,8 @@ status: aktiv
 
 # Zion
 
+![[Token Zion.webp|200]]
+
 ## Kurzprofil
 
 | | |

@@ -13,6 +13,8 @@ status: aktiv
 
 # Elysia
 
+![[Token Elysia.webp|200]]
+
 ## Kurzprofil
 
 | | |

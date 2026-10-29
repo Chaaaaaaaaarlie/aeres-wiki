@@ -11,6 +11,8 @@ status: aktiv – seit Session 11 nicht mehr in der reisenden Gruppe (Leibwache 
 
 # Hjolda
 
+![[Token Hjolda.webp|200]]
+
 ## Kurzprofil
 
 | | |

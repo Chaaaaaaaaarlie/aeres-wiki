@@ -9,6 +9,8 @@ status: verstorben
 
 # Sokar Karioka †
 
+![[Token Sokar Karioka.webp|200]]
+
 **Ork-Prinz** des [[Kurkan Akrava]].
 
 ## Charakter

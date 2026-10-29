@@ -10,6 +10,8 @@ status: aktiv
 
 # Viri
 
+![[Token Viri.webp|200]]
+
 ## Kurzprofil
 
 | | |

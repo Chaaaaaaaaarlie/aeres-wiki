@@ -8,6 +8,8 @@ tags: [nsc, verbündet, haus-cortiso]
 
 # Aspasia Cortiso
 
+![[Token Aspasia Cortiso.webp|200]]
+
 **Braut. Überlebt.** Haus Cortiso – ein junges Haus in Rhusion.
 
 ## Verbindungen zur Gruppe

@@ -9,6 +9,8 @@ status: aktiv – erstmalig getroffen in Session 9; Reichweite reicht bis auf of
 
 # Chloro Verde
 
+![[Token Chloro Verde.webp|200]]
+
 Einflussreiche Informationshändlerin und Machthoberin mit eigenem unterirdischem Territorium in Rhusion.
 
 ## Erstbegegnung

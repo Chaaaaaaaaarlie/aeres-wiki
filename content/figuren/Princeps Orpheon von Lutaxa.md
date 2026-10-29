@@ -8,6 +8,8 @@ tags: [nsc, stadtoberhaupt]
 
 # Princeps Orpheon von Lutaxa
 
+![[Token Princeps Orpheon von Lutaxa.webp|200]]
+
 **Stadtoberhaupt Rhusions.**
 
 ## Handlungen
