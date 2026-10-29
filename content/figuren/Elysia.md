@@ -114,7 +114,7 @@ In [[Session 10 - 06.05.2026]] ruft Elysia ihren inneren Freund unter dem Namen 
 - Wild Shape-Status: Riesenseepferdchen (Wildshape unklar ob aktiviert)
 
 ## Session 14
-- **Kritischer Fund:** Entdeckt auf dem Wrack den **mechanischen Vogel** in verbogenem Käfig (Rubinaugen, Zahnräder, zwergische Signatur *„Dieter von Braumann"*, Herkunft: [[Valarhir]]). Erkennt sofort die Valarhir-Herkunft.
+- **Kritischer Fund:** Entdeckt auf dem Wrack den **mechanischen Vogel** in verbogenem Käfig (Rubinaugen, Zahnräder, zwergische Signatur *„Dieter von Braumann"*, Herkunft: [[Welt & Hintergrund|Valarhir]]). Erkennt sofort die Valarhir-Herkunft.
 - **Wrack-Reparatur:** Entdeckt und behebt mit Perception 17 + Arcana + Mending + Druidcraft eine kritische Rumpfschwachstelle — ohne diesen Fund wäre das Schiff gesunken.
 - **Koalint-Angriff:** Fällt aus dem Bett (Prone, schlechteste Initiative), rappelt sich auf, wirft **Guiding Bolt** → pulverisiert einen Koalinth.
 - Wirkt **Lesser Restoration** zweimal: auf Viri (Seekrankheit) und Zion (Sehkrankheit).

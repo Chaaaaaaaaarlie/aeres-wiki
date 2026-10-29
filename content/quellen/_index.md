@@ -2,7 +2,7 @@
 type: meta
 title: "Quellen-Übersicht"
 created: 2026-05-12
-updated: 2026-10-14
+updated: 2026-10-29
 tags:
   - meta/index
   - domain/sources
@@ -13,6 +13,7 @@ Zusammenfassungen des Rohmaterials aus `.raw/` — Session-Audio-Transkripte, Ha
 
 ## Session-Quellen
 
+- [[Transcript - Session 23 - 28.10.2026]] — Craig-Audiotranskript, WhisperX large-v3, 2903 Segmente
 - [[Transcript - Session 22 - 14.10.2026]] — Craig-Audiotranskript, WhisperX large-v3, 2834 Segmente
 - [[Transcript - Session 21 - 23.09.2026]] — Craig-Audiotranskript, WhisperX large-v3/CUDA mit Alignment
 - [[Transcript - Session 20 - 16.09.2026]] — Craig-Audiotranskript, WhisperX large-v3/CUDA mit Alignment
@@ -25,6 +26,3 @@ Zusammenfassungen des Rohmaterials aus `.raw/` — Session-Audio-Transkripte, Ha
 - [[Transcript - Session 13 - 23.06.2026]] — Dialogzusammenfassung Session 13
 - [[Transcript - Session 12 - 17.06.2026]] — Dialogzusammenfassung Session 12
 
-## Sonstige Quellen
-
-- [[Tagebücher Wilhelm Casterwill]]

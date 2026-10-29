@@ -94,7 +94,7 @@ Ausguck ruft *„Piraten!"* – drei **kleinere, wendige Schiffe** (Trireme-ähn
 ## Neue Figuren
 
 - **[[Mirene Calath]]** — Quartiermeisterin der [[Cestus]]; raubeinige, taffe Seebärin; direkte Ansprechperson für Passagiere
-- **[[Schiffskoch der Cestus]]** *(noch kein Eigenname)* — große Goliath-Mischrasse, schnelle präzise Hände; zuständig für Schiffskost; kennt sich mit Hausmitteln aus
+- **[[Cestus|Schiffskoch der Cestus]]** *(noch kein Eigenname)* — große Goliath-Mischrasse, schnelle präzise Hände; zuständig für Schiffskost; kennt sich mit Hausmitteln aus
 
 ---
 

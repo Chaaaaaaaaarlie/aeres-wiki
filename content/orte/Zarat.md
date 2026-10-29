@@ -2,7 +2,7 @@
 type: entity
 title: "Zarat"
 created: 2026-06-04
-updated: 2026-07-29
+updated: 2026-10-29
 tags: [ort, insel, ziel, assassine, seucheninsel]
 status: aktiv – Gruppe im Dybbuk-Nest, Beiboot zerstört
 ---
@@ -100,6 +100,13 @@ Auf dem Rückweg nach [[Leitwacht]] begegnet die Gruppe einer entstellten, groß
 
 ## Session 19 - Südöstliche Hügel
 
-Calderion berichtete, dass [[Leitwacht]] früher vollständig Wald war und die [[../kreaturen/Tickbalang|Tickbalang]] nach der Rodung in eine Höhle im Südosten zurückwichen. Die Gruppe folgte dieser Spur.
+Calderion berichtete, dass [[Leitwacht]] früher vollständig Wald war und die [[Tickbalang]] nach der Rodung in eine Höhle im Südosten zurückwichen. Die Gruppe folgte dieser Spur.
 
 Auf dem Weg fand sie eine Lichtung, auf der Vegetation verging und Tiere ohne äußere Wunden tot lagen, als wäre ihnen die Lebenskraft ausgesogen worden. Am Ende erreichte sie einen porösen Hügel mit alten Felswohnungen und der [[Tickbalang-Höhle]] am Fuß.
+
+
+## Sessions 20–23 – Tickbalang-Höhle, Rakshasa-Ende & Abreise (Ende Akt 1)
+
+- **[[Session 20 - 16.09.2026]] & [[Session 21 - 23.09.2026]]:** Die Gruppe dringt in die [[Tickbalang-Höhle]] im Südosten Zarats ein, besteht die geistigen Prüfungen der [[Die Dunkelheit der Tickbalang-Höhle|Dunkelheit]], überquert den Abgrund, räumt das Spinnenlager und weiht den entweihten [[Ilmater]]-Schrein.
+- **[[Session 22 - 14.10.2026]]:** Hinter der versiegelten Tür stellt und tötet die Gruppe im entweihten Ilmater-Altarraum den [[Rakshasa-Assassine|Rakshasa-Assassinen]] (Sokar Kariokas Mörder) und sichert die sieben [[Todgelichter]].
+- **[[Session 23 - 28.10.2026]]:** Im angrenzenden Arbeitszimmer findet die Gruppe das [[Mumifiziertes Herz]], eine zweite Kristallkugel (Vision von [[Der Kriegsherr]]), Schuppenhaut-Schriften und das Gerät mit den Überresten eines [[Gefallener Engel|gefallenen Engels]]. Über eine unterirdische Grotte verlässt die Gruppe Zarat an Bord des [[Nautilus-Bioschiff|Nautilus-Bioschiffs]] zurück zur [[Cestus]] (Abschluss von Akt 1).

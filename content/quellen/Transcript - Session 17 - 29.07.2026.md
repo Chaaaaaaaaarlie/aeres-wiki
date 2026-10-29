@@ -17,7 +17,7 @@ status: ingested
 - Spuren: hansmeier, nechesch, kmarcus, feeminin, edensunflower
 - Transkription: WhisperX `large-v3`, CUDA, Wort-Zeitstempel
 - Ergebnis: 3.059 Segmente, 145 glossargestützte Korrekturen
-- Volltranskript: [[Session 17 - 29.07.2026 (Transkript)]]
+- Volltranskript: [[Session 17 - 29.07.2026]] (`.raw/transcripts/Session 17 - 29.07.2026 (Transkript).md`)
 
 ## Inhalt
 

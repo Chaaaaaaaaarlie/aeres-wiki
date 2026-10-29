@@ -116,5 +116,5 @@ Die Gruppe hat das Gefühl, dem eigentlichen Auftrag näherzukommen: dem Mörder
 - [[Tickbalang]] · [[Zions Hunger]] · [[Sprechende Kristallkugel]] · [[Verfluchte Schuppenrüstung]]
 - [[Viri]] · [[Elysia]] · [[Rugir]] · [[Zion]] · [[Sir Aschefall]]
 - Quelle: [[Transcript - Session 19 - 09.09.2026]]
-- Volltranskript: [[Session 19 - 09.09.2026 (Transkript)]]
+- Volltranskript: [[Transcript - Session 19 - 09.09.2026]] (`.raw/transcripts/Session 19 - 09.09.2026 (Transkript).md`)
 - [[Session 18 - 26.08.2026]]

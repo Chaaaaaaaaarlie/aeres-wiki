@@ -25,7 +25,7 @@ related:
 - Nutzerlieferung: Spielnotizen zur Aeres-Session vom 26.08.2026
 - Art: zusammengeführte Rohnotizen / Discord-Mitschrift, kein vollständiges Audiotranskript
 - Ingest-Datum: 2026-09-09
-- Vollablage: [[Session 18 - 26.08.2026 (Rohnotizen)]]
+- Vollablage: [[Session 18 - 26.08.2026]] (`.raw/transcripts/Session 18 - 26.08.2026 (Rohnotizen).md`)
 
 ## Inhalt
 

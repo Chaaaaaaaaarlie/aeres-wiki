@@ -2,7 +2,7 @@
 type: entity
 title: "Cestus"
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-10-29
 tags: [ort, schiff, hafen, aktiv]
 status: aktiv
 ---
@@ -44,6 +44,12 @@ In [[Session 13 - 23.06.2026]] wird der Piratenüberfall vollständig abgewehrt:
 - **Crew-Stimmung:** schlägt nach der Seeschlacht in Ehrfurcht um — die Magie der Gruppe hat sie tief beeindruckt
 - Kapitänin: *„Reparieren! Wir müssen hier so schnell wie möglich weg!"*
 
+## Sessions 14–23 – Vor Anker vor Zarat & Rückkehr der Gruppe
+
+- **[[Session 14 - 01.07.2026]]:** Die Cestus ankert vor [[Zarat]]; die [[Kapitänin der Cestus]] setzt eine strikte **Drei-Tage-Frist** für den Landgang.
+- **[[Session 22 - 14.10.2026]]:** Im Altarraum der [[Tickbalang-Höhle]] versucht der [[Rakshasa-Assassine]] vergeblich, die Gruppe in der Gestalt der Kapitänin der Cestus zu täuschen.
+- **[[Session 23 - 28.10.2026]]:** Nach Abschluss der Höhlenerkundung kehrt die Gruppe mit dem [[Nautilus-Bioschiff]] aus der Unterwassergrotte direkt zur Cestus zurück, lässt das Bioschiff im Meer frei und tritt auf der Cestus die Rückfahrt an (Ende Akt 1).
+
 ## Verknüpfungen
 
 - [[Hafensabotage]]
@@ -56,3 +62,7 @@ In [[Session 13 - 23.06.2026]] wird der Piratenüberfall vollständig abgewehrt:
 - [[Session 11 - 03.06.2026]]
 - [[Session 12 - 17.06.2026]]
 - [[Session 13 - 23.06.2026]]
+- [[Nautilus-Bioschiff]]
+- [[Session 14 - 01.07.2026]]
+- [[Session 22 - 14.10.2026]]
+- [[Session 23 - 28.10.2026]]

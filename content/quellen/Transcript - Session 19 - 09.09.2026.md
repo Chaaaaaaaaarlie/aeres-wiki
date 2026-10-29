@@ -16,7 +16,7 @@ status: ingested
 - Lokaler Ursprung: `D:\Downloads\craig-xKqYatLl5NbY-2nwFIAKKT0R6HGM.flac.zip`
 - Spuren: feeminin, nechesch, yuka_0838, hansmeier, kmarcus
 - Transkription: WhisperX `large-v3`, CUDA/float16, Alignment aktiv
-- Volltranskript: [[Session 19 - 09.09.2026 (Transkript)]]
+- Volltranskript: [[Transcript - Session 19 - 09.09.2026]] (`.raw/transcripts/Session 19 - 09.09.2026 (Transkript).md`)
 
 ## Inhalt
 
