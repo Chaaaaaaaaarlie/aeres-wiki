@@ -2,7 +2,7 @@
 type: meta
 title: "Figuren-Übersicht"
 created: 2026-05-12
-updated: 2026-09-16
+updated: 2026-10-29
 tags:
   - meta/index
   - domain/characters
@@ -13,37 +13,37 @@ NSCs und SCs der Aeres-Kampagne. Im Frontmatter nach `role` und `entity_type` fi
 
 ## Spielercharaktere (SCs)
 
-- [[Elysia]] — SC
-- [[Hjolda]] — SC
-- [[Rugir]] — SC
-- [[Viri]] — SC
-- [[Zion]] — SC
+- ![[Token Elysia.webp|48]] [[Elysia]] — SC
+- ![[Token Hjolda.webp|48]] [[Hjolda]] — SC, seit Session 11 Leibwache von [[Aspasia Cortiso|Aspasia]]
+- ![[Token Rugir.webp|48]] [[Rugir]] — SC
+- ![[Token Viri.webp|48]] [[Viri]] — SC
+- ![[Token Zion.webp|48]] [[Zion]] — SC
 
 ## NSCs — Verbündete & Kontakte
 
 - [[Augier]]
 - [[Bruder Kalvet]]
 - [[Calderion]]
-- [[Chloro Verde]]
-- [[Doruk Val]]
+- ![[Token Chloro Verde.webp|48]] [[Chloro Verde]]
+- ![[Token Doruk Val.webp|48]] [[Doruk Val]]
 - [[Elmar Kassar]]
 - [[Halbling-Wahrsagerin]]
-- [[Harkas]]
+- ![[Token Harkas.webp|48]] [[Harkas]]
 - [[Jada]]
 - [[Kapitänin der Cestus]]
-- [[Mirene Calath]]
+- ![[Token Mirene Calath.webp|48]] [[Mirene Calath]]
 - [[Saria]]
 - [[Schwester Elva]]
-- [[Sir Aschefall]]
-- [[Ventus]]
+- ![[Token Sir Aschefall.webp|48]] [[Sir Aschefall]] — reist mit der Gruppe
+- [[Ventus]] — Geistbegleiter, wohnt seit Session 23 in Elysia
 - [[Zahir]]
 
 ## NSCs — Politik & Adel
 
-- [[Aspasia Cortiso]]
+- ![[Token Aspasia Cortiso.webp|48]] [[Aspasia Cortiso]]
 - [[Kurkan Akrava]]
-- [[Princeps Orpheon von Lutaxa]]
-- [[Sokar Karioka]]
+- ![[Token Princeps Orpheon von Lutaxa.webp|48]] [[Princeps Orpheon von Lutaxa]]
+- ![[Token Sokar Karioka.webp|48]] [[Sokar Karioka]]
 
 ## NSCs — Aus der Vergangenheit
 
@@ -55,6 +55,6 @@ NSCs und SCs der Aeres-Kampagne. Im Frontmatter nach `role` und `entity_type` fi
 ## NSCs — Verdächtige
 
 - [[Fanatischer Attentäter]]
-- [[Rakshasa-Assassine]]
+- [[Rakshasa-Assassine]] — in Session 22 getötet, soll laut Kristallkugel zurückkehren
 - [[Unbekannte Frau]]
 - [[Falsche Fährte]]
