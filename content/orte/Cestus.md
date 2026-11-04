@@ -2,7 +2,7 @@
 type: entity
 title: "Cestus"
 created: 2026-05-12
-updated: 2026-10-29
+updated: 2026-11-04
 tags: [ort, schiff, hafen, aktiv]
 status: aktiv
 ---
@@ -66,3 +66,13 @@ In [[Session 13 - 23.06.2026]] wird der Piratenüberfall vollständig abgewehrt:
 - [[Session 14 - 01.07.2026]]
 - [[Session 22 - 14.10.2026]]
 - [[Session 23 - 28.10.2026]]
+
+## Session 24 – Rückfahrt, Haferbrei und zwei Schemen
+
+- In [[Session 24 - 04.11.2026]] spielt die gesamte Session an Bord. Seit dem Tod des Kochs (Session 14) lebt die Crew fast nur von Zwieback; [[Elysia|Lyssa]] kocht für alle Haferbrei, und die Mannschaft feiert es als kleines Wunder.
+- Der langsam erzählende Tortle der Crew steht am Steuerrad und unterhält sich stundenlang mit Lyssas Kristallkugel (siehe [[Sprechende Kristallkugel]]).
+- Die Gruppe fischt aus Treibgut (Planken, Kleidung, Papiere, zersplittertes Holz) 14 Kokosnüsse.
+- [[Viri]] rät, der Crew etwas für ihr Schweigen über den Aufenthalt auf [[Zarat]] zu geben, weil sie von der Insel verbannt ist.
+- Am Morgen des zweiten Tages nähern sich **zwei Schemen** am Horizont; die Begegnung folgt in der nächsten Session.
+
+(Quelle: [[Session 24 - 04.11.2026]])

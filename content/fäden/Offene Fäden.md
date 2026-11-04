@@ -2,7 +2,7 @@
 type: concept
 title: "Offene Fäden"
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-11-04
 tags: [moc, offen]
 status: aktiv
 ---
@@ -29,3 +29,14 @@ Priorisierte offene Handlungsstränge:
 - [ ] Zions Schatten-/Hungerproblem weiter beobachten, auch nach Calderions Wiederherstellung.
 - [ ] Ixtras verstörte Wahrnehmung der Nacht außerhalb der Kuppel nachfassen.
 - [x] Calderion über Dybbuk, Ritualhütte, Wachstafel, Kultistenzeichen und Tümpel informieren.
+
+## Session 24 - aktueller Stand
+
+- [ ] Die **zwei Schemen am Horizont** vor der [[Cestus]] klären (Begegnung in der nächsten Session).
+- [ ] [[Die weiße Rose]]: Wer sprach durch den Loxodon in Viris Traum, und welche Freunde sind „nicht das, was sie vorgeben zu sein"?
+- [ ] [[Krieg am Himmel]]: dritte Partei, Elfen-Ballisten, Lyssas rubinbesetzte Rüstung in der Vision; das Buch aus Khios aufspüren (Rugirs Brief an seinen Magister).
+- [ ] [[Sprechende Kristallkugel]]: Soll Ixtra befreit werden?
+- [ ] Viris lebenslanger Bann von [[Zarat]] — die Crew zum Schweigen über den Inselaufenthalt bewegen.
+- [x] Antwort des Priesters von Zarat auf Viris Brief — eingetroffen: Höhle frei von Dunkelheit, Dank, aber lebenslanger Bann.
+
+(Quelle: [[Session 24 - 04.11.2026]])

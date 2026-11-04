@@ -2,7 +2,7 @@
 type: entity
 title: "Sir Aschefall"
 created: 2026-06-04
-updated: 2026-10-28
+updated: 2026-11-04
 tags: [nsc, begleiter, drachengeboren]
 status: aktiv – reist mit der Gruppe
 ---
@@ -149,3 +149,13 @@ Aschefall wird in [[Session 11 - 03.06.2026]] eingeführt und ist der **künftig
 - Berührt eine zweite Kristallkugel und erlebt erneut eine Vision seines früheren Herrn [[Der Kriegsherr]] — diesmal inmitten einer Belagerung mit Leitern, Rammböcken und Belagerungstürmen.
 - Liest der Gruppe aus einem in Drakonisch verfassten, von einem Drachen geschriebenen Buch vor, das Zion im selben Raum findet.
 - Lässt seine Wunden vom wenig kompetenten Schiffsarzt der Cestus behandeln.
+
+## Session 24
+
+- Erwacht spät, vollständig genesen, und misstraut der ungewohnt schnellen Heilung.
+- Spricht mit [[Viri]] über Krieg: Die Dolche mit ihren schwarzen Wunden hätten besser ihn getroffen als einen der anderen; Kriege würden von Leuten begonnen, die andere für sich bluten lassen. Man habe immer eine Wahl, müsse aber die Konsequenzen tragen.
+- Hat nach eigener Aussage nie seinem Gott widersprochen, wohl aber Leuten, die glaubten, in dessen Willen zu handeln. Wer sein Gott ist, behält er vorerst für sich.
+- Äußert Viri gegenüber Sorge um [[Zion]] (Aura, Schatten, Vertrag) und grübelt am Abend, ob er ihn ungerecht beschrieben hat.
+- Holt mit Rugir 14 Kokosnüsse aus dem Treibgut und findet sie besser als Zwieback.
+
+(Quelle: [[Session 24 - 04.11.2026]])

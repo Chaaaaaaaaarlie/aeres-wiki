@@ -2,7 +2,7 @@
 type: meta
 title: "Vorgangs-Protokoll"
 created: 2026-05-12
-updated: 2026-10-14
+updated: 2026-11-04
 tags:
   - meta/log
 ---
@@ -19,6 +19,17 @@ Format:
 - Aktualisierte Seiten: [[…]]
 - Kernerkenntnis: ein Satz
 ```
+
+---
+
+## [2026-11-04] transkript | Session 24 - Die weiße Rose, Ixtras Geduld und der Kataklysmus
+
+- Quelle: Craig-Audio `craig-WNxvZx2FWzTK-2Av-I8xa2-8Uicl.flac.zip`, WhisperX `large-v3`, 1723 Segmente, ca. 2h 17min, 88 Korrekturen; Rohtranskript unter `.raw/session-transcripts/Session 24 - 04.11.2026.md`
+- Zusammenfassung: [[Session 24 - 04.11.2026]]
+- Erstellte Seiten: [[Session 24 - 04.11.2026]], [[Transcript - Session 24 - 04.11.2026]], [[Die weiße Rose]], [[Gith]]
+- Aktualisierte Seiten: [[Viri]], [[Elysia]], [[Zion]], [[Rugir]], [[Sir Aschefall]], [[Calderion]], [[Krieg am Himmel]], [[Sprechende Kristallkugel]], [[Zions Hunger]], [[Nautilus-Bioschiff]], [[Offene Fäden]], [[Der Dybbuk]], [[Die Dunkelheit der Tickbalang-Höhle]], [[Der Große Kataklysmus]], [[Ilmater]], [[Cestus]], [[Zarat]], [[Leitwacht]], [[Tickbalang-Höhle]], [[Dybbuk-Nest]], [[Kalazar-Statue]], `hot.md`, `index.md`, `overview.md`, `Willkommen.md`, `sessions/_index.md`, `quellen/_index.md`, alle Domänen-`_index.md`, `log.md`
+- Kernerkenntnis: Erste Session von Akt 2, komplett an Bord der Cestus. Lyssas Himmelsschlacht-Vision zeigt Elfen-Ballisten, rote Drachen mit (Gith-)Reitern sowie metallische und schwarze Drachen; Lyssa stirbt darin in einer silbernen, rubinbesetzten Rüstung. Viri erhält im Traum von einem sterbenden, von innen glühenden Loxodon eine reale weiße Dornenrose und die Warnung, einige ihrer Freunde seien nicht, was sie vorgeben; der Brief des Priesters von Zarat bestätigt seinen Tod und verhängt einen lebenslangen Inselbann. Rugir referiert die offizielle Kataklysmus-Geschichte (1400 Jahre her, Gith als Invasoren aus Himmelsportalen), Lyssa erinnert sich an ein uraltes Bilderbuch aus Khios. Am Ende nähern sich zwei Schemen der Cestus.
+- Anmerkung Datenqualität: `corrected_obsidian.md` direkt als Hauptquelle verwendet. Zions Spur (`edensunflower`) fehlt; Zion wurde vom Spielleiter geführt. Viele fehlerhafte „Nat-20"-Einschübe des Glossar-Korrektors ignoriert. Korrektur zu Session 23: Die dortige Frage nach „Githyanki" wurde nicht vom Spielleiter, sondern vom fragenden Spieler selbst verneint — in [[Krieg am Himmel]] berichtigt. OOC-Diskussion über Aschefalls Gott (Bahamut/Tiamat/Sardior, vom Spieler noch nicht festgelegt) nicht übernommen.
 
 ---
 

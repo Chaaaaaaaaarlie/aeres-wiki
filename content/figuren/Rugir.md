@@ -2,7 +2,7 @@
 type: entity
 title: "Rugir"
 created: 2026-05-12
-updated: 2026-10-28
+updated: 2026-11-04
 tags: [charakter, spielercharakter]
 klasse: Evocation Wizard
 rasse: Zwerg
@@ -217,3 +217,13 @@ Kein direkter Treffer auf die **7 Kerzen** oder die **13 Stiche**. Spezialist f�
 - Entdeckt bei einer letzten Durchsuchung (Nat-20 Investigation) einen verborgenen Gang hinter einem Wandbehang, der zu einer unterirdischen Grotte mit einem organischen Nautilus-Bioschiff führt (siehe [[Nautilus-Bioschiff]]).
 - Attunet sich über eine Stunde an das Bioschiff und pilotiert die Gruppe tauchend zurück zur [[Cestus]] — navigiert per Survival an der Küste entlang und weicht dem Leuchtturm-Wachlicht aus.
 - Versucht vergeblich, das Bioschiff am Rumpf der Cestus zu befestigen, und lässt es schließlich im Meer zurück; entkommt dabei nur knapp dem Ertrinken und wird von der Crew an Bord gezogen.
+
+## Session 24
+
+- Beschwört eine neue Eule als Vertraute und gönnt ihr Freiflug.
+- Gibt Lyssa mit seinem Länderkunde-Buch die offizielle Geschichte des [[Der Große Kataklysmus|Kataklysmus]] wieder: rund 1400 Jahre her, Niedergang der Elfenreiche, Champions der Götter gegen Invasoren aus Himmelsportalen, darunter die [[Gith]]. Kennt keine fliegenden Schiffe auf Seiten der Elfen.
+- Will das alte Buch aus Khios unbedingt sehen und plant, seinem **Magister** einen Brief mit Lyssas Beschreibung und Zeichnung zu schicken.
+- Fischt mit Mage Hand Kokosnüsse aus dem Treibgut.
+- Warnt Lyssa, [[Sprechende Kristallkugel|Ixtra]] nicht aus Mitleid zu befreien, und wiederholt, dass er nichts von Göttern hält.
+
+(Quelle: [[Session 24 - 04.11.2026]])

@@ -2,7 +2,7 @@
 type: overview
 title: "Aeres — Kampagnen-Übersicht"
 created: 2026-05-12
-updated: 2026-10-29
+updated: 2026-11-04
 tags:
   - meta/overview
   - domain/campaign
@@ -10,13 +10,13 @@ status: developing
 ---
 # Aeres — Kampagnen-Übersicht
 
-Die Aeres-Kampagne folgt fünf Spielercharakteren (sowie [[Sir Aschefall]] als Begleiter), die in einen rituellen Mordfall in [[Rhusion]] verstrickt sind — einem Hafen des [[Zamathisches Imperium|Zamathischen Imperiums]]. Was bei einer Hochzeit begann, führte die Gruppe an Bord der [[Cestus]] bis auf die Quarantäne-Insel [[Zarat]] und in die Tiefen der [[Tickbalang-Höhle]], wo am Ende von [[Session 23 - 28.10.2026]] der **erste Akt** der Kampagne abgeschlossen wurde.
+Die Aeres-Kampagne folgt fünf Spielercharakteren (sowie [[Sir Aschefall]] als Begleiter), die in einen rituellen Mordfall in [[Rhusion]] verstrickt sind — einem Hafen des [[Zamathisches Imperium|Zamathischen Imperiums]]. Was bei einer Hochzeit begann, führte die Gruppe an Bord der [[Cestus]] bis auf die Quarantäne-Insel [[Zarat]] und in die Tiefen der [[Tickbalang-Höhle]], wo am Ende von [[Session 23 - 28.10.2026]] der **erste Akt** der Kampagne abgeschlossen wurde. Der zweite Akt beginnt in [[Session 24 - 04.11.2026]] auf der Rückfahrt an Bord der Cestus.
 
 ## Die Gruppe
 
 - [[Rugir]] — Forscher, kennt die Bibliothek [[Daskirion]], ringt mit [[Rugirs wahrer Name]]
 - [[Zion]] — gezeichnet von [[Zions Hunger]], seinem fordernden Schwert und einer Albtraum-Katze
-- [[Viri]] — Klerikerin, verstrickt in [[Tabulei]] und die Visionen von [[Dolorion]]
+- [[Viri]] — Klerikerin, verstrickt in [[Tabulei]] und die Visionen von [[Dolorion]]; trägt seit Session 24 [[Die weiße Rose]] und ist lebenslang von [[Zarat]] verbannt
 - [[Hjolda]]
 - [[Elysia]] — Druidin, bedroht durch das [[Ritual der 13 Stiche]]; [[Ventus]] wohnt in ihr
 - [[Sir Aschefall]] — Paladin des [[Princeps Orpheon von Lutaxa]], gezeichnet von seiner Vergangenheit unter [[Der Kriegsherr]]
@@ -32,13 +32,20 @@ Der Mord an [[Sokar Karioka]] auf einer Hochzeit ([[Session 1 – Die Hochzeit]]
 - Im Arbeitszimmer hinter dem Altarraum fand die Gruppe ein Gerät mit den Überresten eines [[Gefallener Engel|gefallenen Engels]], das [[Mumifiziertes Herz]], Schuppenhaut-Schriften und das [[Nautilus-Bioschiff]], mit dem sie zur [[Cestus]] zurückkehrte.
 - Akt 1 endete mit der gemeinsamen Vision [[Krieg am Himmel]] — einer Schlacht zwischen Nautilus-Flotten und keilförmigen Schiffen mit Drachen.
 
+## Akt 2 — Beginn
+
+- In [[Session 24 - 04.11.2026]] zeigt die fortgesetzte Vision Elfen-Ballisten, rote Drachen mit [[Gith]]-Reitern sowie metallische und schwarze Drachen; [[Rugir]] ordnet sie in die offizielle Geschichte des [[Der Große Kataklysmus|Großen Kataklysmus]] ein (rund 1400 Jahre her, Invasoren aus Himmelsportalen). [[Elysia]] erinnert sich an ein uraltes Bilderbuch aus Khios.
+- [[Viri]] erhält im Traum von einem sterbenden Loxodon eine reale weiße Rose und die Warnung, einige ihrer Freunde seien nicht, was sie vorgeben ([[Die weiße Rose]]).
+- Am Ende nähern sich zwei unbekannte Schiffe der [[Cestus]].
+
 ## Aktive Fäden
 
 Die heißen Fäden werden in [[fäden/_index|Fäden-Übersicht]] und [[hot|Aktueller Kontext (Hot Cache)]] geführt:
 
 - [[Die Boss hinter den Helfern]]
-- [[Gefallener Engel]]
 - [[Krieg am Himmel]]
+- [[Die weiße Rose]]
+- [[Gefallener Engel]]
 - [[Ritual der 13 Stiche]] & [[Todgelichter]]
 - [[Zions Hunger]]
 - [[Rugirs wahrer Name]]
@@ -60,4 +67,4 @@ Häuser, Kabalen und Institutionen — siehe [[fraktionen/_index|Fraktionen-Übe
 
 ## Letzte Session
 
-Aktuellster Stand: [[Session 23 - 28.10.2026]]. Das vollständige Session-Log liegt in [[sessions/_index|Sessions-Übersicht]] und [[log|Vorgangs-Protokoll]].
+Aktuellster Stand: [[Session 24 - 04.11.2026]]. Das vollständige Session-Log liegt in [[sessions/_index|Sessions-Übersicht]] und [[log|Vorgangs-Protokoll]].

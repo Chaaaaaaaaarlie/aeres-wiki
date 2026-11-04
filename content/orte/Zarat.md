@@ -2,9 +2,9 @@
 type: entity
 title: "Zarat"
 created: 2026-06-04
-updated: 2026-10-29
+updated: 2026-11-04
 tags: [ort, insel, ziel, assassine, seucheninsel]
-status: aktiv – Gruppe im Dybbuk-Nest, Beiboot zerstört
+status: verlassen – Gruppe abgereist (Session 23); Viri lebenslang verbannt (Session 24)
 ---
 
 # Zarat
@@ -110,3 +110,11 @@ Auf dem Weg fand sie eine Lichtung, auf der Vegetation verging und Tiere ohne ä
 - **[[Session 20 - 16.09.2026]] & [[Session 21 - 23.09.2026]]:** Die Gruppe dringt in die [[Tickbalang-Höhle]] im Südosten Zarats ein, besteht die geistigen Prüfungen der [[Die Dunkelheit der Tickbalang-Höhle|Dunkelheit]], überquert den Abgrund, räumt das Spinnenlager und weiht den entweihten [[Ilmater]]-Schrein.
 - **[[Session 22 - 14.10.2026]]:** Hinter der versiegelten Tür stellt und tötet die Gruppe im entweihten Ilmater-Altarraum den [[Rakshasa-Assassine|Rakshasa-Assassinen]] (Sokar Kariokas Mörder) und sichert die sieben [[Todgelichter]].
 - **[[Session 23 - 28.10.2026]]:** Im angrenzenden Arbeitszimmer findet die Gruppe das [[Mumifiziertes Herz]], eine zweite Kristallkugel (Vision von [[Der Kriegsherr]]), Schuppenhaut-Schriften und das Gerät mit den Überresten eines [[Gefallener Engel|gefallenen Engels]]. Über eine unterirdische Grotte verlässt die Gruppe Zarat an Bord des [[Nautilus-Bioschiff|Nautilus-Bioschiffs]] zurück zur [[Cestus]] (Abschluss von Akt 1).
+
+## Session 24 – Nachricht von der Insel und lebenslanger Bann
+
+In [[Session 24 - 04.11.2026]] erreicht die Gruppe auf der [[Cestus]] eine Antwort des Priesters (vermutlich [[Calderion]]) auf Viris Brief. (Quelle: [[Session 24 - 04.11.2026]])
+
+- Die [[Tickbalang-Höhle]] und der „Urtempel" von [[Ilmater]] gelten als befreit: keine Visionen, keine Dunkelheit mehr; über den Schlund wurde eine behelfsmäßige Brücke gebaut.
+- Ein alter Loxodon, der seine vermisste Frau suchte, ist gestorben, nachdem ein Suchtrupp ihre Leiche gefunden hatte; er hinterließ eine Wachstafel mit [[Viri]]s Namen (siehe [[Die weiße Rose]]).
+- **[[Viri]] hat einen lebenslangen Bann von der Insel.** Weil die Gruppe Gutes bewirkt hat, verzichtet der Priester darauf, die Behörden zu informieren: Zarat steht unter der Schirmherrschaft des **Despotats**, das die Kranken auf der Insel halten muss und die Gruppe sonst als Sicherheitsrisiko verfolgen müsste.

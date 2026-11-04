@@ -2,7 +2,7 @@
 type: faden
 title: "Sprechende Kristallkugel"
 created: 2026-07-08
-updated: 2026-10-28
+updated: 2026-11-04
 tags: [faden, artefakt, fae-verdacht, zarat, offen, ixtra]
 status: open
 priorität: mittel
@@ -94,3 +94,17 @@ Ixtra funktioniert außerhalb von [[Zarat]] weiterhin problemlos: Lyssa prüft e
 - [ ] Ist Ixtra auf irgendeine Weise mit dem in [[Gefallener Engel]] gefundenen Gerät verwandt?
 - [ ] Was meint Ixtra genau mit „die Luft ist hier nicht gut" — läuft dem/der Gefangenen die Zeit davon?
 - [ ] Woher weiß Ixtra, dass der Rakshasa „zurückkehrt"?
+
+## Session 24 — Eine Lektion in Geduld
+
+In [[Session 24 - 04.11.2026]] stellt [[Elysia|Lyssa]] Ixtra frühmorgens dem langsam erzählenden Tortle am Steuerrad der [[Cestus]] als neuen Gesprächspartner vor („Sie möchte, dass du ihr Fragen stellst") und lässt beide allein — ausdrücklich, damit Ixtra **Geduld lernt**. Ixtra sagt dabei selbst, sie könne nichts sehen, sie sei „eine Kugel". Ihr Klopfen klingt diesmal anders als sonst. (Quelle: [[Session 24 - 04.11.2026]])
+
+Drei bis vier Stunden später erzählt der Tortle Ixtra seine Lebensgeschichte und ist erst beim Schlüpfen aus dem Ei und dem ersten Sand unter den Füßen angekommen; Ixtras einziger Einwurf: *„Wir sind erst hier an dieser Stelle in deinem Leben?"* Als Lyssa die Kugel am Nachmittag zurückholt, hört sie den Tortle noch sagen: *„Vielleicht hat er ja seine Familie endlich gefunden."* Auf Lyssas Nachfrage antwortet Ixtra nur: *„Das ging mir gerade zu schnell. Bitte wiederhole das."* — gefolgt von einem Kratzen wie an einer Tafel, **von innen**.
+
+Lyssa hält die Lektion für gelungen: Ixtra quengele deutlich weniger und könne ein angenehmer Weggefährte werden — **bis man einen Weg findet, ihn aus der Kugel zu befreien**. [[Rugir]] widerspricht: Man solle ihn nicht nur aus Mitleid befreien, es könne „ein kleiner Dämon" sein, der danach Unschuldige tötet. Lyssa verwahrt die Kugel nun unter der Decke ihres Bettes in der Kajüte.
+
+### Offene Fragen (Stand Session 24)
+
+- [ ] Was meinte der Tortle mit „seine Familie endlich gefunden" — und was hatte Ixtra ihm erzählt?
+- [ ] Was verursacht das Kratzen von innen?
+- [ ] Soll die Gruppe Ixtra befreien — und was würde dabei freigelassen?

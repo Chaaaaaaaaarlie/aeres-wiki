@@ -2,7 +2,7 @@
 type: entity
 title: "Calderion"
 created: 2026-07-08
-updated: 2026-09-10
+updated: 2026-11-04
 tags: [nsc, priester, ilmater, leitwacht, zarat]
 status: aktiv – auf Zarat, unheilbar krank
 entity_type: person
@@ -78,3 +78,12 @@ Er sah Feuer vom Himmel fallen und spürte das Erdbeben; beides wertet er als m�
 - [[Session 15 - 08.07.2026]]
 - [[Session 16 - 14.07.2026]]
 - [[Session 19 - 09.09.2026]]
+
+## Session 24 – Ein Brief an Viri
+
+In [[Session 24 - 04.11.2026]] bringt Lyssas celestiale Taube die Antwort „des Priesters" auf Viris Brief aus [[Session 23 - 28.10.2026]] — vom Spielleiter als „alter Bekannter" Viris bezeichnet und damit sehr wahrscheinlich Calderion. (Quelle: [[Session 24 - 04.11.2026]])
+
+- Er dankt für die Befreiung der Höhle und des „Urtempels" von [[Ilmater]]; seine Leute fanden dort keine Dunkelheit mehr und überbrückten den Schlund.
+- Er berichtet vom Tod eines alten Loxodons, der Viris Namen auf einer Wachstafel hinterließ (siehe [[Die weiße Rose]]), und kann sich darauf keinen Reim machen.
+- Er hatte geglaubt, Viri sei noch auf der Insel und nicht wie ihre Freunde „abgehauen, um die restliche Welt mit Pest zu überziehen", hofft aber, dass es ihr gut geht.
+- **PS: Viri hat einen lebenslangen Bann von [[Zarat]].** Wegen der guten Taten der Gruppe meldet er den Bruch der Quarantäne nicht an die Instanzen des Despotats.

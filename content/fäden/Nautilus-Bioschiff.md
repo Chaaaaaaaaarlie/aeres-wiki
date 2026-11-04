@@ -2,7 +2,7 @@
 type: faden
 title: "Nautilus-Bioschiff"
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-11-04
 tags: [faden, artefakt, magie, zarat, tickbalang-höhle, abgeschlossen]
 status: resolved
 priorität: niedrig
@@ -45,3 +45,7 @@ Schiffe und Flotten mit demselben organischen, Nautilus-artigen Erscheinungsbild
 - [[Cestus]]
 - [[Krieg am Himmel]]
 - [[Session 23 - 28.10.2026]]
+
+## Session 24 — Bilder in einem alten Buch
+
+In [[Session 24 - 04.11.2026]] erzählt [[Elysia|Lyssa]], dass ihr das Bioschiff ein uraltes, unlesbares Lederbuch aus ihrer Heimat Khios in Erinnerung gerufen hat: Dessen Bilder zeigen sehr ähnliche, aber viel größere Schiffe mit „Gekringel" und Tentakeln am Himmel, die gegen andere Schiffe und gegen die [[Gith]] kämpfen. [[Rugir]] kennt aus der offiziellen Geschichte keine fliegenden Schiffe der Elfen oder anderer Völker. Lyssa zeichnet die Schiffe aus dem Gedächtnis (siehe [[Krieg am Himmel]], [[Der Große Kataklysmus]]). (Quelle: [[Session 24 - 04.11.2026]])

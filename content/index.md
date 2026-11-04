@@ -2,7 +2,7 @@
 type: meta
 title: "Aeres-Wiki — Hauptübersicht"
 created: 2026-05-12
-updated: 2026-10-28
+updated: 2026-11-04
 tags:
   - meta/index
 ---
@@ -17,11 +17,11 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 - [[figuren/_index|Figuren-Übersicht]] — NSCs & SCs (30 Seiten)
 - [[orte/_index|Orte-Übersicht]] — Orte (22 Seiten)
 - [[fraktionen/_index|Fraktionen-Übersicht]] — Häuser, Kabalen, politische Körper (8 Seiten)
-- [[kreaturen/_index|Kreaturen-Übersicht]] — Bestiarium (2 Seiten)
+- [[kreaturen/_index|Kreaturen-Übersicht]] — Bestiarium (3 Seiten)
 - [[gottheiten/_index|Gottheiten-Übersicht]] — Götter & Engel (4 Seiten)
 - [[lore/_index|Lore-Übersicht]] — Welt-Hintergrund (6 Seiten)
-- [[fäden/_index|Fäden-Übersicht]] — offene Handlungsfäden & Hinweise (34 Seiten inkl. Rollups)
-- [[sessions/_index|Sessions-Übersicht]] — Session-Recaps (23 Seiten)
+- [[fäden/_index|Fäden-Übersicht]] — offene Handlungsfäden & Hinweise (35 Seiten inkl. Rollups)
+- [[sessions/_index|Sessions-Übersicht]] — Session-Recaps (24 Seiten)
 
 ## Figuren
 
@@ -55,7 +55,7 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 
 ## Kreaturen
 
-- [[Rakshasa]] · [[Tickbalang]]
+- [[Gith]] · [[Rakshasa]] · [[Tickbalang]]
 
 ## Gottheiten
 
@@ -67,7 +67,7 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 
 ## Fäden — Heiß
 
-- [[Gefallener Engel]] · [[Krieg am Himmel]] · [[Zions Hunger]] · [[Ventus]] · [[Die Boss hinter den Helfern]] · [[Todgelichter]] · [[Ritual der 13 Stiche]] · [[Die Dunkelheit der Tickbalang-Höhle]] · [[Dolorion]] · [[Mumifiziertes Herz]] · [[Der Kriegsherr]] · [[Blutpakt des Tigerauge]] · [[Tabulei]]
+- [[Die weiße Rose]] · [[Krieg am Himmel]] · [[Gefallener Engel]] · [[Zions Hunger]] · [[Ventus]] · [[Die Boss hinter den Helfern]] · [[Todgelichter]] · [[Ritual der 13 Stiche]] · [[Die Dunkelheit der Tickbalang-Höhle]] · [[Dolorion]] · [[Mumifiziertes Herz]] · [[Der Kriegsherr]] · [[Blutpakt des Tigerauge]] · [[Tabulei]]
 
 ## Fäden — Hinweise & Offen
 
@@ -83,10 +83,11 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 
 ## Sessions (neueste zuerst)
 
-- [[Session 23 - 28.10.2026]] · [[Session 22 - 14.10.2026]] · [[Session 21 - 23.09.2026]] · [[Session 20 - 16.09.2026]] · [[Session 19 - 09.09.2026]] · [[Session 18 - 26.08.2026]] · [[Session 17 - 29.07.2026]] · [[Session 16 - 14.07.2026]] · [[Session 15 - 08.07.2026]] · [[Session 14 - 01.07.2026]] · [[Session 13 - 23.06.2026]] · [[Session 12 - 17.06.2026]] · [[Session 11 - 03.06.2026]] · [[Session 10 - 06.05.2026]] · [[Session 9 - 15.04.2026]] · [[Session 8 - 18.03.2026]] · [[Session 7 - 08.03.2026]] · [[Session 6 - 04.03.2026]] · [[Session 5 – Papiere, Pässe und Päckchen]] · [[Session 4 – Rhusion, zweiter Tag]] · [[Session 3 – Die Nacht danach]] · [[Session 2 – Unmittelbar nach dem Mord]] · [[Session 1 – Die Hochzeit]]
+- [[Session 24 - 04.11.2026]] · [[Session 23 - 28.10.2026]] · [[Session 22 - 14.10.2026]] · [[Session 21 - 23.09.2026]] · [[Session 20 - 16.09.2026]] · [[Session 19 - 09.09.2026]] · [[Session 18 - 26.08.2026]] · [[Session 17 - 29.07.2026]] · [[Session 16 - 14.07.2026]] · [[Session 15 - 08.07.2026]] · [[Session 14 - 01.07.2026]] · [[Session 13 - 23.06.2026]] · [[Session 12 - 17.06.2026]] · [[Session 11 - 03.06.2026]] · [[Session 10 - 06.05.2026]] · [[Session 9 - 15.04.2026]] · [[Session 8 - 18.03.2026]] · [[Session 7 - 08.03.2026]] · [[Session 6 - 04.03.2026]] · [[Session 5 – Papiere, Pässe und Päckchen]] · [[Session 4 – Rhusion, zweiter Tag]] · [[Session 3 – Die Nacht danach]] · [[Session 2 – Unmittelbar nach dem Mord]] · [[Session 1 – Die Hochzeit]]
 
 ## Quellen
 
+- [[Transcript - Session 24 - 04.11.2026]] — Craig-Audiotranskript, WhisperX large-v3, 1723 Segmente
 - [[Transcript - Session 23 - 28.10.2026]] — Craig-Audiotranskript, WhisperX large-v3, 2903 Segmente
 - [[Transcript - Session 22 - 14.10.2026]] — Craig-Audiotranskript, WhisperX large-v3, 2834 Segmente
 - [[Transcript - Session 21 - 23.09.2026]] — Craig-Audiotranskript, WhisperX large-v3/CUDA mit Alignment

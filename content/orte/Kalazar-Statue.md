@@ -2,7 +2,7 @@
 type: entity
 title: "Kalazar-Statue"
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-11-04
 tags: [ort, hypodrom, ungeklärt, statue]
 status: ungeklärt
 ---
@@ -38,3 +38,7 @@ Andere Personen auf dem Platz zeigen keine sichtbare Reaktion.
 - [[Elysia]]
 - [[Zion]]
 - [[Zions Hunger]]
+
+## Session 24 – Die Invasoren haben einen Namen
+
+In [[Session 24 - 04.11.2026]] erzählt [[Elysia|Lyssa]], dass sie den Namen **[[Gith]]** zum ersten Mal hörte, als jemand in Rhusion beim Betrachten der Statue eines der Champions darüber sprach. Laut [[Rugir]]s Büchern gehören die Gith zu den Invasoren des [[Der Große Kataklysmus|Kataklysmus]]. (Quelle: [[Session 24 - 04.11.2026]])

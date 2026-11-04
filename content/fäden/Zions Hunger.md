@@ -2,7 +2,7 @@
 type: concept
 title: "Zions Hunger"
 created: 2026-05-12
-updated: 2026-10-28
+updated: 2026-11-04
 tags: [offen, zion, inneres]
 priorität: hoch
 ---
@@ -188,3 +188,17 @@ In [[Session 23 - 28.10.2026]] eskalieren gleich zwei Stränge von Zions Hunger 
 - [ ] Wie lange hält Lyssas Vertrauensbruch an, und wie reagiert Zion, wenn er merkt, dass er ausgeschlossen wird?
 - [ ] Wovor genau hat die Katze in Session 23 zum ersten Mal Angst gezeigt — ist es dieselbe Macht, deren goldgelbe Augen Rugir in der Höhle sah?
 - [ ] Was will das Schwert/die Schwester wirklich — nur weitere Tote, oder eine eigene Befreiung?
+
+## Session 24 — Das Schwert trinkt
+
+*(Zions Spieler fehlte; Zion wurde vom Spielleiter geführt.)*
+
+In [[Session 24 - 04.11.2026]] wälzt sich Zion im Morgengrauen unruhig im Schlaf. Später wirft er an Deck eine Kokosnuss hoch und zerteilt sie mit seinem Schwert — **die Flüssigkeit der Nuss wird dabei vom Schwert aufgesogen**. (Quelle: [[Session 24 - 04.11.2026]])
+
+[[Sir Aschefall]] sagt [[Viri]] gegenüber offen, wenn jemand in der Gruppe versehentlich etwas Schlimmes anrichten könne, dann Zion — wegen „der ganzen Aura um ihn rum" und „der Sache mit seinem Schatten". Auf Viris Frage, ob Zion „diesen Vertrag" wissentlich geschlossen habe, meint Aschefall: willentlich wohl, aber mit guten Absichten — *„Er könnte das Falsche tun aus den richtigen Gründen."* Er halte Zion nicht für dumm, sondern für leichtsinnig.
+
+In derselben Nacht warnt ein Loxodon in Viris Traum, dass „einige deiner Freunde nicht das sind, was sie vorgeben zu sein" (siehe [[Die weiße Rose]]) — auf wen sich das bezieht, ist offen.
+
+### Offene Fragen (Stand Session 24)
+
+- [ ] Nimmt das Schwert grundsätzlich Flüssigkeiten auf, oder war das ein Zeichen seines wachsenden Hungers?

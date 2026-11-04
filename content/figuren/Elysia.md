@@ -2,7 +2,7 @@
 type: entity
 title: "Elysia"
 created: 2026-05-12
-updated: 2026-10-28
+updated: 2026-11-04
 tags:
   - charakter
   - spielercharakter
@@ -227,3 +227,13 @@ In [[Session 10 - 06.05.2026]] ruft Elysia ihren inneren Freund unter dem Namen 
 - Sichert die erste Nacht an Bord der Cestus mit *Detect Poison and Disease* und prüft, ob Ixtra weiterhin „funktioniert".
 - Offenbart [[Zion]] im nächtlichen Gespräch, dass [[Ventus]] buchstäblich in ihr wohnt und alles mit ihr wahrnimmt; warnt ihn, nicht blind auf die Stimmen in seinem eigenen Kopf zu hören (siehe [[Ventus]]).
 - Erlebt beim Einschlafen die Abschlussvision der Session: eine Himmelsschlacht zwischen Nautilus-Flotten und keilförmigen Schiffen mit Drachen — der Spielleiter erklärt damit den ersten Akt der Kampagne für abgeschlossen (siehe [[Krieg am Himmel]]).
+
+## Session 24
+
+- Erlebt die Fortsetzung der Himmelsschlacht-Vision: Elfen mit konischen Helmen an großen Ballisten, rote Drachen mit Reitern und lilafarbenen Flammen, metallische und schwarze Drachen ohne Reiter. Wird zuletzt vom Sporn eines abstürzenden Drachen aufgespießt und trägt dabei eine **silberne, rubinbesetzte Lamellen-Schuppenrüstung**; erwacht mit Phantomschmerz (siehe [[Krieg am Himmel]]).
+- Überlässt [[Sprechende Kristallkugel|Ixtra]] stundenlang dem langsam erzählenden Tortle am Steuerrad — als „Lektion in Geduld". Hält Ixtra danach für umgänglicher und will ihn eines Tages befreien.
+- Kocht in der verwaisten Kombüse Haferbrei (mit Goodberries) für die gesamte Crew; trotz fehlender Kochkenntnisse gelingt er hervorragend.
+- Fragt Rugir nach dem [[Der Große Kataklysmus|Kataklysmus]], erinnert sich an ein uraltes, unlesbares Bilderbuch aus Khios mit Nautilus-Schiffen am Himmel und ordnet die Drachenreiter ihrer Vision als [[Gith]] ein. Zeichnet die Schiffe mit ihrem Kartographenwerkzeug aus dem Gedächtnis.
+- Ihre celestiale Taube kehrt mit der Antwort des Priesters von Zarat zurück.
+
+(Quelle: [[Session 24 - 04.11.2026]])

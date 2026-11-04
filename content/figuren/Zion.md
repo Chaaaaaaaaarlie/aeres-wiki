@@ -2,7 +2,7 @@
 type: entity
 title: "Zion"
 created: 2026-05-12
-updated: 2026-10-28
+updated: 2026-11-04
 tags: [charakter, spielercharakter]
 klasse: Kämpfer
 status: aktiv
@@ -226,3 +226,13 @@ In [[Session 9 - 15.04.2026]]: Als [[Chloro Verde]]s Schatten länger wird, **ve
 - Spricht an Bord der Cestus mit seinem redenden Schwert beim Ölen der Klinge — es wird zum ersten Mal offen eifersüchtig und fordernd, verlangt weitere Tote und wirft ihm vor, andere Hände seien „netter" zu ihm gewesen.
 - Wird im Schlaf erneut von der katzenhaften Gestalt aus seinen Albträumen besucht; sie zeigt auf die Frage nach dem Auftraggeber des Rakshasa zum ersten Mal selbst **Angst**, bevor sie ihn zerkratzt und verschwindet. Zion sieht danach zwei goldgelbe Augen in der Tiefe und erwacht schweißgebadet mit stechenden Kopfschmerzen (siehe [[Zions Hunger]]).
 - Erfährt im anschließenden Gespräch mit [[Elysia]], dass [[Ventus]] buchstäblich in ihr wohnt und alles mit ihr wahrnimmt; wird gewarnt, nicht blind auf die Stimmen in seinem eigenen Kopf zu hören.
+
+## Session 24
+
+> [!info] Zions Spieler fehlte in dieser Session; Zion wurde vom Spielleiter geführt.
+
+- Wälzt sich im Morgengrauen unruhig im Schlaf.
+- Zerteilt eine Kokosnuss mit seinem Schwert, das die Flüssigkeit aufsaugt (siehe [[Zions Hunger]]); neckt Viri, wie man Kokosnüsse richtig isst.
+- Wird von [[Sir Aschefall]] im Gespräch mit Viri als derjenige genannt, der „aus den richtigen Gründen das Falsche tun" könnte — wegen seiner Aura, seines Schattens und seines Vertrags.
+
+(Quelle: [[Session 24 - 04.11.2026]])

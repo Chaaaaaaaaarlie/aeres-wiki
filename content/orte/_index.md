@@ -2,7 +2,7 @@
 type: meta
 title: "Orte-Übersicht"
 created: 2026-05-12
-updated: 2026-09-16
+updated: 2026-11-04
 tags:
   - meta/index
   - domain/locations
@@ -37,13 +37,13 @@ Schauplätze und Begegnungsorte in Rhusion und darüber hinaus. Für die Stadt s
 
 - [[Tigerauge]]
 - [[Bernsteinauge]]
-- [[Cestus]]
+- [[Cestus]] — Reiseschiff der Gruppe, aktueller Schauplatz (Session 24: Rückfahrt, zwei Schemen am Horizont)
 - [[Daskirion]]
 
 ## Außerhalb Rhusions
 
 - [[Alauntor]]
-- [[Zarat]] — Seucheninsel im Nordosten, aktueller Schauplatz
+- [[Zarat]] — Seucheninsel im Nordosten; in Session 23 verlassen, Viri seit Session 24 lebenslang verbannt
 - [[Leitwacht]] — Siedlung auf Zarat, Leprakolonie unter Halo-Zauber von Calderion Yolob
 - [[Dybbuk-Nest]] — Kultistenlichtung mit Hütte und Leichengrube; Dybbuk in Session 17 zerstört
-- [[Tickbalang-Höhle]] — Höhle im Südosten Zarats, aktueller Schauplatz; Gruppe seit Session 20 im Inneren
+- [[Tickbalang-Höhle]] — Höhle im Südosten Zarats; in Session 23 verlassen, laut Brief (Session 24) frei von Dunkelheit

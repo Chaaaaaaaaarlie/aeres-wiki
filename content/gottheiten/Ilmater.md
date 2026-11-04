@@ -2,7 +2,7 @@
 type: entity
 title: "Ilmater"
 created: 2026-05-12
-updated: 2026-10-14
+updated: 2026-11-04
 tags: [gottheit, mitleid, leid]
 status: erwähnt
 ---
@@ -53,3 +53,7 @@ Hinter dieser Tür findet die Gruppe in [[Session 22 - 14.10.2026]] einen weit g
 Dort hauste der [[Rakshasa-Assassine|Rakshasa]], Sokar Kariokas Mörder, der die Gruppe im Überraschungsangriff angreift und im folgenden Kampf getötet wird (siehe [[Wo versteckt sich der Assassine]]).
 
 Nach dem Sieg stellt [[Viri]] die zerschlagene Statue mit wiederholtem *Mending* zu 80 % wieder her — unterstützt von der erschöpften [[Elysia|Lyssa]]. Der Spielleiter macht deutlich: Der Ort wird dadurch nicht rein. Zu viel Leid ist hier geschehen, und Ilmater ist kein Herr, der Leid negiert oder beseitigt — er hilft, es zu tragen und aus dem Schmerz Stärke zu ziehen. Während die Statue sich formt, kocht das Blut im Becken kurz auf und erstarrt dann zu einer glatten, stillen Oberfläche — unerklärt.
+
+## Der „Urtempel" (Session 24)
+
+Im Brief des Priesters von [[Zarat]] in [[Session 24 - 04.11.2026]] wird der Tempel in der [[Tickbalang-Höhle]] als **„Urtempel" von Ilmater** bezeichnet und seine Befreiung durch die Gruppe ausdrücklich gedankt. In derselben Nacht begegnet [[Viri]] im Traum einem sterbenden Loxodon, der von innen glüht, über die Götter spricht („Sie mögen sich nicht mal untereinander") und ihr eine weiße Rose schenkt. Ob Ilmater durch ihn sprach, ist offen (siehe [[Die weiße Rose]]). (Quelle: [[Session 24 - 04.11.2026]])

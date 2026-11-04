@@ -2,7 +2,7 @@
 type: entity
 title: "Leitwacht"
 created: 2026-06-17
-updated: 2026-07-14
+updated: 2026-11-04
 tags: [ort, insel, siedlung, seucheninsel, ilmater]
 status: besucht (Session 15) — Gruppe hat Calderion getroffen
 entity_type: place
@@ -89,3 +89,7 @@ Die Gruppe bittet [[Calderion]] in der Kapelle um eine Schlafmöglichkeit. Calde
 Während der Nacht nach dem Dybbuk-Kampf blieb Leitwacht unruhig: Erdbeben, Hundegebell, klappernde Schalen und die bedrückende Stille außerhalb der Kuppel. Viri verteilte heimlich trockenes Brot bei Häusern und zeichnete Ilmaters Symbol in den Schlamm; am Morgen kursierten Gerüchte über eine kleine göttliche Fügung.
 
 Beim Frühstück im Tempel fragte die Gruppe nach Wegen von der Insel und nach Gerüchten. Niemand in Leitwacht kennt einen sicheren Ausweg. In den Hügeln im Südosten sollen bei passendem Wind seltsame Geräusche zu hören sein; Calderion verbindet dies mit den [[../kreaturen/Tickbalang|Tickbalang]] und ihrer Höhle.
+
+## Session 24 – Brief, Tod des Loxodons, Bann
+
+Laut dem Brief des Priesters in [[Session 24 - 04.11.2026]] hat eine Gruppe aus der Siedlung mit eigenen Handwerkern die [[Tickbalang-Höhle]] betreten und über den Schlund eine behelfsmäßige Brücke gebaut. Ein alter Loxodon, der am Morgen noch von seiner vermissten Frau gebeichtet hatte, starb, nachdem ein Suchtrupp ihre Leiche gefunden hatte; er hinterließ eine Wachstafel mit [[Viri]]s Namen. Viri träumt in derselben Nacht im Hospiz der Insel von ihm (siehe [[Die weiße Rose]]). Viri ist von der Insel lebenslang verbannt. (Quelle: [[Session 24 - 04.11.2026]])

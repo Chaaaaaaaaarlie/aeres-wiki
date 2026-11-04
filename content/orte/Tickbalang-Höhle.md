@@ -2,7 +2,7 @@
 type: entity
 title: "Tickbalang-Höhle"
 created: 2026-09-10
-updated: 2026-10-28
+updated: 2026-11-04
 tags: [ort, zarat, höhle, tickbalang, fae, nekromantie, illusion, dungeon, spinnen, ilmater, rakshasa]
 status: vollständig erkundet – Gruppe hat die Höhle verlassen
 entity_type: place
@@ -110,3 +110,7 @@ Die Gruppe hat sich beim Vorgehen an die Regel gehalten, sich immer rechts zu ha
 - [[Session 21 - 23.09.2026]]
 - [[Session 22 - 14.10.2026]]
 - [[Session 23 - 28.10.2026]]
+
+## Session 24 – Nach der Abreise
+
+Laut dem Brief des Priesters von [[Zarat]] in [[Session 24 - 04.11.2026]] haben die Bewohner von [[Leitwacht]] die Höhle nach der Abreise der Gruppe betreten. Sie fanden **keine Visionen und keine Dunkelheit mehr**, nur den Schlund, über den ihre Handwerker eine behelfsmäßige Brücke gebaut haben. Der Priester dankt der Gruppe für die Befreiung der Höhle und des **„Urtempels" von [[Ilmater]]**. (Quelle: [[Session 24 - 04.11.2026]])

@@ -2,7 +2,7 @@
 type: entity
 title: "Dybbuk-Nest"
 created: 2026-07-29
-updated: 2026-08-26
+updated: 2026-11-04
 tags: [ort, zarat, dybbuk, kultisten, leichengrube, ritual]
 status: aktiv – Dybbuk zerstört, Hütte untersucht, Tümpel gefährlich
 ---
@@ -63,3 +63,7 @@ Der Erdgenasi trägt dasselbe vereinfachte Zeichen am Arm wie die drei zuvor bek
 - [[Calderion]]
 - [[Session 17 - 29.07.2026]]
 - [[Session 18 - 26.08.2026]]
+
+## Session 24 – Ein möglicher Nachtrag
+
+In [[Session 24 - 04.11.2026]] deutet [[Viri]] im Traum einem trauernden Loxodon gegenüber an, die Gruppe sei seiner Frau auf der Insel womöglich begegnet — ihr Tod sei durch eine Macht verursacht worden, die die Gruppe vertrieben habe. Laut dem Brief des Priesters fand ein Suchtrupp später die Leiche der Frau. Ob sie einer der Wirtskörper des Dybbuk war, ist unbestätigt (siehe [[Die weiße Rose]]). (Quelle: [[Session 24 - 04.11.2026]])

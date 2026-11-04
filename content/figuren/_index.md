@@ -2,7 +2,7 @@
 type: meta
 title: "Figuren-Übersicht"
 created: 2026-05-12
-updated: 2026-10-29
+updated: 2026-11-04
 tags:
   - meta/index
   - domain/characters
@@ -23,7 +23,7 @@ NSCs und SCs der Aeres-Kampagne. Im Frontmatter nach `role` und `entity_type` fi
 
 - [[Augier]]
 - [[Bruder Kalvet]]
-- [[Calderion]]
+- [[Calderion]] — Priester auf Zarat; verbannt Viri in Session 24 per Brief lebenslang von der Insel
 - ![[Token Chloro Verde.webp|48]] [[Chloro Verde]]
 - ![[Token Doruk Val.webp|48]] [[Doruk Val]]
 - [[Elmar Kassar]]
@@ -34,7 +34,7 @@ NSCs und SCs der Aeres-Kampagne. Im Frontmatter nach `role` und `entity_type` fi
 - ![[Token Mirene Calath.webp|48]] [[Mirene Calath]]
 - [[Saria]]
 - [[Schwester Elva]]
-- ![[Token Sir Aschefall.webp|48]] [[Sir Aschefall]] — reist mit der Gruppe
+- ![[Token Sir Aschefall.webp|48]] [[Sir Aschefall]] — reist mit der Gruppe; behält seinen Gott vorerst für sich (Session 24)
 - [[Ventus]] — Geistbegleiter, wohnt seit Session 23 in Elysia
 - [[Zahir]]
 

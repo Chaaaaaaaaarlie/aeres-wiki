@@ -2,7 +2,7 @@
 type: meta
 title: "Lore-Übersicht"
 created: 2026-05-12
-updated: 2026-09-16
+updated: 2026-11-04
 tags:
   - meta/index
   - domain/lore
@@ -14,7 +14,7 @@ Welt-Hintergrund, Geschichte, Religions-Überblicke und große Konzepte, die sic
 ## Welt & Geschichte
 
 - [[Welt & Hintergrund]]
-- [[Der Große Kataklysmus]]
+- [[Der Große Kataklysmus]] — offizielle Geschichtsschreibung ergänzt (Session 24)
 - [[Apokrator]]
 - [[Karaman]]
 

@@ -2,7 +2,7 @@
 type: faden
 title: "Der Dybbuk"
 created: 2026-07-08
-updated: 2026-07-14
+updated: 2026-11-04
 tags: [faden, dämon, zarat, akut]
 status: open
 priorität: hoch
@@ -100,3 +100,7 @@ Damit verschiebt sich der offene Kern vom Dybbuk selbst zur Frage, wer den Besch
 ## Session 19 - Bericht abgeschlossen
 
 Calderion wurde vollständig über den zerstörten Dybbuk, die Ritualhütte, die Wachstafel, Kultistenzeichen und den giftigen Tümpel informiert. Der Dybbuk selbst bleibt erledigt; die Anschlussfrage führt nun zur [[../orte/Tickbalang-Höhle|Tickbalang-Höhle]] und zu dem, was die dortigen Wesen vertrieben oder benutzt hat.
+
+## Session 24 – Ein Opfer wird gefunden
+
+Laut dem Brief des Priesters von [[Zarat]] in [[Session 24 - 04.11.2026]] fand ein Suchtrupp die Leiche der vermissten Frau eines alten Loxodons; der Loxodon starb kurz darauf. [[Viri]] vermutet, dass die Frau dem Dybbuk zum Opfer fiel — bestätigt ist das nicht (siehe [[Die weiße Rose]], [[Dybbuk-Nest]]). (Quelle: [[Session 24 - 04.11.2026]])

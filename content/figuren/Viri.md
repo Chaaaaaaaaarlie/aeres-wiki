@@ -2,7 +2,7 @@
 type: entity
 title: "Viri"
 created: 2026-05-12
-updated: 2026-10-28
+updated: 2026-11-04
 tags: [charakter, spielercharakter]
 klasse: Aasimar
 status: aktiv
@@ -206,3 +206,14 @@ Viri ist nicht als Gast zur Hochzeit gekommen, sondern weil sie Sokars Männer h
 - Findet im Arbeitszimmer eine aus Blutgefäßen und Haarsträhnen gefertigte Halsberge (legt sie nicht an), gläserne Tierfiguren voll Quecksilber und einen magischen Fächer mit sich wandelnden Orakelsprüchen.
 - Verliert beim Fund des Geräts mit dem gefallenen Engel fast vollständig die Kontrolle: Mehrere gescheiterte Weisheits-Rettungswürfe gegen überwältigende Verzweiflung, versucht [[Rugir]] körperlich daran zu hindern, es im Bag of Holding zu verstauen, und entschuldigt sich danach bei ihm (siehe [[Gefallener Engel]]).
 - Nutzt an Bord den gefundenen Fächer, um sich selbst mit seinen wechselnden Weisheitssprüchen aufzuheitern.
+
+## Session 24
+
+- Träumt vom Hospiz auf [[Zarat]] und begegnet einem sterbenden Loxodon, der um seine Frau trauert; teilt sein Leid und deutet an, dass die Gruppe die Macht hinter dem Tod seiner Frau vertrieben habe.
+- Erhält von dem plötzlich von innen glühenden Loxodon Warnungen: Sie bringe mit ihren Freunden andere in Gefahr, solle sich nicht in ihrer Empathie verlieren, und **einige ihrer Freunde seien nicht das, was sie vorgeben zu sein**. Er nennt sie „weiße Rose" und verspricht ein Wiedersehen (siehe [[Die weiße Rose]]).
+- Erwacht mit der **realen weißen Dornenrose** in der Hand, der ein Blütenblatt fehlt, und näht sie innen an ihren Umhang; die Dornen zerkratzen ihr die Seite.
+- Erhält per Lyssas Taube den Brief des Priesters von Zarat: Dank für die Befreiung der Höhle, Nachricht vom Tod des Loxodons, der ihren Namen hinterließ — und ein **lebenslanger Bann von der Insel**. Zeigt der Gruppe nur den oberen Teil des Briefs und verschweigt den Abschnitt über den Loxodon.
+- Rät der Gruppe, den Aufenthalt auf Zarat zu verschweigen und die Crew für ihr Stillschweigen zu entlohnen.
+- Hilft Lyssa bei der Essensausgabe; spricht mit Sir Aschefall über Krieg, Schuld und die Angst, nur eine Schachfigur zu sein; verteidigt gegenüber Rugir ihren Glauben.
+
+(Quelle: [[Session 24 - 04.11.2026]])

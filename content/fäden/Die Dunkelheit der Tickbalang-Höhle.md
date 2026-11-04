@@ -2,7 +2,7 @@
 type: faden
 title: "Die Dunkelheit der Tickbalang-Höhle"
 created: 2026-09-16
-updated: 2026-09-23
+updated: 2026-11-04
 tags: [faden, zarat, tickbalang-höhle, illusion, geist, visionen, offen]
 status: open
 priorität: hoch
@@ -85,3 +85,7 @@ Alle vier lehnen ab. Alle vier sterben daraufhin in ihrer Vision — und erwache
 - [[Wo versteckt sich der Assassine]]
 - [[Session 20 - 16.09.2026]]
 - [[Session 21 - 23.09.2026]]
+
+## Session 24 – Die Dunkelheit ist fort
+
+Laut dem Brief des Priesters von [[Zarat]] in [[Session 24 - 04.11.2026]] finden die Bewohner von [[Leitwacht]] in der [[Tickbalang-Höhle]] **keinerlei Visionen oder Dunkelheit mehr**. Die Wirkung scheint mit dem Tod des [[Rakshasa-Assassine|Rakshasa]] und der Befreiung des Ilmater-Tempels geendet zu haben — ob es einen direkten Zusammenhang gibt, ist nicht bestätigt. (Quelle: [[Session 24 - 04.11.2026]])
