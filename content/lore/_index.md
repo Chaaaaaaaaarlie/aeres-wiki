@@ -2,7 +2,7 @@
 type: meta
 title: "Lore-Übersicht"
 created: 2026-05-12
-updated: 2026-11-04
+updated: 2026-11-08
 tags:
   - meta/index
   - domain/lore
@@ -17,10 +17,15 @@ Welt-Hintergrund, Geschichte, Religions-Überblicke und große Konzepte, die sic
 - [[Der Große Kataklysmus]] — offizielle Geschichtsschreibung ergänzt (Session 24)
 - [[Apokrator]]
 - [[Karaman]]
+- [[Geld und Währungen]]
+- [[Zeitrechnung]]
+- [[Sprachen]]
+- [[Mächte im Verborgenen]] — Orden und Geheimbünde
+- [[Völker von Thesparis]] — Überblick über alle Völker
 
 ## Religion
 
-- [[Götter & Tempel]]
+- [[Götter & Tempel]] — inkl. aller Pantheons aus dem Weltkompendium
 
 ## Stadt-Übersichten
 

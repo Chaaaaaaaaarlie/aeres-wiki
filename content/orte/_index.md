@@ -2,7 +2,7 @@
 type: meta
 title: "Orte-Übersicht"
 created: 2026-05-12
-updated: 2026-11-04
+updated: 2026-11-08
 tags:
   - meta/index
   - domain/locations
@@ -10,6 +10,13 @@ tags:
 # Orte
 
 Schauplätze und Begegnungsorte in Rhusion und darüber hinaus. Für die Stadt selbst: [[Rhusion]].
+
+## Kontinent & Regionen
+
+- [[Thesparis]] — der Kontinent
+- [[Nördliches Thesparis]]
+- [[Bauch des Kontinents]]
+- [[Südliches Thesparis]]
 
 ## Rhusion — Viertel
 

@@ -2,7 +2,7 @@
 type: meta
 title: "Aeres-Wiki — Hauptübersicht"
 created: 2026-05-12
-updated: 2026-11-04
+updated: 2026-11-08
 tags:
   - meta/index
 ---
@@ -15,11 +15,12 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 ## Domänen
 
 - [[figuren/_index|Figuren-Übersicht]] — NSCs & SCs (30 Seiten)
-- [[orte/_index|Orte-Übersicht]] — Orte (22 Seiten)
-- [[fraktionen/_index|Fraktionen-Übersicht]] — Häuser, Kabalen, politische Körper (8 Seiten)
+- [[orte/_index|Orte-Übersicht]] — Orte (26 Seiten)
+- [[fraktionen/_index|Fraktionen-Übersicht]] — Häuser, Kabalen, politische Körper (48 Seiten)
 - [[kreaturen/_index|Kreaturen-Übersicht]] — Bestiarium (3 Seiten)
-- [[gottheiten/_index|Gottheiten-Übersicht]] — Götter & Engel (4 Seiten)
-- [[lore/_index|Lore-Übersicht]] — Welt-Hintergrund (6 Seiten)
+- [[völker/_index|Völker-Übersicht]] — Völker von Thesparis (20 Seiten)
+- [[gottheiten/_index|Gottheiten-Übersicht]] — Götter & Engel (17 Seiten)
+- [[lore/_index|Lore-Übersicht]] — Welt-Hintergrund (11 Seiten)
 - [[fäden/_index|Fäden-Übersicht]] — offene Handlungsfäden & Hinweise (35 Seiten inkl. Rollups)
 - [[sessions/_index|Sessions-Übersicht]] — Session-Recaps (24 Seiten)
 
@@ -47,11 +48,20 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 
 ## Orte
 
+- Kontinent: [[Thesparis]] · [[Nördliches Thesparis]] · [[Bauch des Kontinents]] · [[Südliches Thesparis]]
 - [[Alauntor]] · [[Basilika des Morgengrauens]] · [[Bernsteinauge]] · [[Daskirion]] · [[Dreiankerkrone]] · [[Dybbuk-Nest]] · [[Fink-Tempel (Narasimha)]] · [[Gähnender Schacht]] · [[Hospiz St. Haramador]] · [[Kalazar-Statue]] · [[Krokodil-Versteck]] · [[Leitwacht]] · [[Pont-Viertel]] · [[Salzhund]] · [[Talglichtgasse]] · [[Tigerauge]] · [[Tickbalang-Höhle]] · [[Tuchmacher-Tor]] · [[Tuchmacherviertel]] · [[Zarat]] · [[Cestus]] · [[Zum gesplitterten Zahn]]
 
 ## Fraktionen
 
+- Reiche Nord: [[Angalatoq]] · [[Clan der Riesen]] · [[Eisjäger]] · [[Goliath-Stämme]] · [[Kenkava]] · [[Liliac]] · [[Ork-Stämme]] · [[Thorle-Clans]] · [[Ysenborg]] · [[Valahir]] · [[Veddebroek]] · [[Visicordia]]
+- Reiche Mitte: [[Despotat Bukhevala]] · [[Goblinoide Stämme]] · [[Hamarhaast]] · [[Hetharna]] · [[Irmethalas]] · [[Khûrkan Agravak]] · [[Petrasileia]] · [[Runedar]] · [[Sonn Faern]] · [[Stämme der Blutreiter]] · [[Styrrenia]] · [[Vrael Olo]]
+- Reiche Süd: [[Erum Thinys]] · [[Khios]] · [[Ioth Djerad]] · [[Khozhan]] · [[Satrapien von Khozhan]] · [[Gnollstämme]] · [[Stämme der Tortel]] · [[Weisen von Sakardûn]]
+- Orden: [[Brüder des Morgensterns]] · [[Klingen des Heiligen Eises]] · [[Aschenbanner]] · [[Schatten von Bukhevala]] · [[Orden des Ersten Brandes]] · [[Haruspex]] · [[Orden der gleißenden Flamme]] · [[Arkontische Scherbe]]
 - [[Alabaster Kuratorium]] · [[Haus Cortiso]] · [[Haus Muma Paduri]] · [[Haus Zâna]] · [[Höfische Gesellschaft von Vhey]] · [[Kabale der Rubinschuppen]] · [[Koina]] · [[Zamathisches Imperium]]
+
+## Völker
+
+- [[Aasimar]] · [[Drachengeborene]] · [[Echsenmenschen]] · [[Elfen]] · [[Firbolg]] · [[Genasi]] · [[Gnome]] · [[Goliath]] · [[Halblinge]] · [[Hobgoblins]] · [[Kenku]] · [[Kobolde]] · [[Leonin]] · [[Menschen]] · [[Minotauren]] · [[Orks & Halborks]] · [[Tabaxi]] · [[Tieflinge]] · [[Yuan-Ti]] · [[Zwerge]]
 
 ## Kreaturen
 
@@ -59,11 +69,11 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 
 ## Gottheiten
 
-- [[Gottheiten der Menschen]] · [[Ilmater]] · [[Mystra]] · [[Dolorion]]
+- [[Gottheiten der Menschen]] · [[Imperiale Gottheiten]] · [[Gottheiten der Rhenitischen Kultur]] · [[Gottheiten der Khazerai-Kultur]] · [[Gottheiten der Thorle-Kultur]] · [[Seldarine]] · [[Morndinsamman]] · [[Drakonische Götter]] · [[Gottheiten im Khozhan-Reich]] · [[Gottheiten der Orks]] · [[Gottheiten der Gnolle]] · [[Gottheiten der Goblinoiden]] · [[Gottheiten der Goliath]] · [[Gottheiten der Riesen]] · [[Ilmater]] · [[Mystra]] · [[Dolorion]]
 
 ## Lore
 
-- [[Apokrator]] · [[Der Große Kataklysmus]] · [[Götter & Tempel]] · [[Karaman]] · [[Rhusion]] · [[Welt & Hintergrund]]
+- [[Apokrator]] · [[Der Große Kataklysmus]] · [[Geld und Währungen]] · [[Zeitrechnung]] · [[Sprachen]] · [[Mächte im Verborgenen]] · [[Völker von Thesparis]] · [[Götter & Tempel]] · [[Karaman]] · [[Rhusion]] · [[Welt & Hintergrund]]
 
 ## Fäden — Heiß
 
@@ -87,6 +97,7 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 
 ## Quellen
 
+- [[Aeres - Die Welt der schadhaften Mythen]] — Weltkompendium (PDF, 88 S.): Reiche, Orden, Völker, Götter von Thesparis
 - [[Transcript - Session 24 - 04.11.2026]] — Craig-Audiotranskript, WhisperX large-v3, 1723 Segmente
 - [[Transcript - Session 23 - 28.10.2026]] — Craig-Audiotranskript, WhisperX large-v3, 2903 Segmente
 - [[Transcript - Session 22 - 14.10.2026]] — Craig-Audiotranskript, WhisperX large-v3, 2834 Segmente

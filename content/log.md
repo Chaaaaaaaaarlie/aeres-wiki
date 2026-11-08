@@ -2,7 +2,7 @@
 type: meta
 title: "Vorgangs-Protokoll"
 created: 2026-05-12
-updated: 2026-11-04
+updated: 2026-11-08
 tags:
   - meta/log
 ---
@@ -19,6 +19,16 @@ Format:
 - Aktualisierte Seiten: [[…]]
 - Kernerkenntnis: ein Satz
 ```
+
+---
+
+## [2026-11-08] ingest | Weltkompendium „Aeres – Die Welt der schadhaften Mythen“
+
+- Quelle: `.raw/assets/Aeres - Die Welt der schadhaften Mythen.pdf` (Homebrewery-PDF, 88 Seiten, Stand 2026-01-08)
+- Zusammenfassung: [[Aeres - Die Welt der schadhaften Mythen]]
+- Erstellte Seiten: Regionen ([[Thesparis]], [[Nördliches Thesparis]], [[Bauch des Kontinents]], [[Südliches Thesparis]]), 32 Reiche/Völkerverbände, 8 Orden, [[Mächte im Verborgenen]], [[Geld und Währungen]], [[Zeitrechnung]], [[Sprachen]], [[Völker von Thesparis]] + 20 Volksseiten (neue Domäne `völker/`), 13 Pantheon-Seiten
+- Aktualisierte Seiten: [[Der Große Kataklysmus]], [[Apokrator]], [[Alabaster Kuratorium]], [[Höfische Gesellschaft von Vhey]], [[Koina]], [[Zamathisches Imperium]], [[Haus Zâna]], [[Haus Muma Paduri]], [[Kabale der Rubinschuppen]], [[Gottheiten der Menschen]], [[Ilmater]], [[Mystra]], [[Götter & Tempel]], [[Welt & Hintergrund]], `index.md`, Domänen-`_index.md`, `log.md`
+- Kernerkenntnis: Die Kampagnenwelt hat jetzt einen vollständigen Kontinent-Hintergrund; offene Abgleiche: Kataklysmus 1.500 vs. 1400 Jahre, [[Khûrkan Agravak]] vs. [[Kurkan Akrava]], Karamanth vs. [[Karaman]].
 
 ---
 

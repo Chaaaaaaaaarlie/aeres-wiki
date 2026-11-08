@@ -2,7 +2,7 @@
 type: meta
 title: "Quellen-Übersicht"
 created: 2026-05-12
-updated: 2026-11-04
+updated: 2026-11-08
 tags:
   - meta/index
   - domain/sources
@@ -27,3 +27,6 @@ Zusammenfassungen des Rohmaterials aus `.raw/` — Session-Audio-Transkripte, Ha
 - [[Transcript - Session 13 - 23.06.2026]] — Dialogzusammenfassung Session 13
 - [[Transcript - Session 12 - 17.06.2026]] — Dialogzusammenfassung Session 12
 
+## Weltmaterial
+
+- [[Aeres - Die Welt der schadhaften Mythen]] — Weltkompendium (PDF, 88 S.): Reiche, Orden, Völker, Götter von Thesparis

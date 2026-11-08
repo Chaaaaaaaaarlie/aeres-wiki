@@ -2,34 +2,40 @@
 type: entity
 title: "Alabaster Kuratorium"
 created: 2026-05-12
-updated: 2026-09-16
-tags: [fraktion, wissen, rugir]
+updated: 2026-11-08
+tags: [fraktion, wissen, rugir, aeres, weltkompendium, magie]
+status: aktiv
+entity_type: faction
+region: Bauch des Kontinents
+sources: ["[[Aeres - Die Welt der schadhaften Mythen]]", "[[Session 20 - 16.09.2026]]"]
 ---
 
-# Alabaster Kuratorium
+# Alabaster Kuratorium — Wissen ist Macht
 
 **Wissenshort und Refugium für magisch Begabte.** Kuratoren der zwölf Disziplinen.
 
+## Hintergrund (Weltkompendium)
+
+Eine magische Begabung war in der gesamten Geschichte des Kontinents **Fluch und Segen zugleich**. Pogrome und Ausgrenzung, Misstrauen und Anbiederung ziehen sich wie eine rote Linie durch alle Gesellschaften, wenn es um jene geht, die das feine Gewirr der Magie zu weben vermögen. Daher setzten sich die größten Magier ihrer Zeit zum Ziel, **allen magisch begabten Wesen, die nach Wissen streben und es bewahren wollen, ein Refugium zu bieten**: das Alabaster Kollegium (heute Kuratorium).
+
+Das Kuratorium verfügt angeblich über die **größte Ansammlung magischen und profanen Wissens** auf dem gesamten Kontinent.
+
 ## Rolle in der Welt
 
-- Konkurriert mit **Magisterium des Imperators** und den **Weisen von Sakardûn**
+- Konkurriert mit dem **Magisterium des Imperators** (Akademie der arkanen Künste in Uzhil, [[Zamathisches Imperium]]) und den [[Weisen von Sakardûn]]
 - Politisch bedeutsam: Wissen ist Macht
 - Feldforscher wie [[Rugir]] sichern, prüfen und bewerten magische Vorfälle
+- Die Nähe zum Kuratorium macht die Goldzwerge von [[Sonn Faern]] der Magie gegenüber deutlich aufgeschlossener als andere Zwerge.
+
+## Herkunft und Struktur
+
+Benannt nach den reichhaltigen Vorkommen des **Alabaster Gebirges**. In diesen Vorkommen ragen zahlreiche Magiertürme wie Reißzähne in den Himmel und dienen als Hort des Wissens.
+
+Geleitet wird das Kuratorium von einem **Rat der Kuratoren der zwölf magischen Disziplinen**. Zusätzlich wird ein **Erzmagier** ernannt, der als *primus inter pares* in Abstimmungen das Zünglein an der Waage bildet und Mehrheitsentscheidungen ermöglicht.
 
 ## Rugirs Rolle
 
 Gutachter, nicht Richter. Schreibt Berichte – die manchmal verschwinden. Wissen kann Feinde machen.
-
-## Verknüpfungen
-
-- [[Rugir]]
-- [[Rugirs wahrer Name]]
-## Herkunft und Struktur
-
-Benannt nach den reichhaltigen Vorkommen des Alabaster Gebirges. In diesen Vorkommen ragen zahlreiche Magiertürme wie Reißzähne in den Himmel und dienen als Hort des Wissens.
-
-Geleitet wird das Kuratorium von einem Rat der Kuratoren der zwölf magischen Disziplinen. Zusätzlich wird ein Erzmagier ernannt, der als primus inter pares in Abstimmungen das Zünglein an der Waage bildet und Mehrheitsentscheidungen ermöglicht.
-
 
 ## Rugirs Akte (Session 20)
 
@@ -50,3 +56,15 @@ Rugir lehnt ab, zu unterschreiben — auch als der Preis das Leben seiner Gefäh
 
 - [ ] Existiert das Archiv mit den veränderbaren Akten wirklich?
 - [ ] Wer im Kuratorium hat Rugirs Berichte verschwinden lassen?
+
+## Verknüpfungen
+
+- [[Rugir]]
+- [[Rugirs wahrer Name]]
+- [[Tickbalang-Höhle]]
+- [[Session 20 - 16.09.2026]]
+- [[Bauch des Kontinents]]
+- [[Sonn Faern]]
+- [[Zamathisches Imperium]]
+- [[Weisen von Sakardûn]]
+- [[Aeres - Die Welt der schadhaften Mythen]]

@@ -2,8 +2,12 @@
 type: domain
 title: "Der Große Kataklysmus"
 created: 2026-05-12
-updated: 2026-11-04
-tags: [welt, geschichte, kataklysmus]
+updated: 2026-11-08
+tags: [welt, geschichte, kataklysmus, aeres, weltkompendium]
+status: aktiv
+entity_type: lore
+region: kontinentweit
+sources: ["[[Session 5 – Papiere, Pässe und Päckchen]]", "[[Session 24 - 04.11.2026]]", "[[Aeres - Die Welt der schadhaften Mythen]]"]
 ---
 
 # Der Große Kataklysmus
@@ -62,3 +66,24 @@ In [[Session 24 - 04.11.2026]] gibt [[Rugir]] mit Hilfe seines Länderkunde-Buch
 - [[Krieg am Himmel]]
 - [[Nautilus-Bioschiff]]
 - [[Session 24 - 04.11.2026]]
+
+## Darstellung im Weltkompendium
+
+*(Quelle: [[Aeres - Die Welt der schadhaften Mythen]], Kapitel „Zeitrechnung“)*
+
+- **Was:** Der Kataklysmus war eine **Invasion der Githyanki** ([[Gith]]), die wie eine Flut über den Kontinent [[Thesparis]] hereinbrach. Durch **astrale Portale** materialisierten sie ihre **Flugschiffe** und plünderten den gesamten Kontinent.
+- **Wann:** vor **ungefähr 1.500 Jahren**.
+- **Dauer:** Es dauerte **vierundsiebzig Jahre**, bis die Githyanki vollständig zurückgedrängt waren.
+- **Hochelfen:** Das **Reich der Hochelfen** zerbrach an der Invasion und rieb sich an den Invasoren vollständig auf. Von ihren Reichen blieben nur Ruinen und geflüsterte Rätsel.
+- **Teuflische Streitkräfte:** Die Schwäche der Hochelfen als Protektoren des Kontinents nutzten teuflische Streitkräfte und versuchten, auf dem Kontinent **ein weiteres Avernus** zu errichten. Sie scheiterten an einem **Eingriff der Götter**.
+- **Folgen:** Die Phase kam einer Umwälzung gleich, in der die großen Reiche fielen und sich alle Weltuntergangsszenarien zu bewahrheiten schienen. **Keine Kultur** ging ohne Verluste oder erhebliche Zäsuren daraus hervor.
+- **Zeitrechnung:** Weil der Kataklysmus für alle Reiche — vom bleichen Tod im Norden bis zur Wüste Ghôm — eine Zäsur war, legten die Gelehrten ihn dem Einheitskalender zugrunde: **v.K.** (vor dem Kataklysmus) und **n.K.** (nach dem Kataklysmus). Siehe [[Zeitrechnung]].
+
+> **Abgleich:** Das Weltkompendium nennt „ungefähr 1.500 Jahre“, Rugirs Länderkunde-Buch in [[Session 24 - 04.11.2026]] „rund 1400 Jahre“. Beides sind Näherungen; die Angabe aus der Session bleibt als In-Game-Aussage stehen. Die Benennung der Invasoren als Githyanki deckt sich mit der Session-24-Darstellung ([[Gith]]). Der Teufels-Vorstoß (zweites Avernus) ist in den Sessions bisher nicht erwähnt.
+
+### Weitere Verknüpfungen (Weltkompendium)
+
+- [[Aeres - Die Welt der schadhaften Mythen]]
+- [[Zeitrechnung]]
+- [[Thesparis]]
+- [[Welt & Hintergrund]]

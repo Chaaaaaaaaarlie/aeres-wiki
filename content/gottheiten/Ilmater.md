@@ -2,9 +2,11 @@
 type: entity
 title: "Ilmater"
 created: 2026-05-12
-updated: 2026-11-04
-tags: [gottheit, mitleid, leid]
+updated: 2026-11-08
+tags: [gottheit, mitleid, leid, aeres, weltkompendium]
 status: erwähnt
+entity_type: deity
+sources: ["[[Aeres - Die Welt der schadhaften Mythen]]"]
 ---
 
 # Ilmater
@@ -57,3 +59,34 @@ Nach dem Sieg stellt [[Viri]] die zerschlagene Statue mit wiederholtem *Mending*
 ## Der „Urtempel" (Session 24)
 
 Im Brief des Priesters von [[Zarat]] in [[Session 24 - 04.11.2026]] wird der Tempel in der [[Tickbalang-Höhle]] als **„Urtempel" von Ilmater** bezeichnet und seine Befreiung durch die Gruppe ausdrücklich gedankt. In derselben Nacht begegnet [[Viri]] im Traum einem sterbenden Loxodon, der von innen glüht, über die Götter spricht („Sie mögen sich nicht mal untereinander") und ihr eine weiße Rose schenkt. Ob Ilmater durch ihn sprach, ist offen (siehe [[Die weiße Rose]]). (Quelle: [[Session 24 - 04.11.2026]])
+
+## Ilmater im Weltkompendium
+
+Das Weltkompendium führt Ilmater als große Gottheit in **zwei menschlichen Kulturkreisen**: bei den Rheniten ([[Gottheiten der Rhenitischen Kultur]]) und bei den Khazerai ([[Gottheiten der Khazerai-Kultur]]). Übersicht: [[Gottheiten der Menschen]].
+
+| Gesinnung | Domäne | Symbol |
+|---|---|---|
+| RG (rechtschaffen gut) | Leben, Licht | Hände mit roter Kordel am Handgelenk gefesselt |
+
+### Rhenitische Darstellung
+
+Zu Ilmaters Domäne gehören **Ausdauer, Märtyrertum, Beharrlichkeit und Leiden**. Er ist der Gott der Leidenden, der Unterdrückten und Verfolgten, bietet ihnen Erleichterung und Unterstützung, ermutigt sie zum Ausharren und ermutigt andere, ihnen zu helfen, ihre Lasten auf sich zu nehmen oder ihren Platz einzunehmen. Seine Gläubigen setzen sich oft dafür ein, das Leid in der Welt zu lindern – durch **karitative Arbeit** für die Opfer von Katastrophen wie Seuchen oder Krieg ebenso wie durch die **Unterbindung von Gewalt, wenn es sein muss durch Gewalt**.
+
+### Khazerai-Darstellung
+
+Ilmater ist die **Inkarnation des Mitgefühls** und der **ewige Feind des Leidens**, eine großzügige, gutmütige und ausgeglichene Gottheit mit freundlicher und sanfter Natur.
+
+- Er versucht, Leidenden, Unterdrückten und anderen Bedürftigen Hilfe, Erleichterung und tröstende Worte zu bieten.
+- Er ermutigt sie, ihren Schmerz, ihr Leid und ihre Misshandlungen zu **ertragen**, denn denen, die warten, widerfährt Gutes.
+- Er ermutigt seine Gläubigen, das Leiden anderer zu lindern und es **notfalls auf sich zu nehmen**.
+- Ilmater ist selbst ein **bereitwilliger Leidender**, der zugunsten anderer ihre Last trägt und jeden Schmerz zu ertragen versucht, wenn er dadurch den Schmerz eines anderen lindert.
+
+Das deckt sich mit der in der Kampagne formulierten Doktrin (siehe [[Götter & Tempel]]): Leid begleiten und tragen helfen, nicht einfach verschwinden lassen – genau der Punkt, an dem [[Dolorion]] von Ilmater abfiel.
+
+## Weitere Verknüpfungen (Weltkompendium)
+
+- [[Gottheiten der Menschen]]
+- [[Gottheiten der Rhenitischen Kultur]]
+- [[Gottheiten der Khazerai-Kultur]]
+- [[Dolorion]]
+- [[Aeres - Die Welt der schadhaften Mythen]]
