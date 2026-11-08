@@ -24,7 +24,7 @@ status: aktiv
 
 Viri ist **Ilmater-Jüngerin**. Das Knotenband am Arm ist ihr heiliges Symbol – sie kann es nicht ablegen. Verbunden mit dem Hospiz St. Haramador. Leid begleiten und ertragen ist ihr Kernprinzip.
 
-Kommt aus dem Herrschaftsgebiet des **[[Kurkan Akrava]]** – was ihr in Rhusion keine Sympathie einbringt. Schwester Elva des Hospizes reagierte kühl auf die Nennung, half aber trotzdem.
+Kommt aus dem Herrschaftsgebiet des **[[Khûrkan Agravak]]** – was ihr in Rhusion keine Sympathie einbringt. Schwester Elva des Hospizes reagierte kühl auf die Nennung, half aber trotzdem.
 
 > *„Das macht ein Tempelmädchen wie ich hier."*
 
@@ -70,7 +70,7 @@ Viri ist nicht als Gast zur Hochzeit gekommen, sondern weil sie Sokars Männer h
 - Knackt den **Tresor** im [[Krokodil-Versteck]] mit Elysias Papierstreifen-Trick (DC 18 mit Vorteil); nimmt die **Intellect Fortress**-Schriftrolle (Sorcerer)
 - **Zwei Nat-20-Persuasion-Würfe**: bei [[Doruk Val]] (Inselname Zarat) und beim Tortel-Verhör
 - Reserviert im [[Bernsteinauge]] ein Buch (Frist: ein Monat)
-- Erkennt am Ende die **Ork-Kriegsbanner** (Perception 19) → [[Kurkan Akrava|Belagerung]]
+- Erkennt am Ende die **Ork-Kriegsbanner** (Perception 19) → [[Khûrkan Agravak|Belagerung]]
 
 ## Session 12
 - Wird von [[Mirene Calath]] abgefangen, bevor sie zur Kapitänin kann; nimmt die Bordregeln entgegen
@@ -97,7 +97,7 @@ Viri ist nicht als Gast zur Hochzeit gekommen, sondern weil sie Sokars Männer h
 
 ## Session 15
 - **Ready-Action** (Guiding Bolt) beim Betreten des toten Wals abgesichert
-- **Lore-Exposition** über Zarat/Savart und die Gründung Leitwachts durch Calderion (Despotat Bukewala, Priester Ilmaters)
+- **Lore-Exposition** über Zarat/Savart und die Gründung Leitwachts durch Calderion (Despotat Bukhevalala, Priester Ilmaters)
 - Sichert Aschefall per Seil, während er Seepocken vom Rumpf schabt
 - Betet im Tempel neben **[[Calderion]]** — wird von ihm als Glaubensschwester erkannt: *„Ihr sprecht die Worte unseres Herrn, als würdet ihr sie leben."*
 - Calderions Blick bleibt bezeichnend an ihr hängen, als er von seinem nahenden Tod spricht — mögliche Andeutung, sie als Nachfolgerin für seinen Schutzzauber zu sehen

@@ -17,7 +17,7 @@ tags: [nsc, stadtoberhaupt]
 - Stoppt [[Harkas]]' Selbstjustiz in der Basilika
 - Gibt der Gruppe Freifahrtschein: freie Bewegung, bis Morgengrauen Antworten
 - Mahnt in der Presse zur Ruhe
-- Betont: Handelsabkommen mit [[Kurkan Akrava]] sei nicht gefährdet
+- Betont: Handelsabkommen mit [[Khûrkan Agravak]] sei nicht gefährdet
 
 ## Charakter
 
@@ -36,7 +36,7 @@ Die Gruppe betritt die **Valeria-Zitadelle** per **Passwort** (für den Notfall 
 ## Verknüpfungen
 
 - [[Harkas]]
-- [[Kurkan Akrava]]
+- [[Khûrkan Agravak]]
 - [[Aspasia Cortiso]]
 - [[Sir Aschefall]]
 - [[Kapitänin der Cestus]]

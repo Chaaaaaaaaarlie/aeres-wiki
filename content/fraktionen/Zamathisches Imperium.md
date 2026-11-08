@@ -31,7 +31,7 @@ Ehemalige Herzogtümer und Grafschaften wurden aufgelöst und als Exarchien unte
 Eine so vollständige Umwälzung einer sozialen Hierarchie verläuft nie friedlich: Noch zwei Generationen später sinnen Adlige auf Rache und streben den Sturz der Paltonash Dynastie an.
 Einige ehemalige Adlige sind militärisch unantastbar, weil sie dem Königreich [[Styrrenia]] (König Eticho V.) den Lehenseid geschworen haben und ein Angriff einen Krieg auslösen würde. Die Spannungen mit Styrrenia halten bis heute an, kleinere Grenzscharmützel inbegriffen.
 
-Zur Rolle der alten Ordnung im Revolutionskrieg und dem Dämonentor siehe [[Karaman]].
+Zur Rolle der alten Ordnung im Revolutionskrieg und dem Dämonentor siehe [[Karamanth]].
 
 ## Kultur, Religion, Magie
 
@@ -58,7 +58,7 @@ Abenteurer werden gezielt als **Soter-Einheiten** angeworben, um den ländlichen
 ## Verknüpfungen
 
 * [[Alabaster Kuratorium]]
-* [[Karaman]]
+* [[Karamanth]]
 * [[Styrrenia]]
 * [[Despotat Bukhevala]]
 * [[Bauch des Kontinents]]

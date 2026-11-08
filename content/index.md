@@ -40,7 +40,7 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 
 ### NSCs — Politik & Adel
 
-- [[Aspasia Cortiso]] · [[Kurkan Akrava]] · [[Princeps Orpheon von Lutaxa]] · [[Sokar Karioka]]
+- [[Aspasia Cortiso]] · [[Princeps Orpheon von Lutaxa]] · [[Sokar Karioka]]
 
 ### NSCs — Verdächtige
 
@@ -73,7 +73,7 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 
 ## Lore
 
-- [[Apokrator]] · [[Der Große Kataklysmus]] · [[Geld und Währungen]] · [[Zeitrechnung]] · [[Sprachen]] · [[Mächte im Verborgenen]] · [[Völker von Thesparis]] · [[Götter & Tempel]] · [[Karaman]] · [[Rhusion]] · [[Welt & Hintergrund]]
+- [[Apokrator]] · [[Der Große Kataklysmus]] · [[Geld und Währungen]] · [[Zeitrechnung]] · [[Sprachen]] · [[Mächte im Verborgenen]] · [[Völker von Thesparis]] · [[Götter & Tempel]] · [[Karamanth]] · [[Rhusion]] · [[Welt & Hintergrund]]
 
 ## Fäden — Heiß
 
@@ -81,7 +81,7 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 
 ## Fäden — Hinweise & Offen
 
-- [[Codierpergament]] · [[Die Lagerhäuser]] · [[Eingeritzte Zeichen]] · [[Fall der Offenbarung]] · [[Falsche Identitäten]] · [[Geruchsspuren]] · [[Infernale Bibliotheks-Forschung]] · [[Karaman]] · [[Magische Mordwaffe]] · [[Mechanischer Vogel]] · [[Rugirs wahrer Name]] · [[Schwarzer Seidenstoff]] · [[Sprechende Kristallkugel]] · [[Verfluchte Driftkugel]] · [[Verfluchte Schuppenrüstung]]
+- [[Codierpergament]] · [[Die Lagerhäuser]] · [[Eingeritzte Zeichen]] · [[Fall der Offenbarung]] · [[Falsche Identitäten]] · [[Geruchsspuren]] · [[Infernale Bibliotheks-Forschung]] · [[Karamanth]] · [[Magische Mordwaffe]] · [[Mechanischer Vogel]] · [[Rugirs wahrer Name]] · [[Schwarzer Seidenstoff]] · [[Sprechende Kristallkugel]] · [[Verfluchte Driftkugel]] · [[Verfluchte Schuppenrüstung]]
 
 ## Fäden — Abgeschlossen
 

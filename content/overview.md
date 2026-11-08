@@ -34,7 +34,7 @@ Der Mord an [[Sokar Karioka]] auf einer Hochzeit ([[Session 1 – Die Hochzeit]]
 
 ## Akt 2 — Beginn
 
-- In [[Session 24 - 04.11.2026]] zeigt die fortgesetzte Vision Elfen-Ballisten, rote Drachen mit [[Gith]]-Reitern sowie metallische und schwarze Drachen; [[Rugir]] ordnet sie in die offizielle Geschichte des [[Der Große Kataklysmus|Großen Kataklysmus]] ein (rund 1400 Jahre her, Invasoren aus Himmelsportalen). [[Elysia]] erinnert sich an ein uraltes Bilderbuch aus Khios.
+- In [[Session 24 - 04.11.2026]] zeigt die fortgesetzte Vision Elfen-Ballisten, rote Drachen mit [[Gith]]-Reitern sowie metallische und schwarze Drachen; [[Rugir]] ordnet sie in die offizielle Geschichte des [[Der Große Kataklysmus|Großen Kataklysmus]] ein (rund 1400 Jahre (genau ca. 1.472) her, Invasoren aus Himmelsportalen). [[Elysia]] erinnert sich an ein uraltes Bilderbuch aus Khios.
 - [[Viri]] erhält im Traum von einem sterbenden Loxodon eine reale weiße Rose und die Warnung, einige ihrer Freunde seien nicht, was sie vorgeben ([[Die weiße Rose]]).
 - Am Ende nähern sich zwei unbekannte Schiffe der [[Cestus]].
 
@@ -56,7 +56,7 @@ Die heißen Fäden werden in [[fäden/_index|Fäden-Übersicht]] und [[hot|Aktue
 
 ## Geographie
 
-- [[Rhusion]] — Hafenstadt des [[Zamathisches Imperium|Zamathischen Imperiums]], bei Abreise der Gruppe von Ork-Heeren ([[Kurkan Akrava|Hrem]]) belagert.
+- [[Rhusion]] — Hafenstadt des [[Zamathisches Imperium|Zamathischen Imperiums]], bei Abreise der Gruppe von Ork-Heeren ([[Khûrkan Agravak|Hrem]]) belagert.
 - [[Cestus]] — Reiseschiff der Gruppe unter der [[Kapitänin der Cestus]].
 - [[Zarat]] — Dschungel- und Quarantäne-Insel mit [[Leitwacht]] ([[Calderion]]), dem [[Dybbuk-Nest]] und der [[Tickbalang-Höhle]].
 - Siehe [[orte/_index|Orte-Übersicht]] und [[Welt & Hintergrund]].

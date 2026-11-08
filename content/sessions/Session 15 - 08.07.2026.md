@@ -73,7 +73,7 @@ Kampf beginnt direkt im Anschluss an Session 14.
 - Zion bemerkt: Das Wasser um die Insel ist voller toter Möwen — Bestätigung, dass dies die Seucheninsel ist
 - DM bekräftigt den Auftrag: Hier versteckt sich der Mörder von **Sokar Karioka**; ein Heer belagert Rhusion und wartet auf Antworten
 - Die Kapitänin erklärt: Das Schiff ankert vor der Küste, legt nicht an. Nichts — auch kein Proviant — darf die Insel ohne ausdrückliche Erlaubnis verlassen. **Drei Tage**, bevor das Schiff aus Vorratsmangel umkehren muss. Rät, den Priester **Calderion** aufzusuchen
-- **Lore (Viri):** Das Despotat Bukewala richtete hier eine Leprakolonie ein, da selbst klerikale Heilung die (magisch aufgeladene) Krankheit nicht eindämmen konnte; die Kolonie verfiel in Anarchie. **Calderion**, Priester **Ilmaters** („der weinende Gott"), wurde entsandt, blieb aber freiwillig für den Rest seines Lebens und gründete **Leitwacht** (Häuser, Garten, Kapelle, Hospital). Er opfert seither seine eigene Lebenskraft für einen dauerhaften Schutzzauber
+- **Lore (Viri):** Das Despotat Bukhevalala richtete hier eine Leprakolonie ein, da selbst klerikale Heilung die (magisch aufgeladene) Krankheit nicht eindämmen konnte; die Kolonie verfiel in Anarchie. **Calderion**, Priester **Ilmaters** („der weinende Gott"), wurde entsandt, blieb aber freiwillig für den Rest seines Lebens und gründete **Leitwacht** (Häuser, Garten, Kapelle, Hospital). Er opfert seither seine eigene Lebenskraft für einen dauerhaften Schutzzauber
 - Die Gruppe rudert an Land — Sekunden nach der Landung wird ihr **Beiboot von einem Geschoss aus dem Leuchtturm zerstört**: ein Wächtermechanismus, der offenbar niemanden unbemerkt entkommen lässt
 
 ### 5. Leitwacht

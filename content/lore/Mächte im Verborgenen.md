@@ -78,5 +78,5 @@ So entsteht ein Gleichgewicht aus Intrige, Glauben und Wahn, das den Herzschlag 
 - [[Zamathisches Imperium]]
 - [[Höfische Gesellschaft von Vhey]]
 - [[Apokrator]]
-- [[Karaman]]
+- [[Karamanth]]
 - [[Aeres - Die Welt der schadhaften Mythen]]

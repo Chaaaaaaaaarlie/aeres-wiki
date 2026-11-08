@@ -52,7 +52,7 @@ In [[Session 11 - 03.06.2026]] kämpft Harkas an vorderster Front:
 
 **Bleibt nicht bei der Reise:** Harkas erklärt, er werde die Gruppe **nicht** nach [[Zarat]] begleiten – es sei ihr Auftrag, den Mörder seines Bruders zu finden. Sein Einsatz galt nur dem Auslöschen des „Hornissennests". *„Beeilt euch. Mein Vater ist schließlich immer noch unterwegs."*
 
-> Cliffhanger derselben Session: Die Ork-Armee des Vaters (**[[Kurkan Akrava|der Hrem]]**) trifft tatsächlich vor Rhusion ein → Belagerung.
+> Cliffhanger derselben Session: Die Ork-Armee des Vaters (**[[Khûrkan Agravak|der Hrem]]**) trifft tatsächlich vor Rhusion ein → Belagerung.
 
 ## Offene Fragen
 
@@ -68,6 +68,6 @@ In [[Session 11 - 03.06.2026]] kämpft Harkas an vorderster Front:
 - [[Krokodil-Versteck]]
 - [[Sokar Karioka]]
 - [[Princeps Orpheon von Lutaxa]]
-- [[Kurkan Akrava]]
+- [[Khûrkan Agravak]]
 - [[Session 11 - 03.06.2026]]
 - [[Zarat]]

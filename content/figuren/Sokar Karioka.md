@@ -2,7 +2,7 @@
 type: entity
 title: "Sokar Karioka"
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-11-08
 tags: [nsc, tot, auftraggeber]
 status: verstorben
 ---
@@ -11,7 +11,7 @@ status: verstorben
 
 ![[Token Sokar Karioka.webp|200]]
 
-**Ork-Prinz** des [[Kurkan Akrava]].
+**Ork-Prinz** (Volk: [[Orks & Halborks|Ork]]) des [[Khûrkan Agravak]].
 
 ## Charakter
 

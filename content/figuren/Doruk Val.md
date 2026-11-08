@@ -26,7 +26,7 @@ Doruk bietet Informationshilfe an, wenn die Gruppe einen ausgestopften Betrachte
 
 ## Session 11 – Der Name der Insel
 
-In [[Session 11 - 03.06.2026]] nennt Doruk – nach [[Viri]]s **Persuasion DC 13 (Nat 20)** – das Inselziel, zu dem die „schwarze Katze" gebracht werden wollte: **[[Zarat]]**, eine von 37+ Inseln im **Nordosten** (Region „Despotat Bukewa"). Die genaue Seekarte hat die **[[Kapitänin der Cestus|Kapitänin]]**. Er stellt eine Überfahrt in Aussicht (Flut-Höchststand in ~6 Stunden) und empfängt die Gruppe später wieder am Schiff – sichtlich „aus der Puste". Beim Auslaufen steht er neben der Gruppe, als die Ork-Banner erscheinen: *„Belagerung."*
+In [[Session 11 - 03.06.2026]] nennt Doruk – nach [[Viri]]s **Persuasion DC 13 (Nat 20)** – das Inselziel, zu dem die „schwarze Katze" gebracht werden wollte: **[[Zarat]]**, eine von 37+ Inseln im **Nordosten** (Region „Despotat Bukhevala"). Die genaue Seekarte hat die **[[Kapitänin der Cestus|Kapitänin]]**. Er stellt eine Überfahrt in Aussicht (Flut-Höchststand in ~6 Stunden) und empfängt die Gruppe später wieder am Schiff – sichtlich „aus der Puste". Beim Auslaufen steht er neben der Gruppe, als die Ork-Banner erscheinen: *„Belagerung."*
 
 ## Verknüpfungen
 

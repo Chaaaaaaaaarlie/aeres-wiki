@@ -55,7 +55,6 @@ Nach dem Fall der Elfenreiche füllten die [[Menschen]] das entstandene Machtvak
 
 ## Bekannte Vertreter in der Kampagne
 
-- [[Zion]] – Spielercharakter; laut Sessionnotiz ein Elf, der sich bei [[Calderion]] als Mensch ausgab.
 
 ## Verknüpfungen
 

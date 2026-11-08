@@ -2,8 +2,9 @@
 type: entity
 title: "Zion"
 created: 2026-05-12
-updated: 2026-11-04
+updated: 2026-11-08
 tags: [charakter, spielercharakter]
+volk: Changeling
 klasse: Kämpfer
 status: aktiv
 ---
@@ -16,6 +17,7 @@ status: aktiv
 
 | | |
 |---|---|
+| **Volk** | Changeling (Wechselbalg) |
 | **Klasse** | Kämpfer |
 | **Besonderheit** | Innerer Hunger · Dunkle Träume · Schatten löst sich |
 
@@ -119,7 +121,7 @@ In [[Session 9 - 15.04.2026]]: Als [[Chloro Verde]]s Schatten länger wird, **ve
 - **Essenz-Vision im Circle-Ritual:** Seine Magie erscheint den anderen als **uralt** — „als wäre sie geborgen" (neuer, unerklärter Hinweis auf seine wahre Natur)
 - **Ankunft auf Zarat:** Riecht/sieht die toten Möwen im Wasser, bestätigt die Seucheninsel
 - **Reaktion auf Calderions Schutzkuppel:** Übelkeit, Gefühl von Unerwünschtheit — und zum ersten Mal **schweigt ein Teil seines Kopfes** (siehe [[Zions Hunger]])
-- Testet Green-Flame-Blade-Magie innerhalb der Kuppel — spürbar erschwert, als kämpfe er gegen eine innere Barriere; Fingerkuppen brennen. Lügt Calderion mit „menschlicher Neugierde" an (Deception DC 12, knapp bestanden) — Elysia bemerkt sarkastisch, ein Elf, der sich als Mensch ausgibt, sei wenig überzeugend
+- Testet Green-Flame-Blade-Magie innerhalb der Kuppel — spürbar erschwert, als kämpfe er gegen eine innere Barriere; Fingerkuppen brennen. Lügt Calderion mit „menschlicher Neugierde" an (Deception DC 12, knapp bestanden) — Elysia bemerkt sarkastisch, ein Elf, der sich als Mensch ausgibt, sei wenig überzeugend (Elysias Eindruck – tatsächlich ist Zion ein Changeling)
 - Nat-20 beim Tracking der Dybbuk-Spur im Dschungel
 - Will die gefundene [[Sprechende Kristallkugel]] mehrfach zerstören — von Lyssa und Viri gebremst
 

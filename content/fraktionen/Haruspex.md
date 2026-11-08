@@ -28,7 +28,7 @@ So entstand der **Ordo Haruspicium Arcanum**, der in Blut und Sigillen schwor, *
 
 ## Struktur und Organisation
 
-Zentrum ist das **Athanor von Karamanth** (vgl. [[Karaman]]), eine Festung ohne Fenster, zugleich Tempel, Labor und Archiv.
+Zentrum ist das **Athanor von Karamanth** (vgl. [[Karamanth]]), eine Festung ohne Fenster, zugleich Tempel, Labor und Archiv.
 
 - **Arch-Haruspex** – Spitze; angeblich nie gesehen, Befehle nur durch Träume und verschlüsselte Visionen.
 - **Präcognitoren** – Seher, die mit Kristallblut und Runenzeit Linien der Zukunft deuten.
@@ -80,7 +80,7 @@ In manchen Nächten über Karamanth sieht man das Athanor leuchten wie ein Auge 
 
 - [[Mächte im Verborgenen]]
 - [[Zamathisches Imperium]]
-- [[Karaman]]
+- [[Karamanth]]
 - [[Arkontische Scherbe]]
 - [[Schatten von Bukhevala]]
 - [[Brüder des Morgensterns]]

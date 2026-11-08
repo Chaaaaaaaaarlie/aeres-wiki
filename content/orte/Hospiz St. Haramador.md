@@ -17,7 +17,7 @@ Zahlreiche Pritschen, überfüllte Betten. Stille Brüder und Schwestern. Nach d
 
 ## Schlüsselpersonen
 
-**[[Bruder Kalvet]]** – Tempelvorsteher. Hager, eingefallene Wangen, ruhige Stimme. Politisch vorsichtig (befürchtet Ärger vom Tempel der Ordnung). Reagiert kühl auf die Nennung des Kurkan Akrava.
+**[[Bruder Kalvet]]** – Tempelvorsteher. Hager, eingefallene Wangen, ruhige Stimme. Politisch vorsichtig (befürchtet Ärger vom Tempel der Ordnung). Reagiert kühl auf die Nennung des Khûrkan Agravak.
 
 **[[Schwester Elva]] (Rote Hände)** – Ordensschwester, ehemals Söldnerin. Kräftig, narbige Unterarme (Brand, Schnitt, Biss), fehlende Backenzähne, barscher Ilmater-Gruß. Kennt Bruder Kalvet persönlich. Schafft Dinge durch direkte Ansage. Spöttisch über Kalvets graue Haare.
 

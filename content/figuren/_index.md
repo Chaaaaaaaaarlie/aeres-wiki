@@ -2,7 +2,7 @@
 type: meta
 title: "Figuren-Übersicht"
 created: 2026-05-12
-updated: 2026-11-04
+updated: 2026-11-08
 tags:
   - meta/index
   - domain/characters
@@ -41,7 +41,6 @@ NSCs und SCs der Aeres-Kampagne. Im Frontmatter nach `role` und `entity_type` fi
 ## NSCs — Politik & Adel
 
 - ![[Token Aspasia Cortiso.webp|48]] [[Aspasia Cortiso]]
-- [[Kurkan Akrava]]
 - ![[Token Princeps Orpheon von Lutaxa.webp|48]] [[Princeps Orpheon von Lutaxa]]
 - ![[Token Sokar Karioka.webp|48]] [[Sokar Karioka]]
 

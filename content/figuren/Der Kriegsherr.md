@@ -31,11 +31,11 @@ Später, nachdem Aschefall Unschuldige hinter sich gebracht und die Kreaturen mi
 
 Sein Plan ist explizit und umfangreich:
 
-- Gemeinsam **Tesparis zu einem Ort der Ordnung und des Friedens machen** — für „unser neues Imperium"
+- Gemeinsam **Thesparis zu einem Ort der Ordnung und des Friedens machen** — für „unser neues Imperium"
 - Dafür müsse man die *„große rote Hure"* (Tiamat) stürzen und sich selbst zu Göttern ernennen
 - Danach würde niemand mehr zweifeln: weder der *„silberne Bückling"* (Bahamut), der es nicht geschafft habe, sie zu stürzen, noch der alternde Imperator des [[Zamathisches Imperium|Zamathischen Imperiums]], der sich selbst zum Gott ernannt hat
 - Sie wären „ein neuer Pantheon"
-- Sie würden dem Imperator helfen, die **Tore von [[Karaman]]** zu schließen und die Dämonen zu beseitigen, die sein Land plagen
+- Sie würden dem Imperator helfen, die **Tore von [[Karamanth]]** zu schließen und die Dämonen zu beseitigen, die sein Land plagen
 - Sie würden die Zentauren in den „hungernden Weiten" unterjochen und sie in die Wüste schicken, damit sie sehen, was am anderen Ende lauert
 - Sollte die **Brut des Kataklysmus** je zurückkehren, könnte sie niemand mehr besiegen
 
@@ -65,7 +65,7 @@ Diesmal entscheidet sich niemand sonst in der Gruppe, die Kugel ebenfalls zu ber
 
 - [ ] Wie heißt er, und lebt er noch?
 - [ ] In welchem Krieg und in welchem Land diente Aschefall unter ihm?
-- [ ] Ist der Tesparis-Plan Erfindung der Höhle oder ein reales Vorhaben?
+- [ ] Ist der Thesparis-Plan Erfindung der Höhle oder ein reales Vorhaben?
 - [ ] Wer ist „die größte Tyrannin von allen", die Aschefall laut eigener Aussage „ausgesprochen gut" kennt?
 - [ ] Steht sein Plan in Verbindung zum [[Zamathisches Imperium|Zamathischen Imperium]] oder zur [[Kabale der Rubinschuppen]]?
 - [ ] Warum erscheint er nun auch außerhalb der Tickbalang-Höhle, über ein eigenständiges magisches Objekt?
@@ -75,7 +75,7 @@ Diesmal entscheidet sich niemand sonst in der Gruppe, die Kugel ebenfalls zu ber
 - [[Sir Aschefall]]
 - [[Die Dunkelheit der Tickbalang-Höhle]]
 - [[Tickbalang-Höhle]]
-- [[Karaman]]
+- [[Karamanth]]
 - [[Zamathisches Imperium]]
 - [[Kabale der Rubinschuppen]]
 - [[Der Große Kataklysmus]]

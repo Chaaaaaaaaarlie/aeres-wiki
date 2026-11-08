@@ -5,7 +5,7 @@ created: 2026-05-12
 updated: 2026-05-12
 tags: [session, session-4]
 datum: 2026-02-18
-ort: Rhusion – Salzhund, Kasareiviertel, Tuchmacherviertel, Tigerauge
+ort: Rhusion – Salzhund, Khazeraiviertel, Tuchmacherviertel, Tigerauge
 ---
 
 # Session 4 – Rhusion, zweiter Tag
@@ -24,7 +24,7 @@ Auf allen Tischen liegen Zeitungen aus:
 |---|---|
 | **Rhusioner Botenlauf** | Sachlich. Unruhe im Hafen, gestörte Handelsrouten. Princeps mahnt zur Besonnenheit. |
 | **Freie Stimme Rhusions** | Sabotageverdacht. Immer dieselben Lagerhäuser nachts aktiv. *„Wer kontrolliert diese Orte?"* |
-| **Koinakurier** | Regierungsnah. Handelsabkommen mit [[Kurkan Akrava]] sei gesichert. |
+| **Koinakurier** | Regierungsnah. Handelsabkommen mit [[Khûrkan Agravak]] sei gesichert. |
 | **Hafenruf** | Reißerisch. Mord an „Ork-Prinz Sokakaryoka" bestätigt. Anti-orkische Untertöne. |
 | **Stadtblatt** | Macht [[Haus Cortiso]] für Unruhen verantwortlich. |
 
@@ -34,9 +34,9 @@ Ein riesiger Goliath aus dem Norden tritt [[Rugir]] durch den Raum (Rugir hatte 
 
 > *„Wenigstens jemand hier mit Manieren."* – Goliath zu Zion
 
-## Hjoldas Ausflug ins Kasareiviertel
+## Hjoldas Ausflug ins Khazeraiviertel
 
-[[Hjolda]] bricht allein auf. Findet das **Kasareiviertel** im Norden – vertraute Gerüche, ein Fink-Tempel (Narasimha).
+[[Hjolda]] bricht allein auf. Findet das **Khazeraiviertel** im Norden – vertraute Gerüche, ein Fink-Tempel (Narasimha).
 
 ### Vision im Fink-Tempel
 

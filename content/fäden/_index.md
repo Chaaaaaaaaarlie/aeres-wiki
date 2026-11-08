@@ -40,7 +40,7 @@ Offene Rätsel, Handlungsfäden, Hinweise und ungeklärte Fragen. Jede Seite hat
 - [[Infernale Bibliotheks-Forschung]]
 - [[Magische Mordwaffe]] *(weitgehend erklärt, Session 22: Täter identifiziert und tot, Ursprung der Waffe weiterhin offen)*
 - [[Schwarzer Seidenstoff]]
-- [[Karaman]] *(neu, Session 20: Festung um ein Dämonentor)*
+- [[Karamanth]] *(neu, Session 20: Festung um ein Dämonentor)*
 
 ## Offene Fäden
 

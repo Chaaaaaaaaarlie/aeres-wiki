@@ -49,7 +49,7 @@ Danach durchquert die Gruppe eine Kammer aus schwarzen Quarzkristallen, die beim
 - [[Dolorion]]
 - [[Der Kriegsherr]]
 - [[Zahir]] · [[Saria]] · [[Jada]]
-- [[Karaman]]
+- [[Karamanth|Karaman]]
 - [[Tickbalang-Höhle]]
 - [[Ventus]]
 - [[Rugirs wahrer Name]]

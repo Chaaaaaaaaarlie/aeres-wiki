@@ -95,7 +95,7 @@ Herrschaftsbereich: alles, was mit **Handel** und der Anhäufung von Reichtum du
 
 ## Kampagnenbezug
 
-Laut [[Götter & Tempel]] gibt es in Rhusion im Kasareiviertel einen Rundbogen der **Roten Ritterin** (Rüstung täglich mit Blut getränkt) und einen Gond-Tempel; in Kiosk/Kasarei wird **Asmodeus nicht verehrt, sondern mit Opfern besänftigt** („damit er uns in Ruhe lässt“). Ob „Kasarei“ der Khazerai-Kultur entspricht, ist im Wiki bisher nicht bestätigt.
+Laut [[Götter & Tempel]] gibt es in Rhusion im Khazeraiviertel einen Rundbogen der **Roten Ritterin** (Rüstung täglich mit Blut getränkt) und einen Gond-Tempel; in Khios/Khazerai wird **Asmodeus nicht verehrt, sondern mit Opfern besänftigt** („damit er uns in Ruhe lässt“). Ob „Khazerai“ der Khazerai-Kultur entspricht, ist im Wiki bisher nicht bestätigt.
 
 ## Verknüpfungen
 

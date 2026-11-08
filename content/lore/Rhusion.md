@@ -18,7 +18,7 @@ Keine feudalen Adligen. Jede Geste hat Bedeutung, jede Wahrheit wird verhandelt.
 
 - Alauntor → Tuchmachertor → Gerberstraße → Markt am Silberbrunnen
 - Basilika des Morgengrauens (Lathander)
-- Kasareiviertel (Norden) – vertraute Heimat für Wüstenvölker und Kasarei
+- Khazeraiviertel (Norden) – vertraute Heimat für Wüstenvölker und Khazerai
 - Tuchmacherviertel
 - Hafenviertel / Werften
 - Senats- und Kontorviertel
@@ -44,7 +44,7 @@ Zuständig für offizielle Ausweisdokumente. Für Nicht-Bürger: Antrag stellen,
 ## Verknüpfungen
 
 - [[Princeps Orpheon von Lutaxa]]
-- [[Kurkan Akrava]]
+- [[Khûrkan Agravak]]
 - [[Kalazar-Statue]]
 - [[Daskirion]]
 - [[Hospiz St. Haramador]]

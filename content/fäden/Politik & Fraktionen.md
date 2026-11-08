@@ -16,7 +16,7 @@ status: aktiv
 - [[Sokar Karioka]]
 - [[Aspasia Cortiso]]
 - [[Haus Cortiso]]
-- [[Kurkan Akrava]]
+- [[Khûrkan Agravak]]
 - [[Alabaster Kuratorium]]
 
 ## Weitere Machtblöcke und Fraktionen

@@ -29,7 +29,7 @@ Rugir möchte Viriis Schriftrolle *Intellect Fortress* (3rd-Level-Spell) in sein
 
 Rugir findet in einem Länderkunde-Buch den Eintrag zu **Savart** (auch *„Insel der Geier"*) – identisch mit [[Zarat]]:
 
-- Das **Disputat Bukewala** richtete die Insel als **Leprakolonie** ein, als die magisch aufgeladene Form der Krankheit sich nicht mehr schnell genug magisch heilen ließ.
+- Das **Disputat Bukhevalala** richtete die Insel als **Leprakolonie** ein, als die magisch aufgeladene Form der Krankheit sich nicht mehr schnell genug magisch heilen ließ.
 - Calderion Yolob, ein Priester [[Ilmater|Ilmaters]] (des weinenden Gottes), blieb freiwillig auf der Insel und gründete **[[Leitwacht]]** – eine Siedlung mit Häusern, Garten, Gemeinschaftshalle, Hospital und Kapelle.
 - Calderion hält seit Jahrzehnten einen mächtigen **Halo-Zauber** aufrecht: Schutz vor Untoten/Dämonen innerhalb Leitwachts, und ein Effekt, der allen Bewohnern ermöglicht, **über Sprachbarrieren hinweg** miteinander zu kommunizieren (*„Zungenzauber"* – deutliche Erwähnung im Buch als Besonderheit).
 - Solange Calderion lebt, bleiben die Toten in Leitwacht tot.
@@ -100,7 +100,7 @@ Ausguck ruft *„Piraten!"* – drei **kleinere, wendige Schiffe** (Trireme-ähn
 
 ## Lore-Updates
 
-- [[Zarat]] = *„Savart"*, *„Insel der Geier"* — offiziell eine **Seucheninsel** des Despotat Bukewa; Leprakolonie mit der Siedlung **[[Leitwacht]]**
+- [[Zarat]] = *„Savart"*, *„Insel der Geier"* — offiziell eine **Seucheninsel** des Despotat Bukhevala; Leprakolonie mit der Siedlung **[[Leitwacht]]**
 - [[Leitwacht]] — gegründet von **Calderion Yolob** (Priester Ilmaters); mächtiger Halo-Zauber: Schutz vor Untoten + Kommunikation über Sprachbarrieren
 - [[Ilmater]] (der weinende Gott) — Priester Calderion ist ein wichtiger Akteur auf Zarat
 

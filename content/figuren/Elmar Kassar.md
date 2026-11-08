@@ -29,13 +29,13 @@ Viris Behandlung: Healing Word (Symptomlinderung, kein Infektionskill). Kassar a
 
 ## Historisches Wissen
 
-Auf [[Elysia]]s Frage (übermittelt durch Viri): Wurde **Kios** jemals von Drachen angegriffen?
+Auf [[Elysia]]s Frage (übermittelt durch Viri): Wurde **Khios** jemals von Drachen angegriffen?
 
 Kassars Antwort:
 - Vor dem Bürgerkrieg nisteten Drachen wild; die **Tyrannenmutter** schickte Tribut-Einforderer
 - Ein großer Drachenkrieg gab es lange nicht mehr
 - Im **Kataklysmus** kämpften Drachen der Tyrannen und der silbernen Schwinge gemeinsam – als Reittiere der Invasoren, diese Drachen bestanden aus **Obsidian** und standen unter einem Bann
-- Kios ist Teil des Kontinents **Tesparis** – der Kataklysmus hat überall dort Spuren hinterlassen
+- Khios ist Teil des Kontinents **Thesparis** – der Kataklysmus hat überall dort Spuren hinterlassen
 
 ## Charakter
 

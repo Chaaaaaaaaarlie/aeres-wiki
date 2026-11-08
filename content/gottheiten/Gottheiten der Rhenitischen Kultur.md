@@ -106,7 +106,7 @@ Ein **Wesen des Chaos**, das seine Gunst willkürlich verteilt: Es liegt in der 
 
 ## Kampagnenbezug
 
-Laut [[Götter & Tempel]] sind in Rhusion u. a. präsent: Lathander (Basilika des Morgengrauens, Champion Kalazar), Ilmater ([[Hospiz St. Haramador]]), Gond (Tempel im Kasareiviertel), Talos und Kelemvor (erwähnt).
+Laut [[Götter & Tempel]] sind in Rhusion u. a. präsent: Lathander (Basilika des Morgengrauens, Champion Kalazar), Ilmater ([[Hospiz St. Haramador]]), Gond (Tempel im Khazeraiviertel), Talos und Kelemvor (erwähnt).
 
 ## Verknüpfungen
 

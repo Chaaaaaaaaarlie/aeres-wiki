@@ -48,14 +48,14 @@ Mit der Expansion des Khûrkan Agravak traten Halborks vermehrt in Erscheinung �
 
 ## Bekannte Vertreter in der Kampagne
 
-In den Kampagnennotizen erscheint das Ork-Reich als [[Kurkan Akrava]] (vermutlich identisch mit dem Khûrkan Agravak des Kompendiums).
+Das Ork-Reich der Kampagne ist das [[Khûrkan Agravak]] (in frühen Notizen „Kurkan Akrava“).
 
-- [[Sokar Karioka]] – Ork-Prinz des Kurkan Akrava (tot).
+- [[Sokar Karioka]] – Ork – Ork-Prinz des Khûrkan Agravak (tot).
 - [[Harkas]] – Halbork, Sokars Bruder.
 
 ## Verknüpfungen
 
 - [[Völker von Thesparis]]
-- [[Khûrkan Agravak]] · [[Kurkan Akrava]] · [[Ork-Stämme]] · [[Gottheiten der Orks]]
+- [[Khûrkan Agravak]] · [[Khûrkan Agravak]] · [[Ork-Stämme]] · [[Gottheiten der Orks]]
 - [[Hobgoblins]] · [[Goliath]] · [[Hetharna]] · [[Valahir]]
 - [[Aeres - Die Welt der schadhaften Mythen]]

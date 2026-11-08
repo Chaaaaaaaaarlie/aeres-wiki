@@ -5,14 +5,14 @@ created: 2026-05-12
 updated: 2026-05-12
 tags: [session, session-5]
 datum: 2026-02-25
-ort: Rhusion – Tigerauge, Stadtmauer, Hospiz St. Haramador, Daskirion, Kasareiviertel, Zum gesplitterten Zahn
+ort: Rhusion – Tigerauge, Stadtmauer, Hospiz St. Haramador, Daskirion, Khazeraiviertel, Zum gesplitterten Zahn
 ---
 
 # Session 5 – Papiere, Pässe und Päckchen
 
 ## Zusammenfassung
 
-Die Gruppe trennt sich am Morgen in zwei Hälften. Das zentrale Problem: fehlende Ausweisdokumente in einer Stadt unter verschärfter Kontrolle. **Zion und Hjolda** schließen im **Tigerauge** einen Blutpakt (15 Gold, Name Eden) und erhalten nach vier Stunden Wartezeit gefälschte Schmied-Identitäten. **Viri** geht alleine ins **Hospiz St. Haramador**, vollbringt zwei Heilwunder und erhält vom Tempelvorsteher Bruder Kalvet eine zweitägige Tabulei als Feldlazarettarbeiterin. **Rugir** verbringt Stunden in der Daskirion und erarbeitet sich einen theoretischen Rahmen zu infernaler Symbolik und Ritualgewalt – ohne direkten Treffer auf 7 Kerzen oder 13 Stiche. **Elysia** überklettert als Spinne die Stadtmauer, erkundet das Kasareiviertel, erhält von einer Halbling-Wahrsagerin sechs Tarotkarten, erfährt den Namen der Hypodrom-Statue (Champion Kalazar) und passiert das Stadttor als Schakal. Alle treffen sich zur Mittagssonne am vereinbarten Punkt. Session endet im Tigerauge mit einem beunruhigenden Bild: Zions Schatten löst sich kurz von ihm.
+Die Gruppe trennt sich am Morgen in zwei Hälften. Das zentrale Problem: fehlende Ausweisdokumente in einer Stadt unter verschärfter Kontrolle. **Zion und Hjolda** schließen im **Tigerauge** einen Blutpakt (15 Gold, Name Eden) und erhalten nach vier Stunden Wartezeit gefälschte Schmied-Identitäten. **Viri** geht alleine ins **Hospiz St. Haramador**, vollbringt zwei Heilwunder und erhält vom Tempelvorsteher Bruder Kalvet eine zweitägige Tabulei als Feldlazarettarbeiterin. **Rugir** verbringt Stunden in der Daskirion und erarbeitet sich einen theoretischen Rahmen zu infernaler Symbolik und Ritualgewalt – ohne direkten Treffer auf 7 Kerzen oder 13 Stiche. **Elysia** überklettert als Spinne die Stadtmauer, erkundet das Khazeraiviertel, erhält von einer Halbling-Wahrsagerin sechs Tarotkarten, erfährt den Namen der Hypodrom-Statue (Champion Kalazar) und passiert das Stadttor als Schakal. Alle treffen sich zur Mittagssonne am vereinbarten Punkt. Session endet im Tigerauge mit einem beunruhigenden Bild: Zions Schatten löst sich kurz von ihm.
 
 ---
 
@@ -44,7 +44,7 @@ Viri setzt Elysia an der Mauer ab. Elysia klettert in Spinnenform (Climb Speed) 
 
 **Heilung 1 – verletzte Frau:** Tiefer Schnitt, drei Stunden alt, Sepsisgefahr, Nervenschaden in der Hand. Viri reinigt, lässt Knotenband aufleuchten (Level-1-Slot). Goldene Linien schließen die Wunde. Die Frau spricht von einem Wunder. Nervenschaden weg.
 
-**Verhandlung mit Bruder Kalvet:** Viri erklärt Situation (keine Papiere, kommt aus Kurkan Akrava). Kalvet reagiert kühl auf die Herkunft, bietet Unterkunft im Tausch gegen dauerhaften Einsatz an. Viri lehnt ab (Freunde warten). Persuasion 16 (DC 12): Mandat zugesagt unter Bedingung.
+**Verhandlung mit Bruder Kalvet:** Viri erklärt Situation (keine Papiere, kommt aus Khûrkan Agravak). Kalvet reagiert kühl auf die Herkunft, bietet Unterkunft im Tausch gegen dauerhaften Einsatz an. Viri lehnt ab (Freunde warten). Persuasion 16 (DC 12): Mandat zugesagt unter Bedingung.
 
 **Heilung 2 – Erd-Genasi:** Seite wie herausgeschlagener Fels, bröselnd. Kleiner Sohn spielt mit Holzpferd. Vater hatte abgeschlossen, will letzten Stunden mit dem Kind. Schwester Elva übergeht seinen Wunsch. Viri greift seine Hand (fühlt sich an wie ausgetrockneter Lehm, der bröselt). Level-2-Slot. Als Viri das Wort „wachsen" spricht – es **resoniert**. Goldene Linien gleiten durch Erdfurchen. Obsidian-Brust schließt sich. Augen: von blutig-unterlaufen zu goldgelb. Staubwolke beim tiefen Atemzug.
 
@@ -66,8 +66,8 @@ Investigation 16: Findet u.a. *Siegeln des Abgrunds*, *Erkennungsmerkmale infern
 
 ---
 
-### Szene 5 – Elysia erkundet das Kasareiviertel
-**Ort:** Kasareiviertel / Hypodrom-Vorplatz
+### Szene 5 – Elysia erkundet das Khazeraiviertel
+**Ort:** Khazeraiviertel / Hypodrom-Vorplatz
 **Beteiligte:** [[Elysia]], Tiefling (Ser Sazara)
 
 Beim Passieren der Hypodrom-Statue: Groll, Aufgewühltheit, steigert sich. Elysia geht weiter. Mentale Notiz: Zion nicht an dieser Statue vorbeigehen lassen.
@@ -77,7 +77,7 @@ Am Vorplatz spricht sie einen älteren Tiefling an (Ser Sazara, in Rhusion aufge
 ---
 
 ### Szene 6 – Die Halbling-Wahrsagerin
-**Ort:** Vor dem Fink-Tempel, Kasareiviertel
+**Ort:** Vor dem Fink-Tempel, Khazeraiviertel
 **Beteiligte:** [[Elysia]], [[Halbling-Wahrsagerin]]
 
 Elysia findet die Wahrsagerin in bewusst gewählter Distanz zum Tempel. Gold-Zähne, Kapuze, schwer behangen. Beim Kartenlegen: Finger wirken unnatürlich verlängert, Augen färben sich weiß.

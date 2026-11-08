@@ -18,7 +18,7 @@ Boden ständig feucht (Bier, Seewasser, Kai-Schlamm). Stammgäste: Seeleute, Sch
 
 ## Der Wirt
 
-Breitschuldriger Mann, alte Brandnarbe am Hals. **Hört alles. Vergisst nichts.** Mischt sich nicht ein. Mag keine Kasarei-Gewürze.
+Breitschuldriger Mann, alte Brandnarbe am Hals. **Hört alles. Vergisst nichts.** Mischt sich nicht ein. Mag keine Khazerai-Gewürze.
 
 ## Ereignisse
 

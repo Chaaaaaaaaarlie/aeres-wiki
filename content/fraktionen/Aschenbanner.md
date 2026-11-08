@@ -18,7 +18,7 @@ Wenn die Nacht über die Grenzlande von [[Hetharna]] fällt, ziehen schwarze Ban
 
 ## Ursprung der Verdammnis
 
-Ihre Geschichte beginnt mit einem Verrat, der zugleich Opfer und Rebellion war. In den letzten Jahren der **Großen Invokation** entsandte der **Großkomtur von Karamanth** (vgl. [[Karaman]]) ein Kontingent Paladine, um die Flammen der Verderbnis in den Grenzlanden zu löschen. Ihr Anführer, **Sir Maethor von Hetharna**, weigerte sich, der Befehlskette zu folgen.
+Ihre Geschichte beginnt mit einem Verrat, der zugleich Opfer und Rebellion war. In den letzten Jahren der **Großen Invokation** entsandte der **Großkomtur von Karamanth** (vgl. [[Karamanth]]) ein Kontingent Paladine, um die Flammen der Verderbnis in den Grenzlanden zu löschen. Ihr Anführer, **Sir Maethor von Hetharna**, weigerte sich, der Befehlskette zu folgen.
 
 Er erkannte, dass die **sinistre Seuche** nicht durch Feuer zu tilgen war, sondern durch **„Opferasche“** – die freiwillige Hingabe des eigenen Lichts, um Dunkelheit zu versiegeln. Gegen den Befehl vollzog Maethor das verbotene Ritual des **Verzehrten Schwurs**, ein uraltes Sakrament, das göttliches Feuer in schwelende Asche verwandelt.
 
@@ -81,6 +81,6 @@ Untereinander herrscht brüderliche Schweigsamkeit; jeder kennt das Ende des and
 - [[Mächte im Verborgenen]]
 - [[Orden der gleißenden Flamme]]
 - [[Hetharna]]
-- [[Karaman]]
+- [[Karamanth]]
 - [[Alabaster Kuratorium]]
 - [[Aeres - Die Welt der schadhaften Mythen]]

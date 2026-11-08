@@ -47,7 +47,7 @@ Nach kurzer Zeit im Inneren verlangt die Höhle einen schweren Rettungswurf gege
 |---|---|---|---|
 | [[Viri]] | [[Dolorion]] | Macht über Schmerz und Tod, ein Zeitalter ohne Leid, die eigene Familie retten | *„Ich werde dein Angebot nicht annehmen."* |
 | [[Elysia]] | [[Ventus]] | Sicherheit und Gewissheit: sich diesmal führen lassen, ohne Prüfung und Zweifel | *„Das hier ist alles eine Lüge."* |
-| [[Sir Aschefall]] | [[Der Kriegsherr]] | Herrschaft über [[Karaman|Tesparis]], ein neues Imperium, Aufstieg zum Gott | *„Den Weg ja, das Ziel nein."* |
+| [[Sir Aschefall]] | [[Der Kriegsherr]] | Herrschaft über [[Karamanth|Thesparis]], ein neues Imperium, Aufstieg zum Gott | *„Den Weg ja, das Ziel nein."* |
 | [[Rugir]] | Ein Archivwesen des [[Alabaster Kuratorium]]s | Allwissen, Rang, das Leben der Gefährten — gegen eine einzige Unterschrift | *„Fahr zur Hölle."* |
 | [[Zion]] | Ein tausendäugiger Wolf | Rettung von Schwester und Mutter — gegen eine letzte, unschuldige Seele | lehnt ab, tötet den Wolf ([[Session 21 - 23.09.2026]]) |
 

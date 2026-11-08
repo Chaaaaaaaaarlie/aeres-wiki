@@ -54,7 +54,7 @@ Ein **Sumpfgebiet oder Feuchtwald** in der Nähe von Rhusion.
 Durchbruch im [[Krokodil-Versteck]]:
 - Aus zusammengesetzten **Pergamentstücken** wird eine **Substitutions-Chiffre** dekodiert (Schlüssel + Brief: [[Codierpergament]]):
   > *„SOBALD ES VOLLBRACHT IST GEHE ICH AN BORD DIE INSEL WARTET DORT WIRD NIEMAND NACH MIR SUCHEN. ICH WARTE DORT AUF WEITERE ANWEISUNGEN"*
-- [[Doruk Val]] nennt (Viri Persuasion DC 13, Nat 20) das Inselziel: **[[Zarat]]**, Nordosten, Region „Despotat Bukewa" (37+ Inseln)
+- [[Doruk Val]] nennt (Viri Persuasion DC 13, Nat 20) das Inselziel: **[[Zarat]]**, Nordosten, Region „Despotat Bukhevala" (37+ Inseln)
 - Die Gruppe segelt mit der [[Cestus]] dorthin
 
 Damit verschiebt sich der Schauplatz **weg von Rhusion**: Der Assassine ist nicht mehr in der Stadt, sondern (vermutlich) auf Zarat.

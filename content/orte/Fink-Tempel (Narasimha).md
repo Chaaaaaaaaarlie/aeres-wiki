@@ -8,7 +8,7 @@ tags: [ort, tempel, kasareiviertel, vision]
 
 # Fink-Tempel (Narasimha)
 
-Im **Kasareiviertel** im Norden Rhusions. Für [[Hjolda]] ein Ort der Vertrautheit inmitten der fremden Stadt.
+Im **Khazeraiviertel** im Norden Rhusions. Für [[Hjolda]] ein Ort der Vertrautheit inmitten der fremden Stadt.
 
 ## Besonderheit
 

@@ -17,7 +17,7 @@ Schwer behangen mit Schmuck (echt oder unecht: unklar). Tiefe Kapuze, die Augen 
 
 **Beim Kartenlegen:** Finger wirken unnatürlich verlängert. Augen färben sich kurz **weiß**. Nach der Trance: Moment des Innehaltens, als würde etwas sie verlassen.
 
-## Bezug zu Kiosk / Kasarei
+## Bezug zu Khios / Khazerai
 
 Spricht die Wüstengruß-Formel:
 > *„Mögen eure Datteln stets süß und die Sonne nicht brennen, seien Effendera."*

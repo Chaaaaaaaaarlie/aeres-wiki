@@ -16,14 +16,14 @@ Offizieller Name im Länderkunde-Buch: **„Savart"** (*„Insel der Geier"*).
 ## Lage
 
 - Im **Nordosten** der bekannten See
-- Teil des **Despotat Bukewa** – eine von tausenden kleinerer und größerer Inseln der Region
+- Teil des **Despotat Bukhevala** – eine von tausenden kleinerer und größerer Inseln der Region
 - Auf einfachen Karten nicht einzeln benannt; die [[Kapitänin der Cestus|Kapitänin der [[Cestus]]]] besitzt eine genauere Seekarte
 
 ## Zarat als Seucheninsel – Leitwacht
 
 In [[Session 12 - 17.06.2026]] findet Rugir in einem Buch folgenden Eintrag:
 
-> *Das Disputat Bukewala errichtete auf dieser abgelegenen Insel eine Leprakolonie, da selbst Heilungen durch Kleriker die Ausbreitung dieser besonderen magisch aufgeladenen Krankheit nicht schnell genug eindämmen konnten.*
+> *Das Disputat Bukhevalala errichtete auf dieser abgelegenen Insel eine Leprakolonie, da selbst Heilungen durch Kleriker die Ausbreitung dieser besonderen magisch aufgeladenen Krankheit nicht schnell genug eindämmen konnten.*
 
 - **[[Leitwacht]]** — Siedlung auf Zarat, gegründet von **Calderion Yolob**, einem Priester [[Ilmater|Ilmaters]] (des weinenden Gottes), der beschloss, für immer auf der Insel zu bleiben
 - Leitwacht hat: Häuser, Garten, Gemeinschaftshalle, Hospital, Kapelle

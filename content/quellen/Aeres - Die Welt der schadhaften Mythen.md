@@ -30,9 +30,10 @@ Spielerseitiges Weltkompendium für den Kontinent [[Thesparis]]. Original-PDF im
 
 ## Abweichungen zur Kampagne
 
-- **Kataklysmus:** Kompendium „ungefähr 1.500 Jahre“, Session 24 „rund 1400 Jahre“.
-- **[[Khûrkan Agravak]] / [[Kurkan Akrava]]:** vermutlich dieselbe Macht; Herrschertitel und Lage weichen ab.
-- **Karamanth / [[Karaman]]:** Schreibweise im Kompendium „Karamanth“, vermutlich derselbe Ort.
+- **Kataklysmus:** Kompendium „ungefähr 1.500 Jahre“, Session 24 „rund 1400 Jahre“ – laut DM sind es ca. **1.472 Jahre** (beides Näherungen).
+- **[[Khûrkan Agravak]]:** in frühen Sessionnotizen „Kurkan Akrava“; laut DM liegt es in der Mitte des Kontinents nahe der hungernden Weiten. Alte Figurenseite in die Fraktionsseite überführt.
+- **[[Karamanth]]:** gültige Schreibweise (vorher „Karaman“).
+- **Verbindlichkeit:** Laut DM ist das Kompendium maßgeblich für Schreibweisen und Weltbeschreibung. Angeglichen wurden u. a. Kasarei → Khazerai, Kios/Kiosk → Khios, Tesparis → Thesparis, Bukewa → Bukhevala, Irmetala → Irmethalas.
 - Das PDF enthält einige interne Widersprüche und Tippfehler; Details stehen jeweils auf den Einzelseiten.
 
 ## Verknüpfungen

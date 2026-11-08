@@ -14,7 +14,7 @@ tags: [nsc, verbündet, haus-cortiso]
 
 ## Verbindungen zur Gruppe
 
-- Hilft **[[Hjolda]]** bei der Suche nach einem seltenen Samen aus Irmetala – deshalb kam Hjolda zur Hochzeit
+- Hilft **[[Hjolda]]** bei der Suche nach einem seltenen Samen aus Irmethalas – deshalb kam Hjolda zur Hochzeit
 - Hatte auch eine Verbindung zu [[Viri]] (Details unklar)
 - Übergab der Gruppe Unterkunftsliste nach dem Mord
 - Führte das Verhör auf Valeria mit durch

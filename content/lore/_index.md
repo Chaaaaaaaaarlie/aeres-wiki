@@ -16,7 +16,7 @@ Welt-Hintergrund, Geschichte, Religions-Überblicke und große Konzepte, die sic
 - [[Welt & Hintergrund]]
 - [[Der Große Kataklysmus]] — offizielle Geschichtsschreibung ergänzt (Session 24)
 - [[Apokrator]]
-- [[Karaman]]
+- [[Karamanth]]
 - [[Geld und Währungen]]
 - [[Zeitrechnung]]
 - [[Sprachen]]

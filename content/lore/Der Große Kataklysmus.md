@@ -45,7 +45,7 @@ Lathanders Champion. Kämpfte im Kessel von Talassi. Heute als Statue vor dem Hy
 
 In [[Session 24 - 04.11.2026]] gibt [[Rugir]] mit Hilfe seines Länderkunde-Buchs wieder, was die offizielle Geschichtsschreibung über den Kataklysmus sagt. (Quelle: [[Session 24 - 04.11.2026]])
 
-- **Zeitrechnung:** Der Kataklysmus ist das entscheidende Ereignis der Welt; die Zeitrechnung teilt sich in ein Davor und Danach. Er liegt rund **1400 Jahre** zurück.
+- **Zeitrechnung:** Der Kataklysmus ist das entscheidende Ereignis der Welt; die Zeitrechnung teilt sich in ein Davor und Danach. Er liegt rund **1400 Jahre** zurück (In-Game-Näherung; laut DM genau ca. **1.472 Jahre**).
 - **Folgen:** Er leitete den **Niedergang der Elfenreiche** ein. In einzelnen Schlachten starben 500.000 bis 1,4 Millionen Wesen; da viele Aristokraten fielen, verschoben sich die gesellschaftlichen Schichten grundlegend.
 - **Parteien:** Auf der einen Seite die **heldenhaften Champions der Götter und die Armeen des Vereinigten Kontinents**, auf der anderen **fremde Invasoren**, die durch **Portale im Himmel** einfielen. Zu ihnen gehören die **[[Gith]]**.
 - **Quellenlage:** Die Bücher stammen von Augenzeugen und von Autoren, die rund 30 Jahre nach dem Konflikt schrieben. Die Sieger schreiben die Geschichte; die Invasoren hinterließen keine eigenen Schriften, ihre Darstellung ist durchweg abfällig. Bilder aus dieser Zeit sind eher idealtypisch als getreue Abbildungen.
@@ -79,7 +79,7 @@ In [[Session 24 - 04.11.2026]] gibt [[Rugir]] mit Hilfe seines Länderkunde-Buch
 - **Folgen:** Die Phase kam einer Umwälzung gleich, in der die großen Reiche fielen und sich alle Weltuntergangsszenarien zu bewahrheiten schienen. **Keine Kultur** ging ohne Verluste oder erhebliche Zäsuren daraus hervor.
 - **Zeitrechnung:** Weil der Kataklysmus für alle Reiche — vom bleichen Tod im Norden bis zur Wüste Ghôm — eine Zäsur war, legten die Gelehrten ihn dem Einheitskalender zugrunde: **v.K.** (vor dem Kataklysmus) und **n.K.** (nach dem Kataklysmus). Siehe [[Zeitrechnung]].
 
-> **Abgleich:** Das Weltkompendium nennt „ungefähr 1.500 Jahre“, Rugirs Länderkunde-Buch in [[Session 24 - 04.11.2026]] „rund 1400 Jahre“. Beides sind Näherungen; die Angabe aus der Session bleibt als In-Game-Aussage stehen. Die Benennung der Invasoren als Githyanki deckt sich mit der Session-24-Darstellung ([[Gith]]). Der Teufels-Vorstoß (zweites Avernus) ist in den Sessions bisher nicht erwähnt.
+> **Abgleich:** Das Weltkompendium nennt „ungefähr 1.500 Jahre“, Rugirs Länderkunde-Buch in [[Session 24 - 04.11.2026]] „rund 1400 Jahre“. Beides sind Näherungen – laut DM liegt der Kataklysmus ca. **1.472 Jahre** zurück. Das Kompendium ist für die Weltbeschreibung maßgeblich. Die Benennung der Invasoren als Githyanki deckt sich mit der Session-24-Darstellung ([[Gith]]). Der Teufels-Vorstoß (zweites Avernus) ist in den Sessions bisher nicht erwähnt.
 
 ### Weitere Verknüpfungen (Weltkompendium)
 

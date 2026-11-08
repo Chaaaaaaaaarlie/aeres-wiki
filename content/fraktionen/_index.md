@@ -26,7 +26,7 @@ Organisationen, Häuser, Kabalen und politische Körper, die in Aeres die Gesche
 
 ## Kampagnenbezug
 
-- [[Despotat Bukhevala]] (Bukewa) — Schirmherr von [[Zarat]], muss laut [[Session 24 - 04.11.2026]] die Kranken auf der Insel halten
+- [[Despotat Bukhevala]] (Bukhevala) — Schirmherr von [[Zarat]], muss laut [[Session 24 - 04.11.2026]] die Kranken auf der Insel halten
 
 ## Kabalen & Kulte
 

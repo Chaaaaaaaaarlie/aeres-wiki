@@ -59,7 +59,7 @@ Die **junge weibliche Stimme** aus früheren Träumen ist vermutlich die Schwest
 ## Fragen
 
 - [ ] Was ist die Natur dieses Hungers? Fluch? Pakt? Herkunft?
-- [ ] Verbindung zu uralten Wäldern / Feyreichen (Irmetala)?
+- [ ] Verbindung zu uralten Wäldern / Feyreichen (Irmethalas)?
 - [ ] Was passiert, wenn er nachgibt?
 - [ ] Hat der [[Blutpakt des Tigerauge]] den Schatten aktiviert?
 - [ ] Warum zeigt sich die Verzögerung inzwischen auch außerhalb des Tigerauges?

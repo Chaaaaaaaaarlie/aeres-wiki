@@ -158,7 +158,7 @@ Ein wohlhabender Schreiberling: ausgemergelt, blutiges Spucktuch, Fieber, Nachts
 
 Viri untersucht ihn (Nat 20!) und diagnostiziert: **Sperkulose** (Tuberkulose, offene Form). Healing Word lindert die Symptome – Kassar atmet wieder tiefer, gewinnt etwas Kraft. Viri macht aus der offenen eine geschlossene Form (nicht mehr infektiös nach außen). Kassar darf aber keine Ausgänge machen, bis er genesen ist.
 
-**Elysias Frage (via Viri):** Wurde Kios jemals von Drachen angegriffen?
+**Elysias Frage (via Viri):** Wurde Khios jemals von Drachen angegriffen?
 
 Kassars Antwort:
 - Vor dem Bürgerkrieg: Drachen nisteten wild; die **Tyrannenmutter** schickte Kinder aus, um Tribut einzufordern

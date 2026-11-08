@@ -20,7 +20,7 @@ Der Orden ist dafür bekannt, den **rassischen, sozialen, nationalen und sogar k
 
 ## Organisation des Ordens
 
-Kommandiert wird der Orden vom **Großkomtur in Karamanth** (vgl. [[Karaman]]). Er besteht aus einem System **halbautonomer nationaler Zweige** (Komtureien), jeweils von einem örtlichen **Komtur** geführt. Obwohl es eine Hierarchie gibt, wird sie in der Praxis häufig durch das **Dienstalter** (Zeitpunkt des Beitritts) bestimmt.
+Kommandiert wird der Orden vom **Großkomtur in Karamanth** (vgl. [[Karamanth]]). Er besteht aus einem System **halbautonomer nationaler Zweige** (Komtureien), jeweils von einem örtlichen **Komtur** geführt. Obwohl es eine Hierarchie gibt, wird sie in der Praxis häufig durch das **Dienstalter** (Zeitpunkt des Beitritts) bestimmt.
 
 Jeder Zweig wird von einem **dreiköpfigen Rat** hochrangiger Offiziere geleitet, den **Prälaten**, die jeweils mindestens zehn Jahre im Dienst sind. Bringt der Komtur Vorschläge oder Probleme vor, prüfen die Prälaten seine Worte und gelangen zu einem Konsens, der für ihre Kameraden am besten ist.
 
@@ -59,13 +59,13 @@ Heute wird das Recht aus Angst vor politischen Repressalien nur sparsam genutzt,
 
 ## Bezug zur Kampagne
 
-In der Kampagne strömen laut Allgemeinwissen „tausende Paladine, Orden und andere Knechte des Lichts“ nach [[Karaman]], um das dortige Dämonentor einzudämmen (siehe [[Session 20 - 16.09.2026]]). Die Festung Karamanth des Weltkompendiums ist mit hoher Wahrscheinlichkeit dieselbe.
+In der Kampagne strömen laut Allgemeinwissen „tausende Paladine, Orden und andere Knechte des Lichts“ nach [[Karamanth]], um das dortige Dämonentor einzudämmen (siehe [[Session 20 - 16.09.2026]]). Die Festung Karamanth des Weltkompendiums ist mit hoher Wahrscheinlichkeit dieselbe.
 
 ## Verknüpfungen
 
 - [[Mächte im Verborgenen]]
 - [[Zamathisches Imperium]]
-- [[Karaman]]
+- [[Karamanth]]
 - [[Aschenbanner]]
 - [[Der Große Kataklysmus]]
 - [[Gith]]

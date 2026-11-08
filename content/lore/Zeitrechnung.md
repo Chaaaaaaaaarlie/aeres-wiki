@@ -33,7 +33,7 @@ Die Gelehrten der großen **Wissensschmieden und Akademien** haben es sich zur A
 - ein übergreifendes Verständnis der Geschichte und zeitlichen Verortung der Reiche ermöglicht und
 - zugleich keinen König und keine Priesterschaft in ihrem Geltungsdrang vor den Kopf stößt.
 
-Als Bezugspunkt brauchte es ein Ereignis, das für alle Reiche — von den schneeverhangenen Weiten des **bleichen Todes** bis in die endlosen Weiten der **Wüste Ghôm** — eine Zäsur darstellte. Das war leicht gefunden: [[Der Große Kataklysmus|der Kataklysmus]], der vor **ungefähr 1.500 Jahren** über den Kontinent hereinbrach.
+Als Bezugspunkt brauchte es ein Ereignis, das für alle Reiche — von den schneeverhangenen Weiten des **bleichen Todes** bis in die endlosen Weiten der **Wüste Ghôm** — eine Zäsur darstellte. Das war leicht gefunden: [[Der Große Kataklysmus|der Kataklysmus]], der vor **ungefähr 1.500 Jahren** über den Kontinent hereinbrach (laut DM genau ca. **1.472 Jahre**).
 
 ## Epochenbezeichnung
 

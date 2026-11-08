@@ -16,7 +16,7 @@ Hager, eingefallene Wangen. Ruhige, bedächtige Stimme. Blickt abwägend, nicht 
 
 ## Charakter
 
-Politisch vorsichtig – befürchtet Probleme mit dem Tempel der Ordnung, wenn er zu weit geht. Reagiert kühl auf die Nennung des [[Kurkan Akrava]]:
+Politisch vorsichtig – befürchtet Probleme mit dem Tempel der Ordnung, wenn er zu weit geht. Reagiert kühl auf die Nennung des [[Khûrkan Agravak]]:
 > *„Manchmal kann man sich seine Segen nicht aussuchen."*
 
 Hat aber ein ausgeprägtes Gefühl für Gerechtigkeit und genutztes Potential. Hält Viris Heilgabe für zu wertvoll, um sie „wie ein Stück im Museum" zu lassen.

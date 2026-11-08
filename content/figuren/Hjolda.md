@@ -5,7 +5,7 @@ created: 2026-05-12
 updated: 2026-05-12
 tags: [charakter, spielercharakter]
 klasse: Waldläuferin
-herkunft: Irmetala / Kasarei
+herkunft: Irmethalas / Khazerai
 status: aktiv – seit Session 11 nicht mehr in der reisenden Gruppe (Leibwache Aspasias)
 ---
 
@@ -17,12 +17,12 @@ status: aktiv – seit Session 11 nicht mehr in der reisenden Gruppe (Leibwache 
 
 | | |
 |---|---|
-| **Herkunft** | Irmetala / Kasarei |
+| **Herkunft** | Irmethalas / Khazerai |
 | **Besonderheit** | Sucht seltenen Samen · Fink-Vision · Waldverbunden |
 
 ## Charakter
 
-Groß, grün, schwer zu übersehen. Kommt aus Irmetala – einem der Reiche, wo der Firnis zwischen materieller Ebene und Feyreichen besonders dünn ist. Viele Waldläufer und Druiden dort, animalische Geister, die Politik gestalten.
+Groß, grün, schwer zu übersehen. Kommt aus Irmethalas – einem der Reiche, wo der Firnis zwischen materieller Ebene und Feyreichen besonders dünn ist. Viele Waldläufer und Druiden dort, animalische Geister, die Politik gestalten.
 
 Leidet unter der Stadt aus Stein – zu viele Wesen, zu viel Gewimmel, zu wenig Natur. Einziger Trost: die vier anderen in der Gruppe.
 
@@ -38,7 +38,7 @@ Der Wald, den dieser Samen schützen soll, ist uralt:
 > *„Die Wurzeln sind so tief, dass man sich das gar nicht vorstellen kann. Alle sind da miteinander unten."*
 > *„Zeit ist in solchen Orten Nebensache."*
 
-Manche munkeln, die Wälder Irmetals seien so unberührt, dass sie selbst vor den Göttern dort waren.
+Manche munkeln, die Wälder Irmethalas’ seien so unberührt, dass sie selbst vor den Göttern dort waren.
 
 ## Die Vision
 
@@ -58,7 +58,7 @@ Die Fink-Statue **vor dem Hypodrom** verursacht bei Hjolda jedes Mal ein unangen
 
 - **[[Session 2 – Unmittelbar nach dem Mord]]**: Erlebt Chaos in der Basilika.
 - **[[Session 3 – Die Nacht danach]]**: Denkt darüber nach, wie lange sie noch hier bleiben muss. Findet Trost in der Gruppe.
-- **[[Session 4 – Rhusion, zweiter Tag]]**: Erkundet Kasareiviertel. Vision im Fink-Tempel. Kauft grünen Stoff beim Tabaxi-Händler. Passiert Kontrollposten.
+- **[[Session 4 – Rhusion, zweiter Tag]]**: Erkundet Khazeraiviertel. Vision im Fink-Tempel. Kauft grünen Stoff beim Tabaxi-Händler. Passiert Kontrollposten.
 - **[[Session 5 – Papiere, Pässe und Päckchen]]**: Wartet mit [[Zion]] im Zum gesplitterten Zahn. Erzählt von ihrem Wald und dem Samen. Erhält gefälschte Handwerker-Identität vom Tigerauge.
 
 ## Session 10 – als NPC mitgeführt

@@ -45,7 +45,7 @@ Immer wieder tauchten Tieflinge in der Geschichte auf – in Adelsgeschlechtern,
 
 ## Bekannte Vertreter in der Kampagne
 
-- Ein namenloser Tiefling im Kasareiviertel von [[Rhusion]], mit dem [[Elysia]] über die [[Kalazar-Statue|Kalazar]] sprach.
+- Ein namenloser Tiefling im Khazeraiviertel von [[Rhusion]], mit dem [[Elysia]] über die [[Kalazar-Statue|Kalazar]] sprach.
 
 ## Verknüpfungen
 

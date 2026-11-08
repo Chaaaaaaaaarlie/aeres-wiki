@@ -31,4 +31,4 @@ status: aktiv
 
 - [[Koina]]
 - [[Zamathisches Imperium]]
-- [[Karaman]] — Festung um ein nie geschlossenes Dämonentor
+- [[Karamanth]] — Festung um ein nie geschlossenes Dämonentor

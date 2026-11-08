@@ -16,9 +16,9 @@ Direkter Anschluss an den Cliffhanger aus [[Session 10 - 06.05.2026]]. Die Grupp
 
 Die Kahle ist mit hoher Wahrscheinlichkeit die [[Unbekannte Frau]] – und damit die [[Die Boss hinter den Helfern|„Boss" hinter den Helfern]]. [[Rugir]] zeichnet das infernalische Mal zweimal ab. Aus mehreren **Pergamentstücken** (von den Leichen) fügt [[Hjolda]] per *Mending* eine Botschaft zusammen, die die Gruppe als **Substitutions-Chiffre** dekodiert: Der gesuchte „Katze"/Rakshasa wartet auf einer **Insel** auf weitere Anweisungen – *„Dort wird niemand nach mir suchen."* Ein **Tresor** gibt ~300 Gold und eine Schriftrolle **Intellect Fortress** frei.
 
-Über den Tortel **[[Doruk Val]]** erfahren sie den Inselnamen: **[[Zarat]]**, im Nordosten gelegen (Region „Despotat Bukewa", 37+ Inseln). Zwischenstopps: [[Bernsteinauge]] (Viri reserviert ein Buch, ein Monat Frist; der Händler erfährt, dass [[Chloro Verde]] die Beholder-Attrappe durchschaut hat), das **Anwesen [[Haus Cortiso]]** (zweiter Anschlag auf [[Aspasia Cortiso]] durch belebte **Gargoyles**, abgewehrt von einem Boten – **Hjolda bleibt als Leibwache zurück**) und die **Valeria-Zitadelle** des [[Princeps Orpheon von Lutaxa]] (Erpresser-Brief für die Überfahrt, 300 Gold, neuer Begleiter **[[Sir Aschefall]]**).
+Über den Tortel **[[Doruk Val]]** erfahren sie den Inselnamen: **[[Zarat]]**, im Nordosten gelegen (Region „Despotat Bukhevala", 37+ Inseln). Zwischenstopps: [[Bernsteinauge]] (Viri reserviert ein Buch, ein Monat Frist; der Händler erfährt, dass [[Chloro Verde]] die Beholder-Attrappe durchschaut hat), das **Anwesen [[Haus Cortiso]]** (zweiter Anschlag auf [[Aspasia Cortiso]] durch belebte **Gargoyles**, abgewehrt von einem Boten – **Hjolda bleibt als Leibwache zurück**) und die **Valeria-Zitadelle** des [[Princeps Orpheon von Lutaxa]] (Erpresser-Brief für die Überfahrt, 300 Gold, neuer Begleiter **[[Sir Aschefall]]**).
 
-An Bord der **[[Cestus]]** lernen sie die **Kapitänin** kennen. Beim Auslaufen erkennt [[Viri]] am Horizont die **Kriegsbanner der Ork-Armeen** – der Vater (**[[Kurkan Akrava|der Hrem]]**) ist eingetroffen. **Belagerung Rhusions** steht bevor. Die Gruppe segelt nach Zarat. **Level-Up.**
+An Bord der **[[Cestus]]** lernen sie die **Kapitänin** kennen. Beim Auslaufen erkennt [[Viri]] am Horizont die **Kriegsbanner der Ork-Armeen** – der Vater (**[[Khûrkan Agravak|der Hrem]]**) ist eingetroffen. **Belagerung Rhusions** steht bevor. Die Gruppe segelt nach Zarat. **Level-Up.**
 
 > *Spieler anwesend:* Rugir, Viri, Elysia (als „Lyssa"), Zion (geführt von Neuzugang **Marcus**, der sich noch mit dem VTT einarbeitet). Hjolda wurde als NPC vom DM mitgeführt und verlässt am Ende die Gruppe.
 
@@ -97,7 +97,7 @@ Harkas drängt zur Eile (keinen Tag verlieren). Die Gruppe nimmt den **bewusstlo
 ### Szene 7 – Doruk Val: der Name der Insel
 **Ort:** Hafen, an Bord der [[Cestus]]
 
-Der Tortel ist „aus der Puste". Auf die Frage nach dem Inselziel der „schwarzen Katze" zickt er zunächst (*„Wie ihr auf die Idee kommt, die Hexe zu bescheißen"*). Viri besteht **Persuasion DC 13 (Nat 20)**. Er nennt das Ziel: **[[Zarat]]**, eine von **37+ Inseln** im **Nordosten** (Region „Despotat Bukewa"). Die Karte hat die Kapitänin. Eine Überfahrt sei möglich; die **Flut** läuft in **~6 Stunden** zum Höchststand – bis dahin sollen sie sich heilen und vorbereiten.
+Der Tortel ist „aus der Puste". Auf die Frage nach dem Inselziel der „schwarzen Katze" zickt er zunächst (*„Wie ihr auf die Idee kommt, die Hexe zu bescheißen"*). Viri besteht **Persuasion DC 13 (Nat 20)**. Er nennt das Ziel: **[[Zarat]]**, eine von **37+ Inseln** im **Nordosten** (Region „Despotat Bukhevala"). Die Karte hat die Kapitänin. Eine Überfahrt sei möglich; die **Flut** läuft in **~6 Stunden** zum Höchststand – bis dahin sollen sie sich heilen und vorbereiten.
 
 ### Szene 8 – Bernsteinauge
 **Ort:** [[Bernsteinauge]]
@@ -132,7 +132,7 @@ Nach Halt am [[Salzhund]] (Ausrüstung holen) gehen sie an Bord; [[Doruk Val]] e
 ### Szene 12 – Cliffhanger: Die Banner am Horizont
 **Ort:** Seeweg vor Rhusion, Abenddämmerung
 
-Beim Auslaufen (blutroter Himmel) erkennt [[Viri]] (Perception 19) an den Klippen die **Kriegsbanner der Ork-Armeen** aus ihrer Heimat – das Heer, mit dem Harkas gedroht hatte. **Der Vater ([[Kurkan Akrava|der Hrem]]) ist eingetroffen.** Doruk Val: *„Belagerung."* Die Gruppe segelt in eine ungewisse Zukunft – auf ihren Schultern lasten die Leben von Zehn-, womöglich Hunderttausenden.
+Beim Auslaufen (blutroter Himmel) erkennt [[Viri]] (Perception 19) an den Klippen die **Kriegsbanner der Ork-Armeen** aus ihrer Heimat – das Heer, mit dem Harkas gedroht hatte. **Der Vater ([[Khûrkan Agravak|der Hrem]]) ist eingetroffen.** Doruk Val: *„Belagerung."* Die Gruppe segelt in eine ungewisse Zukunft – auf ihren Schultern lasten die Leben von Zehn-, womöglich Hunderttausenden.
 
 **Session-Ende. Level-Up.**
 
@@ -144,13 +144,13 @@ Beim Auslaufen (blutroter Himmel) erkennt [[Viri]] (Perception 19) an den Klippe
 - **Das Ritual-Mal in Aktion:** Ein **Kreis aus 13 Stichen** in infernalischer Schrift, unter schwarzem Seidentuch am Handgelenk, **vollendet sich posthum** und ätzt sich weg („Seele ausatmen"). Auslöse-/Opferformel: *„Sieben Kerzen zu seinen Ehren, 13 Stiche vollenden das Werk."* Die Gehörnte trug ein **unvollständiges** Mal. → siehe [[Ritual der 13 Stiche]], [[Schwarzer Seidenstoff]].
 - **Rugir** hat das Mal **zweimal abgezeichnet** (Kopie für die Gruppe). Schrift infernalisch, noch nicht lesbar – nächster Schritt: Abgleich (Haus des Wissens / [[Daskirion]]).
 - **Dekodierte Botschaft:** Substitutions-Chiffre auf zusammengesetztem Pergament. Inhalt deutet auf den **Rakshasa**, der auf einer Insel auf weitere Anweisungen wartet (*„Dort wird niemand nach mir suchen."*).
-- **Insel [[Zarat]]:** Aufenthaltsort/Ziel des Assassinen, Nordosten, Region „Despotat Bukewa" (37+ Inseln). Name von [[Doruk Val]].
+- **Insel [[Zarat]]:** Aufenthaltsort/Ziel des Assassinen, Nordosten, Region „Despotat Bukhevala" (37+ Inseln). Name von [[Doruk Val]].
 - **Loot:** ~300 Gold (Tresor) + 300 Gold (Princeps) + **Intellect Fortress**-Schriftrolle (bei Viri) + magische Lampe + 2× **Potion of Greater Healing** (Aspasia) + Akten/Lagerlisten der Tarnoperation.
 - **Hjolda verlässt die Gruppe** und wird Aspasias **Leibwache** (zweiter Anschlag durch Gargoyles).
 - **Zweiter Anschlag auf [[Aspasia Cortiso]]:** belebte **Gargoyles**; angeschmolzener Stein, **Schießpulver-/Chemie-Geruch** (nicht Schwefel) → andere magische Handschrift als das Kultisten-Mal.
 - **Neuer Begleiter [[Sir Aschefall]]:** rotgeschuppter Drachengeborener, schwere rote Rüstung, schnaubt Rauch; war Aspasias Retter; vom Princeps mitgeschickt. Parallele zu Zion angedeutet.
 - **Erpresser-Brief des Princeps** zwingt die **Kapitänin der [[Cestus]]** zur Überfahrt nach Zarat.
-- **Cliffhanger:** Die Ork-Armee des **[[Kurkan Akrava|Hrem]]** ist eingetroffen → **Belagerung Rhusions** beginnt, während die Gruppe ausläuft.
+- **Cliffhanger:** Die Ork-Armee des **[[Khûrkan Agravak|Hrem]]** ist eingetroffen → **Belagerung Rhusions** beginnt, während die Gruppe ausläuft.
 - **Meta:** Neuzugang **Marcus** führt [[Zion]] für Eden; [[Sir Aschefall]] wird gegen Ende eingeführt und von Marcus mitbeschrieben – Aschefall wird künftig sein SC.
 
 ---
@@ -180,7 +180,7 @@ Beim Auslaufen (blutroter Himmel) erkennt [[Viri]] (Perception 19) an den Klippe
 - [[Aspasia Cortiso]]
 - [[Haus Cortiso]]
 - [[Princeps Orpheon von Lutaxa]]
-- [[Kurkan Akrava]]
+- [[Khûrkan Agravak]]
 - [[Krokodil-Versteck]]
 - [[Salzhund]]
 - [[Session 10 - 06.05.2026]]

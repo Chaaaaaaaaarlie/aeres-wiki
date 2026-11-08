@@ -15,13 +15,13 @@ tags:
 ## Wichtige aktuelle Fakten
 
 - Aktuellste In-Fiction-Session: [[Session 24 - 04.11.2026]]. Die Gruppe ist auf der [[Cestus]] auf See, zwei Tage nach der Abfahrt von Zarat. Ein Kampf oder eine Begegnung mit zwei sich nähernden Schiffen steht unmittelbar bevor.
-- **Kataklysmus (offiziell):** rund 1400 Jahre her, Wendepunkt der Zeitrechnung, Beginn des Niedergangs der Elfenreiche; Champions der Götter und Armeen des Vereinigten Kontinents gegen Invasoren aus Portalen im Himmel, darunter die [[Gith]]. Fliegende Schiffe kennt die offizielle Geschichte nur bei den Invasoren.
+- **Kataklysmus (offiziell):** rund 1400 Jahre (genau ca. 1.472) her, Wendepunkt der Zeitrechnung, Beginn des Niedergangs der Elfenreiche; Champions der Götter und Armeen des Vereinigten Kontinents gegen Invasoren aus Portalen im Himmel, darunter die [[Gith]]. Fliegende Schiffe kennt die offizielle Geschichte nur bei den Invasoren.
 - **Die Vision ([[Krieg am Himmel]]) hat drei Parteien:** Elfen mit Ballisten, Nautilus-artige Schiffe und eine dritte, unbekannte Schiffsart; dazu rote Drachen mit Gith-Reitern sowie metallische und schwarze Drachen ohne Reiter, die die roten angreifen.
 - **Viri ist lebenslang von Zarat verbannt.** Der Priester (vermutlich [[Calderion]]) meldet es wegen der guten Taten der Gruppe nicht an das Despotat. Viri rät, den Inselaufenthalt zu verschweigen. Den Teil des Briefs über den Loxodon hält sie vor der Gruppe zurück.
 - **Warnung an Viri:** „Einige deiner Freunde sind nicht das, was sie vorgeben zu sein."
 - **[[Sprechende Kristallkugel|Ixtra]]** hat eine stundenlange „Lektion in Geduld" beim Tortle am Steuer hinter sich, wirkt umgänglicher; Lyssa will ihn eines Tages befreien, Rugir warnt davor.
 - **Tickbalang-Höhle:** Laut Brief ist die Dunkelheit fort; Leitwachts Handwerker haben den Schlund überbrückt.
-- Im Hintergrund weiterhin ungelöst: wer den Rakshasa beauftragte ([[Die Boss hinter den Helfern]]), der [[Gefallener Engel]], das [[Mumifiziertes Herz]], [[Zions Hunger]], [[Ventus]] in Elysia, Belagerung Rhusions durch [[Kurkan Akrava|Hrem]].
+- Im Hintergrund weiterhin ungelöst: wer den Rakshasa beauftragte ([[Die Boss hinter den Helfern]]), der [[Gefallener Engel]], das [[Mumifiziertes Herz]], [[Zions Hunger]], [[Ventus]] in Elysia, Belagerung Rhusions durch [[Khûrkan Agravak|Hrem]].
 
 ## Was jede Figur mitgenommen hat
 

@@ -22,6 +22,14 @@ Format:
 
 ---
 
+## [2026-11-08] korrektur | DM-Vorgaben zum Weltkompendium
+
+- Quelle: DM (Amaunator) via Peter: Kompendium ist maßgeblich für Schreibweisen und Weltbeschreibung
+- Aktualisierte Seiten: [[Khûrkan Agravak]] (alte Seite „Kurkan Akrava“ aus `figuren/` hineingeführt, Lage: Mitte des Kontinents nahe der hungernden Weiten), `lore/Karaman.md` → [[Karamanth]], [[Zion]] (Changeling), [[Sokar Karioka]] (Ork), [[Elfen]], [[Orks & Halborks]], [[Der Große Kataklysmus]], [[Zeitrechnung]] (ca. 1.472 Jahre), sowie Schreibweisen vault-weit: Kasarei → Khazerai, Kios/Kiosk → Khios, Tesparis → Thesparis, Bukewa → Bukhevala, Irmetala → Irmethalas
+- Kernerkenntnis: Kampagnenseiten folgen jetzt den Schreibweisen des Weltkompendiums; Transkripte bleiben wörtlich.
+
+---
+
 ## [2026-11-08] ingest | Weltkompendium „Aeres – Die Welt der schadhaften Mythen“
 
 - Quelle: `.raw/assets/Aeres - Die Welt der schadhaften Mythen.pdf` (Homebrewery-PDF, 88 Seiten, Stand 2026-01-08)

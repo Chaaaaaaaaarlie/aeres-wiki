@@ -58,7 +58,7 @@
 - [ ] Was tun mit den [[Todgelichter|Todgelichtern]]? (eine Kerze als Beweis mitgenommen, sechs im Altarraum zurückgelassen)
 - [ ] Woher stammt das [[Mumifiziertes Herz|mumifizierte Herz]], das Aschefalls Narben heilte?
 - [ ] Die verschlüsselten Briefe, das Zauberbuch und das Schuppenhaut-Buch aus dem Altarraum entziffern
-- [ ] Wer ist [[Der Kriegsherr]] — und was hat es mit seinem Plan für Tesparis auf sich?
+- [ ] Wer ist [[Der Kriegsherr]] — und was hat es mit seinem Plan für Thesparis auf sich?
 - [ ] Was will [[Dolorion]] von [[Viri]]?
 - [ ] Was bedeutet es, dass [[Ventus]] in [[Elysia]] wohnt?
 - [ ] Wem gehören die goldgelben Augen aus den Visionen von [[Rugir]] und [[Zion]]?
