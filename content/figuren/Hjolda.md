@@ -2,16 +2,18 @@
 type: entity
 title: "Hjolda"
 created: 2026-05-12
-updated: 2026-05-12
-tags: [charakter, spielercharakter]
+updated: 2026-11-09
+tags: [charakter, nsc, ehemaliger-spielercharakter]
 klasse: Waldläuferin
 herkunft: Irmethalas / Khazerai
-status: aktiv – seit Session 11 nicht mehr in der reisenden Gruppe (Leibwache Aspasias)
+status: NSC – Spielerin hat die Gruppe verlassen; seit Session 11 Leibwache Aspasias
 ---
 
 # Hjolda
 
 ![[Token Hjolda.webp|200]]
+
+> **Nicht mehr in der Gruppe:** Hjoldas Spielerin hat die Runde verlassen. Hjolda ist seitdem ein NSC und bleibt als Leibwache bei [[Aspasia Cortiso]] in [[Rhusion]]. Ihr Platz in der Gruppe ging an [[Sir Aschefall]].
 
 ## Kurzprofil
 

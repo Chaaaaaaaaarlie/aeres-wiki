@@ -2,7 +2,7 @@
 type: overview
 title: "Aeres — Kampagnen-Übersicht"
 created: 2026-05-12
-updated: 2026-11-04
+updated: 2026-11-09
 tags:
   - meta/overview
   - domain/campaign
@@ -10,16 +10,17 @@ status: developing
 ---
 # Aeres — Kampagnen-Übersicht
 
-Die Aeres-Kampagne folgt fünf Spielercharakteren (sowie [[Sir Aschefall]] als Begleiter), die in einen rituellen Mordfall in [[Rhusion]] verstrickt sind — einem Hafen des [[Zamathisches Imperium|Zamathischen Imperiums]]. Was bei einer Hochzeit begann, führte die Gruppe an Bord der [[Cestus]] bis auf die Quarantäne-Insel [[Zarat]] und in die Tiefen der [[Tickbalang-Höhle]], wo am Ende von [[Session 23 - 28.10.2026]] der **erste Akt** der Kampagne abgeschlossen wurde. Der zweite Akt beginnt in [[Session 24 - 04.11.2026]] auf der Rückfahrt an Bord der Cestus.
+Die Aeres-Kampagne folgt fünf Spielercharakteren, die in einen rituellen Mordfall in [[Rhusion]] verstrickt sind — einem Hafen des [[Zamathisches Imperium|Zamathischen Imperiums]]. Was bei einer Hochzeit begann, führte die Gruppe an Bord der [[Cestus]] bis auf die Quarantäne-Insel [[Zarat]] und in die Tiefen der [[Tickbalang-Höhle]], wo am Ende von [[Session 23 - 28.10.2026]] der **erste Akt** der Kampagne abgeschlossen wurde. Der zweite Akt beginnt in [[Session 24 - 04.11.2026]] auf der Rückfahrt an Bord der Cestus.
 
 ## Die Gruppe
 
 - [[Rugir]] — Forscher, kennt die Bibliothek [[Daskirion]], ringt mit [[Rugirs wahrer Name]]
 - [[Zion]] — gezeichnet von [[Zions Hunger]], seinem fordernden Schwert und einer Albtraum-Katze
 - [[Viri]] — Klerikerin, verstrickt in [[Tabulei]] und die Visionen von [[Dolorion]]; trägt seit Session 24 [[Die weiße Rose]] und ist lebenslang von [[Zarat]] verbannt
-- [[Hjolda]]
 - [[Elysia]] — Druidin, bedroht durch das [[Ritual der 13 Stiche]]; [[Ventus]] wohnt in ihr
-- [[Sir Aschefall]] — Paladin des [[Princeps Orpheon von Lutaxa]], gezeichnet von seiner Vergangenheit unter [[Der Kriegsherr]]
+- [[Sir Aschefall]] — Spielercharakter (ersetzt Hjolda); Paladin des [[Princeps Orpheon von Lutaxa]], gezeichnet von seiner Vergangenheit unter [[Der Kriegsherr]]
+
+Ehemals in der Gruppe: [[Hjolda]] — ihre Spielerin hat die Runde verlassen; Hjolda blieb seit [[Session 11 - 03.06.2026]] als Leibwache bei [[Aspasia Cortiso]] in Rhusion.
 
 Siehe [[figuren/_index|alle Figuren]] und [[Willkommen]].
 

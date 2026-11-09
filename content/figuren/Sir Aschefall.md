@@ -2,14 +2,16 @@
 type: entity
 title: "Sir Aschefall"
 created: 2026-06-04
-updated: 2026-11-04
-tags: [nsc, begleiter, drachengeboren]
-status: aktiv – reist mit der Gruppe
+updated: 2026-11-09
+tags: [charakter, spielercharakter, drachengeboren]
+status: aktiv – Spielercharakter (ersetzt Hjolda)
 ---
 
 # Sir Aschefall
 
 ![[Token Sir Aschefall.webp|200]]
+
+> **Spielercharakter:** Sir Aschefall ist der Ersatz für [[Hjolda]], deren Spielerin die Gruppe verlassen hat.
 
 **Rotgeschuppter Drachengeborener**, schwere rote Rüstung über einer Robe, Schwert. Äußerlich ein **Krieger**. Vom [[Princeps Orpheon von Lutaxa]] in [[Session 11 - 03.06.2026]] als Begleiter mitgeschickt.
 

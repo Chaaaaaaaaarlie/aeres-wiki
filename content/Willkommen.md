@@ -14,8 +14,8 @@
 - [[Rugir]]
 - [[Zion]]
 - [[Viri]]
-- [[Hjolda]]
 - [[Elysia]]
+- [[Sir Aschefall]] — ersetzt Hjolda als Spielercharakter
 
 ## Wichtige NPC
 
@@ -27,7 +27,7 @@
 - [[Schwester Elva]]
 - [[Doruk Val]]
 - [[Chloro Verde]]
-- [[Sir Aschefall]]
+- [[Hjolda]] — ehemalige Gefährtin, Leibwache von Aspasia
 - [[Calderion]]
 - [[Ventus]]
 - [[Der Kriegsherr]]

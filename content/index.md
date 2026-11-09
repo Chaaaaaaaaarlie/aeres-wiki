@@ -2,7 +2,7 @@
 type: meta
 title: "Aeres-Wiki — Hauptübersicht"
 created: 2026-05-12
-updated: 2026-11-08
+updated: 2026-11-09
 tags:
   - meta/index
 ---
@@ -28,11 +28,12 @@ Vollständiger Katalog aller Wiki-Seiten. Für einzelne Kategorien sind die Dom�
 
 ### Spielercharaktere
 
-- [[Elysia]] · [[Hjolda]] · [[Rugir]] · [[Viri]] · [[Zion]]
+- [[Elysia]] · [[Rugir]] · [[Sir Aschefall]] · [[Viri]] · [[Zion]]
+- Ehemals: [[Hjolda]] (Spielerin ausgeschieden, jetzt NSC)
 
 ### NSCs — Verbündete, Kontakte, Zeugen
 
-- [[Augier]] · [[Bruder Kalvet]] · [[Calderion]] · [[Chloro Verde]] · [[Doruk Val]] · [[Elmar Kassar]] · [[Halbling-Wahrsagerin]] · [[Harkas]] · [[Kapitänin der Cestus]] · [[Mirene Calath]] · [[Schwester Elva]] · [[Sir Aschefall]] · [[Ventus]]
+- [[Augier]] · [[Bruder Kalvet]] · [[Calderion]] · [[Chloro Verde]] · [[Doruk Val]] · [[Elmar Kassar]] · [[Halbling-Wahrsagerin]] · [[Harkas]] · [[Kapitänin der Cestus]] · [[Mirene Calath]] · [[Schwester Elva]] · [[Ventus]]
 
 ### NSCs — Aus der Vergangenheit
 
