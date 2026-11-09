@@ -2,12 +2,14 @@
 type: entity
 title: "Hospiz St. Haramador"
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-11-09
 tags: [ort, tempel, ilmater, aktiv]
 status: aktiv
 ---
 
 # Hospiz St. Haramador
+
+![[Hospiz St. Haramador.webp|700]]
 
 Ilmater geweiht. Sankt Herra Madron, der dreifach Gemarterte. Ruhig, gedämpft, voller Menschen nach den Unruhen der Stadt.
 

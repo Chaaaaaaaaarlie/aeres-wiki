@@ -2,12 +2,14 @@
 type: entity
 title: "Tigerauge"
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-11-09
 tags: [ort, schwarzmarkt, aktiv]
 status: aktiv
 ---
 
 # Das Tigerauge
+
+![[Tigerauge.webp|400]]
 
 **Schwarzmarkt-Kontor** unter einem großen gelben Auge. Von Bettler [[Augier]] zuerst gezeigt; unabhängig davon auch von der [[Halbling-Wahrsagerin]] empfohlen.
 

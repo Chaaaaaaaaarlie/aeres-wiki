@@ -2,7 +2,7 @@
 type: entity
 title: "Nördliches Thesparis"
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 tags: [aeres, weltkompendium, region, norden, thesparis]
 status: aktiv
 entity_type: region
@@ -11,6 +11,8 @@ sources: ["[[Aeres - Die Welt der schadhaften Mythen]]"]
 ---
 
 # Nördliches Thesparis
+
+![[Karte Thesparis.webp|700]]
 
 > Der Norden ist ein strenger und steiniger Ort, ohne jeglichen Komfort und düstere Aussichten. Der Tod ist hier nie weit und das Leben ist gemein und dürftig. Männer verbringen ihre Nächte damit, Bier zu trinken und darüber zu streiten, wem das Los noch schlimmer ist: den Fischern, die gegen das Meer kämpfen, oder den Bauern, die dem mageren, dünnen Boden eine Ernte abjagen. Um ehrlich zu sein, den Bergleuten geht es noch schlimmer als beiden anderen, sie brechen sich im Dunkeln den Rücken, und wofür? Eisen, Blei, Zinn, das sind ihre Schätze. Kein Wunder, dass die Nordländer einst zu Raubzügen übergingen.
 > — Salazar Kreng, *Geschichte in Stein gemeißelt: Das kulturelle Erbe von Thesparis*

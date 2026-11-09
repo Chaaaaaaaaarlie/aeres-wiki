@@ -2,7 +2,7 @@
 type: entity
 title: "Thesparis"
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 tags: [aeres, weltkompendium, kontinent, thesparis, geographie]
 status: aktiv
 entity_type: place
@@ -11,6 +11,8 @@ sources: ["[[Aeres - Die Welt der schadhaften Mythen]]"]
 ---
 
 # Thesparis
+
+![[Karte Thesparis.webp]]
 
 > Götter und Helden, zwei Seiten derselben Medaille, eingewoben in das Gewebe des Mythos, das die Welt im Gleichgewicht hält. Helden erheben sich aus den Reihen der Sterblichen, um die Allmächtigen zu inspirieren, während Götter in den Taten der Helden ihre eigene unsterbliche Geschichte sehen. Sie formten das Universum mit göttlicher Macht, doch Helden gestalten ihre eigenen Schicksale in den Mauern der Welt.
 > — Auszug aus den *Apokryphen von Karamanth*

@@ -2,7 +2,7 @@
 type: entity
 title: "Südliches Thesparis"
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 tags: [aeres, weltkompendium, region, süden, khazerai]
 status: aktiv
 entity_type: region
@@ -11,6 +11,8 @@ sources: ["[[Aeres - Die Welt der schadhaften Mythen]]"]
 ---
 
 # Südliches Thesparis
+
+![[Karte Thesparis.webp|700]]
 
 > *„In diesem Teil des Kontinents wimmelt es von seltsamen, exotischen und alten Zivilisationen, von denen einige noch existieren und aufstrebend sind, andere längst untergegangen und der Legende verloren gegangen sind. Ein Ort, der einem verspricht jeglichen Wunsch zu erfüllen, doch Vorsicht: Man sollte niemals einem Djinn trauen.“*
 > — Salazar Kreng, *Geschichte in Stein gemeißelt: Das kulturelle Erbe von Thesparis*

@@ -2,7 +2,7 @@
 type: entity
 title: "Chloro Verde"
 created: 2026-05-12
-updated: 2026-07-08
+updated: 2026-11-09
 tags: [nsc, hafen, schattennetz, ungeklärt, informationshändlerin]
 status: aktiv – erstmalig getroffen in Session 9; Reichweite reicht bis auf offene See (Session 15)
 ---
@@ -90,6 +90,11 @@ Die Gruppe hat die Rubine behalten. Bereits die Erwähnung ihres Namens lässt d
 - [ ] Wie tief ist ihre Verbindung zum Assassinen und zur Unbekannten Frau?
 - [ ] Weiß sie, dass die Gruppe ihre gestohlenen Rubine jetzt besitzt?
 - [ ] Wie weit reicht ihre Macht tatsächlich — kann sie Kreaturen auch auf offener See beschwören/entsenden?
+
+## Bilder
+
+![[Karte Kanalisation Rhusion.webp]]
+*Zisterne und Kanalisation von Rhusion – Chloro Verdes Territorium*
 
 ## Verknüpfungen
 

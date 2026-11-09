@@ -2,7 +2,7 @@
 type: entity
 title: "Bauch des Kontinents"
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-09
 tags: [aeres, weltkompendium, region, thesparis, rheniten]
 status: aktiv
 entity_type: region
@@ -11,6 +11,8 @@ sources: ["[[Aeres - Die Welt der schadhaften Mythen]]"]
 ---
 
 # Bauch des Kontinents
+
+![[Karte Thesparis.webp|700]]
 
 > *„Dieser Teil des Kontinents ist ein Pulverfass, ein Nest von Mördern, ein Gewirr tödlicher Animositäten. Man würde die komplizierten Konflikte seiner Völker gerne ignorieren, aber das ist leider unmöglich. Sie sind zu wichtig und zu zerstörerisch, um sie außer Acht zu lassen, denn letztlich hängt das Schicksal der Welt von ihren kleinlichen Hasstiraden ab.“*
 > — Salzar Kreng, *Geschichte in Stein gemeißelt: Das kulturelle Erbe von Thesparis*

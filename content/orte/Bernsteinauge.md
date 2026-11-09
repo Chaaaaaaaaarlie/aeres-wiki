@@ -2,12 +2,14 @@
 type: entity
 title: "Bernsteinauge"
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-11-09
 tags: [ort, unterwelt, riskant, aktiv]
 status: aktiv
 ---
 
 # Bernsteinauge
+
+![[Karte Bernsteinauge.webp]]
 
 Eigenständiger Ort in Rhusion (nahe Großmarkt / Silberbrunnen). Nicht identisch mit dem [[Tigerauge]].
 

@@ -2,12 +2,14 @@
 type: entity
 title: "Zarat"
 created: 2026-06-04
-updated: 2026-11-04
+updated: 2026-11-09
 tags: [ort, insel, ziel, assassine, seucheninsel]
 status: verlassen – Gruppe abgereist (Session 23); Viri lebenslang verbannt (Session 24)
 ---
 
 # Zarat
+
+![[Karte Zarat.webp]]
 
 **Insel im Nordosten** – vermuteter Aufenthaltsort des [[Rakshasa-Assassine|Rakshasa-Assassinen]] und das Reiseziel der Gruppe ab [[Session 11 - 03.06.2026]].
 

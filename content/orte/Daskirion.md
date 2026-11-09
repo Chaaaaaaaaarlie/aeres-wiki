@@ -2,11 +2,13 @@
 type: entity
 title: "Daskirion"
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-11-09
 tags: [ort, bibliothek, mystra, wissen]
 ---
 
 # Daskirion – Mystras geweihte Wissenssammlung
+
+![[Daskirion.webp|400]]
 
 **Präsenzbibliothek** – kein Ausleihen. Wer etwas mitnimmt, riskiert, dass man Pergamente aus seiner Haut macht.
 

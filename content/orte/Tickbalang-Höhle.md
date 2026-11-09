@@ -2,13 +2,15 @@
 type: entity
 title: "Tickbalang-Höhle"
 created: 2026-09-10
-updated: 2026-11-04
+updated: 2026-11-09
 tags: [ort, zarat, höhle, tickbalang, fae, nekromantie, illusion, dungeon, spinnen, ilmater, rakshasa]
 status: vollständig erkundet – Gruppe hat die Höhle verlassen
 entity_type: place
 ---
 
 # Tickbalang-Höhle
+
+![[Karte Tickbalang-Höhle.webp]]
 
 Höhle im Südosten von [[Zarat]], laut [[Calderion]] der Rückzugsort der [[Tickbalang]] seit der Rodung des Waldes um [[Leitwacht]]. Die Gruppe erreicht den Eingang am Ende von [[Session 19 - 09.09.2026]] und betritt die Höhle in [[Session 20 - 16.09.2026]]. Der Spielleiter bezeichnet sie dort als **„Schlund"**.
 

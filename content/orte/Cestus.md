@@ -2,12 +2,14 @@
 type: entity
 title: "Cestus"
 created: 2026-05-12
-updated: 2026-11-04
+updated: 2026-11-09
 tags: [ort, schiff, hafen, aktiv]
 status: aktiv
 ---
 
 # Cestus
+
+![[Karte Cestus.webp]]
 
 Arbeitsorientiertes Schiff im Dockbereich Rhusions. Schlicht, funktional, eingespielte Crew-Abläufe.
 

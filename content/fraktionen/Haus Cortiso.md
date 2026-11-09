@@ -2,12 +2,14 @@
 type: entity
 title: "Haus Cortiso"
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-11-09
 tags: [fraktion, haus, politik, aktiv]
 status: aktiv
 ---
 
 # Haus Cortiso
+
+![[Garten Cortiso.webp|700]]
 
 Einflussreiches Haus in Rhusion mit zentraler politischer Rolle rund um die Ereignisse nach Sokars Ermordung.
 
